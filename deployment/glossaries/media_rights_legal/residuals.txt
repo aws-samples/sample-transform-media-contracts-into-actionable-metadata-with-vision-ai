@@ -1,0 +1,5 @@
+Term: Residuals
+Glossary: media_rights_legal
+Definition: Ongoing payments to performers, directors, or writers for reuse or continued exploitation of a production beyond initial exhibition. Often governed by guild CBAs (SAG-AFTRA, DGA, WGA).
+Usage Context: Talent agreements: 'Performer shall be entitled to residual payments in accordance with applicable SAG-AFTRA collective bargaining agreements.'
+Source: media_rights_legal

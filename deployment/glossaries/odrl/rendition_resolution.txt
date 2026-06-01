@@ -1,0 +1,4 @@
+Term: Rendition Resolution
+Glossary: odrl
+Definition: Resolution of the rendition of the target Asset.
+Usage Context: Example: the image may be printed at 1200dpi.

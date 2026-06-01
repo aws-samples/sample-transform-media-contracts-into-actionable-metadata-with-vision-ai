@@ -1,0 +1,14 @@
+{
+    "knowledgeBases": [
+        {
+            "id": "",
+            "name": "Contract Analysis KB",
+            "description": "Analyzed contract outputs and specialist findings"
+        },
+        {
+            "id": "",
+            "name": "Media Rights Reference KB",
+            "description": "Reference materials, glossaries, and legal precedents"
+        }
+    ]
+}

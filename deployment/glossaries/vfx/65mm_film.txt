@@ -1,0 +1,5 @@
+Term: 65mm film
+Glossary: vfx
+Definition: A popular widescreen format that contains five perforations per frame (hence, the nickname five-perf). The 65mm acquisition negative is usually printed onto 70mm film stock for release.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/65mm-film/

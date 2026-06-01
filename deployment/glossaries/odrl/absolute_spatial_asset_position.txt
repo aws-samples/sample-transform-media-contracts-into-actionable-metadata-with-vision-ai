@@ -1,0 +1,4 @@
+Term: Absolute Spatial Asset Position
+Glossary: odrl
+Definition: The absolute spatial positions of four corners of a rectangle on a 2D-canvas or the eight corners of a cuboid in a 3D-space for the target Asset to fit.
+Usage Context: Example: The upper left corner of a picture may be constrained to a specific position of the canvas rendering it. Note: see also the Left Operand Relative Spatial Asset Position.

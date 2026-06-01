@@ -1,0 +1,5 @@
+Term: IAB Tech Lab Podcast Measurement Compliance
+Glossary: podcast_digital_audio
+Definition: The IAB Tech Lab certification program by which podcast companies can signal to buyers their adherence to the Podcast Measurement Technical Guidelines. Certified companies are listed on the IAB Tech Lab website.
+Usage Context: Compliance certification supports trust in reported metrics for advertiser negotiations. Required for participation in many premium programmatic podcast advertising marketplaces. Listed at https://iabtechlab.com/compliance-programs/compliant-companies/#podcast.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

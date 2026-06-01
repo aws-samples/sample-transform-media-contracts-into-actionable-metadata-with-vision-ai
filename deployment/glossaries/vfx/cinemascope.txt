@@ -1,0 +1,5 @@
+Term: Cinemascope
+Glossary: vfx
+Definition: An anamorphic film format that produces an image with an aspect ratio of 2.35: 1. Although Cinemascope (or CinemaScope) was originally a specific process developed by Twentieth Century Fox in the 1950s, it has become a generic term for the 2.35 anamorphic format. The most common lenses used for this purpose today are produced by Panavision.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cinemascope/

@@ -1,0 +1,5 @@
+Term: spatial filter
+Glossary: vfx
+Definition: A method of sampling and modifying the data in an image by looking at pixel groups.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/spatial-filter/

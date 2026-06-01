@@ -1,0 +1,5 @@
+Term: exposure latitude
+Glossary: vfx
+Definition: Amount of overor underexposure a given type of film can tolerate and still produce acceptable results.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/exposure-latitude/

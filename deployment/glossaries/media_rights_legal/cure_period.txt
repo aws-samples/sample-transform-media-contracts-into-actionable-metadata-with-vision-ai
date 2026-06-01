@@ -1,0 +1,5 @@
+Term: Cure Period
+Glossary: media_rights_legal
+Definition: A contractually specified timeframe during which a breaching party may remedy a material breach before the non-breaching party can exercise termination rights. Typically 30-60 days.
+Usage Context: Termination provisions: 'Either party may terminate upon 60 days written notice if the other party fails to cure within such period.'
+Source: media_rights_legal

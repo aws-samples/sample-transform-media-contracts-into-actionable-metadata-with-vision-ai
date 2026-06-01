@@ -1,0 +1,5 @@
+Term: raw stock
+Glossary: vfx
+Definition: Unexposed, unprocessed film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/raw-stock/

@@ -1,0 +1,5 @@
+Term: Truss
+Glossary: vfx
+Definition: The physical mounting hardware and infrastructure used to hold LED panels for volume and related equipment such as tracking, lighting, network hardware, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/truss/

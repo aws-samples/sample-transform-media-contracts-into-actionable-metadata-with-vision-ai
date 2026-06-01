@@ -1,0 +1,5 @@
+Term: Plate
+Glossary: vfx
+Definition: Footage intended as an element in a composited visual effects shot. Plates often consist of location or sets for use as backgrounds or other elements as needed.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/plate/

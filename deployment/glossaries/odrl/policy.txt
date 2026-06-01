@@ -1,0 +1,4 @@
+Term: Policy
+Glossary: odrl
+Definition: A non-empty group of Permissions and/or Prohibitions.
+Usage Context: A Policy may contain multiple Rules.

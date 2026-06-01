@@ -1,0 +1,5 @@
+Term: Pre-production
+Glossary: vfx
+Definition: Any planning, testing, visualization, or design done before Principal Photography or Capture begins.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/pre-production/

@@ -1,0 +1,5 @@
+Term: transition effect
+Glossary: vfx
+Definition: A method for moving from one scene to the next. See also wipe, dissolve.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/transition-effect/

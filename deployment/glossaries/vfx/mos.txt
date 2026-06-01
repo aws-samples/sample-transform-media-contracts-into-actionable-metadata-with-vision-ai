@@ -1,0 +1,5 @@
+Term: MOS
+Glossary: vfx
+Definition: Term used to mean there is no sync sound recorded for this take. Comes from the early days of filmmaking when the German director would shout out “Mit out Sound!”
+Source: ves
+Reference: https://vpglossary.com/vesglossary/mos/

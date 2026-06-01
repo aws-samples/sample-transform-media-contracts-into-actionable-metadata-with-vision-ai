@@ -1,0 +1,5 @@
+Term: E-fan
+Glossary: vfx
+Definition: Special effects fan commonly used to generate and control a specific volume of air.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/e-fan/

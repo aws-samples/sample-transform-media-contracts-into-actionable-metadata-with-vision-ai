@@ -1,0 +1,4 @@
+Term: Has Right Operand
+Glossary: odrl
+Definition: The value of the right operand in a constraint expression.
+Usage Context: When used with set-based operators, a list of values may be used.

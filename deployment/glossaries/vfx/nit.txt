@@ -1,0 +1,5 @@
+Term: Nit
+Glossary: vfx
+Definition: A measurement of the light intensity of a display screen. One nit is equal to one candela (one candlepower) per square meter.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/nit/

@@ -1,0 +1,4 @@
+Term: Failure
+Glossary: odrl
+Definition: Failure is an abstract property that defines the violation (or unmet) relationship between Rules.
+Usage Context: The parent property to sub-properties that express explicit failure contexts.

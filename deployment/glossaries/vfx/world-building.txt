@@ -1,0 +1,5 @@
+Term: World-building
+Glossary: vfx
+Definition: The process of developing a coherent virtual world for use in a production whose qualities may include history, geography, and ecology.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/world-building/

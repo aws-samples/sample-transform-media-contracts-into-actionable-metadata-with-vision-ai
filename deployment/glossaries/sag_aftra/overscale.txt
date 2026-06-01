@@ -1,0 +1,5 @@
+Term: Overscale
+Glossary: sag_aftra
+Definition: Compensation paid in excess of the applicable SAG-AFTRA minimum scale, negotiated individually between the performer (or representative) and the producer.
+Usage Context: Typical for name talent, series regulars, guest stars, and heavily negotiated roles. Overscale rates form the residual base for gross-receipts calculations to the extent permitted by the applicable residual schedule.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

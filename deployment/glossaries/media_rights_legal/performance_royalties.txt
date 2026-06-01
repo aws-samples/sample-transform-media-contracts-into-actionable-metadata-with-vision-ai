@@ -1,0 +1,5 @@
+Term: Performance Royalties
+Glossary: media_rights_legal
+Definition: Payments collected by performing rights organizations (ASCAP, BMI, SESAC, GMR) for public performances of musical compositions, including broadcast, streaming, and live performance.
+Usage Context: Music sync: 'Nothing herein shall affect the right of Publisher or its affiliated PRO to collect performance royalties.'
+Source: media_rights_legal

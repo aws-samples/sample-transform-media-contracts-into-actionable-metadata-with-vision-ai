@@ -1,0 +1,5 @@
+Term: periscope lens
+Glossary: vfx
+Definition: A lens mounted to a tube that extends out from the camera (typically 20 inches or so) and can photograph objects at a 90-degree angle to the body of the camera. Also known as a snorkel lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/periscope-lens/

@@ -1,0 +1,5 @@
+Term: Machine room
+Glossary: vfx
+Definition: The enclosed room on or near a volume where the main computer networking, video server, render nodes, and other critical infrastructure are housed. Also called server closet.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/machine-room/

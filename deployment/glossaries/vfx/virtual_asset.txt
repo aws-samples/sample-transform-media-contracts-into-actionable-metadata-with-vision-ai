@@ -1,0 +1,5 @@
+Term: virtual asset
+Glossary: vfx
+Definition: Database definition of asset that is not actually a file on disk.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/virtual-asset/

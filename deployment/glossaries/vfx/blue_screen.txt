@@ -1,0 +1,5 @@
+Term: blue screen
+Glossary: vfx
+Definition: (1) Commonly used as a generic term that refers to blue screen photography or any similar process, which may use other colors as well as blue. (2) Literally, a screen of some sort of blue material that is suspended behind an object for which a matte is to be extracted. Ideally, the blue screen appears to the camera as a completely uniform blue field.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/blue-screen/

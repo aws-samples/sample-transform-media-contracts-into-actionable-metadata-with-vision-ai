@@ -1,0 +1,5 @@
+Term: Songfile
+Glossary: music_rights_licensing
+Definition: An online mechanical licensing tool operated by the Harry Fox Agency designed for the independent music industry market. Allows the public to search through millions of songs and purchase mechanical licenses for cover recordings.
+Usage Context: Used by independent artists and record labels to obtain mechanical licenses for cover songs without negotiating directly with music publishers. Streamlines the licensing process for small-scale releases.
+Source: Harry Fox Agency — https://www.harryfox.com

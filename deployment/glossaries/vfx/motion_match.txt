@@ -1,0 +1,5 @@
+Term: Motion match
+Glossary: vfx
+Definition: A process that creates much higher realism by matching animations to desired poses.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-match/

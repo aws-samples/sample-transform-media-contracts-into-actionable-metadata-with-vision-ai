@@ -1,0 +1,3 @@
+Term: Append To
+Glossary: odrl
+Definition: The act of appending data to the Asset without modifying the Asset in any other way.

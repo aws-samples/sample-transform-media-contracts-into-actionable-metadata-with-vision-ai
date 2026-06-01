@@ -1,0 +1,5 @@
+Term: contouring
+Glossary: vfx
+Definition: An artifact that results from not having enough color resolution to properly represent a color gradient. See also Mach banding.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/contouring/

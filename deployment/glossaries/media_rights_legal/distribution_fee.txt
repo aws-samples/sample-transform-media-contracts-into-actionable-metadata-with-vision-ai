@@ -1,0 +1,5 @@
+Term: Distribution Fee
+Glossary: media_rights_legal
+Definition: A percentage of gross receipts retained by the distributor as compensation for distribution services, deducted before any other expenses or revenue splits. Typically 15-35%.
+Usage Context: Distribution agreements: 'Distributor shall retain a distribution fee of X% of Gross Receipts.'
+Source: media_rights_legal

@@ -1,0 +1,5 @@
+Term: temp comp
+Glossary: vfx
+Definition: Shortened form of temporary composite.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/temp-comp/

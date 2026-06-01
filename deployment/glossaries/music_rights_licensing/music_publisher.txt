@@ -1,0 +1,5 @@
+Term: Music Publisher
+Glossary: music_rights_licensing
+Definition: A business that works to pair talented songwriters with artists to secure exposure and income for the songwriter. Music publishers 'pitch' songs to record labels, film and television producers, and other music users, then license the right to use the song and collect fees for the usage. Fees are then split with the songwriter.
+Usage Context: The publisher typically owns or controls (via assignment or administration deal) the copyright in the musical composition. Sync licenses and mechanical licenses are issued by the publisher or its administrator. Publisher splits with the songwriter vary by deal type.
+Source: NMPA Music Publishing 101 — https://www.nmpa.org/people/music-publishing-101/

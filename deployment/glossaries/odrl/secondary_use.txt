@@ -1,0 +1,3 @@
+Term: Secondary Use
+Glossary: odrl
+Definition: The act of using the asset for a purpose other than the purpose it was intended for.

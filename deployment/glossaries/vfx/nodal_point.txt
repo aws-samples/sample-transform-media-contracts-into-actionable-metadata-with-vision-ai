@@ -1,0 +1,5 @@
+Term: nodal point
+Glossary: vfx
+Definition: The point at which light entering a lens converges before it spreads again to form an image at the film plane. A nodal setup allows the camera to pan, tilt, and roll without creating any parallax shift between foreground and background elements.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/nodal-point/

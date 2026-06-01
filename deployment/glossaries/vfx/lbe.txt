@@ -1,0 +1,5 @@
+Term: LBE
+Glossary: vfx
+Definition: Abbreviation standing for Location Based Entertainment.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lbe/

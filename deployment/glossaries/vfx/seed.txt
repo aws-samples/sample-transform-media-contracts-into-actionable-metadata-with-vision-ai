@@ -1,0 +1,5 @@
+Term: seed
+Glossary: vfx
+Definition: A number that is fed into a program or algorithm to produce a random number. The same seed will result in the same random numbers and therefore can provide for repeatable iterations.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/seed/

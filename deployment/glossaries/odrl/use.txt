@@ -1,0 +1,4 @@
+Term: Use
+Glossary: odrl
+Definition: To use the Asset
+Usage Context: Use is the most generic action for all non-third-party usage. More specific types of the use action can be expressed by more targetted actions.

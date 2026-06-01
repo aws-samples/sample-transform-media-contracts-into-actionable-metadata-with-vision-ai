@@ -1,0 +1,5 @@
+Term: densitometer
+Glossary: vfx
+Definition: Instrument used to measure the optical density of a piece of processed film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/densitometer/

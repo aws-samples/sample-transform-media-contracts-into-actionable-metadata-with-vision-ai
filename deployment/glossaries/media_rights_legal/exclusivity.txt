@@ -1,0 +1,5 @@
+Term: Exclusivity
+Glossary: media_rights_legal
+Definition: A restriction granting one party the sole right to exploit content within a defined scope (territory, media, time period), preventing the rights holder from granting similar rights to competitors.
+Usage Context: Content licensing: 'Licensor grants Licensee an exclusive license within the Territory.'
+Source: media_rights_legal

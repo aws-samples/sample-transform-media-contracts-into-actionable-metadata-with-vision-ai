@@ -1,0 +1,5 @@
+Term: DVE
+Glossary: vfx
+Definition: Abbreviation for digital video effect that usually refers to any of a number of geometric transformations that are typically performed by specialized real-time video equipment. Examples of a DVE move include animated pans, rotations, or flips, as well as various hardware-specific effects such as page turns or customized wipes.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dve/

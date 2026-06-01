@@ -1,0 +1,3 @@
+Term: Sell
+Glossary: odrl
+Definition: To transfer the ownership of the Asset to a third party with compensation and while deleting the original asset.

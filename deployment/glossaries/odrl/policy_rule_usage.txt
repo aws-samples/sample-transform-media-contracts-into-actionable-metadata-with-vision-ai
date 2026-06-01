@@ -1,0 +1,4 @@
+Term: Policy Rule Usage
+Glossary: odrl
+Definition: Indicates the actual datetime the action of the Rule was exercised.
+Usage Context: This can be used to express constraints with a LeftOperand relative to the time the rule is exercised. Operators indicate before (lt, lteq), during (eq) or after (gt, gteq) the usage of the rule. <br />Example: <code>event lt policyUsage</code> expresses that the identified event must have happened before the action of the rule is exercised.

@@ -1,0 +1,5 @@
+Term: release print
+Glossary: vfx
+Definition: A print of a movie that will be sent to theaters for display. A release print is several generations removed from the original negative.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/release-print/

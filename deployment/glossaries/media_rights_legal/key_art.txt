@@ -1,0 +1,5 @@
+Term: Key Art
+Glossary: media_rights_legal
+Definition: The primary promotional artwork for a production (poster, thumbnail, banner). Distribution agreements typically give the content owner approval rights over key art.
+Usage Context: Marketing provisions: 'Owner shall have approval rights over all key art, trailers, and taglines.'
+Source: media_rights_legal

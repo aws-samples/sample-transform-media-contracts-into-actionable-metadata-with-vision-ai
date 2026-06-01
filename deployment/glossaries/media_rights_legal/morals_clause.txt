@@ -1,0 +1,5 @@
+Term: Morals Clause
+Glossary: media_rights_legal
+Definition: A provision allowing termination or remedies if a party (typically talent) engages in conduct bringing them into public disrepute or scandal, or materially harming the commercial value of the production.
+Usage Context: Talent agreements: 'Performer shall not engage in conduct that brings Performer into public disrepute or scandal.'
+Source: media_rights_legal

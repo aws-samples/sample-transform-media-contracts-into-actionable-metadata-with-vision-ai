@@ -1,0 +1,5 @@
+Term: Machine learning
+Glossary: vfx
+Definition: The development of algorithms which enable a computer to learn and improve without being specifically programmed.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/machine-learning/

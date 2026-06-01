@@ -1,0 +1,5 @@
+Term: Separated Rights
+Glossary: film_tv_production
+Definition: A group of rights that the WGA Theatrical and Television Basic Agreement provides to writers of original material. Derived from the bundle of rights in Copyright, separated rights are conveyed to the writer rather than the employer, subject to specific limitations. These rights differ between television and theatrical motion pictures.
+Usage Context: Granted only to writers of original material who receive a qualifying credit ('Written by' or 'Screen Story' in features; 'Created by' or 'Story by' for television series). In television, the 'Created by' credit carries with it the separated rights for the series. Separated rights typically include publication rights, stage rights (subject to a holdback), and other reserved rights licensed back to the writer under the MBA.
+Source: WGA Understanding Separated Rights — https://www.wga.org/contracts/know-your-rights/understanding-separated-rights

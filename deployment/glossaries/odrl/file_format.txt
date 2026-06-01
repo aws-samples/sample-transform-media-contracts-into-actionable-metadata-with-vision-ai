@@ -1,0 +1,4 @@
+Term: File Format
+Glossary: odrl
+Definition: A transformed file format of the target Asset.
+Usage Context: Example: An asset may be transformed into JPEG format.

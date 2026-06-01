@@ -1,0 +1,5 @@
+Term: Ultra High Frequency (UHF)
+Glossary: broadcast_fcc
+Definition: The part of the radio spectrum from 300 to 3000 megahertz, which includes TV channels 14-83 (historically), as well as many land mobile and satellite services.
+Usage Context: UHF television broadcast spectrum has been partially reallocated (channels 38-51 sold in the 2016-2017 incentive auction for wireless broadband use). Distribution planning accounts for physical broadcast coverage differences between UHF and VHF.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

@@ -1,0 +1,5 @@
+Term: Scene assembly
+Glossary: vfx
+Definition: The integration of discrete elements such as environment, lighting, animation, motion, etc, into a unified file. See also load and DCC.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/scene-assembly/

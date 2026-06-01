@@ -1,0 +1,5 @@
+Term: T-stop
+Glossary: vfx
+Definition: A measurement of the aperture of a lens that also takes into account the amount of light lost when passing through the lens elements themselves.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/t-stop/

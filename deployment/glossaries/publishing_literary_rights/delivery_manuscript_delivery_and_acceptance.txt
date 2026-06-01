@@ -1,0 +1,5 @@
+Term: Delivery (Manuscript Delivery and Acceptance)
+Glossary: publishing_literary_rights
+Definition: The clause specifying when and in what form the author must deliver the manuscript, and the standards the publisher must apply when accepting or rejecting it. Acceptance typically triggers payment of the delivery-and-acceptance (D&A) portion of the advance.
+Usage Context: Authors should negotiate for objective acceptance standards (e.g., 'the manuscript shall be satisfactory in content and form,' with specific cure rights) rather than subjective standards. Rejection rights should be limited by time, and a rejected manuscript should generally trigger a right to keep at least part of the advance paid.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

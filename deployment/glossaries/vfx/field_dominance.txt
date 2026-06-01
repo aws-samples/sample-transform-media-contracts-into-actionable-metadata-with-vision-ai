@@ -1,0 +1,5 @@
+Term: field dominance
+Glossary: vfx
+Definition: The order in which the fields in an interlaced image are displayed. Essentially, whether the even or the odd field is displayed first for any given frame.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/field-dominance/

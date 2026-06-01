@@ -1,0 +1,5 @@
+Term: WGA Minimum Basic Agreement (MBA)
+Glossary: film_tv_production
+Definition: The master collective bargaining agreement between the WGA (West and East jointly) and the Alliance of Motion Picture and Television Producers (AMPTP). The MBA sets minimum compensation, residuals, working conditions, Pension & Health contributions, and credit determination procedures for WGA-covered writing services.
+Usage Context: All writing services on WGA-covered theatrical motion pictures, scripted television, new media, and animation productions are subject to MBA minimums and procedures. A writer's individual deal may offer terms more favorable than the MBA but not less favorable.
+Source: WGA Minimum Basic Agreement — https://www.wga.org/contracts/contracts/mba

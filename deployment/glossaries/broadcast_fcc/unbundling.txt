@@ -1,0 +1,5 @@
+Term: Unbundling
+Glossary: broadcast_fcc
+Definition: The access provided by local exchange carriers so that other service providers can buy or lease portions of the carrier's network elements, such as interconnection loops, to serve subscribers. Required by the Telecommunications Act of 1996 for ILECs.
+Usage Context: Unbundled Network Elements (UNEs) enabled CLEC entry into local telecom markets. FCC rules define which elements must be unbundled and at what rates.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

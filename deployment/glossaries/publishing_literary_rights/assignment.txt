@@ -1,0 +1,5 @@
+Term: Assignment
+Glossary: publishing_literary_rights
+Definition: A clause governing the ability of each party to transfer its rights and obligations under the contract to a third party. Publishers typically want broad assignment rights (to facilitate corporate reorganizations and sales); authors typically want to retain approval over assignments that would change who is effectively publishing the book.
+Usage Context: Authors should require their consent (not to be unreasonably withheld) for assignments to publishers outside the original publisher's corporate family. Pure intra-corporate assignments are generally acceptable without consent.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

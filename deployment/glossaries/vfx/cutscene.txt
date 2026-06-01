@@ -1,0 +1,5 @@
+Term: Cutscene
+Glossary: vfx
+Definition: A non-interactive animation sequence in an otherwise interactive experience. Also called a cinematic.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/cutscene/

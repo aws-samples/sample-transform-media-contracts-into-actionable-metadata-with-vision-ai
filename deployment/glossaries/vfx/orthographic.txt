@@ -1,0 +1,5 @@
+Term: orthographic
+Glossary: vfx
+Definition: Representing a 3D object in two dimensions.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/orthographic/

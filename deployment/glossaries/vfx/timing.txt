@@ -1,0 +1,5 @@
+Term: timing
+Glossary: vfx
+Definition: (1) A general term referring to how a particular event or object moves or evolves over a period of time. (2) See color timing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/timing/

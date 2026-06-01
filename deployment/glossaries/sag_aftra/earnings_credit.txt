@@ -1,0 +1,5 @@
+Term: Earnings Credit
+Glossary: sag_aftra
+Definition: Credit received for earnings resulting from employment as an Actor in theatrical motion pictures, television motion pictures, television commercials, industrial or educational motion pictures, public television, music video, and interactive media projects, provided the employment was with a producer who was signatory to a SAG-AFTRA CBA under which Pension Plan contributions are made.
+Usage Context: Used to determine Pension Credit and the amount of a member's pension benefit. Tracked by the SAG-AFTRA Pension Plan office based on reported employment.
+Source: SAG-AFTRA Plans Glossary — https://www.sagaftraplans.org/sag-pension/spd/glossary-terms

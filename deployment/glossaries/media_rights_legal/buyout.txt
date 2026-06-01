@@ -1,0 +1,5 @@
+Term: Buyout
+Glossary: media_rights_legal
+Definition: A one-time payment in exchange for all rights, with no residuals, royalties, or backend participation.
+Usage Context: Talent and licensing negotiations. 'All services rendered on a buyout basis.'
+Source: media_rights_legal

@@ -1,0 +1,5 @@
+Term: Publisher Right to Legal Review
+Glossary: publishing_literary_rights
+Definition: A clause allowing the publisher to conduct a pre-publication legal review of the manuscript and require changes the publisher deems necessary to reduce legal risk. Authors should ensure the author has meaningful input on any demanded changes.
+Usage Context: Authors Guild advocates for author consent rights over legal-review-driven changes, and for a process of consultation rather than unilateral publisher changes. Changes should be documented in writing with rationale provided.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

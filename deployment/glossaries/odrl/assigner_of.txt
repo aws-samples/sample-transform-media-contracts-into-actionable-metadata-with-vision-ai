@@ -1,0 +1,4 @@
+Term: Assigner Of
+Glossary: odrl
+Definition: Identifies an ODRL Policy for which the identified Party undertakes the assigner functional role.
+Usage Context: When assignerOf has been asserted between a metadata expression and an ODRL Policy, the Party being identified MUST be inferred to undertake the assigner functional role of all the Rules of that Policy.

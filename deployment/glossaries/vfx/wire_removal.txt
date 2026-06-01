@@ -1,0 +1,5 @@
+Term: wire removal
+Glossary: vfx
+Definition: A generic term for the process of using digital painting or compositing techniques to remove undesirable wires, rigs, or harnesses that were needed to aid certain stunts or practical effects.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/wire-removal/

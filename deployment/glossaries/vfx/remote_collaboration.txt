@@ -1,0 +1,5 @@
+Term: Remote collaboration
+Glossary: vfx
+Definition: The use of video conferencing services to connect a virtual production studio to offsite crew members for purposes of collaboration, footage review, live feeds, content and equipment operation, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/remote-collaboration/

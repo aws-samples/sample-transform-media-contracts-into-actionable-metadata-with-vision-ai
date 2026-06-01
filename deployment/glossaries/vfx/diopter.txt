@@ -1,0 +1,5 @@
+Term: diopter
+Glossary: vfx
+Definition: An auxiliary lens that goes in front of the camera lens to allow for close-up photography.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/diopter/

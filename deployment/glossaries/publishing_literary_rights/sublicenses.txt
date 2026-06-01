@@ -1,0 +1,5 @@
+Term: Sublicenses
+Glossary: publishing_literary_rights
+Definition: Licenses granted by the publisher to third parties for exploitation of the work in specific markets or formats, under the publisher's grant of rights from the author. The author typically receives a share of sublicense revenue (typically 50% or higher) and should have the right to review and in some cases approve sublicense terms.
+Usage Context: Publishers sublicense to book clubs, foreign publishers, audio publishers, and others. Authors Guild recommends that authors receive prompt and full accounting of sublicense income, retain approval rights over major sublicense decisions, and receive timely payment following the publisher's receipt of sublicense income.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

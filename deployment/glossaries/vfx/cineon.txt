@@ -1,0 +1,5 @@
+Term: Cineon
+Glossary: vfx
+Definition: A specific image file format used most often in film compositing work.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cineon/

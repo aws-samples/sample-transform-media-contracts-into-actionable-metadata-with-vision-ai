@@ -1,0 +1,5 @@
+Term: Witness camera
+Glossary: vfx
+Definition: Camera(s) placed on set to provide alternate perspectives on a shoot and provide a comprehensive understanding of the action within a scene. Often used to facilitate remote collaboration, or to capture additional data for later visual effects work.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/witness-camera/

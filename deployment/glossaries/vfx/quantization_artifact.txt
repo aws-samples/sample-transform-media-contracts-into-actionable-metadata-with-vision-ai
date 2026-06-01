@@ -1,0 +1,5 @@
+Term: quantization artifact
+Glossary: vfx
+Definition: A term generally used to refer to a visually noticeable artifact of the quantization process.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/quantization-artifact/

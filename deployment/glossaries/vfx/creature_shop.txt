@@ -1,0 +1,5 @@
+Term: creature shop
+Glossary: vfx
+Definition: Any facility that creates prosthetics, animatronics, puppets, robotics, and creatures for use in a film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/creature-shop/

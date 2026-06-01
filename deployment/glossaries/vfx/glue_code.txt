@@ -1,0 +1,5 @@
+Term: glue code
+Glossary: vfx
+Definition: Code that ties different parts of the pipeline together, whether it is data interchange between programs that write different file formats or interprocess control of one piece of the pipeline by another.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/glue-code/

@@ -1,0 +1,5 @@
+Term: Light Box
+Glossary: vfx
+Definition: consists of walls of LED lights surrounding an acting space. The LED lights, driven in real time by images pre-rendered from the perspective of the actor, provide correct lighting for the live-action subject and allows the actor to see the CG images of the elements to be added later.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/light-box/

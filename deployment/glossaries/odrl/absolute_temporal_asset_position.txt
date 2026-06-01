@@ -1,0 +1,4 @@
+Term: Absolute Temporal Asset Position
+Glossary: odrl
+Definition: The absolute temporal positions in a media stream the target Asset has to fit.
+Usage Context: Use with Actions including the target Asset in a larger media stream. The fragment part of a Media Fragment URI (https://www.w3.org/TR/media-frags/) may be used for the right operand. See the Left Operand realativeTemporalPosition. <br />Example: The MP3 music file must be positioned between second 192 and 250 of the temporal length of a stream.

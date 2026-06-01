@@ -1,0 +1,5 @@
+Term: DMX
+Glossary: vfx
+Definition: Digital Multiplex protocol for controlling lighting instruments, used extensively with pixel mapping.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/dmx/

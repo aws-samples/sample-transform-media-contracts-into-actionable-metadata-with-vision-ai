@@ -1,0 +1,5 @@
+Term: spline curve
+Glossary: vfx
+Definition: A continuous smooth curve defined by a certain number of control points. See spline.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/spline-curve/

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Regulatory & Compliance Analyst Agent — Verification Process
+    ==============================================================
+-->
+<regulatory_verification>
+
+    <pass_1_input_validation>
+        <step>Confirm you are working from the Extractor agent's structured output.</step>
+        <step>Identify the granted territories and platforms from the extraction. If both are blank or undefined, note that regulatory analysis is conditional and provide analysis for the most common scenarios.</step>
+        <step>If the contract is purely domestic (single territory, single platform type), determine whether regulatory analysis is still warranted. Even domestic deals may implicate FCC, CCPA, ADA/accessibility, and content rating requirements.</step>
+    </pass_1_input_validation>
+
+    <pass_2_completeness>
+        <step>Have you built a regulatory applicability map linking territories and platforms to applicable frameworks?</step>
+        <step>Have you assessed content rating obligations for all major granted territories?</step>
+        <step>Have you evaluated local content quotas where applicable (particularly EU, Australia, Canada)?</step>
+        <step>Have you analyzed accessibility requirements (captioning, audio description) with responsibility and cost allocation?</step>
+        <step>Have you assessed export controls and sanctions for all granted territories?</step>
+        <step>Have you evaluated data protection obligations for all applicable regimes?</step>
+        <step>If the deal has a digital platform dimension, have you assessed content moderation regulatory obligations?</step>
+        <step>Have you assessed governing law compatibility with applicable regulatory regimes?</step>
+        <step>Have you compiled a complete regulatory gap analysis?</step>
+    </pass_2_completeness>
+
+    <pass_3_accuracy>
+        <step>Does every finding cite a specific regulation and the territory where it applies?</step>
+        <step>Are regulatory citations accurate? Have you cited the correct directive, statute, or rule?</step>
+        <step>Have you distinguished between regulatory obligations (imposed by law) and contractual obligations (agreed between parties)?</step>
+        <step>Have you avoided overstating regulatory certainty where frameworks are evolving?</step>
+        <step>Have you avoided analyzing financial economics, IP chain of title, guild compliance, or talent protections beyond their regulatory dimension?</step>
+        <step>Are severity classifications (HIGH/MEDIUM/LOW) consistent with the actual enforcement consequences?</step>
+        <step>Are cross_references to other agents specific enough for those agents to act on?</step>
+    </pass_3_accuracy>
+
+    <pass_4_metadata>
+        <step>Does regulatory_gap_count match the actual number of gaps listed?</step>
+        <step>Does high_severity_gap_count match the actual number of HIGH severity gaps?</step>
+        <step>Is overall_regulatory_posture supported by the aggregate findings?</step>
+        <step>Are territories_granted and platforms_granted accurately reflected from the extraction?</step>
+    </pass_4_metadata>
+
+</regulatory_verification>

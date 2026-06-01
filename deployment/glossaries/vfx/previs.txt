@@ -1,0 +1,5 @@
+Term: previs
+Glossary: vfx
+Definition: Abbreviation for previsualization. Previs is a collaborative process that generates preliminary versions of shots or sequences, predominantly using 3D animation tools and a virtual environment. It enables filmmakers to visually explore creative ideas, plan technical solutions, and communicate a shared vision for efficient production. Also see pitchvis, technical previs, on-set previs, and postvis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/previs/

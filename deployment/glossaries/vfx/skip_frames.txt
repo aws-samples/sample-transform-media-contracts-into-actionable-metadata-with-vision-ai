@@ -1,0 +1,5 @@
+Term: skip frames
+Glossary: vfx
+Definition: A method of speeding up the motion of a sequence of images by removing selected (usually regularly spaced) frames. Also known as skip printing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/skip-frames/

@@ -1,0 +1,4 @@
+Term: Purpose
+Glossary: odrl
+Definition: A defined purpose for exercising the action of the Rule.
+Usage Context: Example: Educational use.

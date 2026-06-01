@@ -1,0 +1,3 @@
+Term: Metered Time
+Glossary: odrl
+Definition: An accumulated amount of one to many metered time periods which were used for exercising the action of the Rule. Right operand value MUST be an xsd:duration as defined by [[xmlschema11-2]].

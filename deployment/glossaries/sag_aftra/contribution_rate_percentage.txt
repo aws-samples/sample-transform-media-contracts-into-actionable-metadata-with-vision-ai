@@ -1,0 +1,5 @@
+Term: Contribution Rate Percentage
+Glossary: sag_aftra
+Definition: The percentage applied to gross employee wages that comprises the employer contribution to the SAG-AFTRA Health Plan and Pension/Retirement funds. The applicable percentage varies by the specific CBA under which earnings are being reported.
+Usage Context: Required field on all remittances to the SAG-AFTRA Health Plan via the Contributions Manager. Preferred format is NN.NN (e.g., 21.00 for principal performers under current TV/Theatrical rates).
+Source: SAG-AFTRA Contributions Manager Glossary — https://www.sagaftraplans.org/employers/contributions-manager/contributions-manager-glossary-terms

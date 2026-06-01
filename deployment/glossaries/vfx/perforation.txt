@@ -1,0 +1,5 @@
+Term: perforation
+Glossary: vfx
+Definition: One of the sprocket holes that runs along the edges of a piece of film. They are used to guide the film reliably through the camera. Also called a perf.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/perforation/

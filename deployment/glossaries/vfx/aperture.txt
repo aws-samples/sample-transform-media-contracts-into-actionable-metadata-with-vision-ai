@@ -1,0 +1,5 @@
+Term: aperture
+Glossary: vfx
+Definition: (1) In a lens, the size of the opening that light passes through (usually given in terms of its f-stop or t-stop). (2) In a camera body, the mask opening that defines the area of film that will be exposed on each frame. (3) In a projector, the mask opening that defines the area of the frame that will be projected.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/aperture/

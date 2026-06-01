@@ -1,0 +1,5 @@
+Term: ND filter
+Glossary: vfx
+Definition: See neutral density filter.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/nd-filter/

@@ -1,0 +1,5 @@
+Term: box filter
+Glossary: vfx
+Definition: A specific digital filter that is often used when resampling a digital image. The box filter is fast but fairly low quality.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/box-filter/

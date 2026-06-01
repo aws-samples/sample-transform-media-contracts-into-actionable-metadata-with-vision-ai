@@ -1,0 +1,5 @@
+Term: sharpness
+Glossary: vfx
+Definition: The visual sense of the abruptness of an edge.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sharpness/

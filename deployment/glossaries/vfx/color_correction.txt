@@ -1,0 +1,5 @@
+Term: color correction
+Glossary: vfx
+Definition: Any process that alters the perceived color balance of an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-correction/

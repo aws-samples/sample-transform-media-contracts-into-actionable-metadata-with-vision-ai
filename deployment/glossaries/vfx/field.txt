@@ -1,0 +1,5 @@
+Term: field
+Glossary: vfx
+Definition: (1) An image composed of either the even or odd scan lines of a video image. Two fields played sequentially will make up a video frame. (2) A unit of measure on a field chart.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/field/

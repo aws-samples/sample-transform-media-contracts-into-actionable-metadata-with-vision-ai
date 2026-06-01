@@ -1,0 +1,5 @@
+Term: PAL
+Glossary: vfx
+Definition: Abbreviation for phase alternation by line. A standard for color television found in many European, African, and Asian countries. It carries 625 lines of resolution, played back at a rate of 25 frames per second.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pal/

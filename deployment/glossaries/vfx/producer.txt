@@ -1,0 +1,5 @@
+Term: producer
+Glossary: vfx
+Definition: Administrative head of a project. Responsible for budget, schedule, etc. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/producer/

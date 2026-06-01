@@ -1,0 +1,5 @@
+Term: Digital human
+Glossary: vfx
+Definition: Photorealistic character rigged for real-time, performance capture driven animation, also referred to as avatars.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/digital-human/

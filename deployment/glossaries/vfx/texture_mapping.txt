@@ -1,0 +1,5 @@
+Term: texture mapping
+Glossary: vfx
+Definition: Process in which an image is overlaid onto a CG object.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/texture-mapping/

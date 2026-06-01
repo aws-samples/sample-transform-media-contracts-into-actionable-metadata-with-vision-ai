@@ -1,0 +1,5 @@
+Term: CRT
+Glossary: vfx
+Definition: A vacuum tube that contains one or more electron guns and a phosphorescent screen and is used to display images. The images may represent electrical waveforms (oscilloscope), pictures (television, computer monitor), radar targets, or other phenomena. It has largely been replaced by LED, LCD, OLED, gas plasma, LCOS, D-ILA, and DLP technologies.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/crt/

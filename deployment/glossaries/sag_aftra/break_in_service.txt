@@ -1,0 +1,5 @@
+Term: Break in Service
+Glossary: sag_aftra
+Definition: A period of time during which a participant does not earn a minimum amount of covered earnings sufficient to maintain continuity of pension credit accumulation.
+Usage Context: A break in service can affect vesting status and pension benefit calculation. Plan documents specify the earnings thresholds and consequences for any break.
+Source: SAG-AFTRA Plans Glossary — https://www.sagaftraplans.org/sag-pension/spd/glossary-terms

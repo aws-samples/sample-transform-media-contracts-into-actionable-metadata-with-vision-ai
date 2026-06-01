@@ -1,0 +1,5 @@
+Term: lighting reference
+Glossary: vfx
+Definition: A stand-in object that can be used to judge the lighting in a scene.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lighting-reference/

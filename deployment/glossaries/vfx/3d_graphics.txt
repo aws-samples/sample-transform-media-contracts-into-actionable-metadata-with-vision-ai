@@ -1,0 +1,5 @@
+Term: 3D graphics
+Glossary: vfx
+Definition: Computer graphics that involves the creation of three-dimensional models within the computer.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/3d-graphics/

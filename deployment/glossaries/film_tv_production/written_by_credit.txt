@@ -1,0 +1,5 @@
+Term: Written By Credit
+Glossary: film_tv_production
+Definition: A WGA theatrical writing credit indicating that a single writer (or team) authored both the screen story and the screenplay. Equivalent in standing to separate 'Story by' and 'Screenplay by' credits combined.
+Usage Context: The 'Written by' credit qualifies a theatrical writer (or single team) for separated rights. On television, a writer receiving only teleplay credit (not a story credit) is not eligible to share in separated rights.
+Source: WGA Screen Credits Manual — https://www.wga.org/contracts/credits/manuals/screen-credits-manual

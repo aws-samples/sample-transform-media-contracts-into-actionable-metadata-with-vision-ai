@@ -1,0 +1,5 @@
+Term: Based on Characters Created By
+Glossary: film_tv_production
+Definition: A writing credit given to the writer(s) entitled to separated rights in a theatrical or television motion picture, accorded on each theatrical sequel to such motion picture. Where there are no separated rights, 'Based on Characters Created by' may be accorded to the author of the source material upon which a sequel is based.
+Usage Context: Attaches to sequels and derivative productions that use the characters from an original work. Ensures recognition and, where applicable, sequel compensation for the original creator.
+Source: WGA Screen Credits Manual — https://www.wga.org/contracts/credits/manuals/screen-credits-manual

@@ -1,0 +1,5 @@
+Term: Huffman coding
+Glossary: vfx
+Definition: A lossless image compression scheme. See also run-length encoding, JPEG, MPEG.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/huffman-coding/

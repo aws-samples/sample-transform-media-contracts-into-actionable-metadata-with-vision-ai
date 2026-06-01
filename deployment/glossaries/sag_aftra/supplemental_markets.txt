@@ -1,0 +1,5 @@
+Term: Supplemental Markets
+Glossary: sag_aftra
+Definition: Markets for the exploitation of a motion picture or television program beyond its initial primary market, including home video, electronic sell-through (EST), pay television, basic cable, foreign theatrical, and SVOD platforms.
+Usage Context: Supplemental markets trigger separate residual schedules. The Home Video Sideletter and Exhibit A Sideletter control the rates for specific supplemental market categories. Producers must report and remit supplemental market residuals to SAG-AFTRA.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

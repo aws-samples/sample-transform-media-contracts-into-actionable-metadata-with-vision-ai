@@ -1,0 +1,4 @@
+Term: Uninstall
+Glossary: odrl
+Definition: To unload and delete the computer program Asset from a storage device and disable its readiness for operation.
+Usage Context: The Asset is no longer accessible to the assignees after it has been used.

@@ -1,0 +1,5 @@
+Term: Non-Uniform Rational B-Spline (NURBs)
+Glossary: vfx
+Definition: A mathematical model commonly used in computer graphics for generating and representing curves and surfaces. It offers great flexibility and precision for handling both analytic (surfaces defined by common mathematical formulae) and modeled shapes.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/non-uniform-rational-b-spline-nurbs/

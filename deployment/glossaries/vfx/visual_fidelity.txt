@@ -1,0 +1,5 @@
+Term: Visual fidelity
+Glossary: vfx
+Definition: The degree to which an asset resembles its real-world counterpart in texture, lighting, properly weighted animation, etc.; another name for quality.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/visual-fidelity/

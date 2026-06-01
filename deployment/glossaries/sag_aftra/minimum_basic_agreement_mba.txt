@@ -1,0 +1,5 @@
+Term: Minimum Basic Agreement (MBA)
+Glossary: sag_aftra
+Definition: The primary collective bargaining agreement between SAG-AFTRA and the Alliance of Motion Picture and Television Producers (AMPTP) covering motion pictures, scripted primetime dramatic television, and new media production.
+Usage Context: Sets minimum wages, residuals rates, Pension & Health contribution percentages, digital replica consent requirements, and working conditions for all covered productions. Typical three-year term.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

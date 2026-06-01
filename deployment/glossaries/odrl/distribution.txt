@@ -1,0 +1,4 @@
+Term: Distribution
+Glossary: odrl
+Definition: Distribution, public display, and publicly performance.
+Usage Context: This term is defined by Creative Commons.

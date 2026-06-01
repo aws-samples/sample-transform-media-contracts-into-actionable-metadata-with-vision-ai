@@ -1,0 +1,5 @@
+Term: Selects
+Glossary: vfx
+Definition: The performance(s) or take(s) chosen for further usage in editorial or visual effects development. Select may include live-action footage and motion capture performances.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/selects/

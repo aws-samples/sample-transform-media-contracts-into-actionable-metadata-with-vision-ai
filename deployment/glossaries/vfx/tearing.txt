@@ -1,0 +1,5 @@
+Term: Tearing
+Glossary: vfx
+Definition: The visual discrepancy between the output of two render nodes when they are out of sync on a display, such as a monitor or LED wall.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/tearing/

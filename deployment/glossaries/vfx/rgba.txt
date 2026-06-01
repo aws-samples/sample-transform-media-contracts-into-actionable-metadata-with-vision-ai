@@ -1,0 +1,5 @@
+Term: RGBA
+Glossary: vfx
+Definition: Red, green, blue, and alpha, grouped as a single unit.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rgba/

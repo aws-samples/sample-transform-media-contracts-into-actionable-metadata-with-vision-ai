@@ -1,0 +1,5 @@
+Term: Digital Effects Supervisor
+Glossary: vfx
+Definition: The individual responsible for the creation of all digital effects work required for a production. The DFX Supervisor oversees the work of the CG Supervisor and the Compositing Supervisor and reports directly to the VFX Supervisor.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital-effects-supervisor/

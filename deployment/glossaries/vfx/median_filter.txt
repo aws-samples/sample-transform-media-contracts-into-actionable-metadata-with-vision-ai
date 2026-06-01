@@ -1,0 +1,5 @@
+Term: median filter
+Glossary: vfx
+Definition: A specialized spatial filter that removes pixel anomalies by determining the median value in a group of neighboring pixels.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/median-filter/

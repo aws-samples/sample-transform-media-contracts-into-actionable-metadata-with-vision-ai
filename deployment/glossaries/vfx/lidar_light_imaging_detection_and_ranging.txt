@@ -1,0 +1,5 @@
+Term: LIDAR (Light imaging, detection, and ranging)
+Glossary: vfx
+Definition: A survey method that illuminates a target with laser and measures the reflected light via infrared sensors to derive a point cloud; useful as part of asset creation and to capture real-world locations.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/lidar-light-imaging-detection-and-ranging/

@@ -1,0 +1,5 @@
+Term: spline
+Glossary: vfx
+Definition: A series of points connected by a line or curve. See spline curve.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/spline/

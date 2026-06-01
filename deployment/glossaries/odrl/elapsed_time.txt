@@ -1,0 +1,3 @@
+Term: Elapsed Time
+Glossary: odrl
+Definition: A continuous elapsed time period which may be used for exercising of the action of the Rule. Right operand value MUST be an xsd:duration as defined by [[xmlschema11-2]].

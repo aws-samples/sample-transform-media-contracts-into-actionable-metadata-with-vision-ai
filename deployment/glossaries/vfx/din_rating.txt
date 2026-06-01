@@ -1,0 +1,5 @@
+Term: DIN rating
+Glossary: vfx
+Definition: A standard numerical rating for specifying a film’s sensitivity to light. DIN is an abbreviation for Deutsche Industrie Norm (German Industry Standard). Many manufacturers now use their own specific exposure index instead. See also ASA rating, ISO index.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/din-rating/

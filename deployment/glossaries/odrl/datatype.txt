@@ -1,0 +1,4 @@
+Term: Datatype
+Glossary: odrl
+Definition: The datatype of the value of the rightOperand or rightOperandReference of a Constraint.
+Usage Context: In RDF encodings, use of the rdf:datatype MUST be used. In JSON-LD encoding, the use of @type MUST be used.

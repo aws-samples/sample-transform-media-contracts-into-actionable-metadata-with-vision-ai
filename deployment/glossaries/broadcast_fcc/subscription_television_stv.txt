@@ -1,0 +1,5 @@
+Term: Subscription Television (STV)
+Glossary: broadcast_fcc
+Definition: A form of broadcast or telecommunications service delivered to subscribers for a fee, typically through encryption or other conditional access technology.
+Usage Context: Historically referred to over-the-air scrambled signals. Term has expanded to include subscription streaming services. Distinct regulatory treatment from advertiser-supported free-to-air broadcasting.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

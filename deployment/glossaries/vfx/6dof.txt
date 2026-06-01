@@ -1,0 +1,5 @@
+Term: 6DoF
+Glossary: vfx
+Definition: Abbreviation for 6 degrees of freedom. It refers to the freedom of movement of a rigid body in three-dimensional space. Specifically, the body is free to change position as forward/ backward (surge), up/down (heave), left/right (sway) translation in three perpendicular axes, combined with changes in orientation through rotation about three perpendicular axes, often termed yaw (normal axis), pitch (transverse axis), and roll (longitudinal axis). (See 3DoF.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/6dof/

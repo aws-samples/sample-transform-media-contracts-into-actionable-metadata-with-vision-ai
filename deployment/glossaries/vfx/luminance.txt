@@ -1,0 +1,5 @@
+Term: luminance
+Glossary: vfx
+Definition: In common usage, synonymous with brightness. In the HSL color space, luminance is the weighted average of the red, green, and blue components.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/luminance/

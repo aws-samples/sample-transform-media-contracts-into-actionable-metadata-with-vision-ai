@@ -1,0 +1,5 @@
+Term: Gamut
+Glossary: vfx
+Definition: The portion of the visible spectrum that a display can accurately reproduce or a camera can accurately capture, e.g., Rec.709, DCI-P3, and Rec. 2020.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/gamut/

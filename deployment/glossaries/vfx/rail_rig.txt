@@ -1,0 +1,5 @@
+Term: Rail Rig
+Glossary: vfx
+Definition: A curved virtual Dolly Rig and includes key points in space as well as camera orientation. Can also be called Spline Dolly
+Source: vp
+Reference: https://vpglossary.com/vpglossary/rail-rig/

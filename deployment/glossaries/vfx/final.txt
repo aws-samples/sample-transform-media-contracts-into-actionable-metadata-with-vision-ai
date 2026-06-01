@@ -1,0 +1,5 @@
+Term: final
+Glossary: vfx
+Definition: The term given to a composite shot once it is considered complete and has been approved by the appropriate decision makers.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/final/

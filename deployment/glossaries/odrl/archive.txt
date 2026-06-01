@@ -1,0 +1,4 @@
+Term: Archive
+Glossary: odrl
+Definition: To store the Asset (in a non-transient form).
+Usage Context: Temporal constraints may be used for temporal conditions.

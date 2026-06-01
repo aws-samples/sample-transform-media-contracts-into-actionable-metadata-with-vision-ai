@@ -1,0 +1,5 @@
+Term: Exhibit A Sideletter
+Glossary: sag_aftra
+Definition: A sideletter to the SAG-AFTRA TV/Theatrical MBA governing residuals for content made for or exhibited on SVOD platforms, specifying residual rates as a percentage of distributor's gross receipts allocable to the covered episode or picture.
+Usage Context: Residual rates under Exhibit A are currently 3.6% of distributor's gross receipts for covered SVOD uses. The sideletter is referenced in deal memos as the controlling schedule for streaming residuals.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

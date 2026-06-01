@@ -1,0 +1,5 @@
+Term: plate
+Glossary: vfx
+Definition: A piece of original photography that is intended to be used as an element in a composite.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/plate/

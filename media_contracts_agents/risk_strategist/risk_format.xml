@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Risk & Negotiation Strategist Agent — Response Format
+    =======================================================
+    Media Contracts Schema (MCS) v1.0
+    Implements: Part 1 (envelope) + Part 2 (metadata) + Part 5 (specialized/risk) +
+                Part 6 (findings) + Part 7 (tags)
+    See: schemas/base/mcs_base_schema.xml
+
+    The final output of the entire pipeline. Consumed by the deal team:
+    EVP Business Affairs, General Counsel, senior outside counsel.
+
+    This is the document that answers: "Should we sign this, and if so, what
+    must change first?"
+-->
+<response_format>
+    <response analyzer="risk_strategist"
+              schema_version="1.0"
+              job_id="{JOB_ID}"
+              timestamp="{ISO_8601_TIMESTAMP}">
+        <!-- MCS Part 2: Core Metadata -->
+        <metadata>
+            <analyzer_name>risk_strategist</analyzer_name>
+            <schema_version>1.0</schema_version>
+            <timestamp>{ISO_8601_TIMESTAMP}</timestamp>
+            <source_document>{DOCUMENT_TITLE}</source_document>
+            <element_count>{TOTAL_ELEMENTS_ANALYZED}</element_count>
+            <confidence>{high|medium|low}</confidence>
+
+            <!-- Analyzer-specific metadata -->
+            <contract_type>{CONTRACT_TYPE}</contract_type>
+            <parties>{PARTY_NAMES_AND_ROLES}</parties>
+            <overall_risk_posture>{LOW|MODERATE|HIGH|CRITICAL}</overall_risk_posture>
+            <risk_posture_justification>{1-2_SENTENCE_JUSTIFICATION}</risk_posture_justification>
+            <upstream_agents_received>
+                <agent id="extractor"
+                       received="{YES|NO}"
+                       />
+                <agent id="financial"
+                       received="{YES|NO}"
+                       />
+                <agent id="rights"
+                       received="{YES|NO}"
+                       />
+                <agent id="talent"
+                       received="{YES|NO}"
+                       />
+                <agent id="regulatory"
+                       received="{YES|NO}"
+                       />
+            </upstream_agents_received>
+            <specialist_postures>
+                <posture agent="financial">{DEAL_STRUCTURE_CLASSIFICATION}</posture>
+                <posture agent="rights">{CLEAN|CONDITIONAL|DEFICIENT}</posture>
+                <posture agent="talent">{STRONG|ADEQUATE|WEAK|DEFICIENT}</posture>
+                <posture agent="regulatory">{COMPLIANT|PARTIALLY_ADDRESSED|DEFICIENT}</posture>
+            </specialist_postures>
+            <finding_counts>
+                <vague_term_count>{N}</vague_term_count>
+                <red_flag_count>{N}</red_flag_count>
+                <unclear_provision_count>{N}</unclear_provision_count>
+                <missing_provision_count>{N}</missing_provision_count>
+                <asymmetry_count>{N}</asymmetry_count>
+                <must_resolve_count>{N}</must_resolve_count>
+                <should_resolve_count>{N}</should_resolve_count>
+                <nice_to_have_count>{N}</nice_to_have_count>
+            </finding_counts>
+        </metadata>
+
+        <!-- MCS Part 5: Specialized Section (risk & negotiation strategy) -->
+        <specialized type="risk_strategist">
+            <key_term_tags>
+                <tagged_term>
+                    <term>{TERM_NAME}</term>
+                    <category>{FINANCIAL|RIGHTS_GRANT|TEMPORAL|PARTY|TERRITORY|PLATFORM_MEDIA|DELIVERY|LEGAL_PROTECTION|CONTENT_STANDARD|COMPENSATION|TERMINATION|EXCLUSIVITY|REPORTING|OTHER}</category>
+                    <significance>{HIGH|MEDIUM|LOW}</significance>
+                    <notes>{WHY_THIS_TERM_MATTERS_IN_THIS_CONTRACT}</notes>
+                </tagged_term>
+                <!-- Repeat for every defined term plus significant undefined-but-operative terms -->
+            </key_term_tags>
+
+            <critical_analysis>
+
+                <vague_or_ill_fitting_terms>
+                    <vague_term>
+                        <term_or_phrase>{EXACT_TERM_OR_PHRASE}</term_or_phrase>
+                        <section_reference>{WHERE_IT_APPEARS}</section_reference>
+                        <issue>{WHY_IT_IS_VAGUE}</issue>
+                        <potential_impact>{WHAT_COULD_GO_WRONG}</potential_impact>
+                        <source_agents>{WHICH_SPECIALIST_AGENTS_FLAGGED_THIS}</source_agents>
+                    </vague_term>
+                    <!-- Repeat -->
+                </vague_or_ill_fitting_terms>
+
+                <red_flags>
+                    <flag>
+                        <provision>{DESCRIPTION_OF_THE_PROBLEMATIC_PROVISION}</provision>
+                        <section_reference>{WHERE_IT_APPEARS}</section_reference>
+                        <severity>{HIGH|MEDIUM|LOW}</severity>
+                        <concern>{WHAT_MAKES_THIS_A_RED_FLAG}</concern>
+                        <industry_norm>{WHAT_IS_TYPICAL_AND_THE_SOURCE}</industry_norm>
+                        <source_agents>{WHICH_SPECIALIST_AGENTS_FLAGGED_THIS}</source_agents>
+                    </flag>
+                    <!-- Repeat -->
+                </red_flags>
+
+                <unclear_provisions>
+                    <unclear_provision>
+                        <description>{WHAT_THE_PROVISION_SAYS}</description>
+                        <section_reference>{WHERE_IT_APPEARS}</section_reference>
+                        <ambiguity>{WHAT_IS_UNCLEAR}</ambiguity>
+                        <clarification_needed>{WHAT_WOULD_RESOLVE_IT}</clarification_needed>
+                        <source_agents>{WHICH_SPECIALIST_AGENTS_FLAGGED_THIS}</source_agents>
+                    </unclear_provision>
+                    <!-- Repeat -->
+                </unclear_provisions>
+
+                <missing_standard_provisions>
+                    <missing_provision>
+                        <provision_name>{NAME_OF_MISSING_PROVISION}</provision_name>
+                        <expected_in>{CONTRACT_TYPE_WHERE_STANDARD}</expected_in>
+                        <risk_of_omission>{CONSEQUENCE_OF_NOT_HAVING_IT}</risk_of_omission>
+                        <source_agents>{WHICH_SPECIALIST_AGENTS_IDENTIFIED_THIS_GAP}</source_agents>
+                    </missing_provision>
+                    <!-- Repeat -->
+                </missing_standard_provisions>
+
+                <asymmetric_obligations>
+                    <asymmetry>
+                        <description>{WHAT_THE_IMBALANCE_IS}</description>
+                        <favored_party>{WHICH_PARTY_BENEFITS}</favored_party>
+                        <section_reference>{WHERE_IT_APPEARS}</section_reference>
+                        <note>{WHY_THIS_EXCEEDS_NORMAL_ROLE_BASED_ASYMMETRY}</note>
+                        <source_agents>{WHICH_SPECIALIST_AGENTS_FLAGGED_THIS}</source_agents>
+                    </asymmetry>
+                    <!-- Repeat -->
+                </asymmetric_obligations>
+
+            </critical_analysis>
+
+            <negotiation_priorities>
+                <!-- Ranked list of everything to address before signing -->
+
+                <tier name="MUST_RESOLVE"
+                      description="Deal-breakers or near-deal-breakers. Signing without resolution creates unacceptable risk."
+                      >
+                    <priority rank="{1_BASED_WITHIN_TIER}">
+                        <item>{CONCISE_DESCRIPTION}</item>
+                        <rationale>{WHY_THIS_IS_MUST_RESOLVE}</rationale>
+                        <impact_dimension>{ECONOMIC|EXPLOITATION_BLOCKING|LITIGATION_RISK|REGULATORY_ENFORCEMENT|COMBINATION}</impact_dimension>
+                        <source_findings>{SPECIFIC_FINDINGS_FROM_SPECIALIST_AGENTS_THAT_SUPPORT_THIS}</source_findings>
+                    </priority>
+                    <!-- Repeat, max 10 -->
+                </tier>
+
+                <tier name="SHOULD_RESOLVE"
+                      description="Material issues that create meaningful risk but are manageable. Worth negotiating but not deal-breakers."
+                      >
+                    <priority rank="{1_BASED_WITHIN_TIER}">
+                        <item>{CONCISE_DESCRIPTION}</item>
+                        <rationale>{WHY_THIS_MATTERS}</rationale>
+                        <impact_dimension>{ECONOMIC|EXPLOITATION_BLOCKING|LITIGATION_RISK|REGULATORY_ENFORCEMENT|COMBINATION}</impact_dimension>
+                        <source_findings>{SPECIFIC_FINDINGS_FROM_SPECIALIST_AGENTS}</source_findings>
+                    </priority>
+                    <!-- Repeat -->
+                </tier>
+
+                <tier name="NICE_TO_HAVE"
+                      description="Improvements that strengthen the deal but are not critical. Negotiate if leverage permits."
+                      >
+                    <priority rank="{1_BASED_WITHIN_TIER}">
+                        <item>{CONCISE_DESCRIPTION}</item>
+                        <rationale>{WHY_IT_WOULD_BE_BENEFICIAL}</rationale>
+                        <source_findings>{SPECIFIC_FINDINGS_FROM_SPECIALIST_AGENTS}</source_findings>
+                    </priority>
+                    <!-- Repeat -->
+                </tier>
+            </negotiation_priorities>
+
+            <cross_cutting_issues>
+                <!-- Issues that arise from the INTERACTION between provisions across specialist domains,
+                     not flagged by any single specialist because the risk only emerges when domains intersect. -->
+                <issue>
+                    <description>{WHAT_THE_CROSS_CUTTING_ISSUE_IS}</description>
+                    <domains_involved>{e.g. FINANCIAL + RIGHTS, TALENT + REGULATORY}</domains_involved>
+                    <provisions_interacting>{SECTION_REFERENCES_OF_THE_INTERACTING_PROVISIONS}</provisions_interacting>
+                    <risk>{WHAT_THE_COMBINED_RISK_IS}</risk>
+                    <why_missed>{WHY_NO_SINGLE_SPECIALIST_FLAGGED_IT}</why_missed>
+                </issue>
+                <!-- Repeat, or note "No cross-cutting issues identified" -->
+            </cross_cutting_issues>
+
+            <executive_summary>
+                <!-- A concise, plain-language summary for the senior decision-maker who will not read the full analysis.
+                     2-4 paragraphs maximum. Written for an EVP Business Affairs or General Counsel. -->
+                <summary>{PLAIN_LANGUAGE_ASSESSMENT: What kind of deal is this? What is its overall condition? What are the 2-3 most critical issues? What is the recommended path forward?}</summary>
+            </executive_summary>
+        </specialized>
+
+        <!-- MCS Part 6: Findings (risk & negotiation strategy) -->
+        <!-- Note: For risk_strategist, findings are embedded in the specialized section above -->
+
+        <!-- MCS Part 7: Tags -->
+        <tags>
+            <!-- Can repeat tags as needed. -->
+            <tag>{TOPICAL_TAG}</tag>
+        </tags>
+    </response>
+</response_format>

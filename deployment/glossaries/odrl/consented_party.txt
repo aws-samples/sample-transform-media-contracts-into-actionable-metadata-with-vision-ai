@@ -1,0 +1,4 @@
+Term: Consented Party
+Glossary: odrl
+Definition: The Party who obtains the consent.
+Usage Context: Maybe specified as part of the obtainConsent action.

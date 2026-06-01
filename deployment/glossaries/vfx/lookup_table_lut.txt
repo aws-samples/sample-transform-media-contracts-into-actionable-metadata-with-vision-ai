@@ -1,0 +1,5 @@
+Term: lookup table (LUT)
+Glossary: vfx
+Definition: An array of values used to convert data from an input value to a new output value. See also color lookup table.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lookup-table-lut/

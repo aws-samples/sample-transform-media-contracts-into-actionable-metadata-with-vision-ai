@@ -1,0 +1,5 @@
+Term: 4:1:1 compression
+Glossary: vfx
+Definition: A method of encoding the data needed to represent an image by sampling Y (luminance) for every pixel but removing every other UV (chroma) pixel in both the horizontal and vertical directions.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/411-compression/

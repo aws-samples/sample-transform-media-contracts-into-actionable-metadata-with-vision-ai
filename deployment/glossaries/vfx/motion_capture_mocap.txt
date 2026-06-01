@@ -1,0 +1,5 @@
+Term: Motion capture (Mocap)
+Glossary: vfx
+Definition: A process for recording and solving the position and orientation of humans, props, and cameras in space and time. The most common mocap technique used in virtual production is a camera based system with passive markers.  Other techniques can be based on inertial sensors, active markers, tracking marks, or solely on video.  Motion capture is often the basis for techniques including virtual camera, virtual characters, simulcam, and other techniques requiring real-time solving.  See also Retargeting
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-capture-mocap/

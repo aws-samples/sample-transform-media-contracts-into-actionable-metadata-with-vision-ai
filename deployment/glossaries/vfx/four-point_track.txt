@@ -1,0 +1,5 @@
+Term: four-point track
+Glossary: vfx
+Definition: A type of 2D tracking in which four points are selected from a sequence of images to extract an approximation of an object’s movement relative to the camera. Allows for corner pinning techniques.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/four-point-track/

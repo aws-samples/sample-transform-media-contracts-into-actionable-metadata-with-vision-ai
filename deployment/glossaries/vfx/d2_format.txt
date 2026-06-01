@@ -1,0 +1,5 @@
+Term: D2 format
+Glossary: vfx
+Definition: A digital composite video format. D2 is a lower quality than D1, but is also significantly less expensive.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/d2-format/

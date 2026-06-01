@@ -1,0 +1,5 @@
+Term: latent image
+Glossary: vfx
+Definition: The invisible image that exists on an exposed piece of negative that has not yet been developed.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/latent-image/

@@ -1,0 +1,5 @@
+Term: Waldo
+Glossary: vfx
+Definition: A mechanical input device with encoders attached so that any motion of the device can be read by a computer as locations or rotations in 3D space. Waldos are used to assist in the animation of motion-controlled rigs for virtual environments and to puppet virtual characters.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/waldo/

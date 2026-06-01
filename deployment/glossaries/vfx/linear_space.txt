@@ -1,0 +1,5 @@
+Term: linear space
+Glossary: vfx
+Definition: See linear color space.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/linear-space/

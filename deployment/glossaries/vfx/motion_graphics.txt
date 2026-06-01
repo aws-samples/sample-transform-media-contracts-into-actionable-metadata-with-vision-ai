@@ -1,0 +1,5 @@
+Term: motion graphics
+Glossary: vfx
+Definition: Animated graphic imagery that is done primarily to achieve a specific visual design rather than to produce photorealistic images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/motion-graphics/

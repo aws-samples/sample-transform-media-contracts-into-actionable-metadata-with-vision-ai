@@ -1,0 +1,5 @@
+Term: Movieola
+Glossary: vfx
+Definition: A self-contained mechanical film viewing device. Typically used by film editors, it allowed for rapid stopping, reversing, and vari-speeding of the film (and separate sound strips) for the purpose of editing and/or reviewing the cut. The large green machine had many conveniences built into it over the years, but due to the advent of nonlinear digital editing devices, it is no longer in use.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/movieola/

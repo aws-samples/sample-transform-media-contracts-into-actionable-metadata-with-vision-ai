@@ -1,0 +1,5 @@
+Term: Statutory Royalty Rate
+Glossary: music_rights_licensing
+Definition: The compulsory mechanical royalty rate established by the U.S. Copyright Office under 17 U.S.C. § 115 for the reproduction and distribution of non-dramatic musical compositions on phonorecords. The rate is set and periodically adjusted by the Copyright Royalty Board.
+Usage Context: HFA typically requires payment of the statutory royalty rate from licensees unless the publisher has authorized a reduced rate (e.g., a 'controlled composition' rate at 75% of statutory). The statutory rate applies to physical and permanent digital downloads; interactive streaming rates are determined separately.
+Source: U.S. Copyright Royalty Board / 17 U.S.C. § 115 — https://www.crb.gov/rate/

@@ -1,0 +1,5 @@
+Term: interactive lighting
+Glossary: vfx
+Definition: Lighting in a scene that changes over time and responds to the activity within the environment.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/interactive-lighting/

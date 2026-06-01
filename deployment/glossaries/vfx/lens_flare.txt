@@ -1,0 +1,5 @@
+Term: lens flare
+Glossary: vfx
+Definition: An artifact of a bright light shining directly into the lens assembly of a camera.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lens-flare/

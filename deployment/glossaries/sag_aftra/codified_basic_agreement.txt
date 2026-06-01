@@ -1,0 +1,5 @@
+Term: Codified Basic Agreement
+Glossary: sag_aftra
+Definition: The comprehensive consolidated text of the SAG-AFTRA theatrical motion picture basic agreement, incorporating all terms, schedules, sideletters, and definitions governing covered productions.
+Usage Context: Referenced as the authoritative source for detailed definitions (including Distributor's Gross Receipts) and for resolving disputes over residual calculations and contractual interpretation.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

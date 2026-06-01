@@ -1,0 +1,5 @@
+Term: histogram sliding
+Glossary: vfx
+Definition: Equivalent to adding a certain number to the values of every pixel in an image. Equivalent to multiplying the values of every pixel in an image by a certain
+Source: ves
+Reference: https://vpglossary.com/vesglossary/histogram-sliding/

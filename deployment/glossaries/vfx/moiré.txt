@@ -1,0 +1,5 @@
+Term: Moiré
+Glossary: vfx
+Definition: An undesirable interference pattern caused by the mismatch between the sensors on a digital camera and a complex, repetitive pattern. E.g. moiré can be caused by focusing a camera directly on an LED screen.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/moire/

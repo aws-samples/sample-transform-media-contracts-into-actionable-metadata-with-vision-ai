@@ -1,0 +1,5 @@
+Term: interpositive (IP)
+Glossary: vfx
+Definition: Short for intermediate positive, a positive print made from the original negative for use in making inter negatives. A positive film copy on negative film stock. It is used to protect a negative from overuse. From this interpositive, a duplicate negative may be made, when necessary. IPs usually retain a finer film grain than if the negative were printed to positive film stock and then back to negative film stock.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/interpositive-ip/

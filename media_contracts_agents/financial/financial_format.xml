@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Financial Analyst Agent — Response Format
+    ============================================
+    Media Contracts Schema (MCS) v1.0
+    Implements: Part 1 (envelope) + Part 2 (metadata) + Part 5 (specialized/financial) +
+                Part 6 (findings) + Part 7 (tags)
+    See: schemas/base/mcs_base_schema.xml
+
+    The output schema for the Financial Analyst. Consumed by the Risk Strategist
+    and by human reviewers (Content Finance VPs, Business Managers, auditors).
+-->
+<response_format>
+    <response analyzer="financial"
+              schema_version="1.0"
+              job_id="{JOB_ID}"
+              timestamp="{ISO_8601_TIMESTAMP}">
+        <!-- MCS Part 2: Core Metadata -->
+        <metadata>
+            <analyzer_name>financial</analyzer_name>
+            <schema_version>1.0</schema_version>
+            <timestamp>{ISO_8601_TIMESTAMP}</timestamp>
+            <source_document>{DOCUMENT_TITLE_FROM_EXTRACTOR}</source_document>
+            <element_count>{TOTAL_FINANCIAL_COMPONENTS_ANALYZED}</element_count>
+            <confidence>{high|medium|low}</confidence>
+
+            <!-- Financial-specific metadata -->
+            <contract_type>{CONTRACT_TYPE_FROM_EXTRACTOR}</contract_type>
+            <deal_structure_classification>{FLAT_FEE|PURE_REVENUE_SHARE|MG_PLUS_OVERAGE|HYBRID|OTHER}</deal_structure_classification>
+            <payor>{PARTY_MAKING_PAYMENTS}</payor>
+            <payee>{PARTY_RECEIVING_PAYMENTS}</payee>
+            <financial_finding_count>{TOTAL_FINDINGS}</financial_finding_count>
+            <financial_blank_field_count>{NUMBER_OF_UNFILLED_FINANCIAL_TERMS}</financial_blank_field_count>
+        </metadata>
+
+        <!-- MCS Part 5: Specialized Section (financial analysis) -->
+        <specialized type="financial">
+            <compensation_map>
+            <!-- Complete picture of all compensation flowing in this deal -->
+            <component>
+                <type>{FIXED_FEE|REVENUE_SHARE|MG|RESIDUAL|ROYALTY|CONTINGENT|PER_DIEM|OTHER}</type>
+                <description>{WHAT_THIS_PAYMENT_IS_FOR}</description>
+                <amount>{SPECIFIC_AMOUNT_PERCENTAGE_OR_BLANK}</amount>
+                <payor>{WHO_PAYS}</payor>
+                <payee>{WHO_RECEIVES}</payee>
+                <trigger>{WHAT_TRIGGERS_THIS_PAYMENT}</trigger>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </component>
+            <!-- Repeat for each compensation component -->
+            </compensation_map>
+
+            <revenue_base_analysis>
+            <defined_term>{THE_DEFINED_REVENUE_BASE_TERM_USED}</defined_term>
+            <verbatim_definition>{EXACT_DEFINITION_FROM_CONTRACT}</verbatim_definition>
+            <section_reference>{WHERE_DEFINED}</section_reference>
+            <starting_point>{WHAT_CONSTITUTES_THE_TOP_LINE_GROSS}</starting_point>
+            <deduction_layers>
+                <!-- Each deduction in the order specified by the contract -->
+                <deduction order="{SEQUENCE_NUMBER}">
+                    <category>{DEDUCTION_TYPE}</category>
+                    <cap>{CAPPED_AT_X_OR_UNCAPPED}</cap>
+                    <approval_required>{YES_NO_OR_CONDITIONAL}</approval_required>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </deduction>
+                <!-- Repeat for each deduction layer -->
+            </deduction_layers>
+            <order_of_operations_specified>{YES|NO — does the contract specify deduction order?}</order_of_operations_specified>
+            <assessment>{PLAIN_LANGUAGE_ASSESSMENT_OF_WHAT_THE_NET_RESULT_LIKELY_PRODUCES}</assessment>
+            </revenue_base_analysis>
+
+            <distribution_fee_analysis>
+            <percentage>{FEE_PERCENTAGE_OR_BLANK}</percentage>
+            <fee_base>{WHAT_THE_FEE_IS_CALCULATED_ON}</fee_base>
+            <waterfall_position>{BEFORE_OR_AFTER_RECOUPABLE_EXPENSES — BEFORE_OR_AFTER_MG_RECOUPMENT}</waterfall_position>
+            <section_reference>{CONTRACT_SECTION}</section_reference>
+            <modeled_scenarios>
+                <!-- Include only if percentage is blank -->
+                <scenario label="{LOW|MID|HIGH}">
+                    <assumed_percentage>{PERCENTAGE}</assumed_percentage>
+                    <net_to_owner>{RESULTING_NET_AMOUNT_OR_FORMULA}</net_to_owner>
+                </scenario>
+            </modeled_scenarios>
+            </distribution_fee_analysis>
+
+            <recoupable_expense_analysis>
+            <expense>
+                <category>{EXPENSE_TYPE}</category>
+                <cap>{DOLLAR_CAP_OR_UNCAPPED}</cap>
+                <approval_required>{YES|NO|ABOVE_THRESHOLD}</approval_required>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+                <risk_note>{BRIEF_NOTE_IF_EXPOSURE_IS_NOTABLE}</risk_note>
+            </expense>
+            <!-- Repeat for each category -->
+            <total_capped_exposure>{SUM_OF_ALL_CAPPED_EXPENSES}</total_capped_exposure>
+            <uncapped_categories_present>{YES|NO}</uncapped_categories_present>
+            </recoupable_expense_analysis>
+
+            <mg_analysis>
+            <!-- Omit entirely if no MG is present -->
+            <amount>{MG_AMOUNT_OR_BLANK}</amount>
+            <mg_type>{RECOUPABLE_ADVANCE|NON_RECOUPABLE_FLOOR|HYBRID|UNCLEAR}</mg_type>
+            <recoupment_stream>{AGAINST_WHAT_REVENUE_STREAM}</recoupment_stream>
+            <recoupment_rate>{AT_WHAT_RATE_IS_MG_RECOUPED}</recoupment_rate>
+            <deductions_before_recoupment>{WHAT_IS_DEDUCTED_BEFORE_RECOUPMENT_APPLIES}</deductions_before_recoupment>
+            <breakeven_analysis>{HOW_MUCH_GROSS_REVENUE_TO_EARN_PAST_THE_MG — or note if uncomputable due to blanks}</breakeven_analysis>
+            <section_reference>{CONTRACT_SECTION}</section_reference>
+            </mg_analysis>
+
+            <financial_waterfall>
+            <!-- Top-to-bottom revenue flow -->
+            <step order="{SEQUENCE}">
+                <description>{WHAT_HAPPENS_AT_THIS_STEP}</description>
+                <formula>{MATHEMATICAL_EXPRESSION_OR_DESCRIPTION}</formula>
+                <recipient>{WHO_RECEIVES_FUNDS_AT_THIS_STEP_IF_APPLICABLE}</recipient>
+            </step>
+            <!-- Repeat for each waterfall step -->
+            <waterfall_notes>{ANY_CAVEATS_ASSUMPTIONS_OR_BLANKS_THAT_AFFECT_THE_WATERFALL}</waterfall_notes>
+            </financial_waterfall>
+
+            <mfn_analysis>
+            <!-- Omit entirely if no MFN provision -->
+            <trigger>{WHAT_ACTIVATES_MFN_PARITY}</trigger>
+            <comparison_set>{WHAT_DEALS_ARE_COMPARED}</comparison_set>
+            <prospective_or_retroactive>{PROSPECTIVE|RETROACTIVE|BOTH|UNCLEAR}</prospective_or_retroactive>
+            <notification_obligation>{YES|NO — must the party notify when MFN is triggered?}</notification_obligation>
+            <enforceability_assessment>{CAN_THE_BENEFICIARY_DISCOVER_AND_ENFORCE_MFN_IN_PRACTICE?}</enforceability_assessment>
+            <section_reference>{CONTRACT_SECTION}</section_reference>
+            </mfn_analysis>
+
+            <payment_mechanics>
+            <schedule>{PAYMENT_TIMING_AND_FREQUENCY}</schedule>
+            <cash_flow_lag>{ESTIMATED_DELAY_FROM_REVENUE_EARNING_TO_PAYMENT_RECEIPT}</cash_flow_lag>
+            <threshold>{MINIMUM_PAYMENT_THRESHOLD_IF_ANY}</threshold>
+            <currency>{PAYMENT_CURRENCY_AND_EXCHANGE_RATE_RISK_ALLOCATION}</currency>
+            <withholding_tax>{TAX_WITHHOLDING_ALLOCATION_AND_GROSS_UP_PROVISION}</withholding_tax>
+            <reserves>{RESERVE_HOLDBACK_RIGHTS_PERCENTAGE_AND_DURATION}</reserves>
+            <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </payment_mechanics>
+
+            <audit_analysis>
+            <frequency>{HOW_OFTEN_AUDITS_MAY_BE_CONDUCTED}</frequency>
+            <notice_period>{REQUIRED_ADVANCE_NOTICE}</notice_period>
+            <lookback_period>{HOW_FAR_BACK_AUDIT_CLAIMS_CAN_REACH}</lookback_period>
+            <records_accessible>{WHAT_RECORDS_THE_AUDITOR_CAN_EXAMINE}</records_accessible>
+            <cost_allocation>{WHO_PAYS_FOR_THE_AUDIT}</cost_allocation>
+            <materiality_threshold>{UNDERPAYMENT_PERCENTAGE_THAT_SHIFTS_AUDIT_COSTS}</materiality_threshold>
+            <interest_on_underpayment>{INTEREST_RATE_ON_UNDERPAID_AMOUNTS_IF_SPECIFIED}</interest_on_underpayment>
+            <practical_enforceability>{ASSESSMENT_OF_WHETHER_AUDIT_RIGHTS_ARE_MEANINGFUL_OR_NOMINAL}</practical_enforceability>
+            <section_reference>{CONTRACT_SECTION}</section_reference>
+            </audit_analysis>
+
+            <residual_royalty_analysis>
+            <!-- Omit entirely if no residuals/royalties -->
+            <obligation>
+                <type>{GUILD_RESIDUAL|CONTRACTUAL_ROYALTY|OTHER}</type>
+                <basis>{CALCULATION_BASIS}</basis>
+                <responsible_party>{WHO_BEARS_THE_OBLIGATION}</responsible_party>
+                <waterfall_position>{WHERE_IN_THE_WATERFALL_IS_THIS_DEDUCTED}</waterfall_position>
+                <guild_reference>{CBA_REFERENCE_IF_APPLICABLE}</guild_reference>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </obligation>
+            <!-- Repeat -->
+            </residual_royalty_analysis>
+
+            <financial_blank_fields>
+            <blank_field>
+                <term>{WHAT_THE_BLANK_REPRESENTS}</term>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+                <industry_range>{REASONABLE_LOW_TO_HIGH_FOR_THIS_CONTRACT_TYPE}</industry_range>
+                <economic_swing>{DOLLAR_OR_PERCENTAGE_DIFFERENCE_BETWEEN_LOW_AND_HIGH}</economic_swing>
+            </blank_field>
+            <!-- Repeat, ranked by economic impact (largest swing first) -->
+            </financial_blank_fields>
+        </specialized>
+
+        <!-- MCS Part 6: Findings (financial analysis) -->
+        <financial_findings>
+            <risks>
+                <risk>
+                    <description>{WHAT_THE_FINANCIAL_RISK_IS}</description>
+                    <severity>{HIGH|MEDIUM|LOW}</severity>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                    <rationale>{WHY_THIS_IS_A_RISK_AND_WHAT_THE_EXPOSURE_IS}</rationale>
+                </risk>
+                <!-- Repeat, ranked by severity -->
+            </risks>
+            <ambiguities>
+                <ambiguity>
+                    <description>{WHAT_CANNOT_BE_COMPUTED_FROM_THE_CONTRACT_LANGUAGE}</description>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                    <impact>{WHAT_THIS_AMBIGUITY_MEANS_FOR_PAYMENT_CALCULATION}</impact>
+                </ambiguity>
+                <!-- Repeat -->
+            </ambiguities>
+            <party_perspective party="{PARTY_NAME}">
+                <favorable_terms>
+                    <term>{EACH_TERM_FAVORABLE_TO_THIS_PARTY}</term>
+                </favorable_terms>
+                <unfavorable_terms>
+                    <term>{EACH_TERM_UNFAVORABLE_TO_THIS_PARTY}</term>
+                </unfavorable_terms>
+            </party_perspective>
+            <!-- Repeat for each party -->
+            <cross_references>
+                <cross_reference agent="{AGENT_ID}"
+                                 note="{BRIEF_DESCRIPTION_OF_ISSUE_FOR_THAT_AGENT}"
+                                 />
+                <!-- Repeat as needed -->
+            </cross_references>
+        </financial_findings>
+
+        <!-- MCS Part 7: Tags -->
+        <tags>
+            <!-- Can repeat tags as needed. -->
+            <tag>{TOPICAL_TAG}</tag>
+        </tags>
+    </response>
+</response_format>

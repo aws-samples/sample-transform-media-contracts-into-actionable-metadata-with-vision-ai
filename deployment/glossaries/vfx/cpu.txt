@@ -1,0 +1,5 @@
+Term: CPU
+Glossary: vfx
+Definition: Abbreviation for central processing unit, the computational heart of a computer.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cpu/

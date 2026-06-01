@@ -1,0 +1,4 @@
+Term: Relation
+Glossary: odrl
+Definition: Relation is an abstract property which creates an explicit link between an Action and an Asset.
+Usage Context: Sub-properties of relation are used to define the nature of that link.

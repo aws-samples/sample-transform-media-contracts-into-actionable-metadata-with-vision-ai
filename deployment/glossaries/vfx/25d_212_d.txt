@@ -1,0 +1,5 @@
+Term: 2.5D (21⁄2 D)
+Glossary: vfx
+Definition: Pronounced “two-and-a-half D,” this is a general term for techniques that use 2D imagery in a 3D environment to give the illusion of a true 3D scene.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/2-5d-21%e2%81%842-d/

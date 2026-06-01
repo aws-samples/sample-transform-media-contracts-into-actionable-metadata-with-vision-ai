@@ -1,0 +1,5 @@
+Term: fix it in post
+Glossary: vfx
+Definition: A phrase commonly used when time and/or conditions prohibit the ability to shoot a scene exactly as intended. Rather than delaying the production, a decision is made to shoot as quickly as possible and correct any problems during post-production, usually using visual effects techniques. Usually an expensive solution that defers costs to Post-Production. It is highly unusual for the production to send part of their budget to the post-budget to cover this expense.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fix-it-in-post/

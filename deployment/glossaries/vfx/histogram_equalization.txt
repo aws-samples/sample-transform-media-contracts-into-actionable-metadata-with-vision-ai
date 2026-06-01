@@ -1,0 +1,5 @@
+Term: histogram equalization
+Glossary: vfx
+Definition: An image-processing technique that adjusts the contrast in an image so that it fits into a certain range.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/histogram-equalization/

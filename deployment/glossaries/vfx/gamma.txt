@@ -1,0 +1,5 @@
+Term: gamma
+Glossary: vfx
+Definition: (1) In film, a measure of the contrast of an image or emulsion, based on the slope of the straight-line portion of the characteristic curve. (2) An adjustment applied to a video monitor to compensate for its nonlinear response to a signal. (3) A digital effect used to modify the apparent brightness of an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gamma/

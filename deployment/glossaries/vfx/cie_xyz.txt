@@ -1,0 +1,5 @@
+Term: CIE XYZ
+Glossary: vfx
+Definition: One of the first mathematically defined color spaces, created by the International Commission on Illumination (CIE) in 1931.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cie-xyz/

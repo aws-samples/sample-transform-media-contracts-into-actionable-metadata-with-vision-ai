@@ -1,0 +1,3 @@
+Term: Share
+Glossary: odrl
+Definition: The act of the non-commercial reproduction and distribution of the asset to third-parties.

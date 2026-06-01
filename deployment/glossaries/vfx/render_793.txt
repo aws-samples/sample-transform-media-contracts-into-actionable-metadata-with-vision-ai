@@ -1,0 +1,5 @@
+Term: Render
+Glossary: vfx
+Definition: The digital process of generating an image or video content based on 2D, 3D, and lighting information.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/render/

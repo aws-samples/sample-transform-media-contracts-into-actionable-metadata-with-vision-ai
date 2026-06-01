@@ -1,0 +1,5 @@
+Term: stop-motion animation
+Glossary: vfx
+Definition: An animation technique that involves photographing objects or characters a frame at a time, changing the pose or position of the object between each frame. The result, when played back at normal speed, is of a subject or object with motion or “life to it.”
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stop-motion-animation/

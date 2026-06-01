@@ -1,0 +1,5 @@
+Term: frame rate
+Glossary: vfx
+Definition: The rate at which sequences of images are captured or displayed. The frame rate is usually measured in frames per second, or fps.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/frame-rate/

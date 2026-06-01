@@ -1,0 +1,5 @@
+Term: pixelation animation
+Glossary: vfx
+Definition: Stop-motion technique in which live actors are used as a frame-by-frame subject in an animated film by repeatedly posing while one or more frames are taken and changing the pose slightly before the next frame or frames. The actor becomes a kind of living stop-motion puppet.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pixelation-animation/

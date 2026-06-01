@@ -1,0 +1,5 @@
+Term: color lookup table
+Glossary: vfx
+Definition: A lookup table that is specifically designed to modify color.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-lookup-table/

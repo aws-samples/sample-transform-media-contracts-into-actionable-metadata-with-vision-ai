@@ -1,0 +1,3 @@
+Term: Has Action
+Glossary: odrl
+Definition: The operation relating to the Asset for which the Rule is being subjected.

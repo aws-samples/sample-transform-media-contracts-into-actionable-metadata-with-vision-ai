@@ -1,0 +1,5 @@
+Term: SFX
+Glossary: vfx
+Definition: Often used as an abbreviation for special effects, although sound effects people will dispute this usage.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sfx/

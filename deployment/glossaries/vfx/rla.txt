@@ -1,0 +1,5 @@
+Term: RLA
+Glossary: vfx
+Definition: Abbreviation for Run-Length Encoded Version A, a specific image file format. RLA is primarily used by the Wavefront Advanced Visualizer animation package to store output data and to exchange graphical data with other software applications. There are actually three variations of the RLA image file format.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rla/

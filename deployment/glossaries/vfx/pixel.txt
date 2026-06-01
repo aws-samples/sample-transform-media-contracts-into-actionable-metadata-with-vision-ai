@@ -1,0 +1,5 @@
+Term: pixel
+Glossary: vfx
+Definition: Originally an abbreviation for picture element, although the term pixel is generally considered to be an actual word nowadays. A digital image is composed of a rectangular array of individual colored points. Each one of these points is referred to as a pixel.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pixel/

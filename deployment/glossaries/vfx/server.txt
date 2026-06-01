@@ -1,0 +1,5 @@
+Term: server
+Glossary: vfx
+Definition: A computer that is shared over a network by several users.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/server/

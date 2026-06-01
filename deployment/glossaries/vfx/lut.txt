@@ -1,0 +1,5 @@
+Term: LUT
+Glossary: vfx
+Definition: Abbreviation for lookup table.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lut/

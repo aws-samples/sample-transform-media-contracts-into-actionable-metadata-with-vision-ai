@@ -1,0 +1,5 @@
+Term: Tariff
+Glossary: broadcast_fcc
+Definition: The documents filed by a carrier describing their services and the payments to be charged for such services. Tariffs are filed with the FCC for interstate services and with state public utility commissions for intrastate services.
+Usage Context: Carriers' tariffs have historically established the binding terms of service, though deregulation has reduced reliance on tariffs for many services. Still used for many common-carrier offerings.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

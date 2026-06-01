@@ -1,0 +1,4 @@
+Term: Distribute
+Glossary: odrl
+Definition: To supply the Asset to third-parties.
+Usage Context: It is recommended to use nextPolicy to express the allowable usages by third-parties.

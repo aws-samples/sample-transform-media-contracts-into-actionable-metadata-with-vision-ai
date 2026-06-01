@@ -1,0 +1,4 @@
+Term: All First-Level Connections
+Glossary: odrl
+Definition: Specifies that the scope of the relationship is all of the first-level connections of the Party.
+Usage Context: For example, may be used to indicate all “friends” of the Party. Note that “group” scope is also assumed.

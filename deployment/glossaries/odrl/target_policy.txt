@@ -1,0 +1,4 @@
+Term: Target Policy
+Glossary: odrl
+Definition: Identifies an ODRL Policy for which the identified Asset is the target Asset to all the Rules.
+Usage Context: The Asset being identified MUST be inferred to be the target Asset of all of the Rules of the Policy.

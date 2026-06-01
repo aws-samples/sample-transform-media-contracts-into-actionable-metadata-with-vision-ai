@@ -1,0 +1,5 @@
+Term: Signatory
+Glossary: sag_aftra
+Definition: An entity that has signed a SAG-AFTRA collective bargaining agreement (such as the Commercials Contract, TV/Theatrical Contract, or one of the Low Budget Agreements) and has agreed to comply with its terms and conditions.
+Usage Context: Hiring SAG-AFTRA members generally requires the production entity to first become a signatory. Each signatory receives a seniority number. Signatory status is required for lawful engagement of union talent on covered productions.
+Source: SAGindie FAQ — https://www.sagindie.org/resources/faq/

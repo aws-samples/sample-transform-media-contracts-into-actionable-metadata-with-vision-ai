@@ -1,0 +1,5 @@
+Term: OLED (organic light-emitting diode)
+Glossary: vfx
+Definition: An organic light-emitting diode (OLED or Organic LED), also known as an organic EL (organic electroluminescent) diode, is a light-emitting diode(LED) in which the emissive electroluminescent layer is a film of organic compound that emits light in response to an electric current. OLEDs are used to create digital displays in devices such as television screens, computer monitors, portable systems such as smartphones, handheld game consoles and PDAs.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/oled-organic-light-emitting-diode/

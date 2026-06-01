@@ -1,0 +1,5 @@
+Term: Collective Bargaining Agreement
+Glossary: media_rights_legal
+Definition: A contract between a union (SAG-AFTRA, DGA, WGA, IATSE) and producers establishing minimum compensation, working conditions, residual formulas, and other terms for union members.
+Usage Context: Talent agreements: 'Residuals payable in accordance with applicable SAG-AFTRA collective bargaining agreements.'
+Source: media_rights_legal

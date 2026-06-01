@@ -1,0 +1,5 @@
+Term: flare
+Glossary: vfx
+Definition: Any of a number of effects that will show up on an image as the result of a light source shining directly into the lens of a camera.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/flare/

@@ -1,0 +1,18 @@
+{
+  "metadataAttributes": {
+    "glossary": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "sag_aftra"
+      },
+      "includeForEmbedding": true
+    },
+    "term": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "Distributor's Gross Receipts"
+      },
+      "includeForEmbedding": true
+    }
+  }
+}

@@ -1,0 +1,5 @@
+Term: Background Actor Digital Replica
+Glossary: sag_aftra
+Definition: A digital version of a background actor's voice or likeness, made with the actor physically present, used to portray the actor in scenes they did not actually film.
+Usage Context: Producers may not use a background actor digital replica to avoid hiring a background performer or to evade coverage maximums. Subject to the same consent and payment requirements as other digital replicas under the 2023 TV/Theatrical Contracts.
+Source: SAG-AFTRA Regulating AI TV/Theatrical 2023 — https://www.sagaftra.org/sites/default/files/sa_documents/AI%20TVTH.pdf

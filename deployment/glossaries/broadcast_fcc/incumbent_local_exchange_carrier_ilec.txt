@@ -1,0 +1,5 @@
+Term: Incumbent Local Exchange Carrier (ILEC)
+Glossary: broadcast_fcc
+Definition: The local exchange carrier that was providing service in a given area as of the enactment of the Telecommunications Act of 1996 — typically a successor to the regional Bell Operating Companies or independent telephone companies. Subject to specific unbundling and interconnection obligations.
+Usage Context: Distinguished from CLECs (Competitive Local Exchange Carriers). ILEC obligations to unbundle network elements and provide interconnection underpin local telecom competition framework.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

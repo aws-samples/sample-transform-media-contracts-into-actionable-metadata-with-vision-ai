@@ -1,0 +1,5 @@
+Term: spill
+Glossary: vfx
+Definition: Any light in a scene that strikes an object it was not intended to illuminate. See also blue spill, green spill.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/spill/

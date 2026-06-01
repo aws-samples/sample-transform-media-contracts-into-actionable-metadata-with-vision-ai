@@ -1,0 +1,5 @@
+Term: Master Recording
+Glossary: music_rights_licensing
+Definition: The original recorded version of a musical performance, embodied in the sound recording copyright. The master recording is typically owned by the record label (or by the artist in the case of independent releases), and is distinct from the underlying composition copyright.
+Usage Context: Using a master recording in an audiovisual production requires a master use license from the master owner, in addition to a synchronization license from the composition's publisher. Identified by ISRC (International Standard Recording Code).
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

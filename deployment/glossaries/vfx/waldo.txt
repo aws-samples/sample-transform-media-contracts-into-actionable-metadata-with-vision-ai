@@ -1,0 +1,5 @@
+Term: Waldo
+Glossary: vfx
+Definition: A mechanical input device that has encoders attached to its axes of motion such that any motion of the device will translate to a series of numbers that are read by a computer as locations or rotations in 3D space. Such devices are used to assist in animation of characters, motion-controlled rigs, etc. Named after the Robert A. Heinlein’s short story, Waldo.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/waldo/

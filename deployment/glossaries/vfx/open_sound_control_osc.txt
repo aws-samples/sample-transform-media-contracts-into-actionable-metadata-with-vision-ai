@@ -1,0 +1,5 @@
+Term: Open Sound Control (OSC)
+Glossary: vfx
+Definition: A protocol for networking sound synthesizers, computers, and other multimedia devices for purposes such as musical performance or show control. OSC’s advantages include interoperability, accuracy, flexibility and enhanced organization and documentation.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/open-sound-control-osc/

@@ -1,0 +1,5 @@
+Term: Holdback
+Glossary: media_rights_legal
+Definition: A contractual restriction preventing the licensor from licensing the same content to specified competing platforms or services within the territory during a defined period.
+Usage Context: Content licensing: 'Licensor agrees that during the Term it shall not license the Licensed Content to the following platforms within the Territory.'
+Source: media_rights_legal

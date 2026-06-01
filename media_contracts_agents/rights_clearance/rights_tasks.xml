@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Rights & Clearances Analyst Agent — Tasks
+    ============================================
+    Ordered analysis steps performed on the Extractor's output.
+-->
+<rights_tasks>
+
+    <task>Review the Extractor's output and identify the contract type, parties, and their roles (grantor vs. grantee). Determine the intended exploitation: what does the grantee plan to do with these rights?</task>
+
+    <task>Analyze the grant of rights for scope sufficiency:
+        <sub_task>Map each specific right granted (reproduce, distribute, perform, display, synchronize, make available, exploit) against the intended exploitation</sub_task>
+        <sub_task>Identify any specific rights that would be needed for the intended exploitation but are not explicitly granted</sub_task>
+        <sub_task>Classify the grant as broad (all rights necessary for full exploitation), narrow (limited to specific uses), or mixed</sub_task>
+        <sub_task>Identify rights that fall in the "silent zone" — neither explicitly granted nor explicitly reserved</sub_task>
+    </task>
+
+    <task>Analyze territory scope:
+        <sub_task>List all territories explicitly granted</sub_task>
+        <sub_task>Identify any territory restrictions or carve-outs</sub_task>
+        <sub_task>Assess whether the territory grant is sufficient for the grantee's likely distribution footprint</sub_task>
+        <sub_task>For multi-territory grants, verify that language rights align with each territory's primary languages</sub_task>
+        <sub_task>Flag any territories that may be subject to sanctions or export controls (for cross_reference to Regulatory Analyst)</sub_task>
+    </task>
+
+    <task>Analyze platform and media scope:
+        <sub_task>List all licensed media and platforms explicitly granted</sub_task>
+        <sub_task>Identify any media/platform restrictions or carve-outs</sub_task>
+        <sub_task>Assess whether emerging platforms (FAST, social media, interactive) are covered or fall in the silent zone</sub_task>
+        <sub_task>Evaluate whether the media grant language is future-proof or technology-specific (e.g., "SVOD" vs. "all digital distribution means now known or hereafter devised")</sub_task>
+    </task>
+
+    <task>Analyze language, dubbing, and subtitle rights:
+        <sub_task>Are dubbing rights explicitly granted? For which languages?</sub_task>
+        <sub_task>Are subtitling rights explicitly granted? For which languages?</sub_task>
+        <sub_task>Who bears localization costs? Is this a recoupable expense? (Cross_reference to Financial Analyst if economic implications are material)</sub_task>
+        <sub_task>Who approves the quality of localized versions? What is the approval mechanic?</sub_task>
+        <sub_task>Who owns the dubbed/subtitled versions upon termination?</sub_task>
+        <sub_task>For multi-territory grants, are there territories where the grant exists but no corresponding language rights have been granted?</sub_task>
+    </task>
+
+    <task>Analyze chain of title and IP ownership:
+        <sub_task>Identify the party represented as the underlying IP owner</sub_task>
+        <sub_task>Classify the chain of title warranty by strength: "owns all rights" (strongest) → "has the right to grant" (moderate) → "to the best of its knowledge" (weakest) → absent (no warranty)</sub_task>
+        <sub_task>Evaluate any work-for-hire references: is the classification documented? Is a signed written agreement referenced?</sub_task>
+        <sub_task>Identify any disclosed prior encumbrances, liens, or existing licenses. Assess compatibility with the new grant.</sub_task>
+        <sub_task>Identify any disclosed title disputes or pending claims</sub_task>
+        <sub_task>If the contract is entirely silent on chain of title, flag as a significant gap</sub_task>
+    </task>
+
+    <task>Analyze music licensing completeness:
+        <sub_task>Sync rights: are synchronization licenses for all compositions addressed? Status (cleared, pending, to be obtained)?</sub_task>
+        <sub_task>Master use rights: are master use licenses for all recordings addressed? Status?</sub_task>
+        <sub_task>Public performance rights: are PRO affiliations identified (ASCAP, BMI, SESAC, GMR)? Is performance rights clearance addressed?</sub_task>
+        <sub_task>For each leg (sync, master, performance): is it confirmed cleared, warranted as cleared, acknowledged as pending, or not addressed?</sub_task>
+        <sub_task>Are music clearance territories and media aligned with the overall distribution grant?</sub_task>
+        <sub_task>Are there MFN provisions across music cues? (Cross_reference to Financial Analyst for economic impact)</sub_task>
+    </task>
+
+    <task>Analyze embedded IP clearances:
+        <sub_task>Does the contract warrant that all third-party IP embedded in the content (logos, footage, artwork, brand marks, archival material) is cleared?</sub_task>
+        <sub_task>How specific is the warranty? General ("all necessary clearances obtained") vs. specific ("clearances for the materials listed in Exhibit C")?</sub_task>
+        <sub_task>Are any specific embedded IP items identified as uncleared or pending?</sub_task>
+        <sub_task>Is there indemnification backing the clearance warranty?</sub_task>
+    </task>
+
+    <task>Analyze sublicensing and assignment provisions:
+        <sub_task>Can the grantee sublicense? Under what conditions (unlimited, with approval, prohibited)?</sub_task>
+        <sub_task>If sublicensing is permitted with approval, what is the approval mechanic? Is silence treated as consent or refusal?</sub_task>
+        <sub_task>Does the grantee remain liable for sublicensee obligations?</sub_task>
+        <sub_task>Can the agreement be assigned? Under what conditions?</sub_task>
+        <sub_task>Is there a change-of-control provision that triggers consent requirements?</sub_task>
+    </task>
+
+    <task>Analyze reservation of rights and exclusivity:
+        <sub_task>What rights has the grantor explicitly reserved?</sub_task>
+        <sub_task>Are there material rights in the silent zone — neither granted nor reserved?</sub_task>
+        <sub_task>Is the grant exclusive or non-exclusive? If exclusive, for which territories, media, and time periods?</sub_task>
+        <sub_task>Analyze holdback provisions: what is the grantor restricted from licensing during the holdback period? Are there gaps in holdback coverage that allow competing exploitation?</sub_task>
+        <sub_task>Evaluate holdback duration against typical windowing for this contract type</sub_task>
+    </task>
+
+    <task>Analyze reversion mechanics from a rights perspective:
+        <sub_task>When do rights revert — on expiration, on termination, or both?</sub_task>
+        <sub_task>What happens to sublicenses upon reversion? Do they survive, terminate, or require individual negotiation?</sub_task>
+        <sub_task>Is there a sell-off period? What exploitation is permitted during sell-off?</sub_task>
+        <sub_task>What materials must be returned or destroyed upon reversion?</sub_task>
+        <sub_task>Who owns derivative works (dubbed versions, marketing materials, metadata) upon reversion?</sub_task>
+    </task>
+
+    <task>Assess E&amp;O insurability:
+        <sub_task>Based on the chain of title provisions, clearance warranties, and embedded IP provisions, would an E&amp;O insurer likely have concerns?</sub_task>
+        <sub_task>Are the insurance provisions in the contract (coverage amounts, additional insured, proof of coverage) adequate for this deal type?</sub_task>
+        <sub_task>If insurance is not addressed, flag as a gap for this contract type</sub_task>
+    </task>
+
+    <task>Assess digital and emerging rights from a rights/clearance perspective:
+        <sub_task>Are AI training rights addressed? If content could be used as ML training data without explicit consent, flag as a rights gap</sub_task>
+        <sub_task>Are NFT, metaverse, and interactive media rights addressed or in the silent zone?</sub_task>
+        <sub_task>Are social media clip rights explicitly scoped or are they ambiguous?</sub_task>
+        <sub_task>For digital likeness provisions, are the clearance mechanics sufficient — is consent per-use, blanket, or undefined?</sub_task>
+    </task>
+
+    <task>Produce a rights and clearance findings summary:
+        <sub_task>List all rights gaps identified: specific rights, territories, media, or languages where exploitation may be blocked or contested</sub_task>
+        <sub_task>List all clearance risks: pending clearances, weak warranties, undocumented chain of title elements</sub_task>
+        <sub_task>List all silent zone items: material rights neither granted nor reserved</sub_task>
+        <sub_task>Assess overall rights posture: clean (minimal gaps), conditional (gaps exist but are manageable), or deficient (material gaps that block exploitation)</sub_task>
+        <sub_task>Note any cross-references to other specialist agents</sub_task>
+    </task>
+
+    <task>Populate metadata and run verification before finalizing output.</task>
+</rights_tasks>

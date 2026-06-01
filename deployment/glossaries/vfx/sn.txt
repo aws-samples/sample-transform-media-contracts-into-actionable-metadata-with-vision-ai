@@ -1,0 +1,5 @@
+Term: S/N
+Glossary: vfx
+Definition: See signal to noise ratio.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/s-n/

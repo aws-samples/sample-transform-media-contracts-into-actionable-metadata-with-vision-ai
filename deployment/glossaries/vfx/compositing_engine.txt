@@ -1,0 +1,5 @@
+Term: compositing engine
+Glossary: vfx
+Definition: Within a package used for compositing, the code that is responsible for the actual image-processing operations, in contrast to other code that may deal with the user interface, file input/output, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/compositing-engine/

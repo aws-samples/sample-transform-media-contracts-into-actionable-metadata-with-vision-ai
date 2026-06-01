@@ -1,0 +1,3 @@
+Term: ODRL Core Profile
+Glossary: odrl
+Definition: Identifier for the ODRL Core Profile

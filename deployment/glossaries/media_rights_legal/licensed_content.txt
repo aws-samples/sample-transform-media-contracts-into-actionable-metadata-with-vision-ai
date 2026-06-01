@@ -1,0 +1,5 @@
+Term: Licensed Content
+Glossary: media_rights_legal
+Definition: The specific audiovisual works, programming, or materials that are the subject of a licensing agreement, typically identified in an exhibit or schedule.
+Usage Context: Defined term in content licensing: 'Licensed Content shall mean all audiovisual works identified in Exhibit A.'
+Source: media_rights_legal

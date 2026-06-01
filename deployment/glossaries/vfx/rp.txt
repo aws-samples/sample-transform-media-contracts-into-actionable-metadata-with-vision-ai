@@ -1,0 +1,5 @@
+Term: RP
+Glossary: vfx
+Definition: Abbreviation for rear projection.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rp/

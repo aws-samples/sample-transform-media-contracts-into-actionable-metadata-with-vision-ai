@@ -1,0 +1,5 @@
+Term: super
+Glossary: vfx
+Definition: Shortened form of superimpose.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/super/

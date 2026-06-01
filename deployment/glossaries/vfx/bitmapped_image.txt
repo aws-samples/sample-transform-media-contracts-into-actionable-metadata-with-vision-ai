@@ -1,0 +1,5 @@
+Term: bitmapped image
+Glossary: vfx
+Definition: An image that consists of a rectangular, two-dimensional array of pixels. The standard method for representing an image in a digital format.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bitmapped-image/

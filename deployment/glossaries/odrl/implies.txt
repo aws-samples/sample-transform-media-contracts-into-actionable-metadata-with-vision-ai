@@ -1,0 +1,4 @@
+Term: Implies
+Glossary: odrl
+Definition: An Action asserts that another Action is not prohibited to enable its operational semantics.
+Usage Context: The property asserts that an instance of Action entails that the other instance of Action is not prohibited.

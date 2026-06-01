@@ -1,0 +1,3 @@
+Term: Give
+Glossary: odrl
+Definition: To transfer the ownership of the Asset to a third party without compensation and while deleting the original asset.

@@ -1,0 +1,5 @@
+Term: Pixel mapping
+Glossary: vfx
+Definition: The process of sampling the pixels of a specified onscreen texture and outputting their hue and intensity as DMX for lighting control and synchronization.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/pixel-mapping/

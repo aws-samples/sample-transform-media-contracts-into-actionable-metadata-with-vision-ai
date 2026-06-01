@@ -1,0 +1,5 @@
+Term: Day-and-Date
+Glossary: media_rights_legal
+Definition: Simultaneous release of content across multiple platforms or territories on the same date, rather than sequential windowed release.
+Usage Context: Distribution strategy. Contrasted with traditional windowing where theatrical precedes streaming.
+Source: media_rights_legal

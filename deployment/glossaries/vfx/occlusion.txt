@@ -1,0 +1,5 @@
+Term: occlusion
+Glossary: vfx
+Definition: State in which objects, or portions of objects, are not visible because they are blocked by other objects or portions of objects.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/occlusion/

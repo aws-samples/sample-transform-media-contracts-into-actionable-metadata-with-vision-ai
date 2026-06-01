@@ -1,0 +1,5 @@
+Term: histogram stretching
+Glossary: vfx
+Definition: Equivalent to multiplying the values of every pixel in an image by a certain amount.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/histogram-stretching/

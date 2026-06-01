@@ -1,0 +1,5 @@
+Term: Acquisition team
+Glossary: vfx
+Definition: The team responsible for capture of real-world locations via photogrammetry, lidar, photography and other methods. See also building team
+Source: vp
+Reference: https://vpglossary.com/vpglossary/acquisition-team/

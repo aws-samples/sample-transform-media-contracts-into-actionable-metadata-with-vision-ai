@@ -1,0 +1,5 @@
+Term: Encapsulant
+Glossary: vfx
+Definition: The physical support structure for individual LEDs within an LED panel for a volume.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/encapsulant/

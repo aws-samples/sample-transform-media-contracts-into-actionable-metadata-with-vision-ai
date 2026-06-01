@@ -1,0 +1,5 @@
+Term: Mach banding
+Glossary: vfx
+Definition: An optical illusion (named after the physicist Ernst Mach) in which the eye perceives emphasized edges in areas of color transition. This illusion causes the eye to be more sensitive to contouring artifacts.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/mach-banding/

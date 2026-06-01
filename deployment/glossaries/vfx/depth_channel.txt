@@ -1,0 +1,5 @@
+Term: depth channel
+Glossary: vfx
+Definition: Another term for the Z-channel.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/depth-channel/

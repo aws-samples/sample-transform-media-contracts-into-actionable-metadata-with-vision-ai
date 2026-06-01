@@ -1,0 +1,5 @@
+Term: Revised Editions
+Glossary: publishing_literary_rights
+Definition: A clause governing the circumstances under which the publisher may require the author to prepare a revised edition of the work, the compensation for such preparation, and what happens if the author is unable or unwilling to prepare a revision. Important for non-fiction works that may become dated.
+Usage Context: Authors Guild recommends that revision compensation be negotiated at the time a revision is requested (rather than pre-set at a low rate), that the author have first right to prepare revisions before any third-party writer is engaged, and that credit be preserved in revised editions.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

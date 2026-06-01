@@ -1,0 +1,4 @@
+Term: Move
+Glossary: odrl
+Definition: To move the Asset from one digital location to another including deleting the original copy.
+Usage Context: After the Asset has been moved, the original copy must be deleted.

@@ -1,0 +1,5 @@
+Term: double framing
+Glossary: vfx
+Definition: The process of duplicating and repeating every frame in an image sequence. The result is a new image sequence that appears to be moving at half the original speed. Also known as double printing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/double-framing/

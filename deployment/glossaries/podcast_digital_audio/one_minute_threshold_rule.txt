@@ -1,0 +1,5 @@
+Term: One Minute Threshold Rule
+Glossary: podcast_digital_audio
+Definition: The IAB-specified minimum content requirement for a podcast file request to count as a valid download: the ID3 tag plus enough of the podcast content to play for 1 minute must have been downloaded. One minute was chosen as a conservative minimum consistent with other media measurement standards.
+Usage Context: Central rule for distinguishing valid downloads from pre-loads and aborted requests. Publishers measure the ID3 tag file size for each podcast and calculate content size for one minute at the podcast's bitrate. If byte range data isn't available, more advanced algorithms may be used with transparent disclosure.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

@@ -1,0 +1,3 @@
+Term: Status
+Glossary: odrl
+Definition: the value generated from the leftOperand action or a value related to the leftOperand set as the reference for the comparison.

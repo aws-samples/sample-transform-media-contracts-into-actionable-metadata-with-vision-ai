@@ -1,0 +1,5 @@
+Term: HIT
+Glossary: vfx
+Definition: (stereo) Horizontal image translation. The horizontal shifting of the two image fields to change the value of the parallax of corresponding points. The term convergence has been confusingly used to denote this concept.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hit/

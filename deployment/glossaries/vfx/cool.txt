@@ -1,0 +1,5 @@
+Term: cool
+Glossary: vfx
+Definition: A non-exact term that is used to describe an image that is biased toward the blue portion of the spectrum.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cool/

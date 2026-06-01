@@ -1,0 +1,5 @@
+Term: stand-in
+Glossary: vfx
+Definition: A reference object photographed in a particular scene that can later be used to help match the color and lighting of any new elements that will be added to that scene.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stand-in/

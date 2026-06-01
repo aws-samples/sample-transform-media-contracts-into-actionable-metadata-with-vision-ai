@@ -1,0 +1,5 @@
+Term: Developed By Credit
+Glossary: film_tv_production
+Definition: A television writing credit granted to a writer who has contributed significantly to a series' distinctiveness and viability but not enough to warrant a 'Created By' credit. Distinct from eligibility for separated rights: a writer eligible for but not entitled to separated rights may be eligible for 'Developed By.'
+Usage Context: Because a 'Developed By' credit tends to diminish the importance of a 'Created By' credit, it is granted only when warranted by the writer's substantial contribution. A writer receiving teleplay credit but not story credit may also be eligible.
+Source: WGA Television Credits Manual — https://www.wga.org/contracts/credits/manuals/tv-credits-manual

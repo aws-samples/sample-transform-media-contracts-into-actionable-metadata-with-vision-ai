@@ -1,0 +1,4 @@
+Term: Extract character
+Glossary: odrl
+Definition: The act of extracting (replicating) unchanged characters from the asset.
+Usage Context: This original term and URI from the ONIX specification should be used: http://www.editeur.org/onix-pl/extract-char .

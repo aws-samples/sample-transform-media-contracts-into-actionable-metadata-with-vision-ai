@@ -1,0 +1,5 @@
+Term: polarized glasses
+Glossary: vfx
+Definition: 3D glasses that use polarizing filters to differentiate between the images sent to the right and left eyes in stereo films. See also flicker glasses, anaglyph glasses.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/polarized-glasses/

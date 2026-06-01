@@ -1,0 +1,4 @@
+Term: Recipient
+Glossary: odrl
+Definition: The party receiving the result/outcome of exercising the action of the Rule.
+Usage Context: The Right Operand must identify one or more specific Parties or category/ies of the Party.

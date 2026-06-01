@@ -1,0 +1,5 @@
+Term: On-set operations
+Glossary: vfx
+Definition: The team responsible for managing any technical difficulties related to the volume during production operations and maintain the key creatives.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/on-set-operations/

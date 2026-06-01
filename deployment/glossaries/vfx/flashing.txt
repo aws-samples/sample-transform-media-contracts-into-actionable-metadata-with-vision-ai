@@ -1,0 +1,5 @@
+Term: flashing
+Glossary: vfx
+Definition: An optical process whereby an unprocessed negative is exposed to a small amount of light for the purpose of reducing the contrast or saturation of the scene that will eventually be photographed with that film. In the digital realm, flashing is the application of any number of nonspecific techniques to produce similar results. An image that appears to suffer from some of these characteristics is often referred to as appearing flashed.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/flashing/

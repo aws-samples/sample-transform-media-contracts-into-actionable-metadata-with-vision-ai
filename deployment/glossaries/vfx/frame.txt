@@ -1,0 +1,5 @@
+Term: frame
+Glossary: vfx
+Definition: A single image that is usually part of a group designed to be viewed as a moving sequence.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/frame/

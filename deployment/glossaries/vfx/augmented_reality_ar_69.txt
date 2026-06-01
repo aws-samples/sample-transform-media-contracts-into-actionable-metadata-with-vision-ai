@@ -1,0 +1,5 @@
+Term: Augmented reality (AR)
+Glossary: vfx
+Definition: Technology which integrates virtual elements into a physical environment. See also simulcam.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/augmented-reality-ar/

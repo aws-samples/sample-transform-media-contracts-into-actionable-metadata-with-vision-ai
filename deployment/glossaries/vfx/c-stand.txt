@@ -1,0 +1,5 @@
+Term: C-stand
+Glossary: vfx
+Definition: Common three-legged adjustable stand used by the grip department to hold things such as lighting flags.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/c-stand/

@@ -1,0 +1,5 @@
+Term: Server Log Measurement
+Glossary: podcast_digital_audio
+Definition: The methodology used for podcast measurement, relying on analysis of server log files to determine what was actually delivered. Because most podcast players do not provide client-side tracking, server logs are the only way to achieve comprehensive measurement of podcast usage.
+Usage Context: HTTP GET requests in server logs contain IP Address, Time Stamp, HTTP Status Code, Bytes Served, Referer, User Agent, and Byte Range data. When analyzed across multiple requests, these produce statistics for downloads, audience, and ad delivery.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

@@ -1,0 +1,5 @@
+Term: unpremultiplied image
+Glossary: vfx
+Definition: An image whose red, green, and blue channels have not been multiplied by an Alpha channel. Opposite of premultiplied image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/unpremultiplied-image/

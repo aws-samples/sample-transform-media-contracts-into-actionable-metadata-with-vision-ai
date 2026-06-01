@@ -1,0 +1,5 @@
+Term: temporary composite
+Glossary: vfx
+Definition: A rough composite produced for a number of different reasons, usually to better judge the spatial and color relationships of the elements in a scene so that they can be modified to produce a final composite. Also called a temp comp.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/temporary-composite/

@@ -1,0 +1,5 @@
+Term: ODT
+Glossary: vfx
+Definition: Abbreviation for Output Device Transform; in the ACES color management system, a color transformation that converts ACES RGB values into the code values of an output device such as a display or projector.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/odt/

@@ -1,0 +1,5 @@
+Term: conversion
+Glossary: vfx
+Definition: (stereo) Also known as synthesis. A process by which a planar image is turned into a stereoscopic image – a flat image into a 3D image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/conversion/

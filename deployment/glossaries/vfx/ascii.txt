@@ -1,0 +1,5 @@
+Term: ASCII
+Glossary: vfx
+Definition: Abbreviation for American Standard for Computer Information Interchange. Pure and simple text file based on an American standard. A very common alphanumeric text interchange format. The term is used colloquially to refer to data that is stored in a text format that does not require a special program to decode and is usually somewhat comprehensible to a human reader.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ascii/

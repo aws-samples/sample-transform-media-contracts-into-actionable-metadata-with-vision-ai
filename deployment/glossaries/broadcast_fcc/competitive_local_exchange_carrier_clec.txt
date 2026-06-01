@@ -1,0 +1,5 @@
+Term: Competitive Local Exchange Carrier (CLEC)
+Glossary: broadcast_fcc
+Definition: A local exchange carrier that competes with the established incumbent local exchange carrier (ILEC) in a given area. CLECs emerged after the Telecommunications Act of 1996 opened local markets to competition.
+Usage Context: CLECs may lease unbundled network elements from ILECs or build their own networks. FCC rules govern the rates and terms for interconnection and unbundling.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

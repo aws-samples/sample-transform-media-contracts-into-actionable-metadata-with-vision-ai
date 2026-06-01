@@ -1,0 +1,5 @@
+Term: Blanket License
+Glossary: music_rights_licensing
+Definition: A license which allows the music user to perform the ASCAP repertory (over 10 million musical works) as much or as little as they like. Fees paid under a blanket license are based on the ways the licensee uses music (for example, digital music services pay different fees than the owner of a bar) and do not vary depending on the extent the licensee actually performs ASCAP music.
+Usage Context: Saves music users the paperwork, trouble, and expense of finding and negotiating separate licenses with every copyright owner whose work might be used in a year. Helps prevent inadvertent copyright infringement. Standard mechanism for radio, television, restaurants, venues, and digital services.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

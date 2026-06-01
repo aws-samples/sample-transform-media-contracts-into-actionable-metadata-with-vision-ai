@@ -1,0 +1,5 @@
+Term: Ramsdell rig
+Glossary: vfx
+Definition: (stereo) First designed by Floyd Ramsdell. A rig that allows two cameras to be arranged in a way that provides the means for taking stereoscopic moving images, by use of a beamsplitter, to create an interocular separation that is the same distance apart as typical human eyes. See beamsplitter.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ramsdell-rig/

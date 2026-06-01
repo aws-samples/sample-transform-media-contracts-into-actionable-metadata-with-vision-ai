@@ -1,0 +1,4 @@
+Term: Has Constraint
+Glossary: odrl
+Definition: Constraint applied to a Rule
+Usage Context: Constraints on Rules are used to determine if a rule is Active or not. Example: the Permission rule is only active during the year 2018.

@@ -1,0 +1,4 @@
+Term: System Device
+Glossary: odrl
+Definition: An identified computing system or computing device used for exercising the action of the Rule.
+Usage Context: Example: The system device can be identified by a unique code created from the used hardware.

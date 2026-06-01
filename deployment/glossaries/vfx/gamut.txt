@@ -1,0 +1,5 @@
+Term: gamut
+Glossary: vfx
+Definition: The range of colors that any given device or format is able to display or represent.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gamut/

@@ -1,0 +1,5 @@
+Term: Super 35mm film
+Glossary: vfx
+Definition: The Super 35 format is a 35mm film that uses the full aperture of the negative to capture its images. Super 35 can be used for a number of different formats that use full-aperture framing, but it is most commonly used for films that are intended to be projected with a 2.35:1 aspect ratio. Also referred to as Super Techniscope, Super 1.85, or Super 2.35.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/super-35mm-film/

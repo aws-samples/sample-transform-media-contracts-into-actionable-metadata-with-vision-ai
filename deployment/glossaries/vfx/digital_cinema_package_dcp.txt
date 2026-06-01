@@ -1,0 +1,5 @@
+Term: digital cinema package (DCP)
+Glossary: vfx
+Definition: A collection of digital files used to store and convey digital cinema audio, image, and data streams. Usually used to distribute films to theaters.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital-cinema-package-dcp/

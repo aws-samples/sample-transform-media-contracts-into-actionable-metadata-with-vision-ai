@@ -1,0 +1,5 @@
+Term: Foreign Royalties
+Glossary: sag_aftra
+Definition: Royalty payments collected by foreign collective management organizations on behalf of performers for uses of their work outside the United States, Canada, and U.S. territories, then distributed by SAG-AFTRA to its members.
+Usage Context: Distinct from Foreign Market residuals under U.S. collective bargaining agreements. Members must register with SAG-AFTRA's Foreign Royalties program to receive their share.
+Source: SAG-AFTRA Foreign Royalties — https://www.sagaftra.org/membership-benefits/foreign-royalties

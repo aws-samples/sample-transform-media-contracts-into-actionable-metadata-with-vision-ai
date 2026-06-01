@@ -1,0 +1,5 @@
+Term: film recording
+Glossary: vfx
+Definition: The process of transferring digital images to a piece of film negative via the use of a film recorder.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/film-recording/

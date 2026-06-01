@@ -1,0 +1,5 @@
+Term: color timing or grading
+Glossary: vfx
+Definition: The color balance of a particular image or scene, or the process of color correcting and balancing that image or scene.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-timing-or-grading/

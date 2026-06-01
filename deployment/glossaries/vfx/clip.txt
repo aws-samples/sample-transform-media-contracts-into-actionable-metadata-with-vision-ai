@@ -1,0 +1,5 @@
+Term: clip
+Glossary: vfx
+Definition: A small piece of film, often clipped from a longer shot, that can be used as a reference for color, lighting, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/clip/

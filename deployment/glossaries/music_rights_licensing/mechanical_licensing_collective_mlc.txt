@@ -1,0 +1,5 @@
+Term: Mechanical Licensing Collective (MLC)
+Glossary: music_rights_licensing
+Definition: The entity designated under the Music Modernization Act to administer the blanket mechanical license for interactive streaming and digital downloads in the United States. The MLC collects royalties from digital service providers and distributes them to songwriters and publishers.
+Usage Context: DSPs like Spotify, Apple Music, and Amazon Music remit mechanical royalties to the MLC under the blanket license. Publishers must register their works with the MLC to ensure proper matching and payment. Unmatched royalties are held by the MLC for later matching.
+Source: NMPA — https://www.nmpa.org

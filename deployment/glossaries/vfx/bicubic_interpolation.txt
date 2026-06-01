@@ -1,0 +1,5 @@
+Term: bicubic interpolation
+Glossary: vfx
+Definition: A method of interpolation based on an average of the 16 nearest neighbors. See also linear interpolation, bilinear interpolation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bicubic-interpolation/

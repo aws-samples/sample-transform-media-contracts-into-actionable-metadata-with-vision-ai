@@ -1,0 +1,3 @@
+Term: Play
+Glossary: odrl
+Definition: To create a sequential and transient rendition of an Asset.

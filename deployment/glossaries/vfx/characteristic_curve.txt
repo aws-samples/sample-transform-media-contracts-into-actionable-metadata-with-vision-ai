@@ -1,0 +1,5 @@
+Term: characteristic curve
+Glossary: vfx
+Definition: A curve that plots the relationship between light falling on a piece of film and the resulting density of the developed image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/characteristic-curve/

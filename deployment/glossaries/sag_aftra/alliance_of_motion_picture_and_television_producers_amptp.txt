@@ -1,0 +1,5 @@
+Term: Alliance of Motion Picture and Television Producers (AMPTP)
+Glossary: sag_aftra
+Definition: The trade association that represents major motion picture studios, television networks, and streaming services in collective bargaining negotiations with Hollywood unions including SAG-AFTRA, WGA, DGA, and IATSE.
+Usage Context: The AMPTP is SAG-AFTRA's counterparty in negotiating the TV/Theatrical MBA. Member companies are automatically signatories to the resulting agreements.
+Source: SAG-AFTRA — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

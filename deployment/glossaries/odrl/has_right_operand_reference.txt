@@ -1,0 +1,4 @@
+Term: Has Right Operand Reference
+Glossary: odrl
+Definition: A reference to a web resource providing the value for the right operand of a Constraint.
+Usage Context: An IRI that MUST be dereferenced to obtain the actual right operand value. When used with set-based operators, a list of IRIs may be used

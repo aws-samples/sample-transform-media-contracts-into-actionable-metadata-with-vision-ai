@@ -1,0 +1,5 @@
+Term: low-pass filter
+Glossary: vfx
+Definition: A spatial filter that removes high-frequency detail. It is used as a method for blurring an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/low-pass-filter/

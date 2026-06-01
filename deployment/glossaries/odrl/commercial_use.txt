@@ -1,0 +1,4 @@
+Term: Commercial Use
+Glossary: odrl
+Definition: Exercising rights for commercial purposes.
+Usage Context: This term is defined by Creative Commons.

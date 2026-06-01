@@ -1,0 +1,5 @@
+Term: animation
+Glossary: vfx
+Definition: Moving imagery that is created on a frame-by-frame basis. This may be accomplished via the use of computers or with more traditional cel animation techniques.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/animation/

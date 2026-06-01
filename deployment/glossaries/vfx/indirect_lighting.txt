@@ -1,0 +1,5 @@
+Term: Indirect lighting
+Glossary: vfx
+Definition: Lighting on a subject which is reflected or bounced before reaching the subject; as opposed to incident lighting, which comes directly from a source.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/indirect-lighting/

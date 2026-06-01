@@ -1,0 +1,5 @@
+Term: float
+Glossary: vfx
+Definition: A number defined with floating point precision.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/float/

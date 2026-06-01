@@ -1,0 +1,15 @@
+{
+    "knowledgeBases": [
+        {
+            "id": "JQVOBSXZNU",
+            "name": "Contract Analysis KB",
+            "description": "Analyzed contract outputs and specialist findings"
+        },
+        {
+            "id": "FLXKA686AL",
+            "name": "Terms KB",
+            "description": "Reference materials, glossaries.",
+            "showGlossaries": true
+        }
+    ]
+}

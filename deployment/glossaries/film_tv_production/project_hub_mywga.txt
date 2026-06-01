@@ -1,0 +1,5 @@
+Term: Project Hub / myWGA
+Glossary: film_tv_production
+Definition: Online member platforms operated by the WGA that aggregate project information, contract submissions, residuals tracking, dues and earnings data, and credit registration for WGA members.
+Usage Context: Primary interface for members to manage their WGA interactions. Signatory producers use related producer portals to submit contracts, cast clearance, and production information.
+Source: WGA Member Platform — https://www.wga.org

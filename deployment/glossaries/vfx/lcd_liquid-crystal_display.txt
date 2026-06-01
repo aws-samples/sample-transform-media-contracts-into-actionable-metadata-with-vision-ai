@@ -1,0 +1,5 @@
+Term: LCD (liquid-crystal display)
+Glossary: vfx
+Definition: The use of liquid-crystal displays to produce images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lcd-liquid-crystal-display/

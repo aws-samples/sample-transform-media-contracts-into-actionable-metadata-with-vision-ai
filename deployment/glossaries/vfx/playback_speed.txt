@@ -1,0 +1,5 @@
+Term: playback speed
+Glossary: vfx
+Definition: The rate (usually measured in frames per second) at which a sequence of images is displayed.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/playback-speed/

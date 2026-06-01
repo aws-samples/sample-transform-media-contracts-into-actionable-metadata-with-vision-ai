@@ -1,0 +1,5 @@
+Term: Territory
+Glossary: media_rights_legal
+Definition: The geographic area(s) in which licensed rights may be exercised. May be worldwide, regional (North America, EMEA), or country-specific. A fundamental scope limiter on any rights grant.
+Usage Context: Content licensing: 'The license granted herein shall apply to the following Territory.' Often paired with holdback provisions.
+Source: media_rights_legal

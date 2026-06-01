@@ -1,0 +1,5 @@
+Term: pattern matching
+Glossary: vfx
+Definition: Process by which missing image data is synthesized by continuing patterns that are found elsewhere in the image into the missing area. Also can be used for motion tracking.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pattern-matching/

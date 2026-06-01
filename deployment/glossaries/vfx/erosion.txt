@@ -1,0 +1,5 @@
+Term: erosion
+Glossary: vfx
+Definition: An image-processing technique that results in darker areas of the image increasing in size and brighter areas decreasing. See also dilation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/erosion/

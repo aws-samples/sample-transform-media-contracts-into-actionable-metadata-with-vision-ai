@@ -1,0 +1,5 @@
+Term: beauty pass
+Glossary: vfx
+Definition: (1) In multiple-pass photography, the pass of the object that contains the most color and detail, as compared with the matte pass, reflection pass, or shadow pass. Also called the color pass. (2) In multiple-pass rendering, the CG element that contains the most color and detail information. See also light pass, matte pass, shadow pass, and reflection pass.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/beauty-pass/

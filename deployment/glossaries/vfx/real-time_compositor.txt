@@ -1,0 +1,5 @@
+Term: Real-time compositor
+Glossary: vfx
+Definition: [contact-form-7 id=”4763″ title=”Suggestion Form C7″]
+Source: vp
+Reference: https://vpglossary.com/vpglossary/real-time-compositor/

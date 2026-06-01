@@ -1,0 +1,5 @@
+Term: Imperfection
+Glossary: vfx
+Definition: The intentional introduction of subtle real-world flaws and visual artifacts to make virtual footage appear more like real-world live-action footage.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/imperfection/

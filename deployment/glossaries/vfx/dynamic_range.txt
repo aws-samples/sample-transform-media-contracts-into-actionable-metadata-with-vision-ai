@@ -1,0 +1,5 @@
+Term: dynamic range
+Glossary: vfx
+Definition: (1) The range of brightness values in a scene or an image, from brightest to darkest, often expressed as a ratio. (2) In a digital image, the total number of different colors in the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dynamic-range/

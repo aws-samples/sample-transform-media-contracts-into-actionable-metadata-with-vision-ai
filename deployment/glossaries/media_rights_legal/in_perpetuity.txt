@@ -1,0 +1,5 @@
+Term: In Perpetuity
+Glossary: media_rights_legal
+Definition: A grant of rights with no expiration date, lasting forever. Common in talent rights grants ('throughout the universe, in perpetuity') but increasingly resisted in licensing deals.
+Usage Context: Rights grants: 'Performer grants Producer the right to exploit the performance in all media, in perpetuity.'
+Source: media_rights_legal

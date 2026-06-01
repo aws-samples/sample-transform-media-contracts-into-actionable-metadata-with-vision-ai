@@ -1,0 +1,5 @@
+Term: General Licensee
+Glossary: music_rights_licensing
+Definition: An umbrella term referring to the hundreds of thousands of bars, restaurants, hotels, ice and roller skating rinks, theme parks, and other 'brick and mortar' businesses licensed by ASCAP — distinguished from TV, radio, or audio and audiovisual streaming platforms.
+Usage Context: Multiple ASCAP license types are available for different categories of general licensees. Businesses playing music for customers typically need both ASCAP and BMI (and often SESAC/GMR) licenses to cover the full repertory.
+Source: ASCAP Why ASCAP Licenses Bars, Restaurants and Music Venues — https://www.ascap.com/help/ascap-licensing/why-ascap-licenses-bars-restaurants-music-venues

@@ -1,0 +1,5 @@
+Term: pixelation
+Glossary: vfx
+Definition: An effect caused by displaying a bitmap or a section of a bitmap at such a large size that the individual pixels that make up the image are visible to the eye.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pixelation/

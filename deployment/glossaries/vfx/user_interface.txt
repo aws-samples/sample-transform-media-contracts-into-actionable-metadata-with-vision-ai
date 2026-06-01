@@ -1,0 +1,5 @@
+Term: user interface
+Glossary: vfx
+Definition: The portion of a computer program that deals specifically with how the user interacts with the software. See also graphical user interface.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/user-interface/

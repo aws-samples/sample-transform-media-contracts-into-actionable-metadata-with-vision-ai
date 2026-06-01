@@ -1,0 +1,5 @@
+Term: FAST
+Glossary: media_rights_legal
+Definition: Free Ad-Supported Streaming TV. Linear-style streaming channels supported by advertising, mimicking traditional broadcast. Examples: Pluto TV channels, Tubi channels.
+Usage Context: Distribution agreements listing authorized channels alongside broadcast, cable, SVOD, and AVOD.
+Source: media_rights_legal

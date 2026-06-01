@@ -1,0 +1,5 @@
+Term: stock
+Glossary: vfx
+Definition: General term for motion picture film, or the specific manufacturer, manufacturer’s product code, or rating of that film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stock/

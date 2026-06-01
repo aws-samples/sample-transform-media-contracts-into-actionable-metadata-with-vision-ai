@@ -1,0 +1,5 @@
+Term: wipe
+Glossary: vfx
+Definition: A specific transition effect in which one scene is horizontally or vertically revealed to replace another scene.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/wipe/

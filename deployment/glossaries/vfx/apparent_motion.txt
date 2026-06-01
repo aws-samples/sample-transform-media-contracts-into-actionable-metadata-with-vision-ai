@@ -1,0 +1,5 @@
+Term: apparent motion
+Glossary: vfx
+Definition: The natural ability of the eye to perceive motion in a series of images that are played back quickly enough. See also persistence of vision.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/apparent-motion/

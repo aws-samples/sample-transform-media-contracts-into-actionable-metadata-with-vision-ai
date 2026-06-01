@@ -1,0 +1,5 @@
+Term: Luminaire
+Glossary: vfx
+Definition: A discrete, integrated device designed specifically for lighting; LED panels create incident lighting but are not designed as luminaires.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/luminaire/

@@ -1,0 +1,5 @@
+Term: flicker glasses
+Glossary: vfx
+Definition: A type of 3D glasses that use an electronic shutter to block the light reaching each eye independently. By syncing the glasses to the projection device, alternate stereo pairs can be presented to the viewer in a fashion that simulates a stereoscopic scene. See also anaglyph glasses, polarized glasses.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/flicker-glasses/

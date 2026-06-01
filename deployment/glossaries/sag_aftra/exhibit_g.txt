@@ -1,0 +1,5 @@
+Term: Exhibit G
+Glossary: sag_aftra
+Definition: The SAG-AFTRA Production Time Report form that must be completed for each performer workday and submitted with signed Performer Contracts.
+Usage Context: Required documentation for signatory productions under agreements including the Short Project Agreement. Exhibit G forms are audited by SAG-AFTRA to verify hours worked, meal penalties, and turnaround compliance.
+Source: SAG-AFTRA Production Center — https://www.sagaftra.org/production-center/contract/886/getting-started

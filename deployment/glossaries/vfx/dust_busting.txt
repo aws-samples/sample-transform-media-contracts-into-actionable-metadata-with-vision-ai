@@ -1,0 +1,5 @@
+Term: dust busting
+Glossary: vfx
+Definition: The term used to describe the process of removing dirt and scratches from scanned imagery.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dust-busting/

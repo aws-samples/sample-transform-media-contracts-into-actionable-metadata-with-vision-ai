@@ -1,0 +1,5 @@
+Term: Z-depth compositing
+Glossary: vfx
+Definition: Compositing images together with the use of a Z-buffer to determine their relative depths or distances from the camera.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/z-depth-compositing/

@@ -1,0 +1,5 @@
+Term: procedural paint
+Glossary: vfx
+Definition: A specialized form of paint software that can actually apply brush strokes and other paint processes over a sequence of images instead of just a single frame. Parameters for these painting effects can usually be animated as well.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/procedural-paint/

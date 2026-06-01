@@ -1,0 +1,5 @@
+Term: GPU
+Glossary: vfx
+Definition: abbreviation for graphics processing unit. It is a specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gpu/

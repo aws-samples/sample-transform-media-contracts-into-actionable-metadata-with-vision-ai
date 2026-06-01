@@ -1,0 +1,5 @@
+Term: matte line
+Glossary: vfx
+Definition: An artifact of the matting process wherein a foreground element has a noticeable outline.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/matte-line/

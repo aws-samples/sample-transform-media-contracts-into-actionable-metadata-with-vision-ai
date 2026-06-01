@@ -1,0 +1,5 @@
+Term: color contamination
+Glossary: vfx
+Definition: A term used to describe a backing color, such as blue screen or green screen, that is contaminated with one of the other primary colors. Color contamination can make the job of matte extraction much more difficult.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-contamination/

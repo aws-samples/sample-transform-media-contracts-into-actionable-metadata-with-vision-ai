@@ -1,0 +1,5 @@
+Term: YIQ
+Glossary: vfx
+Definition: A color space used for NTSC television, in which the brightness (Y), orange-cyan (I), and green-magenta (Q) components are encoded together.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/yiq/

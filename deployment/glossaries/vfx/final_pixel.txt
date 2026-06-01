@@ -1,0 +1,5 @@
+Term: Final pixel
+Glossary: vfx
+Definition: The goal of achieving final image quality live, in-camera, without the need for additional major visual effects work.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/final-pixel/

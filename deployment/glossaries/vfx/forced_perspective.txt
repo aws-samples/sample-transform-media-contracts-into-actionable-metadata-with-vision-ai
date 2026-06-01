@@ -1,0 +1,5 @@
+Term: forced perspective
+Glossary: vfx
+Definition: A technique used to create the illusion of increased depth in a scene by building more distant objects at a smaller scale than normal.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/forced-perspective/

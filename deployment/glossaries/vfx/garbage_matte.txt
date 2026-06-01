@@ -1,0 +1,5 @@
+Term: garbage matte
+Glossary: vfx
+Definition: A rough, simple matte that isolates unwanted elements from the primary element in an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/garbage-matte/

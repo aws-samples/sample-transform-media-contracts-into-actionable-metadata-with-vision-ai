@@ -1,0 +1,5 @@
+Term: Directors Guild of America (DGA)
+Glossary: film_tv_production
+Definition: The labor union representing film and television directors, assistant directors, unit production managers, stage managers, and associate directors in the United States. Not all Hollywood directors are DGA members; non-members are generally unable to direct for major studios that are signatories to DGA collective bargaining agreements.
+Usage Context: Signatory productions must comply with the DGA Basic Agreement's provisions on minimum compensation, working conditions, creative rights, credit, and residuals. DGA jurisdiction extends to most scripted television and theatrical motion pictures.
+Source: Directors Guild of America — https://www.dga.org

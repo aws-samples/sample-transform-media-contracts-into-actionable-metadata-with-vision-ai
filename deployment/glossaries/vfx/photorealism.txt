@@ -1,0 +1,5 @@
+Term: photorealism
+Glossary: vfx
+Definition: A global term used to describe CG images that cannot be distinguished from objects or scenes in the real world.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/photorealism/

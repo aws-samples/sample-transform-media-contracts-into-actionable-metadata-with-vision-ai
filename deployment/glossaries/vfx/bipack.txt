@@ -1,0 +1,5 @@
+Term: bipack
+Glossary: vfx
+Definition: The process of loading two pieces of film in such a way that they travel through the same movement of the camera at the same time. Sometimes referred to as sandwiching.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bipack/

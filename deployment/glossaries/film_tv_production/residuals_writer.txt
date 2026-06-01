@@ -1,0 +1,5 @@
+Term: Residuals (Writer)
+Glossary: film_tv_production
+Definition: Payments made to writers based on the reuse of their work, such as free TV reruns, basic cable, pay TV, home video, new media (SVOD/AVOD), and theatrical reissue. Administered by the WGA under the MBA's residuals formulas.
+Usage Context: Residuals are a key component of negotiated WGA contracts and a principal source of income for many working writers. WGA residuals are distinct from SAG-AFTRA and DGA residuals, though all three are governed by parallel provisions in their respective basic agreements.
+Source: WGA Residuals — https://www.wga.org/members/finances/residuals

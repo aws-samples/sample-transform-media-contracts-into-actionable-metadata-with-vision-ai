@@ -1,0 +1,5 @@
+Term: density space
+Glossary: vfx
+Definition: A nonlinear color representation that is based on the density of developed negative relative to the amount of light that reached it.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/density-space/

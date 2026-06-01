@@ -1,0 +1,5 @@
+Term: print
+Glossary: vfx
+Definition: A positive image that is suitable for viewing directly or for projection. Generally produced from an original or an intermediate negative.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/print/

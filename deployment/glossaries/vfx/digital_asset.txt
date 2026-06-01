@@ -1,0 +1,5 @@
+Term: Digital asset
+Glossary: vfx
+Definition: Building blocks of digital content creation used in a virtual production. Can range from 2D files (photo, video, graphics) to 3D files (models, rigs, animation, assemblies).
+Source: vp
+Reference: https://vpglossary.com/vpglossary/digital-asset/

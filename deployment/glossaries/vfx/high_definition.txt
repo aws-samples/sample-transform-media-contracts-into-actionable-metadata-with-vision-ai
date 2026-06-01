@@ -1,0 +1,5 @@
+Term: High Definition
+Glossary: vfx
+Definition: In television and occasionally in cinema, refers to 1920 × 1080 cameras that record Rec. 709, subsampled, 8-bit color. In cinema, refers to high-resolution digital cameras that have at least 1920 pixels horizontally and, for high quality releases, 2048, 4096, or more pixels horizontally (which minimizes image resizing).
+Source: ves
+Reference: https://vpglossary.com/vesglossary/high-definition/

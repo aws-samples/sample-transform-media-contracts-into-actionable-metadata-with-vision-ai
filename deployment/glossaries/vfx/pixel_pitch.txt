@@ -1,0 +1,5 @@
+Term: Pixel pitch
+Glossary: vfx
+Definition: The distance between LEDs on a volume panel. The lower the number, the more dense the pitch. Denser panels have greater visual resolution and are usually more resistant to moiré  artifacts although they are also much more expensive and can sometimes be less bright. 2.8mm is considered the minimum standard for LED panels in virtual production while the optimal panel size is determined by size of the volume, typical distance of camera/subject to wall, brightness demands, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/pixel-pitch/

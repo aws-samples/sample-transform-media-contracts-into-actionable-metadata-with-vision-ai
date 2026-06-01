@@ -1,0 +1,5 @@
+Term: Harry Fox Agency (HFA)
+Glossary: music_rights_licensing
+Definition: The leading U.S. provider of rights management, licensing, and royalty services for mechanical rights. Founded in 1927 by the National Music Publishers' Association (NMPA) to license, collect, and distribute royalties on behalf of musical copyright owners. HFA issues mechanical licenses for products manufactured and distributed in the U.S.
+Usage Context: HFA issues mechanical licenses for CDs, vinyl, cassettes, permanent digital downloads, ringtones, interactive streams, and other digital formats. Following the Music Modernization Act, HFA administers licenses for non-digital phonorecord deliveries and certain digital transmissions outside the Section 115 blanket license furnished by the Mechanical Licensing Collective (MLC).
+Source: Harry Fox Agency — https://www.harryfox.com

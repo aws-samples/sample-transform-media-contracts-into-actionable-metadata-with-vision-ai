@@ -1,0 +1,4 @@
+Term: Geospatial Coordinates
+Glossary: odrl
+Definition: A set of coordinates setting the borders of a geospatial area used for exercising the action of the Rule. The coordinates MUST include longitude and latitude, they MAY include altitude and the geodetic datum.
+Usage Context: The default values are the altitude of earth's surface at this location and the WGS 84 datum.

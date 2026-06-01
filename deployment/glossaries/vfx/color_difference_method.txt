@@ -1,0 +1,5 @@
+Term: color difference method
+Glossary: vfx
+Definition: A compositing technique that utilizes the difference in color between the different channels of an image in order to extract a matte. The technique relies on the subject being photographed in front of a uniformly colored background, such as a blue screen.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-difference-method/

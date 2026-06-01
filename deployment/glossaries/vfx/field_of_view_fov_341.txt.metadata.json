@@ -1,0 +1,18 @@
+{
+  "metadataAttributes": {
+    "glossary": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "vfx"
+      },
+      "includeForEmbedding": true
+    },
+    "term": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "Field of view (FOV)"
+      },
+      "includeForEmbedding": true
+    }
+  }
+}

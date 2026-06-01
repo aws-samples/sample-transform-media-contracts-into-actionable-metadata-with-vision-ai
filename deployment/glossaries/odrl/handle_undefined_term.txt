@@ -1,0 +1,4 @@
+Term: Handle Undefined Term
+Glossary: odrl
+Definition: Relates the strategy used for handling undefined actions to a Policy.
+Usage Context: If no strategy is specified, the default is invalid.

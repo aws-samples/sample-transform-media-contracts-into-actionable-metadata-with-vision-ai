@@ -1,0 +1,5 @@
+Term: pullup
+Glossary: vfx
+Definition: Shorthand for 3:2 pullup.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pullup/

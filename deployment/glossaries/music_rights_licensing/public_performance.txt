@@ -1,0 +1,5 @@
+Term: Public Performance
+Glossary: music_rights_licensing
+Definition: A performance that occurs 'in a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered.' A public performance also occurs when the performance is transmitted by any device or process (for example, via broadcast, telephone wire, or other means) to the public.
+Usage Context: To perform a copyrighted work publicly, the user must obtain performance rights from the copyright owner or their representative (typically a performing rights organization like ASCAP, BMI, or SESAC). This includes radio, TV, streaming, live venues, and businesses playing music for customers.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

@@ -1,0 +1,5 @@
+Term: Superscope
+Glossary: vfx
+Definition: An early anamorphic format that uses the full width of the 35mm film area and is cropped top and bottom for a 2:1 aspect ratio during projection. See also Cinemascope, Techniscope.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/superscope/

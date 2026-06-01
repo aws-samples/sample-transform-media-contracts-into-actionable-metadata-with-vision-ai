@@ -1,0 +1,5 @@
+Term: Outside-in tracking
+Glossary: vfx
+Definition: A method of camera tracking which uses cameras or sensors mounted on the perimeter of a volume to analyze the position of the camera and other objects. See also inside-out tracking.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/outside-in-tracking/

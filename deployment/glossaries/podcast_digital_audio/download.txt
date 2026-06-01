@@ -1,0 +1,5 @@
+Term: Download
+Glossary: podcast_digital_audio
+Definition: A unique file request that was downloaded. This includes complete file downloads as well as partial downloads in accordance with IAB filtering rules. Counted once per unique IP Address + User Agent combination in a 24-hour period when the ID3 tag plus at least one minute of podcast content has been delivered.
+Usage Context: Principal podcast content delivery metric. Ad buys are typically priced on a CPM (cost per thousand downloads) basis. Certification compliance with IAB Podcast Measurement Technical Guidelines requires adherence to the defined download counting process.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

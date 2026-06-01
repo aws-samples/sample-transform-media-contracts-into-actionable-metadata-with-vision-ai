@@ -1,0 +1,5 @@
+Term: one-point track
+Glossary: vfx
+Definition: A type of 2D tracking in which a single point is selected in a sequence of images to extract an approximation of an object’s movement relative to the camera. Tracking a single point only allows for translational movements.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/one-point-track/

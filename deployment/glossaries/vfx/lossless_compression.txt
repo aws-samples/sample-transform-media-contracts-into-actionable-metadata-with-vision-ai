@@ -1,0 +1,5 @@
+Term: lossless compression
+Glossary: vfx
+Definition: A method of compressing and storing a digital image in such a fashion that the original image can be completely reconstructed without any data loss.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lossless-compression/

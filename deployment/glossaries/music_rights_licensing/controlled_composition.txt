@@ -1,0 +1,5 @@
+Term: Controlled Composition
+Glossary: music_rights_licensing
+Definition: A musical composition that is written, owned, or controlled by the recording artist performing it (or an affiliated publisher). Record label contracts often require that controlled compositions be licensed at a reduced mechanical rate (typically 75% of the statutory rate), capped at a maximum number of songs per album.
+Usage Context: Standard term in major-label recording agreements that limits the label's mechanical royalty exposure for artist-written material. Controlled composition clauses are a significant point of negotiation between artists and labels.
+Source: NMPA — https://www.nmpa.org

@@ -1,0 +1,5 @@
+Term: autostereoscopic
+Glossary: vfx
+Definition: (stereo) Sometimes called auto-stereo, which can be confused with a car sound system.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/autostereoscopic/

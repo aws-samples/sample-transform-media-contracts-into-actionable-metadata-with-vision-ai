@@ -1,0 +1,5 @@
+Term: indexed color
+Glossary: vfx
+Definition: A method of storing image data, in which the value of the pixel refers to an entry in a table of available colors instead of a numerical specification of the color itself.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/indexed-color/

@@ -1,0 +1,5 @@
+Term: contrast
+Glossary: vfx
+Definition: The ratio of the brightest tones in an image to the darkest.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/contrast/

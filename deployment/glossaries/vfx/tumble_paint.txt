@@ -1,0 +1,5 @@
+Term: tumble paint
+Glossary: vfx
+Definition: A term of art used to distinguish 3D paint systems that allow direct painting on the mesh, such as Mudbox or Zbrush, as differentiated from systems that use projection cameras to place textures on a model.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/tumble-paint/

@@ -1,0 +1,5 @@
+Term: ISRC (International Standard Recording Code)
+Glossary: music_rights_licensing
+Definition: A unique 12-character alphanumeric identifier for sound recordings and music video recordings, standardized under ISO 3901. ISRC enables recordings to be uniquely identified for royalty tracking and rights management across jurisdictions.
+Usage Context: Required in most digital distribution and licensing workflows. Appears on master license agreements and sync license agreements to specifically identify the master recording being licensed.
+Source: NMPA — https://www.nmpa.org

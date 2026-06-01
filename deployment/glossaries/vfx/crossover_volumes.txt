@@ -1,0 +1,5 @@
+Term: Crossover volumes
+Glossary: vfx
+Definition: Different configurations of the same volume load which encompass overlapping physical areas. See also volume variants.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/crossover-volumes/

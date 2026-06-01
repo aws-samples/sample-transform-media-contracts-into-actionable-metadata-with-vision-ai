@@ -1,0 +1,5 @@
+Term: render
+Glossary: vfx
+Definition: The process of creating a synthetic image from a 3D data set.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/render/

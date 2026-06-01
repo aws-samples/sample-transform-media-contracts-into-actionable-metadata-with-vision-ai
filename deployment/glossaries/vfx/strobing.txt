@@ -1,0 +1,5 @@
+Term: strobing
+Glossary: vfx
+Definition: A rhythmic flicker in a moving image. Often due to a lack of motion blur when dealing with synthetic images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/strobing/

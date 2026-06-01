@@ -1,0 +1,4 @@
+Term: Asset Percentage
+Glossary: odrl
+Definition: A percentage amount of the target Asset relevant for exercising the action of the Rule. Right operand value MUST be an xsd:decimal from 0 to 100.
+Usage Context: Example: Extract less than or equal to 50%.

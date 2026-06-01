@@ -1,0 +1,5 @@
+Term: centroid
+Glossary: vfx
+Definition: The geometric center of an object.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/centroid/

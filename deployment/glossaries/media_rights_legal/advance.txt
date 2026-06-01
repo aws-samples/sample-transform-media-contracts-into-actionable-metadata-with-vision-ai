@@ -1,0 +1,5 @@
+Term: Advance
+Glossary: media_rights_legal
+Definition: An upfront payment against future earnings, typically recoupable from the recipient's share of revenue. Creates a recoupment obligation before additional participation payments are due.
+Usage Context: Content licensing and distribution deals. 'Licensee shall pay an advance of $X, recoupable against Licensor's share of Net Revenue.'
+Source: media_rights_legal

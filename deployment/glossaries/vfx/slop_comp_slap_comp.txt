@@ -1,0 +1,5 @@
+Term: slop comp, slap comp
+Glossary: vfx
+Definition: A very rough initial composite that is usually used to test or visualize basic element relationships.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/slop-comp-slap-comp/

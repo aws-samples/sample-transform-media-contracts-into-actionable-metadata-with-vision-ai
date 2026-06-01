@@ -1,0 +1,5 @@
+Term: processing
+Glossary: vfx
+Definition: (1) The time spent by the computer as it computes any instructions that it has been given. (2) At a photo laboratory, the process of developing and printing a piece of film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/processing/

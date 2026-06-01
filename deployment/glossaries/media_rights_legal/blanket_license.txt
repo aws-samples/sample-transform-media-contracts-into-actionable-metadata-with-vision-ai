@@ -1,0 +1,5 @@
+Term: Blanket License
+Glossary: media_rights_legal
+Definition: A license granting rights to an entire catalog of works rather than individual titles. Common in music where a PRO grants a single license covering all compositions in its repertoire.
+Usage Context: Music rights. Contrasted with per-use or per-title synchronization licenses.
+Source: media_rights_legal

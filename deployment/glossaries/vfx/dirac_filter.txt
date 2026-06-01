@@ -1,0 +1,5 @@
+Term: Dirac filter
+Glossary: vfx
+Definition: Another name for an impulse filter.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dirac-filter/

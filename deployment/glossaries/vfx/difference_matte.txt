@@ -1,0 +1,5 @@
+Term: difference matte
+Glossary: vfx
+Definition: A matte created by subtracting an image in which the subject is present from an otherwise identical image in which it is not present.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/difference-matte/

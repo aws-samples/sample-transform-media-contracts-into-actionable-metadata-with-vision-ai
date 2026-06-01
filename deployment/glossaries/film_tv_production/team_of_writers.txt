@@ -1,0 +1,5 @@
+Term: Team of Writers
+Glossary: film_tv_production
+Definition: Under WGA rules, two writers who have been assigned at about the same time to the same material and who work together for approximately the same length of time. The work of the two writers is considered a joint contribution, not creditable to only one. A team is credited with an ampersand (&) separating their names.
+Usage Context: A team is treated as a single writer for purposes of credits and separated rights. Team members must mutually decide how to exploit separated rights. To be considered something other than a team, one writer must openly question the team designation at the time the work is submitted to the Guild.
+Source: WGA Screenwriting Credit System — https://en.wikipedia.org/wiki/WGA_screenwriting_credit_system

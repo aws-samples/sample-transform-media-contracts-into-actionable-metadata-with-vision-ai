@@ -1,0 +1,4 @@
+Term: Remedy
+Glossary: odrl
+Definition: Relates an individual remedy Duty to a Prohibition.
+Usage Context: The remedy property expresses an agreed Duty that must be fulfilled in case that a Prohibition has been violated by being exercised.

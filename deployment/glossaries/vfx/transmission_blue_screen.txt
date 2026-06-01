@@ -1,0 +1,5 @@
+Term: transmission blue screen
+Glossary: vfx
+Definition: A blue screen that has a series of lights behind the translucent blue screen that would illuminate evenly. They are very easy to use but due to their design they are not very flexible or portable.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/transmission-blue-screen/

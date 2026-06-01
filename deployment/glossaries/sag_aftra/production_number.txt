@@ -1,0 +1,5 @@
+Term: Production Number
+Glossary: sag_aftra
+Definition: A unique identifying number assigned by SAG-AFTRA to a television show or theatrical motion picture for tracking purposes.
+Usage Context: Used to track residual payments, performer engagements, and signatory compliance across all episodes and runs of a given production. Appears on all SAG-AFTRA residual statements and deal memo filings.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

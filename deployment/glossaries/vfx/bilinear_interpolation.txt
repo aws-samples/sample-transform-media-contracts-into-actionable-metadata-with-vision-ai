@@ -1,0 +1,5 @@
+Term: bilinear interpolation
+Glossary: vfx
+Definition: A method of interpolation based on an average of the four nearest neighbors. See also linear interpolation, bicubic interpolation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bilinear-interpolation/

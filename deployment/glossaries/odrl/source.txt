@@ -1,0 +1,4 @@
+Term: Source
+Glossary: odrl
+Definition: Reference to a Asset/PartyCollection
+Usage Context: Used by AssetCollection and PartyCollection when constraints are applied.

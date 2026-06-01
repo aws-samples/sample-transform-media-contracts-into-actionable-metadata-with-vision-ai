@@ -1,0 +1,5 @@
+Term: eyeline
+Glossary: vfx
+Definition: Specific direction in which the actor looks. In visual effects, usually a point that is frequently off-camera to represent another actor or object.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/eyeline/

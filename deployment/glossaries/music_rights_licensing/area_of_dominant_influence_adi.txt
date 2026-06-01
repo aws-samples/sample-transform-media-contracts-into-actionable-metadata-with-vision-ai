@@ -1,0 +1,5 @@
+Term: Area of Dominant Influence (ADI)
+Glossary: music_rights_licensing
+Definition: The geographic area or market reached by a radio or television station, used by advertisers and rating companies to determine the potential audience of a station.
+Usage Context: Used in determining blanket license fees and in allocating performance royalties to songwriters and publishers based on the geographic reach of broadcast exhibition.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

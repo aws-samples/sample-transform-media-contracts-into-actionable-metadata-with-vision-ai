@@ -1,0 +1,5 @@
+Term: Report and Order (R&O)
+Glossary: broadcast_fcc
+Definition: The final FCC document adopting rules after a rulemaking proceeding, explaining the Commission's decisions and responses to significant comments. May be combined with a Further Notice of Proposed Rulemaking (FNPRM) seeking additional comment on related issues.
+Usage Context: Establishes the binding rules on regulated entities. Subject to judicial review and FCC petitions for reconsideration.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

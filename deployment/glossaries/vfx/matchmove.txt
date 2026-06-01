@@ -1,0 +1,5 @@
+Term: matchmove
+Glossary: vfx
+Definition: The process of extracting the camera move from a live-action plate in order to duplicate it in a CG environment. A matchmove is often created by hand as opposed to 3D tracking in which special software is used to help automate the process.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/matchmove/

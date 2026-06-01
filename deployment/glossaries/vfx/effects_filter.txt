@@ -1,0 +1,5 @@
+Term: effects filter
+Glossary: vfx
+Definition: Any of a number of different optical filters that can introduce diffusion, flares, glows, etc., in front of the camera. Very problematic when shooting blue screen elements.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/effects-filter/

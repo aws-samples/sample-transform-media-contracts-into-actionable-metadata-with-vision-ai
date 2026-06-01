@@ -1,0 +1,5 @@
+Term: Industrial Light & Magic (ILM)
+Glossary: vfx
+Definition: A pioneering visual effects company that was the first to widely use digital compositing in feature-film work.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/industrial-light-magic-ilm/

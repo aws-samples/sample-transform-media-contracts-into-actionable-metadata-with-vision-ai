@@ -1,0 +1,3 @@
+Term: Contracting Party
+Glossary: odrl
+Definition: The Party who is offering the contract.

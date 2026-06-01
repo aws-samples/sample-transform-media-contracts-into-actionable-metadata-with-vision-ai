@@ -1,0 +1,5 @@
+Term: Roaming
+Glossary: broadcast_fcc
+Definition: The use of a wireless phone outside of the 'home' service area defined by a service provider. Higher per-minute rates are usually charged for calls made or received while roaming, and a daily access fee may also apply.
+Usage Context: Subject to FCC rules requiring reasonable roaming agreements between carriers. International roaming is governed by separate agreements and agreements among country regulators.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

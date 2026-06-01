@@ -1,0 +1,5 @@
+Term: Color rendition
+Glossary: vfx
+Definition: The ability of a light source, such as a cinema luminaire or an LED wall, to render the color spectrum accurately; units include CRI, SSI, TLCI, and TM30. Current LED volumes have a reduced color rendition when compared to daylight and to incandescent lights.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/color-rendition/

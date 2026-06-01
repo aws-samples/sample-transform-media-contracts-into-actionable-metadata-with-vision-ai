@@ -1,0 +1,5 @@
+Term: Estar film stock
+Glossary: vfx
+Definition: A polyester film base that is much more rugged than an acetate film base. It is thinner and much stronger than acetate. It can damage the moving parts of a camera or projector if it jams, whereas acetate films will just tear. Its durability allows its use for compositing many takes of a scene or for longer wearing release prints.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/estar-film-stock/

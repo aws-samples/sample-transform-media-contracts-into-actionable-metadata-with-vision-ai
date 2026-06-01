@@ -1,0 +1,5 @@
+Term: Clearance
+Glossary: media_rights_legal
+Definition: The process of obtaining all necessary rights and permissions to use copyrighted material in a production. Failure to clear rights exposes the production to infringement claims.
+Usage Context: Distribution agreements: 'Owner warrants it has obtained all necessary clearances, including music, talent, and underlying rights.'
+Source: media_rights_legal

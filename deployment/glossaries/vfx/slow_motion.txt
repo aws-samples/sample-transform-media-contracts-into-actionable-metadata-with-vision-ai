@@ -1,0 +1,5 @@
+Term: slow motion
+Glossary: vfx
+Definition: Any technique that is used to slow down the motion of objects in a scene. It may involve filming at a faster speed than the intended projection speed or it may involve some post-processing technique. Also referred to as slow-mo.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/slow-motion/

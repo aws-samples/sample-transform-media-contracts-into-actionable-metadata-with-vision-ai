@@ -1,0 +1,5 @@
+Term: Net Profits
+Glossary: media_rights_legal
+Definition: Revenue remaining after deduction of all production costs, distribution fees, overhead charges, and other contractually defined expenses. One of the most contentious defined terms in entertainment agreements.
+Usage Context: Talent agreements: 'Performer shall be entitled to X% of Net Profits as defined in Exhibit A.' The definition of deductions determines actual economic value.
+Source: media_rights_legal

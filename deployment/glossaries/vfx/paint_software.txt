@@ -1,0 +1,5 @@
+Term: paint software
+Glossary: vfx
+Definition: A program that allows the artist to “paint” directly onto an image in the computer using a device such as a tablet or a mouse.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/paint-software/

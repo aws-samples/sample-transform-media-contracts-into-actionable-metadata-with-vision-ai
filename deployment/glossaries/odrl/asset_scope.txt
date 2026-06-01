@@ -1,0 +1,4 @@
+Term: Asset Scope
+Glossary: odrl
+Definition: Scopes for Asset Scope expressions.
+Usage Context: Instances of the AssetScope class represent the terms for the scope property of Assets.

@@ -1,0 +1,5 @@
+Term: Gas Plasma Screen
+Glossary: vfx
+Definition: See Plasma display.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gas-plasma-screen/

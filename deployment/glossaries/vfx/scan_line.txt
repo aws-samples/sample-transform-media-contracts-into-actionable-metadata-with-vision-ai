@@ -1,0 +1,5 @@
+Term: scan line
+Glossary: vfx
+Definition: A single horizontal row of pixels in a digital image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/scan-line/

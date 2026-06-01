@@ -1,0 +1,5 @@
+Term: unpremultiply
+Glossary: vfx
+Definition: To redivide the RGB channels of an image by its own alpha channel. See unpremultiplied image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/unpremultiply/

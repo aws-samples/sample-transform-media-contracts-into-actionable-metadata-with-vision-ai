@@ -1,0 +1,5 @@
+Term: screen resolution
+Glossary: vfx
+Definition: The number of horizontal and vertical pixels that a given display device is capable of showing. This should be independent of the resolution that the system is capable of processing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/screen-resolution/

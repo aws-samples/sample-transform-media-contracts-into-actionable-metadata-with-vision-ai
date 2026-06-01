@@ -1,0 +1,5 @@
+Term: plano-stereoscopic
+Glossary: vfx
+Definition: (stereo) A stereoscopic projected image that is made up of two planar images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/plano-stereoscopic/

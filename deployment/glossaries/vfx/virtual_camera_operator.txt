@@ -1,0 +1,5 @@
+Term: Virtual camera operator
+Glossary: vfx
+Definition: The physical operator of a virtual camera.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-camera-operator/

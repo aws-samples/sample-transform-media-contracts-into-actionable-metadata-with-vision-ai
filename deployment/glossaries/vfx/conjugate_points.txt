@@ -1,0 +1,5 @@
+Term: conjugate points
+Glossary: vfx
+Definition: (stereo) See corresponding points.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/conjugate-points/

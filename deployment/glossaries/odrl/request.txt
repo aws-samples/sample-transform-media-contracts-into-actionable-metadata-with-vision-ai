@@ -1,0 +1,4 @@
+Term: Request
+Glossary: odrl
+Definition: A Policy that proposes a Rule over an Asset from an assignee.
+Usage Context: A Request Policy  MUST contain a target Asset, a Party with Assignee function, and at least one of a Permission or Prohibition rule. The Request MAY also contain the Party with Assigner function if this is known. No privileges are granted to any Party.

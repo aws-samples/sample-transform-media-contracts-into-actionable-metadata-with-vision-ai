@@ -1,0 +1,5 @@
+Term: color space
+Glossary: vfx
+Definition: Any method for representing the color in an image. Usually based on certain components such as RGB, HSV, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-space/

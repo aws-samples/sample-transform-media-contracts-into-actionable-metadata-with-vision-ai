@@ -1,0 +1,5 @@
+Term: ECU
+Glossary: vfx
+Definition: Abbreviation for extreme close-up.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ecu/

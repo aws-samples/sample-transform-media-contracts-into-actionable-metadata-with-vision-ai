@@ -1,0 +1,5 @@
+Term: DMCA
+Glossary: media_rights_legal
+Definition: Digital Millennium Copyright Act. U.S. federal law establishing copyright protections in digital environments, including safe harbor for platforms complying with notice-and-takedown procedures.
+Usage Context: Digital rights/UGC agreements: 'Both parties shall comply with the DMCA and equivalent legislation.'
+Source: media_rights_legal

@@ -1,0 +1,5 @@
+Term: director
+Glossary: vfx
+Definition: The person with the primary responsibility for overseeing the creative aspects of a project or production.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/director/

@@ -1,0 +1,5 @@
+Term: Composition
+Glossary: music_rights_licensing
+Definition: The musical work consisting of the words (lyrics) and music (melody, harmony). The composition copyright is owned by the songwriter(s) or music publisher(s), and is distinct from the copyright in any particular recording of the composition.
+Usage Context: Composition rights (mechanical, sync, performance) are administered separately from sound recording rights. A single composition can be embodied in many different master recordings, each with its own sound recording copyright.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

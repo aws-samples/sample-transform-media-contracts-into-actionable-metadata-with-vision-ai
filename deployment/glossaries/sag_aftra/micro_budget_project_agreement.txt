@@ -1,0 +1,5 @@
+Term: Micro-Budget Project Agreement
+Glossary: sag_aftra
+Definition: A SAG-AFTRA low-budget agreement covering projects with a total budget under $20,000, allowing independent producers to hire SAG-AFTRA talent on ultra-low-budget productions at substantially reduced scale rates.
+Usage Context: Designed for first-time filmmakers and shoestring-budget productions. Still requires signatory status, completed Performer Contracts, P&H contributions, and other core SAG-AFTRA compliance requirements.
+Source: SAGindie FAQ — https://www.sagindie.org/resources/faq/

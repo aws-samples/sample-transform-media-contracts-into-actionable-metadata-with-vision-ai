@@ -1,0 +1,5 @@
+Term: Closed Captioning
+Glossary: broadcast_fcc
+Definition: A service for persons with hearing disabilities that displays television program dialog as written words on the screen. Required under FCC Part 79 for most video programming distributed via broadcast, cable, satellite, and internet.
+Usage Context: Content delivery agreements routinely require closed caption files in formats including SRT and SCC, compliant with FCC Part 79 regulations. Producers and distributors must comply with both content and quality standards for captioning.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

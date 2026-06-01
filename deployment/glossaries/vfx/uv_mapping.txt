@@ -1,0 +1,5 @@
+Term: UV mapping
+Glossary: vfx
+Definition: The 3D modeling process of projecting a 2D image to a 3D model’s surface for texture mapping. The letters “U” and “V” denote the axes of the 2D texture because “X,” “Y,” and “Z” are already used to denote the axes of the 3D object in model space.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/uv-mapping/

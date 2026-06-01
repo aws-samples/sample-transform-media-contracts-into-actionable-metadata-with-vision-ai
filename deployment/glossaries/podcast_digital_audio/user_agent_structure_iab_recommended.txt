@@ -1,0 +1,5 @@
+Term: User Agent Structure (IAB Recommended)
+Glossary: podcast_digital_audio
+Definition: IAB-recommended format for podcast player user-agent headers: <app name>/<app version> <device info> <os name>/<os version> <other info>. Example: AppName/1.2.3 DeviceBrand DeviceModel OSName/1.2.3 LibName/1.2.3.
+Usage Context: Consistent user-agent structure enables reliable identification of unique devices and apps across measurement providers. IAB recommends platforms submit their user-agent header value to the IAB Spiders and Bots inclusion list so they are not considered bots.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

@@ -1,0 +1,5 @@
+Term: Common Carrier Retransmission Consent
+Glossary: broadcast_fcc
+Definition: Under the 1992 Cable Act, a commercial broadcaster's right to negotiate compensation from a cable system in exchange for consent to retransmit the broadcaster's signal. Alternative to must-carry election.
+Usage Context: Elected on a three-year cycle. Basis for retransmission consent fees paid by cable and satellite operators to broadcast networks and local stations — a significant revenue stream for broadcasters.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

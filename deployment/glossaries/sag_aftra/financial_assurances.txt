@@ -1,0 +1,5 @@
+Term: Financial Assurances
+Glossary: sag_aftra
+Definition: Security deposits or bonds required from producers by SAG-AFTRA to ensure performer wages and benefits will be paid. The formula is based on performer salaries and work time and is returned to the producer upon completion of principal photography.
+Usage Context: Required of signatory producers before commencement of production. Enforced due to historic non-payment issues. Released after confirmation of all covered payments being made.
+Source: SAGindie FAQ — https://www.sagindie.org/resources/faq/

@@ -1,0 +1,5 @@
+Term: Passive marker
+Glossary: vfx
+Definition: A tracking reference object that reflects light, often a sphere covered in retro-reflective material or a printed design for image based tracking
+Source: vp
+Reference: https://vpglossary.com/vpglossary/passive-marker/

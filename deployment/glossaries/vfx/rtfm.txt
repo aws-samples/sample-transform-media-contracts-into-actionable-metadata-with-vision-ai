@@ -1,0 +1,5 @@
+Term: RTFM
+Glossary: vfx
+Definition: Abbreviation for read the manual (sort of), a suggestion that is often given when someone asks a question instead of taking the time to look it up him or herself.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rtfm/

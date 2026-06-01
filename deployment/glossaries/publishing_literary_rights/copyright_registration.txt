@@ -1,0 +1,5 @@
+Term: Copyright Registration
+Glossary: publishing_literary_rights
+Definition: The publisher's obligation to register the copyright of the work with the U.S. Copyright Office in the author's name, typically within three months of publication. Registration is a prerequisite for bringing an infringement suit in U.S. courts and for obtaining statutory damages and attorney's fees.
+Usage Context: Authors Guild advises that authors should require the publisher to register the work with the Copyright Office in the author's name within three months of publication. Registration in the author's name (rather than the publisher's) preserves the author's ultimate ownership.
+Source: Authors Guild Contract Reviews — https://authorsguild.org/legal-services/contract-reviews/

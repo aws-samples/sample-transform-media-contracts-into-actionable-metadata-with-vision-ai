@@ -1,0 +1,5 @@
+Term: API
+Glossary: vfx
+Definition: Abbreviation for application programming interface. An interface implemented by a software program to enable interaction with other software, much in the same way that a user interface facilitates interaction between humans and computers. APIs are implemented by applications, libraries, and operating systems to determine the vocabulary and calling conventions the programmer should employ to use their services. It may include specifications for routines, data structures, object classes, and protocols used to communicate between the consumer and implementer of the API.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/api/

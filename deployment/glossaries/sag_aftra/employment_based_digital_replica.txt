@@ -1,0 +1,5 @@
+Term: Employment-Based Digital Replica
+Glossary: sag_aftra
+Definition: A digital replica created in connection with a performer's employment on a motion picture (e.g., a movie, TV show, or streaming show), typically with the performer's participation such as through being scanned.
+Usage Context: The employer legally owns all materials created from the performer's work, but under the 2023 MBA cannot use the replica without the performer's consent and, in most cases, further payments. Consent is required for each use with limited multi-project exceptions.
+Source: SAG-AFTRA Digital Replicas 101 — https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf

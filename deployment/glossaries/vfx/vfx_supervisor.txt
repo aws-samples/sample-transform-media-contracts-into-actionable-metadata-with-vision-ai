@@ -1,0 +1,5 @@
+Term: VFX Supervisor
+Glossary: vfx
+Definition: The individual responsible for the creative and technical side of visual effects production. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/vfx-supervisor/

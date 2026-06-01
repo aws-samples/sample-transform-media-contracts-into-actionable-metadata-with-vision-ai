@@ -1,0 +1,5 @@
+Term: Pay-or-Play
+Glossary: media_rights_legal
+Definition: A commitment by the producer to pay the performer's full fixed compensation regardless of whether the performer's services are actually utilized. Protects the performer if the production is cancelled or the role is recast.
+Usage Context: Talent agreements: 'This engagement is pay-or-play, meaning Producer is obligated to pay full Fixed Compensation regardless of whether services are used.'
+Source: media_rights_legal

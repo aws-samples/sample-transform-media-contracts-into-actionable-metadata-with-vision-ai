@@ -1,0 +1,5 @@
+Term: Dolly wall
+Glossary: vfx
+Definition: A section of LED panels built onto a mobile platform for easy repositioning and use as a reflection source and other purposes. Also called roaming panels or roaming walls.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/dolly-wall/

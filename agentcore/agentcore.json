@@ -1,0 +1,17 @@
+{
+    "agents": [
+        {
+            "name": "MediaContractsOrchestrator",
+            "language": "Python",
+            "framework": "Strands",
+            "type": "create",
+            "codeLocation": "agentcore/orchestrator",
+            "entrypoint": "main.py",
+            "build": "Container",
+            "modelProvider": "Bedrock",
+            "protocol": "HTTP",
+            "networkMode": "VPC",
+            "memory": "none"
+        }
+    ]
+}

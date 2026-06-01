@@ -1,0 +1,5 @@
+Term: Hand capture
+Glossary: vfx
+Definition: Capture of 3D hand movements using gloves with sensors, haptics, or visually; a form of performance capture.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/hand-capture/

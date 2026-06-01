@@ -1,0 +1,5 @@
+Term: Dramatic (Grand) Rights
+Glossary: music_rights_licensing
+Definition: The rights to perform a musical work dramatically — that is, in connection with the telling of a story, as part of a plot, or accompanied by dialogue, pantomime, dance, stage action, or visual representation derived from the work. Dramatic rights are licensed directly by the composer, publisher, or their licensing agent, and are NOT licensed by ASCAP.
+Usage Context: A song used in a Broadway musical (e.g., Hamilton) or a ballet (e.g., Twyla Tharp's 'Nine Sinatra Songs') requires dramatic rights clearance separately from any ASCAP blanket license. Copyright law does not define 'dramatic' — the line is drawn case-by-case by rightsholders, music users, and occasionally federal courts.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

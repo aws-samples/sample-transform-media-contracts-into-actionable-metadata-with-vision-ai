@@ -1,0 +1,5 @@
+Term: Additional Literary Material
+Glossary: film_tv_production
+Definition: A WGA credit accorded to all participating writers on a motion picture who rendered WGA-covered writing services but who are not accorded principal writing credit (Written by / Screenplay by / Story by / Screen Story by). Names are listed in alphabetical order.
+Usage Context: Ensures that contributing writers receive on-screen acknowledgment even when they do not meet the threshold for a principal writing credit under the Screen Credits Manual. Introduced to address longstanding concerns about uncredited writers.
+Source: WGA Screen Credits Manual — https://www.wga.org/contracts/credits/manuals/screen-credits-manual

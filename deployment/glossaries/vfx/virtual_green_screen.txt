@@ -1,0 +1,5 @@
+Term: Virtual green screen
+Glossary: vfx
+Definition: A green screen created directly on an LED volume surface; often constrained around the frustum to preserve the rest of the virtual environment for interactive lighting.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-green-screen/

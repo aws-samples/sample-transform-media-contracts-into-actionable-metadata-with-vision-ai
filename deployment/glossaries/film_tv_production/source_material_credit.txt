@@ -1,0 +1,5 @@
+Term: Source Material Credit
+Glossary: film_tv_production
+Definition: A credit given to the author of pre-existing material (novel, play, article, prior screenplay, etc.) upon which a screenplay is based. Does not by itself confer separated rights.
+Usage Context: Typical form: 'Based on the [novel/play/article] by [Author Name]' or 'Based upon characters created by [Author Name].' Used in adaptations of books, plays, and other underlying works. Source material credit is determined by the production company, subject to WGA review when WGA writers are involved.
+Source: WGA Screen Credits Manual — https://www.wga.org/contracts/credits/manuals/screen-credits-manual

@@ -1,0 +1,5 @@
+Term: Must-Carry (Retransmission)
+Glossary: broadcast_fcc
+Definition: A 1992 Cable Act term requiring a cable system to carry signals of both commercial and noncommercial television broadcast stations that are 'local' to the area served by the cable system.
+Usage Context: Commercial broadcasters can elect either Must-Carry (free carriage) or retransmission consent (negotiated fee) with each cable system every three years. Noncommercial broadcasters have Must-Carry rights only. Central to broadcast-cable distribution economics.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

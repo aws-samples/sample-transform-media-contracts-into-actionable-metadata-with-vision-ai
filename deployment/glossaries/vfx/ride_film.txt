@@ -1,0 +1,5 @@
+Term: ride film
+Glossary: vfx
+Definition: A location-based entertainment that features a film whose camera movements are synchronized with some sort of moving seat or platform. Term was first coined by Douglas Trumbull, ves.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ride-film/

@@ -1,0 +1,5 @@
+Term: Record Label
+Glossary: music_rights_licensing
+Definition: A company (also called a record company) that makes, distributes, and markets sound recordings (CDs, digital files, vinyl records, etc.). Record labels obtain from music publishers the right to record and distribute songs (mechanical license) and in turn pay license fees for the resulting recordings.
+Usage Context: The record label is typically the owner of the master recording copyright. Sync licenses for the use of a recording in audiovisual works require separate authorization from the master owner (typically the label) in addition to the publisher's sync license.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

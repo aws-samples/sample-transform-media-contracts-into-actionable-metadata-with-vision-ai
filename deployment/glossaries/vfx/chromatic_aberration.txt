@@ -1,0 +1,5 @@
+Term: chromatic aberration
+Glossary: vfx
+Definition: An image artifact that is caused by the fact that different wavelengths of light are bent by slightly different amounts as they pass through a lens. The artifact is usually seen as a color shift along sharply delineated edges in an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/chromatic-aberration/

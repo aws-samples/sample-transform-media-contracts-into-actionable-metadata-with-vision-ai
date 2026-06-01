@@ -1,0 +1,5 @@
+Term: four-perf
+Glossary: vfx
+Definition: A nickname for the standard 35mm film format that refers to the fact that each frame spans four pairs of perforations.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/four-perf/

@@ -1,0 +1,5 @@
+Term: postvis
+Glossary: vfx
+Definition: Combines digital elements and production photography to validate footage selection, provide placeholder shots for editorial, and refine effects design. Edits incorporating postvis sequences are often shown to test audiences for feedback and to producers and visual effects vendors for planning and budgeting. Also see previs, pitchvis, technical previs, and on-set previs.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/postvis/

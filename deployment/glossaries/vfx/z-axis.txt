@@ -1,0 +1,5 @@
+Term: z-axis
+Glossary: vfx
+Definition: The axis perpendicular to the x-axis and the y-axis, and consequently the axis that is used to represent depth.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/z-axis/

@@ -1,0 +1,5 @@
+Term: film weave
+Glossary: vfx
+Definition: Irregular horizontal movement (generally undesirable) of a piece of film as it moves through a camera or projector.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/film-weave/

@@ -1,0 +1,5 @@
+Term: staircasing
+Glossary: vfx
+Definition: A spatial aliasing artifact in which a line or edge appears jagged, like the profile of a staircase, instead of smooth. Also called stairstepping.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/staircasing/

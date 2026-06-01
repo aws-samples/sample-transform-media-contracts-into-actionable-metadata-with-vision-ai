@@ -1,0 +1,5 @@
+Term: fixed matte
+Glossary: vfx
+Definition: As opposed to a traveling matte, a fixed matte will not change position or shape during the shot.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fixed-matte/

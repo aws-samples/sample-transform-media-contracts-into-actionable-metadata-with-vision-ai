@@ -1,0 +1,5 @@
+Term: Virtual art director
+Glossary: vfx
+Definition: The person responsible for managing the design and development of virtual environments and sets.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-art-director/

@@ -1,0 +1,5 @@
+Term: wavelet
+Glossary: vfx
+Definition: A method of representing an image based on frequency information. Used as the basis for certain compression techniques.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/wavelet/

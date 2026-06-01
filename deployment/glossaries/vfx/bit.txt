@@ -1,0 +1,5 @@
+Term: bit
+Glossary: vfx
+Definition: The basic unit for representing data in a digital environment. A bit can have only one of two values: 0 or 1.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bit/

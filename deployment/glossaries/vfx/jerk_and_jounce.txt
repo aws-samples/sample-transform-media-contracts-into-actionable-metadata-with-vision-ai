@@ -1,0 +1,5 @@
+Term: Jerk and Jounce
+Glossary: vfx
+Definition: Derivatives of acceleration and sometimes important issues to filter out when doing motion control.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/jerk-and-jounce/

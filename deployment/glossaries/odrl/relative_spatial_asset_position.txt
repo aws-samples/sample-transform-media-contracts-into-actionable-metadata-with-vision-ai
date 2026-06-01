@@ -1,0 +1,4 @@
+Term: Relative Spatial Asset Position
+Glossary: odrl
+Definition: The relative spatial positions - expressed as percentages of full values - of four corners of a rectangle on a 2D-canvas or the eight corners of a cuboid in a 3D-space of the target Asset.
+Usage Context: See also Absolute Spatial Asset Position.

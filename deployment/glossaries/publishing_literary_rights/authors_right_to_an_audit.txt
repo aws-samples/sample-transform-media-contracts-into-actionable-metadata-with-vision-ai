@@ -1,0 +1,5 @@
+Term: Author's Right to an Audit
+Glossary: publishing_literary_rights
+Definition: The author's contractual right, typically exercised through an accountant or agent, to examine the publisher's books and records relating to sales of the author's work. Typically exercisable once per royalty period or once per year.
+Usage Context: Audit rights are meaningless without reasonable triggers (no requirement for prior demonstration of underpayment) and reasonable remedies (publisher pays for audit if material underpayment is found). Authors Guild strongly recommends including these protections.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

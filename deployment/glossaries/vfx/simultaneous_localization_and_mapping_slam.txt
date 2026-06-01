@@ -1,0 +1,5 @@
+Term: Simultaneous localization and mapping (SLAM)
+Glossary: vfx
+Definition: A method of tracking which analyzes physical features of the real-world to compute position and translation in real-time.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/simultaneous-localization-and-mapping-slam/

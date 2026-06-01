@@ -1,0 +1,5 @@
+Term: keyframe
+Glossary: vfx
+Definition: Any frame in which a particular aspect of an item (its size, location, color, etc.) is specifically defined. The frames that are not key frames will then contain interpolated values.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/keyframe/

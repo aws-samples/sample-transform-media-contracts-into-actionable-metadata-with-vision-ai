@@ -1,0 +1,5 @@
+Term: hold
+Glossary: vfx
+Definition: To stop the action by using the same frame repeatedly.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hold/

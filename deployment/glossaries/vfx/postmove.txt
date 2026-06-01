@@ -1,0 +1,5 @@
+Term: postmove
+Glossary: vfx
+Definition: Referring to any move added to a plate via image transformations performed in compositing, as opposed to shooting the scene with the desired camera move.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/postmove/

@@ -1,0 +1,5 @@
+Term: CMY
+Glossary: vfx
+Definition: Abbreviation for cyan, magenta, and yellow, the three complementary colors, or a method of specifying the colors in an image based on a mix of these three components.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cmy/

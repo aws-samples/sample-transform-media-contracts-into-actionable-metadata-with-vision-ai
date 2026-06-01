@@ -1,0 +1,5 @@
+Term: large-format film
+Glossary: vfx
+Definition: Generally refers to any film larger than the standard 35mm film format.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/large-format-film/

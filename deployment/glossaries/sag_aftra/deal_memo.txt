@@ -1,0 +1,5 @@
+Term: Deal Memo
+Glossary: sag_aftra
+Definition: A short-form agreement documenting the essential terms of a performer engagement, subject to and incorporating the applicable SAG-AFTRA CBA. In the absence of a signed long-form agreement, the Deal Memo constitutes the binding agreement between the parties.
+Usage Context: Common for day players, three-day players, and short guest engagements. The CBA governs in the event of any conflict with the Deal Memo. Company typically provides a standard long-form Performer Agreement within 30 days of execution.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

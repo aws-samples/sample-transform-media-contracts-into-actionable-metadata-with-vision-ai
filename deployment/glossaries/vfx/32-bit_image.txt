@@ -1,0 +1,5 @@
+Term: 32-bit image
+Glossary: vfx
+Definition: In the visual effects world, this term typically refers to any image containing 32 bits of color information per channel. At this bit depth the channels are usually stored with a floating point data representation; hence, a 32 bit-per-channel image is thus also referred to as a float image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/32-bit-image/

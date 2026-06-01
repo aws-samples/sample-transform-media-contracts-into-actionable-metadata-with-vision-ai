@@ -1,0 +1,5 @@
+Term: warping engine
+Glossary: vfx
+Definition: Within a package used for compositing, the code that is responsible for any geometric transformations.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/warping-engine/

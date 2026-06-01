@@ -1,0 +1,5 @@
+Term: Showscan
+Glossary: vfx
+Definition: A proprietary film capture/projection process that is characterized by a large-format negative and a playback speed of 60 frames per second. Pioneered by Douglas Trumbull, ves.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/showscan/

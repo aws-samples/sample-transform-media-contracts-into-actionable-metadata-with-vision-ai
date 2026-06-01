@@ -1,0 +1,5 @@
+Term: Bit-depth
+Glossary: vfx
+Definition: The number of binary digits used to store a value, such as a pixel’s color. Higher bit-depths offer greater accuracy. An 8-bit image can display 256 color values for red, green, and blue, equaling ~16.7 million colors. A 16-bit image raises that number to ~4.3 trillion colors. Some common bit depths in cinematography include 10 and 12-bit.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/bit-depth/

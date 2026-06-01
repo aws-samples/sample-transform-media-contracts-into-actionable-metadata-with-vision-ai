@@ -1,0 +1,5 @@
+Term: bokeh
+Glossary: vfx
+Definition: A photographic term referring to the appearance of point-of-light sources in an out-of-focus area of an image produced by a camera lens using a shallow depth of field.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bokeh/

@@ -1,0 +1,5 @@
+Term: FCC Part 79
+Glossary: broadcast_fcc
+Definition: The section of the FCC's rules (Code of Federal Regulations Title 47, Part 79) governing closed captioning requirements for video programming, including quality standards, enforcement procedures, and exemptions.
+Usage Context: Content delivery agreements commonly require closed caption files compliant with FCC Part 79. Distributors are responsible for ensuring captioning quality on delivered programming.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

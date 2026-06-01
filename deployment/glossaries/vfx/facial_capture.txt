@@ -1,0 +1,5 @@
+Term: Facial capture
+Glossary: vfx
+Definition: The capture of facial expression using a head mounted camera or other methods; a part of performance capture.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/facial-capture/

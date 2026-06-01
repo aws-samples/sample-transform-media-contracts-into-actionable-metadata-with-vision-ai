@@ -1,0 +1,5 @@
+Term: computer-generated imagery (CGI)
+Glossary: vfx
+Definition: An image or images created or manipulated with the aid of a computer. Often used to refer specifically to 3D computer animation, although it is really a much broader term.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/computer-generated-imagery-cgi/

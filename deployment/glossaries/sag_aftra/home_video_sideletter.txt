@@ -1,0 +1,5 @@
+Term: Home Video Sideletter
+Glossary: sag_aftra
+Definition: A sideletter to the SAG-AFTRA TV/Theatrical MBA establishing residual rates for sales of the covered program in physical home video (DVD/Blu-ray) and electronic sell-through (EST) formats.
+Usage Context: Provides the residual schedule applied to DVD/Blu-ray and EST distribution. Referenced in deal memos and performer agreements as the controlling schedule for home video residuals.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

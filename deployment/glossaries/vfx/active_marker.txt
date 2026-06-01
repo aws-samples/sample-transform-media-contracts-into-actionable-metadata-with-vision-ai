@@ -1,0 +1,5 @@
+Term: Active marker
+Glossary: vfx
+Definition: A tracking reference that emits light or radio waves, often a strobing LED
+Source: vp
+Reference: https://vpglossary.com/vpglossary/active-marker/

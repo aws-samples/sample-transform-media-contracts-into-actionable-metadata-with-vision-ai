@@ -1,0 +1,37 @@
+{
+    "name": "media-contracts-ui",
+    "private": true,
+    "version": "0.1.0",
+    "type": "module",
+    "scripts": {
+        "dev": "concurrently -n server,vite -c blue,green \"node server/index.js\" \"vite\"",
+        "build": "vite build",
+        "preview": "vite preview",
+        "server": "node server/index.js"
+    },
+    "dependencies": {
+        "@aws-sdk/client-bedrock-agent-runtime": "^3.1019.0",
+        "@aws-sdk/client-bedrock-agentcore": "^3.1035.0",
+        "@aws-sdk/client-bedrock-runtime": "^3.1019.0",
+        "@aws-sdk/client-dynamodb": "^3.1019.0",
+        "@aws-sdk/client-s3": "^3.1030.0",
+        "@aws-sdk/client-ssm": "^3.1019.0",
+        "@aws-sdk/credential-providers": "^3.1019.0",
+        "@aws-sdk/s3-request-presigner": "^3.1036.0",
+        "concurrently": "^9.1.2",
+        "cors": "^2.8.5",
+        "express": "^5.1.0",
+        "jose": "^6.2.2",
+        "oidc-client-ts": "^3.5.0",
+        "prism-react-renderer": "^2.4.1",
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0",
+        "react-markdown": "^10.1.0",
+        "react-oidc-context": "^3.3.1",
+        "remark-gfm": "^4.0.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-react": "^4.5.2",
+        "vite": "^6.4.2"
+    }
+}

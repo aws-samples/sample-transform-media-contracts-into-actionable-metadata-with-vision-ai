@@ -1,0 +1,5 @@
+Term: Audit Clause
+Glossary: publishing_literary_rights
+Definition: A contractual provision giving the author (or the author's representative) the right to examine the publisher's books and records relating to the author's book, typically once per year or once per royalty period. Essential for verifying that royalty accounting is accurate.
+Usage Context: Authors Guild recommends that every contract include an audit clause allowing the author or representative to examine publisher's sales records. Audit results that show material underpayment should require the publisher to pay both the underpayment and the audit costs.
+Source: Authors Guild Contract Reviews — https://authorsguild.org/legal-services/contract-reviews/

@@ -1,0 +1,5 @@
+Term: rotoscoping
+Glossary: vfx
+Definition: Also known as “rotoing.” The process of hand-drawing or tracing mattes around subjects. See rotoscope.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rotoscoping/

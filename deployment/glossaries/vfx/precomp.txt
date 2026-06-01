@@ -1,0 +1,5 @@
+Term: precomp
+Glossary: vfx
+Definition: Abbreviation for preliminary composite.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/precomp/

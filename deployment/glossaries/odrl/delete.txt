@@ -1,0 +1,4 @@
+Term: Delete
+Glossary: odrl
+Definition: To permanently remove all copies of the Asset after it has been used.
+Usage Context: Use a constraint to define under which conditions the Asset must be deleted.

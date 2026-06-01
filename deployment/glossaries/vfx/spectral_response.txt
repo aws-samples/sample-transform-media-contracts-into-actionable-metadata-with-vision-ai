@@ -1,0 +1,5 @@
+Term: Spectral response
+Glossary: vfx
+Definition: The portion of the color spectrum a given light source emits. LED panels, due to their use of RGB LED bulbs, have a reduced spectral response compared to full-spectrum cinema lights.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/spectral-response/

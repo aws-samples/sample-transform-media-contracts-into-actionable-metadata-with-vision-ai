@@ -1,0 +1,5 @@
+Term: Pre-Load Request
+Glossary: podcast_digital_audio
+Definition: A podcast file download initiated by a player or website before the user has chosen to play the episode. Pre-loading directly results in podcast downloads being counted when they should not be. IAB recommends eliminating pre-load requests through policies and file threshold logic.
+Usage Context: Solutions include: (1) policy preventing pre-loading in players and on websites (e.g., preload=none for HTML5 audio); (2) use of the download threshold based on ID3 header payload plus 1 minute of recording time to distinguish plays/downloads from pre-loads.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

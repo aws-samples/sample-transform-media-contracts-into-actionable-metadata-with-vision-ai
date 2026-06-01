@@ -1,0 +1,5 @@
+Term: ROI
+Glossary: vfx
+Definition: Abbreviation for region of interest. (Also used in the financial world as an abbreviation for return on investment, something your employer is probably worrying about right now.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/roi/

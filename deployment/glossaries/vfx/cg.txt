@@ -1,0 +1,5 @@
+Term: CG
+Glossary: vfx
+Definition: Abbreviation for computer graphics.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cg/

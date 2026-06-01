@@ -1,0 +1,5 @@
+Term: pan and scan
+Glossary: vfx
+Definition: A technique that is used to convert images shot with a widescreen film process to a less expansive video format. It generally involves selectively cropping the image to fit into the new frame, arbitrarily choosing what portions of the image are unnecessary.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pan-and-scan/

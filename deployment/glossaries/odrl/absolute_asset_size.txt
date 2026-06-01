@@ -1,0 +1,4 @@
+Term: Absolute Asset Size
+Glossary: odrl
+Definition: Measure(s) of one or two axes for 2D-objects or measure(s) of one to tree axes for 3D-objects of the target Asset.
+Usage Context: Example: The image can be resized in width to a maximum of 1000px.

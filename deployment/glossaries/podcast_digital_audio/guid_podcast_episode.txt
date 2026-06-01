@@ -1,0 +1,5 @@
+Term: GUID (Podcast Episode)
+Glossary: podcast_digital_audio
+Definition: A globally unique identifier assigned to each episode in a podcast's RSS feed, designed to be persistent through changes to hosting environment, titles, publication dates, and URLs. IAB recommends using the GUID — not the episode URL, title, or publication date — to identify new episodes for automatic download.
+Usage Context: Essential for correct episode identification across hosting migrations and metadata changes. Using URL, title, or date as the identifier can cause duplicate downloads or missed episodes when those fields change.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

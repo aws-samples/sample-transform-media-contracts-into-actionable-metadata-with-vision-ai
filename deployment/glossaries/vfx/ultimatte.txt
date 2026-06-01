@@ -1,0 +1,5 @@
+Term: Ultimatte
+Glossary: vfx
+Definition: A proprietary tool based on the color difference method that can be used to extract a matte from an image shot in front of a uniform backing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ultimatte/

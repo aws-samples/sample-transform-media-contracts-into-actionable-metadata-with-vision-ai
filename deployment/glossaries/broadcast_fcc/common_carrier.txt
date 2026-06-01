@@ -1,0 +1,5 @@
+Term: Common Carrier
+Glossary: broadcast_fcc
+Definition: A company that provides communications services to the general public, subject to FCC common carrier regulation under Title II of the Communications Act.
+Usage Context: Status as a common carrier triggers specific FCC regulatory obligations, including tariff filing and non-discrimination requirements. Distinction is important for regulatory classification of broadcasters versus carriers.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

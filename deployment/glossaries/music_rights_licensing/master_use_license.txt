@@ -1,0 +1,5 @@
+Term: Master Use License
+Glossary: music_rights_licensing
+Definition: A license granting the right to reproduce and use a specific sound recording (master recording) in an audiovisual work, in timed relation with visual images, for the uses specified in the license. Typically issued by the record label or master rights owner.
+Usage Context: Required in addition to a synchronization license when an existing recording is used in a film, TV show, commercial, or other audiovisual production. A fresh re-recording of the same composition would require only a new sync license and recording of the composition — no master use license is needed for a cover recording made for the production.
+Source: Harry Fox Agency / IT Law Wiki — https://www.harryfox.com

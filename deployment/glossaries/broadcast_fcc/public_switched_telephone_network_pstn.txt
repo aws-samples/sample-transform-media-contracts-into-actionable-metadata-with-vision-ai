@@ -1,0 +1,5 @@
+Term: Public Switched Telephone Network (PSTN)
+Glossary: broadcast_fcc
+Definition: The traditional network of interconnected public telephone networks operated by telecom carriers providing voice service. Increasingly being replaced by IP-based networks as carriers transition away from legacy circuit-switched infrastructure.
+Usage Context: Regulatory frameworks distinguish PSTN services from IP-based services. The FCC's 'tech transition' proceedings address the move away from PSTN.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

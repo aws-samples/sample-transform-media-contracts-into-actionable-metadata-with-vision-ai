@@ -1,0 +1,5 @@
+Term: Omnimax
+Glossary: vfx
+Definition: A proprietary film capture/projection process that uses the same large-format negative as the IMAX process but is designed for projection on the interior of a dome-shaped screen.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/omnimax/

@@ -1,0 +1,5 @@
+Term: ASCAP Repertory
+Glossary: music_rights_licensing
+Definition: The collection of more than 10 million musical works whose public performance rights are licensed by the American Society of Composers, Authors and Publishers (ASCAP) on behalf of its more than 900,000 songwriter, composer, and music publisher members.
+Usage Context: Rightsholders of works in the ASCAP repertory can be identified via the ASCAP ACE database at www.ascap.com/ace. Members grant ASCAP nonexclusive rights, so they retain the ability to license directly.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

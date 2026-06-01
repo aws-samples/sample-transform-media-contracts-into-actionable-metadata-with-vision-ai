@@ -1,0 +1,4 @@
+Term: Relative Temporal Asset Position
+Glossary: odrl
+Definition: A point in space or time defined with coordinates relative to full measures the positioning of the target Asset.
+Usage Context: See also Absolute Temporal Asset Position. <br />Example: The MP3 music file must be positioned between the positions at 33% and 48% of the temporal length of a stream.

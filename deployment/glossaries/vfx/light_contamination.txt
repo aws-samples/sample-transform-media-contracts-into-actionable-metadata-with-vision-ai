@@ -1,0 +1,5 @@
+Term: Light contamination
+Glossary: vfx
+Definition: The presence of unintentional light effects on a given surface, such as the spill from movie lights onto an LED wall.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/light-contamination/

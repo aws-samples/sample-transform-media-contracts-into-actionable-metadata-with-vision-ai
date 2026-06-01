@@ -1,0 +1,5 @@
+Term: Per Program License
+Glossary: music_rights_licensing
+Definition: A license similar to a blanket license in that it authorizes a radio or television broadcaster to use all music in the ASCAP repertory, but under which the fee varies depending on the specific programs that contain that music. The user must track all music used and must obtain rights for all music used in programs not covered by the license.
+Usage Context: Alternative to the blanket license for broadcasters whose music usage is highly concentrated in specific program blocks. Requires more administrative overhead but can be cost-effective for users with limited music-intensive programming.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

@@ -1,0 +1,5 @@
+Term: Virtual lighting
+Glossary: vfx
+Definition: Light created within a real-time engine, often simulated with real-world physical and optical behaviors. Can be used on an LED volume to directly light a scene or act as interactive/reflective lighting. See also light cards.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-lighting/

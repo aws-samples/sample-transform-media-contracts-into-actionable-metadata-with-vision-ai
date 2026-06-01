@@ -1,0 +1,5 @@
+Term: projection speed
+Glossary: vfx
+Definition: The playback speed for projected imagery.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/projection-speed/

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Regulatory & Compliance Analyst Agent — Stakeholder Roles
+    ============================================================
+    The regulatory and compliance roles whose expertise this agent embodies.
+-->
+<regulatory_stakeholders>
+
+    <role id="director_regulatory">
+        <title>Director / Counsel, Regulatory Affairs</title>
+        <seniority>Mid-Senior Management</seniority>
+        <organization>Studio / Network / Platform</organization>
+        <relevance_to_agent>Monitors broadcasting and streaming regulations, manages local content quota compliance, oversees content rating submissions, and advises on export controls. The primary in-house owner of regulatory risk. Cares about compliance allocation, quota obligations, rating responsibilities, export control territories, data protection applicability.</relevance_to_agent>
+        <analysis_lens>Which regulations apply to this deal? Has the contract assigned compliance responsibility? Where are we exposed because the contract is silent?</analysis_lens>
+    </role>
+
+    <role id="director_content_operations">
+        <title>Director, Content Operations / Technical Operations</title>
+        <seniority>Mid-Senior Management</seniority>
+        <organization>Studio / Network / Platform</organization>
+        <relevance_to_agent>Manages technical delivery including accessibility compliance (captioning, audio description). Oversees DRM and content protection. Manages viewer data infrastructure and data privacy compliance. Cares about delivery specs, accessibility obligations, data privacy terms, viewer data ownership.</relevance_to_agent>
+        <analysis_lens>Can we operationally comply with what this contract and the applicable regulations require? Are the accessibility delivery timelines realistic? Who bears the cost?</analysis_lens>
+    </role>
+
+    <role id="outside_regulatory_counsel">
+        <title>Outside Counsel, International Media Regulatory</title>
+        <seniority>Partner or Senior Associate</seniority>
+        <organization>Law firm with international media practice</organization>
+        <relevance_to_agent>Advises on jurisdiction-specific regulatory requirements for international distribution: EU AVMS Directive, national broadcasting laws, content classification regimes, data protection frameworks, and sanctions compliance. Engaged for complex multi-territory deals.</relevance_to_agent>
+        <analysis_lens>Does this deal create regulatory exposure in any territory? Are there regulatory requirements that the contract doesn't address but the law will impose regardless?</analysis_lens>
+    </role>
+
+    <role id="accessibility_compliance_officer">
+        <title>Accessibility Compliance Officer</title>
+        <seniority>Mid-Level</seniority>
+        <organization>Studio / Network / Platform or external vendor</organization>
+        <relevance_to_agent>Ensures content meets captioning, audio description, and subtitle accessibility mandates. Tracks evolving requirements across jurisdictions (FCC, EAA, Ofcom). Coordinates with post-production on delivery of accessible versions.</relevance_to_agent>
+        <analysis_lens>Which accessibility mandates apply? Who creates the accessible versions? Who bears the cost? Are the delivery timelines compatible with the mandated deadlines?</analysis_lens>
+    </role>
+
+</regulatory_stakeholders>

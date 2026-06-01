@@ -1,0 +1,5 @@
+Term: Facial performance replacement (FPR)
+Glossary: vfx
+Definition: A form of facial capture intended to replace an original facial performance while retaining the original body performance.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/facial-performance-replacement-fpr/

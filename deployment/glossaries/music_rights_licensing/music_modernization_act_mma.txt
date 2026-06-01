@@ -1,0 +1,5 @@
+Term: Music Modernization Act (MMA)
+Glossary: music_rights_licensing
+Definition: U.S. federal legislation enacted in 2018 that modernized the system for licensing musical compositions for interactive streaming and digital downloads. Created the Mechanical Licensing Collective (MLC) to administer a blanket mechanical license for digital service providers and to collect and distribute matched and unmatched royalties.
+Usage Context: The MMA shifted digital mechanical licensing away from bilateral negotiations (historically handled by HFA and Music Reports for DSPs) to a blanket-license regime under 17 U.S.C. § 115. Post-MMA, HFA administers licenses for non-digital phonorecord deliveries and certain digital transmissions outside the MLC's scope.
+Source: NMPA — https://www.nmpa.org

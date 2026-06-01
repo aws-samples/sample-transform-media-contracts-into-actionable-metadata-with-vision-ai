@@ -1,0 +1,5 @@
+Term: film speed
+Glossary: vfx
+Definition: A very context-dependent term that may refer to (1) the rate at which film is moving through a camera or a projector (24 frames per second in normal feature-film work) or (2) the light sensitivity of the film itself. Slow-speed film is less light sensitive; high-speed film is more sensitive.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/film-speed/

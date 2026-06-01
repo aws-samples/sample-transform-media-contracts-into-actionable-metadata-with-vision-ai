@@ -1,0 +1,3 @@
+Term: Asset Collection
+Glossary: odrl
+Definition: An Asset that is collection of individual resources

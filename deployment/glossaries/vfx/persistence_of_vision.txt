@@ -1,0 +1,5 @@
+Term: persistence of vision
+Glossary: vfx
+Definition: The characteristic of the human eye that allows it to continue to perceive an image for a fraction of a second after it disappears.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/persistence-of-vision/

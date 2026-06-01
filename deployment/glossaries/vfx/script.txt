@@ -1,0 +1,5 @@
+Term: script
+Glossary: vfx
+Definition: A program written in a scripting language, including the language used by a compositing package to describe the set of image-processing operations to be applied to a set of images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/script/

@@ -1,0 +1,5 @@
+Term: IDT
+Glossary: vfx
+Definition: Abbreviation for Input Device Transform. In the ACES color management system, a color transformation which converts input device code values from a camera or scanner into ACES or ADX respectively.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/idt/

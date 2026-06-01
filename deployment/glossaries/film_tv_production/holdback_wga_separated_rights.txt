@@ -1,0 +1,5 @@
+Term: Holdback (WGA Separated Rights)
+Glossary: film_tv_production
+Definition: A time-limited restriction on a writer's ability to exercise certain separated rights (such as stage adaptation rights) during a period in which the Company retains the right to exploit the work in a competing medium. After the holdback expires, the writer may exercise the rights.
+Usage Context: A writer's right to produce a stage adaptation of their original screenplay is subject to a Company holdback during the Company's period of rights. Specific holdback periods are set forth in the MBA.
+Source: WGA Understanding Separated Rights — https://www.wga.org/uploadedfiles/know_your_rights/SeparatedRights.pdf

@@ -1,0 +1,91 @@
+[project]
+name = "Media-Contract-Analyzer"
+version = "1.0.0"
+description = "Transform media contracts into actionable metadata with vision AI.  Media companies operate on a web of agreements — rights contracts, distribution licenses, talent deals, and guild obligations — yet the terms governing what you own, what you owe, and what you can monetize are buried in PDFs, email threads, and legacy archives accumulated over years. When a business decision depends on understanding contract terms — such as whether a delivery method is specified or when a license window expires — teams resort to manual document review, slowing operations and introducing risk. This demonstration shows how multi-modal AI models extract and structure contract metadata at scale, transforming unstructured documents into searchable, actionable data. Attendees will see the system process diverse contract formats, identifying territory grants, compensation structures, expiration dates, and clause relationships. The result enables teams to search years of contract history in seconds, turning inaccessible archives into strategic assets for rights management and deal optimization. "
+authors = [{ name = "rbpotter-aws" }]
+readme = "README.md"
+requires-python = ">=3.12.0"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: Apache 2.0",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    "aws-cdk-lib",
+    "boto3",
+    "botocore",
+    "constructs",
+    "defusedxml>=0.7.1",
+    "gradio",
+    "gradio_pdf",
+    "jpype1",
+    "lxml>=6.1.0",
+    "markdown2docx>=0.1.0",
+    "mcp",
+    "opencv-python>=4.13.0.92",
+    "pdfreader>=0.1.15",
+    "pikepdf>=10.0.2",
+    "pillow",
+    "PyMuPDF",
+    "pypdf>=6.10.2",
+    "pdf2image",
+    "reportlab>=4.4.4",
+    "strands-agents",
+    "strands-agents[otel]",
+    "strands-agents-tools",
+    "tomli; python_version < '3.11'",
+    "xmlschema>=4.2.0",
+    "xmltoxsd>=0.1.1",
+    "aws-cdk-lib>=2.227.0",
+    "constructs>=10.4.3",
+    "aws-cdk-aws-bedrock-agentcore-alpha>=2.230.0a0",
+    "aws-cdk-aws-bedrock-alpha>=2.230.0a0",
+    "cdk-nag>=2.37.55",
+    "pydantic<2.12.0",
+    "gradio-pdf>=0.0.24",
+    "pymupdf>=1.26.6",
+    "jpype1>=1.6.0",
+    "websockets>=15.0.1",
+    "bedrock-agentcore>=1.1.2",
+    "urllib3>=2.6.2",
+    "pip-audit>=2.10.0",
+    "requests>=2.28.0",
+    "itsdangerous>=2.2.0",
+    "aws-cdk-mixins-preview==2.234.1a0",
+    "realesrgan>=0.3.0",
+    "basicsr>=1.4.2",
+    "setuptools>=80.10.2",
+    "torchvision>=0.25.0",
+    "spandrel>=0.4.1",
+    "super-image>=0.2.0",
+    "pandas>=2.3.3",
+    "python-multipart>=0.0.26",
+    "python-dotenv>=1.2.2",
+    "cryptography>=47.0.0",
+    "pytomlcleaner>=1.0.0",
+    "weasyprint>=68.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "mypy", "pylint"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["tools*", "config*", "server*", "main*"]
+
+[tool.mypy]
+python_version = "3.12"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+
+[tool.pylint.messages_control]
+disable = ["C0103", "R0903"]
+
+[tool.uv.workspace]
+members = [".kiro/skills/markdown_converter"]
+
+[dependency-groups]
+dev = ["types-requests>=2.32.4.20260107"]

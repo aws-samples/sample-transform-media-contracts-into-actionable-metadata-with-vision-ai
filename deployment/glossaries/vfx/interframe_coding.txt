@@ -1,0 +1,5 @@
+Term: interframe coding
+Glossary: vfx
+Definition: The process used in MPEG encoding whereby intermediate images in a sequence are defined by their deviation from specific key frames.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/interframe-coding/

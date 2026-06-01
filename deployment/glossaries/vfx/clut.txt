@@ -1,0 +1,5 @@
+Term: CLUT
+Glossary: vfx
+Definition: Abbreviation for color lookup table.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/clut/

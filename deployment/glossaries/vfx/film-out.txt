@@ -1,0 +1,5 @@
+Term: film-out
+Glossary: vfx
+Definition: Term meaning the actual recording of the digital image data onto motion picture film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/film-out/

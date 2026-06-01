@@ -1,0 +1,5 @@
+Term: IES Profile
+Glossary: vfx
+Definition: A file format defined by the Illuminating Engineering Society which describes a light’s distribution from a light source using real world measured data.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/ies-profile/

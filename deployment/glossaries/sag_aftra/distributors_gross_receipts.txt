@@ -1,0 +1,5 @@
+Term: Distributor's Gross Receipts
+Glossary: sag_aftra
+Definition: Revenue derived from the license or sale of a project. The calculation formula depends on the type of product, the parties to the agreement, and the market of exploitation; the detailed definition is set forth in the Codified Basic Agreement.
+Usage Context: Serves as the base against which gross-receipts-based residuals are calculated, including SVOD supplemental market residuals under the SAG-AFTRA Exhibit A Sideletter. Appears in performer agreements and residuals statements as the reference figure for residual computation.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

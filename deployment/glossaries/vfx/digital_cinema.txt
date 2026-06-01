@@ -1,0 +1,5 @@
+Term: digital cinema
+Glossary: vfx
+Definition: Feature motion pictures (and potentially other digital uses) distributed digitally and shown on digital projectors that meet SMPTE and DCI (Digital Cinema Initiatives) specifications/requirements. So called, “D-Cinema” in SMPTE nomenclature.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital-cinema/

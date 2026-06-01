@@ -1,0 +1,5 @@
+Term: spill suppression
+Glossary: vfx
+Definition: Any process that removes or neutralizes undesirable spill from an object.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/spill-suppression/

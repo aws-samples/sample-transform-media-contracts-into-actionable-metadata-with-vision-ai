@@ -1,0 +1,5 @@
+Term: Head-mounted display (HMD)
+Glossary: vfx
+Definition: A head-worn device used to display CG content for VR, AR, and MR
+Source: vp
+Reference: https://vpglossary.com/vpglossary/head-mounted-display-hmd/

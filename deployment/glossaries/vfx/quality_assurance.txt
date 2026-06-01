@@ -1,0 +1,5 @@
+Term: Quality assurance
+Glossary: vfx
+Definition: The process of searching for errors, flaws, and imperfections within an environment or asset, often abbreviated as QA or as quality control (QC).
+Source: vp
+Reference: https://vpglossary.com/vpglossary/quality-assurance/

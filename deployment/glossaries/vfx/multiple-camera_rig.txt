@@ -1,0 +1,5 @@
+Term: multiple-camera rig
+Glossary: vfx
+Definition: (stereo) A technique commonly used in virtual 3D photography in which more than one stereo camera pair is used to photograph the scene. Individual objects in the scene are assigned to each camera pair with each one using unique stereoscopic parameters. Also describes the collection of camera pairs used to photograph such a scene.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/multiple-camera-rig/

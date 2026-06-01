@@ -1,0 +1,5 @@
+Term: multiplexing
+Glossary: vfx
+Definition: (stereo) The technique for placing the two images required for a stereoscopic display within an existing bandwidth.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/multiplexing/

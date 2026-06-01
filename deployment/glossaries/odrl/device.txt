@@ -1,0 +1,3 @@
+Term: Device
+Glossary: odrl
+Definition: An identified device used for exercising the action of the Rule.

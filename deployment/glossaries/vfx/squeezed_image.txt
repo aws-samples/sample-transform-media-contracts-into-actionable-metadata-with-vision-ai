@@ -1,0 +1,5 @@
+Term: squeezed image
+Glossary: vfx
+Definition: An image that has been anamorphically compressed.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/squeezed-image/

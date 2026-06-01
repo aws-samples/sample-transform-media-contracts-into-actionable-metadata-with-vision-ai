@@ -1,0 +1,5 @@
+Term: original negative (O-neg)
+Glossary: vfx
+Definition: The first-generation negative that captured the original image directly from the scene. Later duplicates of this negative are known as intermediate negatives or internegatives.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/original-negative-o-neg/

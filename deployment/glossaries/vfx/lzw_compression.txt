@@ -1,0 +1,5 @@
+Term: LZW compression
+Glossary: vfx
+Definition: A lossless compression method that finds repeated patterns in blocks of pixels in an image. Variations of LZW compression are used in a number of image file formats, including GIF and TIFF. LZW stands for Lempel-Ziv-Welch.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lzw-compression/

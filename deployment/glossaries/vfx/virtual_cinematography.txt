@@ -1,0 +1,5 @@
+Term: Virtual cinematography
+Glossary: vfx
+Definition: The process of creating virtual imagery which may incorporate aspects of real-world cinematography. Virtual cinematography can be used to build complete virtual worlds from scratch and manipulate them with real-world input. The process includes all of the visualization phases of a virtual production from previs through live-action shooting and into post.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-cinematography/

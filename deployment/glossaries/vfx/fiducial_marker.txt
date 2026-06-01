@@ -1,0 +1,6 @@
+Term: Fiducial marker
+Glossary: vfx
+Definition: A reference object with a known size and a unique pattern, similar to a QR code, that certain camera tracking
+systems can recognize and use to calculate their relative position.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/fiducial-marker/

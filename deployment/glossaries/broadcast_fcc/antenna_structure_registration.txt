@@ -1,0 +1,5 @@
+Term: Antenna Structure Registration
+Glossary: broadcast_fcc
+Definition: FCC requirement that owners register antenna structures that exceed 60.96 meters (200 feet) in height. Registration addresses aviation safety (marking and lighting) and interference mitigation.
+Usage Context: Compliance requires coordination with the FAA (Federal Aviation Administration) and maintenance of marking and lighting. Failure to register or maintain compliance triggers FCC enforcement action.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

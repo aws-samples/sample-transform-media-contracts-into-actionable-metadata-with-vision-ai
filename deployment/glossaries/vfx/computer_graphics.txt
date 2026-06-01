@@ -1,0 +1,5 @@
+Term: computer graphics
+Glossary: vfx
+Definition: An image or images created or manipulated with the aid of a computer.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/computer-graphics/

@@ -1,0 +1,5 @@
+Term: HD resolution
+Glossary: vfx
+Definition: A general term referring to any digital image that contains the spatial resolution of one of the HDTV standards, of which 1920 × 1080 is the most common.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hd-resolution/

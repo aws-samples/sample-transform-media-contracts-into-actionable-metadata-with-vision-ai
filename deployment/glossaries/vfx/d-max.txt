@@ -1,0 +1,5 @@
+Term: D-max
+Glossary: vfx
+Definition: See maximum density.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/d-max/

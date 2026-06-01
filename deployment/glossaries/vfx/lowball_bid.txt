@@ -1,0 +1,5 @@
+Term: lowball bid
+Glossary: vfx
+Definition: A very low bid based on extreme best case scenarios.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lowball-bid/

@@ -1,0 +1,4 @@
+Term: Action
+Glossary: odrl
+Definition: An operation on an Asset.
+Usage Context: Actions may be allowed by Permissions, disallowed by Prohibitions, or made mandatory by Duties.

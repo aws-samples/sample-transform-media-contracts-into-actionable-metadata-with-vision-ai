@@ -1,0 +1,5 @@
+Term: Number Portability
+Glossary: broadcast_fcc
+Definition: The ability of individuals, businesses, and organizations to retain their existing telephone number(s) when switching to a new service provider. Required by the Telecommunications Act of 1996 and implementing FCC rules.
+Usage Context: Fundamental consumer protection for telecom customers. Extends to both wireline and wireless (LNP — Local Number Portability, and WLNP — Wireless Local Number Portability).
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

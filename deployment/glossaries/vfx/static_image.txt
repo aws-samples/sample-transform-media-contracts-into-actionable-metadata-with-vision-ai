@@ -1,0 +1,5 @@
+Term: static image
+Glossary: vfx
+Definition: An image that contains no motion.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/static-image/

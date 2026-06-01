@@ -1,0 +1,5 @@
+Term: tail slate
+Glossary: vfx
+Definition: Slate information that is recorded at the end of the shot instead of the beginning. Generally only used in live-action photography; the slate information is filmed upside-down, to distinguish it from a normal slate.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/tail-slate/

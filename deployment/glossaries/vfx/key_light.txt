@@ -1,0 +1,5 @@
+Term: Key light
+Glossary: vfx
+Definition: The light on set that is considered the main light source. Usually the brightest light on-set.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/key-light/

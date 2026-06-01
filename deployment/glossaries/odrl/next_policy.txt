@@ -1,0 +1,4 @@
+Term: Next Policy
+Glossary: odrl
+Definition: To grant the specified Policy to a third party for their use of the Asset.
+Usage Context: Useful for downstream policies.

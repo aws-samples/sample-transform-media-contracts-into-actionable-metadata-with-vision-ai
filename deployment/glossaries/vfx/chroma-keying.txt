@@ -1,0 +1,5 @@
+Term: chroma-keying
+Glossary: vfx
+Definition: A keying technique that allows one to separate an object from its background based on colors that are unique to either the foreground or background.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/chroma-keying/

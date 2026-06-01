@@ -1,0 +1,5 @@
+Term: 3DoF
+Glossary: vfx
+Definition: abbreviation for 3 degrees of freedom. the number of different “directions” that an object can move in 3D space. 3DOF VR headsets can track your head orientation, i.e., it knows where you are looking. (See 6DoF.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/3dof/

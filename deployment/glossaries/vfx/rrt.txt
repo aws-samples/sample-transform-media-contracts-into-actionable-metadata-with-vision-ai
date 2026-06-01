@@ -1,0 +1,5 @@
+Term: RRT
+Glossary: vfx
+Definition: Abbreviation for Reference Rendering Transform. In the ACES color management system, a unique color transform that provides a color reproduction of ACES data appropriate for a dark-surround theater, e.g., a virtual print look.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rrt/

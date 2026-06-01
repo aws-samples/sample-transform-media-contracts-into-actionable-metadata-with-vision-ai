@@ -1,0 +1,5 @@
+Term: Aperture
+Glossary: vfx
+Definition: The opening of a diaphragm within a lens through which light passes to either a digital sensor or a film negative. Usually referred to as what F-Stop a lens is at, aperture influences the depth of field and the light gathering ability of the lens. See F-Stop and T-Stop.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/aperture/

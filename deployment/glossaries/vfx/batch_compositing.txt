@@ -1,0 +1,5 @@
+Term: batch compositing
+Glossary: vfx
+Definition: A method of compositing that entails the creation of a script or set of instructions that will be executed at a later time, without the need for a graphical user interface.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/batch-compositing/

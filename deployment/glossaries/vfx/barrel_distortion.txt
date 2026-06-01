@@ -1,0 +1,5 @@
+Term: barrel distortion
+Glossary: vfx
+Definition: Distortion of a lens that causes straight lines to bend away from the center of the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/barrel-distortion/

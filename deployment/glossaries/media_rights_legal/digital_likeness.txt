@@ -1,0 +1,5 @@
+Term: Digital Likeness
+Glossary: media_rights_legal
+Definition: A computer-generated or AI-created replica of a performer's physical appearance, voice, or mannerisms. Modern talent agreements require separate consent and compensation for such usage.
+Usage Context: Talent agreements: 'Producer shall not use AI-generated replicas of Performer's likeness without express written consent for each specific use.'
+Source: media_rights_legal

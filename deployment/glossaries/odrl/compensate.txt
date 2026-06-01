@@ -1,0 +1,4 @@
+Term: Compensate
+Glossary: odrl
+Definition: To compensate by transfer of some amount of value, if defined, for using or selling the Asset.
+Usage Context: The compensation may use different types of things with a value: (i) the thing is expressed by the value (term) of the Constraint name; (b) the value is expressed by operator, rightOperand, dataType and unit. Typically the assignee will compensate the assigner, but other compensation party roles may be used.

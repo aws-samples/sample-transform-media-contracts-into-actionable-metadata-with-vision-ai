@@ -1,0 +1,5 @@
+Term: anti-aliasing
+Glossary: vfx
+Definition: Techniques used to mitigate the artifacts caused by a lack of sufficient resolution.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/anti-aliasing/

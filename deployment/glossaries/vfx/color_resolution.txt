@@ -1,0 +1,5 @@
+Term: color resolution
+Glossary: vfx
+Definition: The amount of data allocated for specifying the value of an individual color in an image. See also bit depth.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-resolution/

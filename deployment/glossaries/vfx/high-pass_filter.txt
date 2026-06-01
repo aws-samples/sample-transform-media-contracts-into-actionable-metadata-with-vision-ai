@@ -1,0 +1,5 @@
+Term: high-pass filter
+Glossary: vfx
+Definition: A spatial filter that enhances high-frequency detail. It is used as a method for sharpening an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/high-pass-filter/

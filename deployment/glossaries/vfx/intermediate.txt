@@ -1,0 +1,5 @@
+Term: intermediate
+Glossary: vfx
+Definition: General term used for copies (not necessarily first generation) of the original negative, which can be used as the source for duplicate copies. See interpositive, internegative.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/intermediate/

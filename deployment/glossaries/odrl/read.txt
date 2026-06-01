@@ -1,0 +1,4 @@
+Term: Read
+Glossary: odrl
+Definition: To obtain data from the Asset.
+Usage Context: For example, the ability to read a record from a database (the Asset).

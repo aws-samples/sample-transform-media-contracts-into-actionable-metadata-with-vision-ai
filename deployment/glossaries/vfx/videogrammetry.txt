@@ -1,0 +1,5 @@
+Term: Videogrammetry
+Glossary: vfx
+Definition: The automated construction of a 3D model triangulated from video. See also photogrammetry.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/videogrammetry/

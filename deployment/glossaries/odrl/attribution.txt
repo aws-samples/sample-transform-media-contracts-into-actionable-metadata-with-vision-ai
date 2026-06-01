@@ -1,0 +1,4 @@
+Term: Attribution
+Glossary: odrl
+Definition: Credit be given to copyright holder and/or author.
+Usage Context: This term is defined by Creative Commons.

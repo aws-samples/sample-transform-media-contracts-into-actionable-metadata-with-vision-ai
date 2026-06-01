@@ -1,0 +1,5 @@
+Term: 16mm film
+Glossary: vfx
+Definition: A film format with a gauge of 16mm that carries only two perforations along each frame and contains 40 frames per foot. Because the captured image area is significantly smaller than that of 35mm film, this film format is rarely used for visual effects work. However, 16mm is still occasionally used for documentaries and television commercials.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/16mm-film/

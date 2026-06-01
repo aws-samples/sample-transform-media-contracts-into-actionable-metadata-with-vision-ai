@@ -1,0 +1,5 @@
+Term: dynamic resolution
+Glossary: vfx
+Definition: Another term for color resolution.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dynamic-resolution/

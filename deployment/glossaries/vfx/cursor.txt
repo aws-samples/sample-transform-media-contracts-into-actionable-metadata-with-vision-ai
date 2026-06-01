@@ -1,0 +1,5 @@
+Term: cursor
+Glossary: vfx
+Definition: A graphical marker, usually controlled by a device such as a mouse or a tablet pen, that is used to point to a position or object on a computer’s display.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cursor/

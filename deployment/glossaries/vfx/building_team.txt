@@ -1,0 +1,5 @@
+Term: Building team
+Glossary: vfx
+Definition: The team responsible for taking the data captured by the acquisition team and transforming it into digital assets.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/building-team/

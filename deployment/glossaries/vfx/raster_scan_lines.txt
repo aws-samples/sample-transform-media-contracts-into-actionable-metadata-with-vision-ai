@@ -1,0 +1,5 @@
+Term: Raster scan lines
+Glossary: vfx
+Definition: Visible distortion which can appear as lines or wave patterns on camera such as when capturing an LED panel without proper genlock or a camera shutter out of phase with the display’s timing.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/raster-scan-lines/

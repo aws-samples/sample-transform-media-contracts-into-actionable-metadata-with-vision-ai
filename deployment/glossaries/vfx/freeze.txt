@@ -1,0 +1,5 @@
+Term: freeze
+Glossary: vfx
+Definition: The process of stopping the action. In digital compositing, this is usually accomplished by repeating the same frame for a duration of time.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/freeze/

@@ -1,0 +1,5 @@
+Term: Video engineer
+Glossary: vfx
+Definition: The crewmember in charge of maintaining and routing video signals to and from sources and destinations on a volume as well as other a/v operations.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/video-engineer/

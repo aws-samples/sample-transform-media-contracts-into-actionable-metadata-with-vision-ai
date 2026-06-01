@@ -1,0 +1,4 @@
+Term: Modify
+Glossary: odrl
+Definition: To change existing content of the Asset. A new asset is not created by this action.
+Usage Context: This action will modify an asset which is typically updated from time to time without creating a new asset. If the result from modifying the asset should be a new asset the actions derive or extract should be used. (Note that the notion of whether or not the change is significant enough to qualify as a new asset is subjective).

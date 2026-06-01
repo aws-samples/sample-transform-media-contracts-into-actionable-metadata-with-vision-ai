@@ -1,0 +1,5 @@
+Term: FG
+Glossary: vfx
+Definition: Abbreviation for foreground.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fg/

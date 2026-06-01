@@ -1,0 +1,5 @@
+Term: telecine
+Glossary: vfx
+Definition: A device for rapidly converting motion picture film into a video format. A telecine device is much faster than a film scanner but will produce lower quality results.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/telecine/

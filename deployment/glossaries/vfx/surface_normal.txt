@@ -1,0 +1,5 @@
+Term: surface normal
+Glossary: vfx
+Definition: A vector that is perpendicular to a surface at a specific point on the surface. In compositing, multiple-pass rendering will often include a surface-normal pass.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/surface-normal/

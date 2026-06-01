@@ -1,0 +1,5 @@
+Term: flatbed
+Glossary: vfx
+Definition: A mechanical picture and sound editing machine on which multiple film rolls and audio tracks are loaded separately and lay flat on a motorized table-like surface, allowing film editors smoother, quieter, and better viewing of the material for the purpose of editing and reviewing the edit. These machines were essentially the last improvements in editing equipment, following the Movieola, before nonlinear digital editing machines took over. They are now rarely if ever used. (Sometimes referred to as a KEM.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/flatbed/

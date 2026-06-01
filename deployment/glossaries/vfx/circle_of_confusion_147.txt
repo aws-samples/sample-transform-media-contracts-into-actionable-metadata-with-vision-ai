@@ -1,0 +1,5 @@
+Term: Circle of confusion
+Glossary: vfx
+Definition: When light from a lens does not come to a perfect focus, the imaging plane intersects a cone, and hence forms a spot called a circle of confusion.If by changing the focus (or distance to the subject) the diameter of this circle is small enough to be indistinguishable from a dot, than that part of the image is considered in focus. Aesthetically, large circles of confusion are often desirable in the background so that the eye is drawn to the sharp subject in the foreground.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/circle-of-confusion/

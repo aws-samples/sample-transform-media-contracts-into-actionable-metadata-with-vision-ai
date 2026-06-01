@@ -1,0 +1,5 @@
+Term: OpenEXR
+Glossary: vfx
+Definition: A specific image file format designed for use with high dynamic range imagery.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/openexr/

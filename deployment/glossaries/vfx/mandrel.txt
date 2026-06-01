@@ -1,0 +1,5 @@
+Term: mandrel
+Glossary: vfx
+Definition: Form to replicate the volume and basic shape of an object for on-set interaction. The actual image of the object will be added in post-production. An example is a mandrel with the basic shape of a rhino used to smash in a wall that is later replaced with a CG rhino.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/mandrel/

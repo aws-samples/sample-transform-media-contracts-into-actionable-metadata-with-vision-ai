@@ -1,0 +1,5 @@
+Term: anaglyph
+Glossary: vfx
+Definition: (1) (stereo) Wavelength selection using complementary colored images and color filters to filter or pass the appropriate perspective views to the appropriate eyes; (2) A stereoscopic image that requires the use of anaglyph glasses to view properly.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/anaglyph/

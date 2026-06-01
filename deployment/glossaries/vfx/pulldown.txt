@@ -1,0 +1,5 @@
+Term: pulldown
+Glossary: vfx
+Definition: Shorthand for 3:2 pulldown.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pulldown/

@@ -1,0 +1,5 @@
+Term: 2k resolution
+Glossary: vfx
+Definition: A general term referring to any digital image containing an × resolution of approximately 2048 pixels. The actual dimensions of a 2k image depend on the aspect ratio of the imagery. A common 2k resolution used in visual effects when working with full aperture framing is 2048 × 1556.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/2k-resolution/

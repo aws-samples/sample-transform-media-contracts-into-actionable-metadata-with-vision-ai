@@ -1,0 +1,5 @@
+Term: diffusion
+Glossary: vfx
+Definition: An effect, caused by atmosphere or special filters placed on the lens, that is charac-terized by a scattering of light, elevated dark areas, and an overall softer look.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/diffusion/

@@ -1,0 +1,5 @@
+Term: sampling
+Glossary: vfx
+Definition: (1) The process of reading a signal at specific time increments. See also digitization. (2) The process of reading the color value from a pixel or a group of pixels.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sampling/

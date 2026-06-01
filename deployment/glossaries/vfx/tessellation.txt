@@ -1,0 +1,5 @@
+Term: tessellation
+Glossary: vfx
+Definition: A collection of plane figures that fills the plane with no overlaps and no gaps. One may also speak of tessellations of the parts of a plane or of other surfaces. Generalizations to higher dimensions are also possible. Tessellations frequently appeared in the art of M.C. Escher. Tessellations are seen throughout art history, from ancient architecture to modern art. Also referred to as tiling of the plane.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/tessellation/

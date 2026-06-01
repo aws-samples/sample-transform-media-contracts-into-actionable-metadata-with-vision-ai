@@ -1,0 +1,5 @@
+Term: Motion capture suit
+Glossary: vfx
+Definition: A special costume with sensors used to capture human performance movement to puppeteer virtual characters. Sensor types include retro-reflective markers for optical tracking and inertial motion sensors.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-capture-suit/

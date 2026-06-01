@@ -1,0 +1,5 @@
+Term: Notice of Tentative Writing Credits
+Glossary: film_tv_production
+Definition: A document prepared and submitted by a WGA signatory production company to the Guild setting forth the production's proposed writing credits for a given project. Submission triggers the WGA's review and any necessary credit arbitration before final credits are locked.
+Usage Context: Prepared by the production company in consultation with applicable staff. Deadlines for submission are governed by the Credits Manuals. Participating writers may protest the proposed credits, which triggers arbitration.
+Source: WGA Credits Manuals — https://www.wga.org/contracts/credits/manuals

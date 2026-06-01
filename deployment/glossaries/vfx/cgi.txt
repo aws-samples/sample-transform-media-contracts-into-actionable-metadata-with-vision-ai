@@ -1,0 +1,5 @@
+Term: CGI
+Glossary: vfx
+Definition: See computer-generated imagery.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cgi/

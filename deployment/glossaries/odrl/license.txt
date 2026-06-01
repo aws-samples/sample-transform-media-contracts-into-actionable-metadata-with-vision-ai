@@ -1,0 +1,3 @@
+Term: License
+Glossary: odrl
+Definition: The act of granting the right to use the asset to a third-party.

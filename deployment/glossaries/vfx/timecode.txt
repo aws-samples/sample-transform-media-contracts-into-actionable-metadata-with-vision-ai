@@ -1,0 +1,5 @@
+Term: timecode
+Glossary: vfx
+Definition: An electronic indexing method used with videotapes. Timecode is measured in hours, minutes, seconds, and frames.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/timecode/

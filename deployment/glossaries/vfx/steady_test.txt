@@ -1,0 +1,5 @@
+Term: steady test
+Glossary: vfx
+Definition: A test to determine if a camera or the imagery shot with that camera is steady.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/steady-test/

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Risk & Negotiation Strategist Agent — Stakeholder Roles
+    =========================================================
+    The senior decision-makers whose judgment this agent models.
+-->
+<risk_stakeholders>
+
+    <role id="evp_svp_business_affairs">
+        <title>EVP / SVP, Business Affairs</title>
+        <seniority>Executive</seniority>
+        <organization>Studio / Network / Platform or Production Company</organization>
+        <relevance_to_agent>The most senior deal strategist. Sets deal parameters, approves above-threshold terms, and makes the final call on whether issues are deal-breakers or acceptable risks. Has seen hundreds of deals and knows which issues actually matter in practice vs. which are theoretical. The Risk Strategist's primary model.</relevance_to_agent>
+        <analysis_lens>What must change before I sign? What can I live with? What's the priority order? Where do I have leverage and where don't I?</analysis_lens>
+    </role>
+
+    <role id="general_counsel">
+        <title>General Counsel / Chief Legal Officer</title>
+        <seniority>C-Suite / Executive</seniority>
+        <organization>Studio / Network / Platform or Production Company</organization>
+        <relevance_to_agent>Ultimate authority on legal risk tolerance. Approves non-standard terms, assesses litigation probability, and evaluates enterprise-level risk. The risk calibration model.</relevance_to_agent>
+        <analysis_lens>What is our total risk exposure? Which provisions create litigation or regulatory enforcement risk? Is this deal within our risk tolerance?</analysis_lens>
+    </role>
+
+    <role id="outside_partner">
+        <title>Partner, Entertainment / Media Practice (Outside Counsel)</title>
+        <seniority>Partner</seniority>
+        <organization>Entertainment law firm</organization>
+        <relevance_to_agent>Develops transaction structure, advises on strategy, and provides industry benchmarking. Brings cross-deal pattern recognition and knows what terms are actually achievable in the current market. The market-context model.</relevance_to_agent>
+        <analysis_lens>How does this deal compare to market? Which terms are negotiable in the current environment? What is the opposing side likely to concede vs. hold firm on?</analysis_lens>
+    </role>
+
+    <role id="talent_attorney_strategy">
+        <title>Entertainment Attorney (Talent-Side, Strategic)</title>
+        <seniority>Senior Partner</seniority>
+        <organization>Entertainment law firm</organization>
+        <relevance_to_agent>The talent-side strategic counterpart. Knows which protections are non-negotiable for their client, which are aspirational, and where creative compromises exist. Provides the adversarial perspective — what will the other side fight for?</relevance_to_agent>
+        <analysis_lens>If I'm on the other side, which of these findings would I push back on? Which are we likely to win? Which require creative structuring rather than a direct demand?</analysis_lens>
+    </role>
+
+</risk_stakeholders>

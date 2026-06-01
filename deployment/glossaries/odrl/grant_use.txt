@@ -1,0 +1,4 @@
+Term: Grant Use
+Glossary: odrl
+Definition: To grant the use of the Asset to third parties.
+Usage Context: This action enables the assignee to create policies for the use of the Asset for third parties. The nextPolicy is recommended to be agreed with the third party. Use of temporal constraints is recommended.

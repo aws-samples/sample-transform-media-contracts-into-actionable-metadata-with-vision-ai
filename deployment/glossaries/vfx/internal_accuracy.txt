@@ -1,0 +1,5 @@
+Term: internal accuracy
+Glossary: vfx
+Definition: The measurement of the precision or bit depth that a software package uses to represent and modify image data.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/internal-accuracy/

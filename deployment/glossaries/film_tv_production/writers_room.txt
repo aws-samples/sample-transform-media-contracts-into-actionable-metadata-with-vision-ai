@@ -1,0 +1,5 @@
+Term: Writers' Room
+Glossary: film_tv_production
+Definition: The group of writers (staff writers, story editors, co-producers, producers, executive producers) assembled to develop and write a television series, typically headed by the showrunner. The writers' room engages in collaborative story breaking, outlining, and script development.
+Usage Context: The WGA MBA establishes minimum staffing levels for writers' rooms in certain situations and minimum compensation scales by title. The 2023 WGA MBA increased minimum staffing requirements and duration of employment for episodic series writers' rooms.
+Source: WGA Minimum Basic Agreement — https://www.wga.org

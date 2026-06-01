@@ -1,0 +1,39 @@
+{
+    "specialists": [
+        {
+            "id": "financial",
+            "name": "Financial Analyst",
+            "emoji": "💰",
+            "description": "Deal economics, revenue shares, MFN provisions, payment terms",
+            "category": "Core Specialists"
+        },
+        {
+            "id": "rights_clearance",
+            "name": "Rights & Clearance",
+            "emoji": "⚖️",
+            "description": "IP ownership, chain of title, licensing scope, holdbacks",
+            "category": "Core Specialists"
+        },
+        {
+            "id": "talent_guild_compliance",
+            "name": "Talent & Guild Compliance",
+            "emoji": "🎭",
+            "description": "SAG-AFTRA, WGA, DGA obligations, residuals, performer protections",
+            "category": "Core Specialists"
+        },
+        {
+            "id": "regulatory_compliance",
+            "name": "Regulatory Compliance",
+            "emoji": "📋",
+            "description": "GDPR, content quotas, accessibility, export controls, data privacy",
+            "category": "Core Specialists"
+        },
+        {
+            "id": "handwriting_analyzer",
+            "name": "Handwriting Analyzer",
+            "emoji": "✍️",
+            "description": "Analyze handwritten annotations, margin notes, and signatures",
+            "category": "Experimental"
+        }
+    ]
+}

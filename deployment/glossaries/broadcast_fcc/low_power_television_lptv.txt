@@ -1,0 +1,5 @@
+Term: Low Power Television (LPTV)
+Glossary: broadcast_fcc
+Definition: A broadcast service that permits program origination, subscription service, or both via low-powered television translators. LPTV service operates on a secondary basis to regular television stations. Transmitter output is limited to 1,000 watts for UHF stations, 10 watts for VHF stations (100 watts on allocated channels).
+Usage Context: LPTV licenses are subordinate to full-power stations and may be required to modify operations to avoid interference. Distribution to LPTV outlets is typically a specialized market outside primary syndication arrangements.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

@@ -1,0 +1,5 @@
+Term: palette
+Glossary: vfx
+Definition: The range of colors available for use in any particular application. A system that uses 8 bits per channel would have a palette of more than 16 million colors.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/palette/

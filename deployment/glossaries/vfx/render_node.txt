@@ -1,0 +1,5 @@
+Term: Render node
+Glossary: vfx
+Definition: A member of a group of computers rendering the same scene in parallel. Multifaceted LED volumes generally require several synchronized render nodes to generate a complete environment.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/render-node/

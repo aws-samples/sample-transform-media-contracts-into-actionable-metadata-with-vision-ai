@@ -1,0 +1,5 @@
+Term: wagon wheeling
+Glossary: vfx
+Definition: An image artifact caused when a rotating object (such as a wheel) appears to be moving at the wrong speed or in the wrong direction relative to the object to which it is attached. This is a temporal aliasing artifact.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/wagon-wheeling/

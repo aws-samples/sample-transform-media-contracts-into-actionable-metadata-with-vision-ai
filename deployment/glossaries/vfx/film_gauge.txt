@@ -1,0 +1,5 @@
+Term: film gauge
+Glossary: vfx
+Definition: The width of a particular film stock, that is, 16mm, 35mm, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/film-gauge/

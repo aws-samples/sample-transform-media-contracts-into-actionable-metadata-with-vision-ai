@@ -1,0 +1,5 @@
+Term: haptic arm
+Glossary: vfx
+Definition: A force-feedback system. In computer graphics it sometimes takes the form of a pressure-sensitive stylus to be used with a computer tablet.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/haptic-arm/

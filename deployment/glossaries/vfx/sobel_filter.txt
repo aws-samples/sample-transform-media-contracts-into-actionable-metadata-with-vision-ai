@@ -1,0 +1,5 @@
+Term: Sobel filter
+Glossary: vfx
+Definition: A specific type of edge detection algorithm.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sobel-filter/

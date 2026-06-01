@@ -1,0 +1,5 @@
+Term: interpositive film stock
+Glossary: vfx
+Definition: Orange-based motion picture film with a positive image made from the edited camera negative. The orange base provides special color characteristics that allow for more accurate color reproduction than if the IP had a clear base, as in print films.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/interpositive-film-stock/

@@ -1,0 +1,18 @@
+{
+  "metadataAttributes": {
+    "glossary": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "broadcast_fcc"
+      },
+      "includeForEmbedding": true
+    },
+    "term": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "Broadband"
+      },
+      "includeForEmbedding": true
+    }
+  }
+}

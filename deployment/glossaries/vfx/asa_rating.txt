@@ -1,0 +1,5 @@
+Term: ASA rating
+Glossary: vfx
+Definition: A standard numerical rating for specifying a film’s sensitivity to light. ASA refers to the American Standards Association, now known as the American National Standards Institute, or ANSI. Many manufacturers now use their own specific exposure index instead. See also DIN rating, ISO index.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/asa-rating/

@@ -1,0 +1,5 @@
+Term: compositor
+Glossary: vfx
+Definition: A person who creates composites. (See the list of VES-approved titles in Appendix B.) compression ratio: The ratio of the data sizes between an uncompressed element and its compressed equivalent.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/compositor/

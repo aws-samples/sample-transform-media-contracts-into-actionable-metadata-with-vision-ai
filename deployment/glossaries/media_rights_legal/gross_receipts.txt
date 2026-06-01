@@ -1,0 +1,5 @@
+Term: Gross Receipts
+Glossary: media_rights_legal
+Definition: Total revenue received from exploitation of content before any deductions. The starting point from which distribution fees and recoupable expenses are subtracted.
+Usage Context: Distribution agreements: 'Distributor shall retain X% of Gross Receipts as the Distribution Fee.'
+Source: media_rights_legal

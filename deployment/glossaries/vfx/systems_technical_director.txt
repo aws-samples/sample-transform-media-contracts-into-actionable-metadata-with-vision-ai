@@ -1,0 +1,5 @@
+Term: Systems technical director
+Glossary: vfx
+Definition: The crewmember with overall responsibility for the operation for all real-time specific hardware on a volume, including but not limited to LED walls, real-time render nodes, tracking systems, DMX lighting control, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/systems-technical-director/

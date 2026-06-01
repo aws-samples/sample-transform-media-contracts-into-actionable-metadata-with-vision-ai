@@ -1,0 +1,5 @@
+Term: Network Prime Time
+Glossary: sag_aftra
+Definition: The evening television viewing hours of 8:00 p.m. to 11:00 p.m. (7:00 p.m. to 11:00 p.m. on Sundays) on the major U.S. broadcast networks: NBC, CBS, ABC, and FOX (FBC).
+Usage Context: Residual rates and reuse fees vary based on whether a broadcast occurred during network prime time versus other dayparts. Used to determine applicable residual schedules and rate tiers.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

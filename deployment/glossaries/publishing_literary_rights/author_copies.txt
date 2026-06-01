@@ -1,0 +1,5 @@
+Term: Author Copies
+Glossary: publishing_literary_rights
+Definition: The number of free author's copies the publisher will provide, and the discounted price at which the author may purchase additional copies for personal use, resale at events, or gifting.
+Usage Context: Typical terms provide a dozen or more free copies on publication, with additional copies available at the publisher's cost plus a small markup. Authors should negotiate for sufficient copies to support promotion and speaking events.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

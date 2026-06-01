@@ -1,0 +1,5 @@
+Term: progressive scan
+Glossary: vfx
+Definition: A method of displaying an image that does not rely on interlacing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/progressive-scan/

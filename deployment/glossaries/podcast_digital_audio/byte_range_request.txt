@@ -1,0 +1,5 @@
+Term: Byte Range Request
+Glossary: podcast_digital_audio
+Definition: An HTTP request specifying a specific range of bytes within a file, used by podcast players for partial downloads and resume-after-pause behavior. The range of bytes requested may be used to determine what portion of the media is being consumed.
+Usage Context: GET requests with status 206 (partial request) should only be counted if the download covers the one-minute rule and de-duplication by IP Address/UA is applied. Apple iOS Podcast app's initial 2-byte range request (Range: 0-1) should always be excluded as it is a file-check operation, not a download.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

@@ -1,0 +1,5 @@
+Term: picture element
+Glossary: vfx
+Definition: See pixel.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/picture-element/

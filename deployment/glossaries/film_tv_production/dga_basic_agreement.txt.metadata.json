@@ -1,0 +1,18 @@
+{
+  "metadataAttributes": {
+    "glossary": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "film_tv_production"
+      },
+      "includeForEmbedding": true
+    },
+    "term": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "DGA Basic Agreement"
+      },
+      "includeForEmbedding": true
+    }
+  }
+}

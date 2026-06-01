@@ -1,0 +1,5 @@
+Term: anamorphic format
+Glossary: vfx
+Definition: A film format characterized by the fact that the image captured on the negative is horizontally squeezed by the use of a special lens. It is later unsqueezed at projection time by the appropriate amount. For most 35mm feature-film work, the standard anamorphic format produces a 2.35:1 aspect ratio when projected. See Cinemascope, Panavision.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/anamorphic-format/

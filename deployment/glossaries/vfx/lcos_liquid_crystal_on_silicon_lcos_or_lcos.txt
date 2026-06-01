@@ -1,0 +1,5 @@
+Term: LCOS (Liquid crystal on silicon (LCoS or LCOS))
+Glossary: vfx
+Definition: A miniaturized reflective active-matrix liquidcrystal display or “microdisplay” using a liquid crystal layer on top of a silicon backplane. It is also referred to as a spatial light modulator. Initially developed for projection televisions but now used for wavelength selective switching, structured illumination, near-eye displays and optical pulse shaping.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lcos-liquid-crystal-on-silicon-lcos-or-lcos/

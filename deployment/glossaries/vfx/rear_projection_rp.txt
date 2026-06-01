@@ -1,0 +1,5 @@
+Term: rear projection (RP)
+Glossary: vfx
+Definition: A compositing process in which the previously photographed background scene is projected onto a large translucent screen from behind while the foreground action takes place. The composite is thus considered an in-camera effect.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rear-projection-rp/

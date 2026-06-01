@@ -1,0 +1,5 @@
+Term: Rear projection (RP)
+Glossary: vfx
+Definition: A in-camera compositing process in which an image (such as a previously photographed, or printed background plate or 3D environment) is displayed behind the foreground subject. Often used for driving shots when a fully 3D environment may be unnecessary, although real-time engines can also be used for this effect.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/rear-projection-rp/

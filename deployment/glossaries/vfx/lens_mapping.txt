@@ -1,0 +1,5 @@
+Term: lens mapping
+Glossary: vfx
+Definition: Process of quantifying the distortion of a lens by shooting a lens chart and then analyzing it.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lens-mapping/

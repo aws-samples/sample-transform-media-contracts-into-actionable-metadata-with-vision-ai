@@ -1,0 +1,5 @@
+Term: morphing
+Glossary: vfx
+Definition: A process in which two image sequences are warped (see warping) so that key features align as closely as possible and then a selective dissolve is applied to transition from the first sequence to the second. The result should be a seamless transformation between the two sequences.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/morphing/

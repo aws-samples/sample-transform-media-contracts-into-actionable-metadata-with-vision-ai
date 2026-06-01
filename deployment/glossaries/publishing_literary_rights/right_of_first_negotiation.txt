@@ -1,0 +1,5 @@
+Term: Right of First Negotiation
+Glossary: publishing_literary_rights
+Definition: A contractual provision giving the publisher the first opportunity to negotiate for rights in the author's next work, before the author may offer the work to other publishers. Less restrictive than an option (first refusal), but still a meaningful obligation.
+Usage Context: Authors Guild recommends that if any option-type clause is accepted, it be limited to first negotiation (with a defined time limit), not first refusal (which would let the publisher match any competing offer).
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

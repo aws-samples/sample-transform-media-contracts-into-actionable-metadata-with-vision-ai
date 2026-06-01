@@ -1,0 +1,5 @@
+Term: take
+Glossary: vfx
+Definition: When a particular shot is photographed multiple times in order to achieve a desired result, each time is referred to as a take. This concept extends to digital compositing, where each test that is sent to film or video is usually kept track of with a take number.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/take/

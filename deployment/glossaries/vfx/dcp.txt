@@ -1,0 +1,5 @@
+Term: DCP
+Glossary: vfx
+Definition: See Digital Cinema Package.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dcp/

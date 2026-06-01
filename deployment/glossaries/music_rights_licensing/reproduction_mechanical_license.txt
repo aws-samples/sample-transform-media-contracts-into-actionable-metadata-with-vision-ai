@@ -1,0 +1,5 @@
+Term: Reproduction (Mechanical) License
+Glossary: music_rights_licensing
+Definition: A license covering the reproduction of a musical composition in physical or digital form. Royalties are generally collected and paid by the Harry Fox Agency (for non-DSP mechanicals) or the Mechanical Licensing Collective (for DSP interactive streaming and digital downloads).
+Usage Context: Required for any reproduction of a musical composition in phonorecord form. Differs from a synchronization license (required for use in audiovisual works) and a public performance license (required for public performance of the composition).
+Source: NMPA Music Publishing 101 — https://www.nmpa.org/people/music-publishing-101/

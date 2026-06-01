@@ -1,0 +1,5 @@
+Term: freeze frame
+Glossary: vfx
+Definition: A single frame that is held for a duration of time.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/freeze-frame/

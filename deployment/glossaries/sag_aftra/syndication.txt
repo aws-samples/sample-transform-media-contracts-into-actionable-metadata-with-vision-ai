@@ -1,0 +1,5 @@
+Term: Syndication
+Glossary: sag_aftra
+Definition: Product licensed for telecast over independent stations, local network affiliates, and for non-primetime network exhibition.
+Usage Context: Syndication triggers a separate residual schedule distinct from network prime time. Widely used for residual calculations on off-network reruns of series. Producers must report syndication telecasts for residual purposes.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

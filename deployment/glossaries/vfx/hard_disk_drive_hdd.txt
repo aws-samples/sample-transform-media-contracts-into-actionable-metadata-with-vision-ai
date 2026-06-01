@@ -1,0 +1,5 @@
+Term: Hard disk drive (HDD)
+Glossary: vfx
+Definition: A computer storage device, typically using a spinning magnetic disk. See also SSD.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/hard-disk-drive-hdd/

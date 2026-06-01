@@ -1,0 +1,5 @@
+Term: Light card
+Glossary: vfx
+Definition: A virtual light placed on the surface of the volume to assist with lighting the subject, can be any shape, hue, intensity, and opacity.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/light-card/

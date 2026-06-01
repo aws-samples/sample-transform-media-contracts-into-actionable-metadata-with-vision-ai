@@ -1,0 +1,3 @@
+Term: Text-to-speech
+Glossary: odrl
+Definition: To have a text Asset read out loud.

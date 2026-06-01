@@ -1,0 +1,5 @@
+Term: warping
+Glossary: vfx
+Definition: A geometric, per-pixel distortion of an image, often based on some kind of spline or grid-based control.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/warping/

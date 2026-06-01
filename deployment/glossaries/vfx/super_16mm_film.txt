@@ -1,0 +1,5 @@
+Term: Super 16mm film
+Glossary: vfx
+Definition: A 16mm film that uses an image area that extends beyond the sound track of normal 16mm film. It is a single-perforation film that extends the image area out to where the second row of perforations would normally be. Also called single-perf.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/super-16mm-film/

@@ -1,0 +1,4 @@
+Term: Void Policy
+Glossary: odrl
+Definition: The policy is void.
+Usage Context: Used to indicate the policy is void for Conflict Strategy.

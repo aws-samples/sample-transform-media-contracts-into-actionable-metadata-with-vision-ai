@@ -1,0 +1,5 @@
+Term: halation
+Glossary: vfx
+Definition: A blurring or spreading of light around bright areas on a photographic image. Also seen as a glow around a bright object on a monitor or television screen. Most films have an anti-halation backing to keep the light from bouncing around in the camera and adding additional unwanted exposure – or halation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/halation/

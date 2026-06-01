@@ -1,0 +1,5 @@
+Term: RDBMS
+Glossary: vfx
+Definition: Abbreviation for relational database management system.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rdbms/

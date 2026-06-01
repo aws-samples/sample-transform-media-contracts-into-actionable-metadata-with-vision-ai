@@ -1,0 +1,5 @@
+Term: Closed Circuit TV (CCTV)
+Glossary: broadcast_fcc
+Definition: A television system in which a signal is transmitted from a point of origin to only those receivers who have previously arranged to receive it, rather than broadcast openly to the public.
+Usage Context: Outside the scope of most FCC public broadcasting rules. Relevant in distribution agreements that distinguish public distribution from private, closed-network exhibition.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

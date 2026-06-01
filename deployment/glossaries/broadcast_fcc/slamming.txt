@@ -1,0 +1,5 @@
+Term: Slamming
+Glossary: broadcast_fcc
+Definition: The unauthorized switching of a customer's long distance service from one long distance company to another without the customer's permission. Such unauthorized switching violates FCC rules.
+Usage Context: Subject to FCC enforcement action and civil penalties. Consumer protection framework extends to other unauthorized service changes.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

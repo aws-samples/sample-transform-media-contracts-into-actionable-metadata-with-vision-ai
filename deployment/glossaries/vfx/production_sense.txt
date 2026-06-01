@@ -1,0 +1,5 @@
+Term: production sense
+Glossary: vfx
+Definition: The near-mythical ability of an experienced digital artist to decide on the proper course of action when creating a visual effects shot.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/production-sense/

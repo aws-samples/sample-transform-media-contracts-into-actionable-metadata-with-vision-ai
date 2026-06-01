@@ -1,0 +1,5 @@
+Term: Client-Confirmed Ad Play
+Glossary: podcast_digital_audio
+Definition: A metric that counts an ad that was able to prompt a tracking beacon from the client when the file was played. Should include information about how much of the ad was played using the markers: ad start, first quartile (25%), midpoint (50%), third quartile (75%), and complete (100%).
+Usage Context: The most accurate ad-play metric, but requires client-side tracking capability. Currently less than 3% of podcast players support client-confirmed playback tracking. Used primarily for premium direct-sold inventory.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

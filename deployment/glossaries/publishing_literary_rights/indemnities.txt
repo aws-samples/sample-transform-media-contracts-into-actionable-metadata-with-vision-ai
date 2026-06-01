@@ -1,0 +1,5 @@
+Term: Indemnities
+Glossary: publishing_literary_rights
+Definition: Promises by the author to hold the publisher harmless from claims, losses, and legal expenses arising from breaches of the author's representations and warranties. May also include limited publisher indemnities to the author for claims arising from publisher-sourced content or publisher-caused changes.
+Usage Context: Author indemnities are a major source of legal exposure. Authors should negotiate caps on indemnity obligations (typically tied to payments received), require the publisher to provide insurance coverage for the author, and ensure that final adjudication (not mere claim assertion) triggers indemnity obligations.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

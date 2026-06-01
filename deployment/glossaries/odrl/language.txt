@@ -1,0 +1,4 @@
+Term: Language
+Glossary: odrl
+Definition: A natural language used by the target Asset.
+Usage Context: Example: the asset can only be translated into Greek. Must use [[bcp47]] codes for language values.

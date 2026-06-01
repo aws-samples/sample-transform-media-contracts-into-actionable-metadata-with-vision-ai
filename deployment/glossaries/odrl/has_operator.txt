@@ -1,0 +1,3 @@
+Term: Has Operator
+Glossary: odrl
+Definition: The operator function applied to operands of a Constraint

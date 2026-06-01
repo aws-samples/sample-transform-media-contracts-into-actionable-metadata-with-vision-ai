@@ -1,0 +1,5 @@
+Term: animator
+Glossary: vfx
+Definition: A person responsible for producing animations.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/animator/

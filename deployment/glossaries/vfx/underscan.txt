@@ -1,0 +1,5 @@
+Term: underscan
+Glossary: vfx
+Definition: The adjustment on a video monitor that increases the viewable height and width of the image area so that the edges of the display can be seen.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/underscan/

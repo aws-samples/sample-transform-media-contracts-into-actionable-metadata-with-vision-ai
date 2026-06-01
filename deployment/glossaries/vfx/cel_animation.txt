@@ -1,0 +1,5 @@
+Term: cel animation
+Glossary: vfx
+Definition: Animation that is the result of sequences of images drawn on individual clear acetate cels. Many aspects of traditional cel animation are now being supplemented by digital techniques.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cel-animation/

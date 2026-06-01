@@ -1,0 +1,5 @@
+Term: DX
+Glossary: vfx
+Definition: Abbreviation for double exposure.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dx/

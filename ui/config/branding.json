@@ -1,0 +1,9 @@
+{
+    "appName": "Media Contract Analyzer",
+    "appEmoji": "📄",
+    "appSubtitle": "Transform media contracts into actionable metadata with vision AI.",
+    "appDescription": "",
+    "appLogo": "/images/logo.png",
+    "appLogoHeight": 32,
+    "theme": "aws-purple"
+}

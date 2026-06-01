@@ -1,0 +1,5 @@
+Term: Recoupment
+Glossary: media_rights_legal
+Definition: The process by which a party recovers its investment or advance payments from revenue before the other party begins receiving their share. The recoupment waterfall determines payment priority.
+Usage Context: Financial terms: 'The Minimum Guarantee shall be recoupable against revenue share payments.' Until recouped, the licensor receives no additional revenue share.
+Source: media_rights_legal

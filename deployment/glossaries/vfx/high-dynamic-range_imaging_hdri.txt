@@ -1,0 +1,5 @@
+Term: high-dynamic-range imaging (HDRI)
+Glossary: vfx
+Definition: A technique for capturing the extended tonal range in a scene by shooting multiple pictures at different exposures and combining them into a single image file that can express a greater dynamic range than can be captured with current imaging technology.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/high-dynamic-range-imaging-hdri/

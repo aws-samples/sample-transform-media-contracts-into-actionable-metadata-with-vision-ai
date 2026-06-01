@@ -1,0 +1,5 @@
+Term: Backend
+Glossary: media_rights_legal
+Definition: Contingent compensation paid from profits or revenue after recoupment of costs and/or specified deductions. Contrasted with frontend compensation (fixed fees paid regardless of performance).
+Usage Context: Talent agreements: 'Performer shall receive X% of Net Profits as backend participation.'
+Source: media_rights_legal

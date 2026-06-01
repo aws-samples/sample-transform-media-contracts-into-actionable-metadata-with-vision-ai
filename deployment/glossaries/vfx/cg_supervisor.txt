@@ -1,0 +1,5 @@
+Term: CG Supervisor
+Glossary: vfx
+Definition: Abbreviation for Computer Graphics Supervisor. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cg-supervisor/

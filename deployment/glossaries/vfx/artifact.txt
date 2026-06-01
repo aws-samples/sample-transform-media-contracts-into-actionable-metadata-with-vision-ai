@@ -1,0 +1,5 @@
+Term: artifact
+Glossary: vfx
+Definition: A (usually undesirable) item in an image that is a side effect of the process used to generate or modify that image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/artifact/

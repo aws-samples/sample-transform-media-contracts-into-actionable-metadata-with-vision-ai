@@ -1,0 +1,5 @@
+Term: Focal length
+Glossary: vfx
+Definition: The measure of the magnification power of a lens, typically given in millimeters; the higher the number, the greater the magnification.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/focal-length/

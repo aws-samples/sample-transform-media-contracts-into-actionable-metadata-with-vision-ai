@@ -1,0 +1,5 @@
+Term: atmosphere
+Glossary: vfx
+Definition: A depth cue that causes objects to decrease in contrast as they move into the distance.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/atmosphere/

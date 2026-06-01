@@ -1,0 +1,5 @@
+Term: preliminary composite
+Glossary: vfx
+Definition: Any intermediate imagery that is produced during the digital compositing process that can be saved and used as a new source element. Also called a precomp.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/preliminary-composite/

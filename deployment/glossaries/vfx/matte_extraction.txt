@@ -1,0 +1,5 @@
+Term: matte extraction
+Glossary: vfx
+Definition: Any process used to create a matte.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/matte-extraction/

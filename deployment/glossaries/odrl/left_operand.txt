@@ -1,0 +1,4 @@
+Term: Left Operand
+Glossary: odrl
+Definition: Left operand for a constraint expression.
+Usage Context: Instances of the LeftOperand class are used as the leftOperand of a Constraint.

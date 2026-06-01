@@ -1,0 +1,5 @@
+Term: resampling
+Glossary: vfx
+Definition: The process of reading previously sampled data for the purpose of converting or modifying it.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/resampling/

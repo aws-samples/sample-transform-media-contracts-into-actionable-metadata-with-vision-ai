@@ -1,0 +1,5 @@
+Term: Macbeth chart
+Glossary: vfx
+Definition: An industry standard test chart made up of square color and gray patches.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/macbeth-chart/

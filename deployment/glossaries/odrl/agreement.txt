@@ -1,0 +1,4 @@
+Term: Agreement
+Glossary: odrl
+Definition: A Policy that grants the assignee a Rule over an Asset from an assigner.
+Usage Context: An Agreement Policy MUST contain at least one Permission or Prohibition rule, a Party with Assigner function, and a Party with Assignee function (in the same Permission or Prohibition). The Agreement Policy will grant the terms of the Policy from the Assigner to the Assignee.

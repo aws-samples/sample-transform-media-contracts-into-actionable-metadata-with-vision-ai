@@ -1,0 +1,5 @@
+Term: lens artifact
+Glossary: vfx
+Definition: Any artifact, such as a lens flare or chromatic aberration, that appears in an image as a result of the lens assembly.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lens-artifact/

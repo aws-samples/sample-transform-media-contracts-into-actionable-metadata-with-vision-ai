@@ -1,0 +1,5 @@
+Term: Turnaround
+Glossary: sag_aftra
+Definition: The minimum required rest period between the wrap of one shooting day and the call time of the next shooting day, set at twelve (12) hours under standard SAG-AFTRA requirements.
+Usage Context: Violations of turnaround requirements trigger penalty payments. Producers must schedule call times to respect the minimum turnaround. Reduced turnaround may be permitted under specific provisions with performer consent and penalty payments.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

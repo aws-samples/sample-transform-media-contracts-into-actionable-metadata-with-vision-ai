@@ -1,0 +1,4 @@
+Term: Party
+Glossary: odrl
+Definition: An entity or a collection of entities that undertake Roles in a Rule.
+Usage Context: The Party entity could be a person, group of people, organisation, or agent. An agent is a person or thing that takes an active role or produces a specified effect. To describe more details about the Party, it is recommended to use W3C vCard Ontology [[vcard-rdf]] or FOAF Vocabulary [[foaf]].

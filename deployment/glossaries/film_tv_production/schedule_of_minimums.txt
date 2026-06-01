@@ -1,0 +1,5 @@
+Term: Schedule of Minimums
+Glossary: film_tv_production
+Definition: A published schedule setting forth the minimum compensation rates for each category of WGA-covered writing service, updated annually or per MBA cycle. Categories include feature screenplay (original, non-original, rewrite), teleplay (various lengths and formats), story only, and various episodic positions.
+Usage Context: Producers may not pay below the applicable minimum. Minimums are also used as reference points in calculating certain residuals and flat-rate compensation. Subject to escalation per MBA negotiation.
+Source: WGA Schedule of Minimums — https://www.wga.org/contracts/contracts/mba/schedule-of-minimums

@@ -1,0 +1,5 @@
+Term: Loom
+Glossary: vfx
+Definition: The protective bundle wrapped around video and networking cables on a volume to tether between equipment carts and other connection points.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/loom/

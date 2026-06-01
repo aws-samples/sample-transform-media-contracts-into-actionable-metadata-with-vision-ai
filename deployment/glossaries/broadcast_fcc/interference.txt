@@ -1,0 +1,5 @@
+Term: Interference
+Glossary: broadcast_fcc
+Definition: Unwanted electrical signals or noise causing degradation of reception on a communications circuit. FCC rules allocate spectrum and set technical standards to minimize interference between licensed services.
+Usage Context: Interference complaints are a common FCC enforcement matter. Broadcast license coordination and protection zones are designed to prevent harmful interference.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

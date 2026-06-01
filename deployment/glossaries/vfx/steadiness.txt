@@ -1,0 +1,5 @@
+Term: steadiness
+Glossary: vfx
+Definition: An image sequence in which the individual frames are stable relative to each other and do not suffer from any frame-to-frame jitter or bounce.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/steadiness/

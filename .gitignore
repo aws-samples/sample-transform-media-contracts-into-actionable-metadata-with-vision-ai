@@ -1,0 +1,103 @@
+# OS
+.DS_Store
+
+# Archives and zips
+*.zip
+.archive/
+
+# CDK
+cdk.out/
+deployment/cdk.out/
+cdk.context.json
+deployment/cdk.context.json
+.cdk.staging/
+.cdk.out/
+*.js.map
+*.d.ts
+.cdk-nag-scanner
+
+# Python
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+.kiro/
+.claude/
+.deploy-state/
+*.swp
+*.swo
+*~
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Node
+node_modules/
+ui/node_modules/
+ui/dist/
+ui/build/
+ui/out/
+
+# Runtime outputs
+outputs/
+
+# Custom analyzers - keep directory structure only
+deployment/custom_analyzers/*
+!deployment/custom_analyzers/.gitkeep
+
+# Security scan reports
+.security-reports/
+
+# Temporary/scratch files
+*.tmp
+*.temp
+*~
+.scratch/
+scratch/
+
+# Plan/notes files (session-specific)
+plan.md
+plan.markdown.md
+notes.md

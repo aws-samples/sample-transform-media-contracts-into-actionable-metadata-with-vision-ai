@@ -1,0 +1,3 @@
+Term: System
+Glossary: odrl
+Definition: An identified computing system used for exercising the action of the Rule.

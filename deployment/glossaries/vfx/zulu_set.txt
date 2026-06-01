@@ -1,0 +1,5 @@
+Term: Zulu set
+Glossary: vfx
+Definition: A physical set or prop designed for actors to interact with and stand in as a proxy for a virtual asset. Sometimes built at different scales to accommodate for major size differences in actor to character. This term was coined and still in use by the Avatar team; also referred to as a proxy set.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/zulu-set/

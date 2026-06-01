@@ -1,0 +1,5 @@
+Term: Bi-color
+Glossary: vfx
+Definition: A luminaire with the ability to toggle between daylight and incandescent color temperatures, as opposed to a full-color luminaire which covers a much broader color spectrum.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/bi-color/

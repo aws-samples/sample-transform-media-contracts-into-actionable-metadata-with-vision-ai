@@ -1,0 +1,5 @@
+Term: motion artifact
+Glossary: vfx
+Definition: A general term describing all forms of image artifacts due to motion, such as strobing or wagon wheeling.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/motion-artifact/

@@ -1,0 +1,5 @@
+Term: Credit Arbitration
+Glossary: film_tv_production
+Definition: The WGA's formal procedure for determining writing credits on covered productions when there is a dispute or when credit is automatic (e.g., production executive arbitration). Conducted by WGA-appointed anonymous arbiters, it is the final and binding process for credit determination on WGA-covered projects.
+Usage Context: Once an arbitration concludes, the Guild and the writers waive all rights or claims against the signatory Company arising from the credit determination. Screen and television credit arbitrations are governed by the respective Credits Manuals.
+Source: WGA Credits Manuals — https://www.wga.org/contracts/credits/manuals

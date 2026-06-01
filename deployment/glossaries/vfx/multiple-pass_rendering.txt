@@ -1,0 +1,5 @@
+Term: multiple-pass rendering
+Glossary: vfx
+Definition: A technique in which a 3D object or scene is rendered in a series of separate images, each with different lighting or rendering characteristics. Typical passes might include color, shadow, reflection, key light, fill light, backlight. See also multiple-pass photography.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/multiple-pass-rendering/

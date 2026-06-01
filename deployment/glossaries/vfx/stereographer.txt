@@ -1,0 +1,5 @@
+Term: stereographer
+Glossary: vfx
+Definition: The individual who is responsible for making sure all shots of a project are properly composed in terms of stereoscopic depth.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stereographer/

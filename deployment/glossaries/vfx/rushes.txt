@@ -1,0 +1,5 @@
+Term: rushes
+Glossary: vfx
+Definition: Another term for dailies, used primarily in the UK.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rushes/

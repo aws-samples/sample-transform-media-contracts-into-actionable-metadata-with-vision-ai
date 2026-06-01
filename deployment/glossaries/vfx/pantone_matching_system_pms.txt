@@ -1,0 +1,5 @@
+Term: Pantone Matching System (PMS)
+Glossary: vfx
+Definition: A color identification standard used in print work that contains more than 3,000 different colors. Many computer graphics programs allow the user to select colors based on their PMS number.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pantone-matching-system-pms/

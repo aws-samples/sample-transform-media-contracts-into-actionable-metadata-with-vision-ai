@@ -1,0 +1,5 @@
+Term: Systems integration
+Glossary: vfx
+Definition: The process of assembling, testing, and validating components from different vendors into a single, integrated solution.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/systems-integration/

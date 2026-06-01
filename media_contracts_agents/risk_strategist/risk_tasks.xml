@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Risk & Negotiation Strategist Agent — Tasks
+    ===============================================
+    Ordered synthesis steps. Inputs: Extractor output + all 4 specialist outputs.
+-->
+<risk_tasks>
+
+    <task>Ingest all upstream outputs. Confirm you have received:
+        <sub_task>Extractor output (structured extraction)</sub_task>
+        <sub_task>Financial Analyst output (deal economics analysis)</sub_task>
+        <sub_task>Rights &amp; Clearances Analyst output (rights scope and clearance analysis)</sub_task>
+        <sub_task>Talent &amp; Guild Compliance Analyst output (talent protections and guild compliance)</sub_task>
+        <sub_task>Regulatory &amp; Compliance Analyst output (regulatory obligations and gaps)</sub_task>
+        <sub_task>If any specialist output is missing, note this and proceed with available inputs. Flag the gap in your output.</sub_task>
+    </task>
+
+    <task>Build the cross-reference index: collect all cross_reference tags from specialist outputs. These are issues that one specialist flagged for another. Verify that each cross-referenced issue was addressed by the target agent. If not, analyze the cross-referenced issue yourself and include it in findings.</task>
+
+    <task>Tag all key and defined terms:
+        <sub_task>Start with every defined term from the Extractor's defined_terms section</sub_task>
+        <sub_task>Add significant undefined-but-operative terms identified during review (e.g., "broadcast-quality", "meaningful consultation", "reasonable efforts")</sub_task>
+        <sub_task>For each term, assign: category (FINANCIAL, RIGHTS_GRANT, TEMPORAL, PARTY, TERRITORY, PLATFORM_MEDIA, DELIVERY, LEGAL_PROTECTION, CONTENT_STANDARD, COMPENSATION, TERMINATION, EXCLUSIVITY, REPORTING, OTHER), significance (HIGH/MEDIUM/LOW based on this contract's context), and a contextual note explaining why the term matters in this specific deal</sub_task>
+    </task>
+
+    <task>Identify vague or ill-fitting terms:
+        <sub_task>Review the Extractor's defined terms for circular definitions, undefined references, or internal inconsistency</sub_task>
+        <sub_task>Review Financial Analyst's ambiguities for terms that prevent payment computation</sub_task>
+        <sub_task>Review Rights Analyst's silent zone items for terms with ambiguous scope</sub_task>
+        <sub_task>Review Talent Analyst's findings for provisions with vague trigger definitions (morals clause, key person)</sub_task>
+        <sub_task>Review Regulatory Analyst's gaps for undefined compliance responsibilities</sub_task>
+        <sub_task>Merge into a unified list. For each: state the exact term, where it appears, why it is vague, and what the practical impact of the vagueness is</sub_task>
+    </task>
+
+    <task>Identify red flags:
+        <sub_task>Review Financial Analyst's risks for provisions that are unusually one-sided or deviate from industry norms</sub_task>
+        <sub_task>Review Rights Analyst's gaps for deficient chain of title, missing clearances, or inadequate holdbacks</sub_task>
+        <sub_task>Review Talent Analyst's compliance issues for CBA violations and protection deficiencies</sub_task>
+        <sub_task>Review Regulatory Analyst's high-severity gaps for unaddressed regulatory obligations with enforcement consequences</sub_task>
+        <sub_task>For each red flag: state the provision, severity (HIGH/MEDIUM/LOW), the concern, and the industry norm as a benchmark</sub_task>
+    </task>
+
+    <task>Identify unclear provisions:
+        <sub_task>Review all specialist outputs for provisions that are present but operatively ambiguous — missing details, dangling cross-references, contradictory language</sub_task>
+        <sub_task>Check for cross-provision inconsistencies: does a term used in Article 4 mean something different from how it is defined in Article 1?</sub_task>
+        <sub_task>For each: state what the provision says, what is ambiguous, and what clarification would resolve it</sub_task>
+    </task>
+
+    <task>Identify missing standard provisions:
+        <sub_task>Determine the contract type from the Extractor's metadata</sub_task>
+        <sub_task>Compare the extracted provisions against the expected provisions for this contract type per foundation_contract_knowledge</sub_task>
+        <sub_task>Cross-check against specialist findings: Financial Analyst's missing payment mechanics, Rights Analyst's unaddressed rights areas, Talent Analyst's protection gaps, Regulatory Analyst's regulatory gaps</sub_task>
+        <sub_task>For each missing provision: state what is missing, why it is expected for this contract type, and the risk of omission</sub_task>
+        <sub_task>Do NOT flag provisions as missing if they are irrelevant to this contract type</sub_task>
+    </task>
+
+    <task>Identify asymmetric obligations:
+        <sub_task>Review Financial Analyst's party-perspective analysis for economic imbalances</sub_task>
+        <sub_task>Review Rights Analyst's findings for one-sided clearance warranties or holdback obligations</sub_task>
+        <sub_task>Review Talent Analyst's one-sided provisions</sub_task>
+        <sub_task>Distinguish inherent role-based asymmetry (not a finding) from drafted asymmetry that exceeds what the party roles require (a finding)</sub_task>
+        <sub_task>For each: state the imbalance, which party benefits, and why it exceeds normal role-based asymmetry</sub_task>
+    </task>
+
+    <task>Produce ranked negotiation priorities:
+        <sub_task>Collect all findings from tasks 4-8 plus all risks, gaps, and issues from specialist outputs</sub_task>
+        <sub_task>Deduplicate: merge findings that address the same underlying issue from different specialist perspectives</sub_task>
+        <sub_task>Assign each item to a tier: MUST_RESOLVE, SHOULD_RESOLVE, or NICE_TO_HAVE</sub_task>
+        <sub_task>Within each tier, rank by: (1) economic impact, (2) exploitation-blocking potential, (3) litigation/enforcement probability, (4) regulatory consequence severity</sub_task>
+        <sub_task>Limit MUST_RESOLVE to no more than 10 items. If more exist, the contract may be fundamentally deficient — note this.</sub_task>
+        <sub_task>For each priority: state the item, its tier, the rationale, and trace it back to the specific specialist finding(s) that support it</sub_task>
+    </task>
+
+    <task>Determine overall risk posture:
+        <sub_task>Count findings by severity across all categories</sub_task>
+        <sub_task>Assess the distribution of priority tiers</sub_task>
+        <sub_task>Consider the specialist agents' overall posture assessments: Financial (deal structure), Rights (clean/conditional/deficient), Talent (strong/adequate/weak/deficient), Regulatory (compliant/partial/deficient)</sub_task>
+        <sub_task>Assign: LOW, MODERATE, HIGH, or CRITICAL with a written justification</sub_task>
+    </task>
+
+    <task>Populate metadata and verify all counts match before finalizing output.</task>
+</risk_tasks>

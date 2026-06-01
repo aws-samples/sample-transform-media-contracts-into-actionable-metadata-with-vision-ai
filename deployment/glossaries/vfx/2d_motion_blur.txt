@@ -1,0 +1,5 @@
+Term: 2D motion blur
+Glossary: vfx
+Definition: Motion blur that is added as a post-process to moving objects in an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/2d-motion-blur/

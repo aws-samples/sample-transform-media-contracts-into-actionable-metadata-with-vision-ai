@@ -1,0 +1,5 @@
+Term: Mission control
+Glossary: vfx
+Definition: The team of artists and engineers operating the equipment that drives a smart stage or any space used for virtual production. Areas of responsibility include content distribution, image manipulation, camera tracking, recording, and creative visualization of data. Also known as the brain bar and volume control.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/mission-control/

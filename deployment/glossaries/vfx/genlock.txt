@@ -1,0 +1,5 @@
+Term: Genlock
+Glossary: vfx
+Definition: A technique used to synchronize digital triggers; it ensures frames and subframes stay in sync. Often used in high frame rate systems that work in combination such as performance capture with active markers and multiple cameras
+Source: vp
+Reference: https://vpglossary.com/vpglossary/genlock/

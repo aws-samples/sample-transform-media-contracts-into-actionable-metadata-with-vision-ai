@@ -1,0 +1,5 @@
+Term: Recoupment
+Glossary: sag_aftra
+Definition: The right of the residuals payor to recover any overpayment made in error or resulting from revenue and air-date adjustments.
+Usage Context: Permits the producer or its residuals payor to claw back previously paid residual amounts when subsequent accounting shows the original payment exceeded what was owed. Distinct from recoupment of development costs from net profits.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

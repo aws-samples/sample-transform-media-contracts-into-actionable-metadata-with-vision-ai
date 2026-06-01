@@ -1,0 +1,5 @@
+Term: digital cinematography
+Glossary: vfx
+Definition: Any production shot with any digital camera and recorded on any digital medium.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital-cinematography/

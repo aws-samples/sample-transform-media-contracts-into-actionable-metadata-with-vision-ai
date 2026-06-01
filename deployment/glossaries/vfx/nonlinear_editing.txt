@@ -1,0 +1,5 @@
+Term: nonlinear editing
+Glossary: vfx
+Definition: Editing that does not require that the sequence be worked on sequentially.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/nonlinear-editing/

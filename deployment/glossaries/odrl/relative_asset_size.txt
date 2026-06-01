@@ -1,0 +1,4 @@
+Term: Relative Asset Size
+Glossary: odrl
+Definition: Measure(s) of one or two axes for 2D-objects or measure(s) of one to tree axes for 3D-objects - expressed as percentages of full values - of the target Asset.
+Usage Context: Example: The image can be resized in width to a maximum of 200%. Note: See the Left Operand absoluteSize.

@@ -1,0 +1,5 @@
+Term: FFT
+Glossary: vfx
+Definition: Abbreviation for fast Fourier transform.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fft/

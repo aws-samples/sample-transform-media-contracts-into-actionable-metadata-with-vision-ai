@@ -1,0 +1,5 @@
+Term: 8-bit image
+Glossary: vfx
+Definition: In the visual effects world, this term typically refers to any image containing 8 bits of color information per channel.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/8-bit-image/

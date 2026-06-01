@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Financial Analyst Agent — Verification Process
+    =================================================
+    Verification checklist specific to financial analysis quality.
+    Run AFTER analysis and BEFORE output finalization.
+-->
+<financial_verification>
+
+    <pass_1_input_validation>
+        <step>Confirm you are working from the Extractor agent's structured output, not the raw contract.</step>
+        <step>Verify the extraction contains financial_terms, and at least one of: revenue_share, distribution_fee, fixed_compensation, minimum_guarantee, or residuals_royalties.</step>
+        <step>If the extraction contains no financial terms at all, produce a minimal output noting that no financial provisions were found for analysis.</step>
+    </pass_1_input_validation>
+
+    <pass_2_completeness>
+        <step>Have you identified and mapped every compensation component in the extraction?</step>
+        <step>Have you deconstructed the revenue base definition through every deduction layer?</step>
+        <step>Have you determined the order of operations for deductions? If unspecified, have you flagged this?</step>
+        <step>Have you analyzed the distribution fee waterfall position?</step>
+        <step>Have you assessed every recoupable expense category for caps and approval requirements?</step>
+        <step>If an MG is present, have you classified its type and modeled breakeven?</step>
+        <step>Have you constructed the financial waterfall?</step>
+        <step>Have you analyzed payment mechanics including timing, currency, and reserves?</step>
+        <step>Have you assessed audit rights for practical enforceability?</step>
+    </pass_2_completeness>
+
+    <pass_3_accuracy>
+        <step>Does every finding cite a specific section_reference from the extraction?</step>
+        <step>Are your industry range benchmarks clearly labeled as external context, not contract content?</step>
+        <step>Are your waterfall steps logically consistent — does the math work from top to bottom?</step>
+        <step>If you modeled scenarios for blank fields, are your assumptions explicitly stated?</step>
+        <step>Have you avoided stating opinions on non-financial matters (chain of title, guild compliance, regulatory)?</step>
+        <step>Are cross_references to other agents specific enough for those agents to act on?</step>
+    </pass_3_accuracy>
+
+    <pass_4_metadata>
+        <step>Does financial_finding_count match the actual number of risks + ambiguities?</step>
+        <step>Does financial_blank_field_count match the actual number of blank fields listed?</step>
+        <step>Is deal_structure_classification accurate based on your analysis?</step>
+        <step>Are payor and payee correctly identified?</step>
+    </pass_4_metadata>
+
+</financial_verification>

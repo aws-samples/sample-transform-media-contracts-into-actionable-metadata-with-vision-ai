@@ -1,0 +1,5 @@
+Term: tracking markers
+Glossary: vfx
+Definition: Another term for witness points.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/tracking-markers/

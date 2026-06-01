@@ -1,0 +1,5 @@
+Term: motion control
+Glossary: vfx
+Definition: A method of using computer-controlled mechanisms to drive an object’s movement so that it is continuously repeatable.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/motion-control/

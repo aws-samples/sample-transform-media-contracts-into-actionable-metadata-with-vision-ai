@@ -1,0 +1,5 @@
+Term: High Dynamic Range (HDR)
+Glossary: vfx
+Definition: The representation of a greater dynamic range of luminosity than is possible with standard digital imaging techniques. HDR images retain detail in a fuller range of lights and darks than standard images.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/high-dynamic-range-hdr/

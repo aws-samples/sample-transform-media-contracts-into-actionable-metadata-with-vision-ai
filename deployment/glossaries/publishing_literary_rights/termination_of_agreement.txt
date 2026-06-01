@@ -1,0 +1,5 @@
+Term: Termination of Agreement
+Glossary: publishing_literary_rights
+Definition: A clause specifying the circumstances under which either party may terminate the contract, including failure to deliver or accept the manuscript, failure to publish on time, material breach, and insolvency. Often paired with a reversion of rights clause specifying what happens to the rights upon termination.
+Usage Context: Authors should ensure that the contract can be terminated for specific, objective breaches by the publisher (missed publication deadline, failure to pay, insolvency) with rights reverting to the author.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

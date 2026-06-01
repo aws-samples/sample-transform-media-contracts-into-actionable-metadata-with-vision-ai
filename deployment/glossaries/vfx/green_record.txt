@@ -1,0 +1,5 @@
+Term: green record
+Glossary: vfx
+Definition: The layer of the film that captures green light.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/green-record/

@@ -1,0 +1,5 @@
+Term: Runs
+Glossary: sag_aftra
+Definition: A unit measuring the exhibition of Made-for-Free-TV product. First run: telecast not more than once in any city in the U.S. or Canada. Second run: telecast more than once but not more than twice in any such city. Similar tests apply for third and succeeding runs.
+Usage Context: Residual schedules for free-TV product escalate or step down based on the run count. Producers must track exhibitions by city to determine applicable residual tier.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

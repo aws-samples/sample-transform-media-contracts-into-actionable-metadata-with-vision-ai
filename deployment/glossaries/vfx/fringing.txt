@@ -1,0 +1,5 @@
+Term: fringing
+Glossary: vfx
+Definition: An artifact of the matting process in which a foreground element has a noticeable (usually bright) outline.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fringing/

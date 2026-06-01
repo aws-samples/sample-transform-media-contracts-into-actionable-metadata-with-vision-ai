@@ -1,0 +1,5 @@
+Term: Bézier curve
+Glossary: vfx
+Definition: A curved line or path defined by mathematical equations. It was named after Pierre Bézier, a French mathematician and engineer who developed this method of computer drawing in the late 1960s while working for the car manufacturer Renault. The most basic Bézier curve is made up of two end points and control handles attached to each node. The control handles define the shape of the curve on either side of the common node.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bezier-curve/

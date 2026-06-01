@@ -1,0 +1,5 @@
+Term: Bokeh
+Glossary: vfx
+Definition: The aesthetic quality of the blur in out of focus areas of an image. Bokeh is often used to make virtual cinematography appear more realistic. See also circle of confusion.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/bokeh/

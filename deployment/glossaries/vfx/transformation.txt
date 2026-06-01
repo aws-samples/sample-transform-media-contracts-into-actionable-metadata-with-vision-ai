@@ -1,0 +1,5 @@
+Term: transformation
+Glossary: vfx
+Definition: Usually refers to a geometric transformation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/transformation/

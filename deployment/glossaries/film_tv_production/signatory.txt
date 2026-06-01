@@ -1,0 +1,5 @@
+Term: Signatory
+Glossary: film_tv_production
+Definition: An entity that has signed a guild collective bargaining agreement (WGA, DGA, SAG-AFTRA, or IATSE) and has agreed to comply with its terms. Signatory status is required to employ guild members on covered work.
+Usage Context: Hiring WGA writers, DGA directors, or SAG-AFTRA performers requires the production entity to first become a signatory to the relevant agreement. Signatory lookups are maintained by each guild.
+Source: WGA Signatories — https://www.wga.org/contracts/contracts/signatories

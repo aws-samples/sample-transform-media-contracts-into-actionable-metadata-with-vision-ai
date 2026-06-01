@@ -1,0 +1,5 @@
+Term: 10-bit image
+Glossary: vfx
+Definition: In the visual effects world, this term typically refers to any image containing 10 bits of color information per channel. The most widely used 10-bit image format used in visual effects work is the Cineon file format.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/10-bit-image/

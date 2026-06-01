@@ -1,0 +1,5 @@
+Term: hue
+Glossary: vfx
+Definition: A specific color from the color spectrum, disregarding its saturation or value.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hue/

@@ -1,0 +1,5 @@
+Term: curve editor
+Glossary: vfx
+Definition: Any graphical user interface (GUI) module that allows the user to create and modify curves.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/curve-editor/

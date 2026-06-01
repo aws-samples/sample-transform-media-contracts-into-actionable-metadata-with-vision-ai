@@ -1,0 +1,5 @@
+Term: Canadian Society of Cinematographers (CSC)
+Glossary: vfx
+Definition: The British version of the American Society of Cinematographers (ASC). See also British Society of Cinematographers (BSC).
+Source: ves
+Reference: https://vpglossary.com/vesglossary/canadian-society-of-cinematographers-csc/

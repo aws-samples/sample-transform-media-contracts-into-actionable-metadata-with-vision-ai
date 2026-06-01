@@ -1,0 +1,5 @@
+Term: warm
+Glossary: vfx
+Definition: A non-exact term used to describe an image that is biased toward the red portion of the spectrum.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/warm/

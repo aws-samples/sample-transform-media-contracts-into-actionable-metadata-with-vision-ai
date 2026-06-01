@@ -1,0 +1,5 @@
+Term: scene
+Glossary: vfx
+Definition: (1) The image captured by a camera. (2) A collection of shots that share a common setting or theme.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/scene/

@@ -1,0 +1,5 @@
+Term: 2D graphics
+Glossary: vfx
+Definition: Computer graphics that does not use any 3D information and thus involves no explicit depth information.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/2d-graphics/

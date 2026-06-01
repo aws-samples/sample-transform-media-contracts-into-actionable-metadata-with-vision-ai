@@ -1,0 +1,5 @@
+Term: Performing Rights Organization (PRO)
+Glossary: music_rights_licensing
+Definition: A not-for-profit organization that collectively licenses the public performance rights of its members' musical works to venues, broadcasters, and digital streaming services, collects licensing fees, and distributes them back to its members as royalties. Principal U.S. PROs are ASCAP, BMI, SESAC, and GMR.
+Usage Context: A music user typically needs licenses from all major PROs to cover the full range of works they may perform, since each PRO represents a different set of songwriters and publishers. The system allows music creators to be compensated without billing individual users directly.
+Source: ASCAP About — https://www.ascap.com/about-us

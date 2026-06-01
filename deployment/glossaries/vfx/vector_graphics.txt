@@ -1,0 +1,5 @@
+Term: vector graphics
+Glossary: vfx
+Definition: Geometrical primitives, such as points, lines, curves, and shapes or polygon(s), that are based on mathematical equations that represent images in computer graphics. Unlike raster graphics, which is made up of a grid of pixels, vectors are usually just lines drawn on a screen.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/vector-graphics/

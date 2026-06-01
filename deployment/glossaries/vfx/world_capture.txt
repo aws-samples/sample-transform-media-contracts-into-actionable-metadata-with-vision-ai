@@ -1,0 +1,5 @@
+Term: World capture
+Glossary: vfx
+Definition: The use of LIDAR, photography, video and other references to translate real-world spaces into digital assets. Also referred to as reality capture or scene digitization.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/world-capture/

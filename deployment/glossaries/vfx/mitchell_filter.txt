@@ -1,0 +1,5 @@
+Term: Mitchell filter
+Glossary: vfx
+Definition: A specific digital filter that is often used when resampling a digital image. The Mitchell filter is particularly well suited to transforming images into a higher resolution than they were originally.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/mitchell-filter/

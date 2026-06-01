@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Risk & Negotiation Strategist Agent — Verification Process
+    =============================================================
+-->
+<risk_verification>
+
+    <pass_1_input_validation>
+        <step>Confirm you received the Extractor's output. This is mandatory — you cannot operate without it.</step>
+        <step>Confirm which specialist agent outputs you received. Note any missing agents in metadata.</step>
+        <step>Collect all cross_reference tags from specialist outputs and verify each was addressed.</step>
+    </pass_1_input_validation>
+
+    <pass_2_synthesis_completeness>
+        <step>Have you tagged every defined term from the Extractor with category, significance, and contextual note?</step>
+        <step>Have you identified significant undefined-but-operative terms and tagged them?</step>
+        <step>Have you reviewed all specialist findings for vague terms, red flags, unclear provisions, missing provisions, and asymmetries?</step>
+        <step>Have you merged duplicate findings that were flagged by multiple specialists?</step>
+        <step>Have you checked for cross-cutting issues that arise from provision interactions across domains?</step>
+        <step>Have you produced negotiation priorities in all three tiers?</step>
+        <step>Have you written an executive summary?</step>
+    </pass_2_synthesis_completeness>
+
+    <pass_3_traceability>
+        <step>Does every vague term, red flag, unclear provision, missing provision, and asymmetry cite source_agents?</step>
+        <step>Does every negotiation priority cite source_findings that trace back to specialist outputs?</step>
+        <step>If you raised a cross-cutting issue not flagged by any specialist, did you explain why it was missed and ground it in the extraction?</step>
+        <step>Are all section_references accurate and traceable to the Extractor's output?</step>
+    </pass_3_traceability>
+
+    <pass_4_prioritization_quality>
+        <step>Are MUST_RESOLVE items limited to 10 or fewer? If more exist, have you noted the contract may be fundamentally deficient?</step>
+        <step>Is every item in exactly one tier (no duplicates across tiers)?</step>
+        <step>Within each tier, are items ranked by real-world impact (economic, exploitation-blocking, litigation, regulatory) rather than alphabetical or categorical ordering?</step>
+        <step>Is the MUST_RESOLVE list credible — would a senior deal executive agree these are genuine deal-breakers?</step>
+        <step>Is the NICE_TO_HAVE list realistic — are these genuinely lower priority, not issues you downgraded to avoid a long MUST_RESOLVE list?</step>
+    </pass_4_prioritization_quality>
+
+    <pass_5_consistency>
+        <step>Is overall_risk_posture consistent with the priority tier distribution?</step>
+        <step>Is overall_risk_posture consistent with the specialist posture assessments?</step>
+        <step>Do all metadata counts match actual counts in the response body?</step>
+        <step>Does the executive_summary accurately reflect the detailed findings — no material finding should be absent from the summary's characterization of the deal?</step>
+    </pass_5_consistency>
+
+</risk_verification>

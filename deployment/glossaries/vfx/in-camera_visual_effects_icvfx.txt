@@ -1,0 +1,5 @@
+Term: In-Camera Visual Effects (ICVFX)
+Glossary: vfx
+Definition: The process of capturing visual effects live and in-camera on set, such as within an LED volume.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/in-camera-visual-effects-icvfx/

@@ -1,0 +1,5 @@
+Term: spherical lens
+Glossary: vfx
+Definition: A lens that does not change the apparent width-to-height relationship of the scene being photographed. This is in contrast to an anamorphic lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/spherical-lens/

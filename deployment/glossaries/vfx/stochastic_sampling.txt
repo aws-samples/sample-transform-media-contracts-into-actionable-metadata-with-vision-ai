@@ -1,0 +1,5 @@
+Term: stochastic sampling
+Glossary: vfx
+Definition: A random or semi-random sampling of a data set. Used for anti-aliasing, motion blur, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stochastic-sampling/

@@ -1,0 +1,5 @@
+Term: stereo
+Glossary: vfx
+Definition: (stereo) Short for stereoscopic. (If you are trying to learn about multichannel sound, you are in the wrong place.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stereo/

@@ -1,0 +1,5 @@
+Term: histogram
+Glossary: vfx
+Definition: A graphical representation of the distribution (usually frequency of occurrence) of a particular characteristic of the pixels in an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/histogram/

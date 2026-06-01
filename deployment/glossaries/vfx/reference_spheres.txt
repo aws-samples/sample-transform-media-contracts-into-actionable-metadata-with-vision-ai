@@ -1,0 +1,5 @@
+Term: reference spheres
+Glossary: vfx
+Definition: Chrome and neutral gray globes, used on the set to visually record the placement of lights within a scene. CG artists later use the sphere(s) reference as a guide for placing CG lights to help make CG and live-action objects appear to be in the same environment.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/reference-spheres/

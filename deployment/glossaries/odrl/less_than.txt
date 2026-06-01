@@ -1,0 +1,3 @@
+Term: Less than
+Glossary: odrl
+Definition: Indicating that a given value is less than the right operand of the Constraint.

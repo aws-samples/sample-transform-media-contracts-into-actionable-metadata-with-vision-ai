@@ -1,0 +1,5 @@
+Term: “T”
+Glossary: vfx
+Definition: (stereo) In stereoscopy, “T” is used to denote the distance between the eyes, called the interpupillary or interocular distance; “T” is used to denote the distance between stereoscopic camera heads’ lens axes and is called the interaxial.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/t/

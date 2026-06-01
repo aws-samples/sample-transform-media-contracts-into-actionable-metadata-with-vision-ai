@@ -1,0 +1,5 @@
+Term: planar
+Glossary: vfx
+Definition: (stereo) Flat; two dimensional. A planar image is one contained in a 2D space, but not necessarily one that appears flat. It may have all the depth cues except stereopsis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/planar/

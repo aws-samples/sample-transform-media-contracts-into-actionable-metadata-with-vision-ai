@@ -1,0 +1,5 @@
+Term: x
+Glossary: vfx
+Definition: An abbreviation used to denote a frame. For example, “24x” denotes 24 frames.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/x/

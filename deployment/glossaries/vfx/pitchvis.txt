@@ -1,0 +1,5 @@
+Term: pitchvis
+Glossary: vfx
+Definition: Illustrates the potential of a project before it has been fully funded or greenlit. As part of development, these sequences are conceptual, to be refined or replaced during pre-production. Also see previs, technical previs, on-set previs, and postvis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pitchvis/

@@ -1,0 +1,5 @@
+Term: Primatte
+Glossary: vfx
+Definition: A proprietary chroma-keying tool that can be used to extract a matte from an image shot in front of a uniform backing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/primatte/

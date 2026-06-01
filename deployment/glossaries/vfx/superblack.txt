@@ -1,0 +1,5 @@
+Term: superblack
+Glossary: vfx
+Definition: Any brightness level that drops below the normal representation of black for a given image or device. In video, superblack levels may be used for keying.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/superblack/

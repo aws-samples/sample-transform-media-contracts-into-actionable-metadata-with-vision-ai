@@ -1,0 +1,4 @@
+Term: Preview
+Glossary: odrl
+Definition: The act of providing a short preview of the asset.
+Usage Context: Use a time constraint with the appropriate action.

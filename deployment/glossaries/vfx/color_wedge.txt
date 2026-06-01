@@ -1,0 +1,5 @@
+Term: color wedge
+Glossary: vfx
+Definition: A series of images that feature incremental alterations in the color of a certain element (or sometimes the entire frame) for the purpose of choosing a final value for the color of that element.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-wedge/

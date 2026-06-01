@@ -1,0 +1,4 @@
+Term: Extract page
+Glossary: odrl
+Definition: The act of extracting (replicating) unchanged pages from the asset.
+Usage Context: This original term and URI from the ONIX specification should be used: http://www.editeur.org/onix-pl/extract-page .

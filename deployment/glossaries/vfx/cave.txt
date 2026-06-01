@@ -1,0 +1,5 @@
+Term: Cave
+Glossary: vfx
+Definition: A projection screen array built with a curved screen, sidewalls, and a ceiling for increased immersion and interactive lighting.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/cave/

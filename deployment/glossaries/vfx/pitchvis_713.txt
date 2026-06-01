@@ -1,0 +1,5 @@
+Term: Pitchvis
+Glossary: vfx
+Definition: The visualization of a script or sequence prior to production, used to get investors and studios onboard by demonstrating a concept before it’s greenlit.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/pitchvis/

@@ -1,0 +1,5 @@
+Term: Deep compositing
+Glossary: vfx
+Definition: A recently emerged way of compositing and rendering digital images. In addition to the usual color and opacity channels a notion of depth is created. This allows multiple samples in the depth of the image to make up the final resulting color. This technique produces high quality results and removes artifacts around edges that could not be dealt with otherwise.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/deep-compositing/

@@ -1,0 +1,5 @@
+Term: clean plate
+Glossary: vfx
+Definition: A plate that differs from the primary plate only in that it does not contain the subject(s) in the frame.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/clean-plate/

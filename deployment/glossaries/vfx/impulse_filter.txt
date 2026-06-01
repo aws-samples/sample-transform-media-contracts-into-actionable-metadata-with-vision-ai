@@ -1,0 +1,5 @@
+Term: impulse filter
+Glossary: vfx
+Definition: A specific digital filter that is often used when resampling a digital image. It is considered to be the lowest quality, highest speed filter in common use. Also known as the Dirac filter or the nearest-neighbor filter.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/impulse-filter/

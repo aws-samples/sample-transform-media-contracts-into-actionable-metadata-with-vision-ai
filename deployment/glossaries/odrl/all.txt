@@ -1,0 +1,4 @@
+Term: All
+Glossary: odrl
+Definition: Specifies that the scope of the relationship is all of the collective individuals within a context.
+Usage Context: For example, may be used to indicate all the users of a specific social network the party is a member of. Note that “group” scope is also assumed.

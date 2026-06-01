@@ -1,0 +1,5 @@
+Term: Representations and Warranties
+Glossary: publishing_literary_rights
+Definition: The author's contractual promises regarding the work — typically that the work is original, that the author owns the rights being granted, that the work does not infringe any copyright, defame any person, or violate any right of privacy or publicity, and that the work contains no libelous or unlawful material.
+Usage Context: Authors should push back on overly broad warranties and narrow them to matters within the author's knowledge or control. Warranties are typically backed by indemnities, making their scope commercially significant. Publisher's right to legal review and to require changes is often tied to warranty concerns.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

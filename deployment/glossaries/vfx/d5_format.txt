@@ -1,0 +1,5 @@
+Term: D5 format
+Glossary: vfx
+Definition: A digital component video format. D5 is considered to be of the same quality as D1 and also has provisions for storing HDTV-format imagery.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/d5-format/

@@ -1,0 +1,5 @@
+Term: Literary Translation Model Contract
+Glossary: publishing_literary_rights
+Definition: A separate Authors Guild model contract addressing the specific needs of literary translators, including translation rights, attribution, royalty splits between original author and translator, and the translator's copyright in the translation. Released by the Authors Guild alongside the Model Trade Book Contract.
+Usage Context: Book translators have unique contract needs distinct from those of original-language authors. Separate Authors Guild guidance addresses translator commission, attribution (translator name on cover), translator royalties, and copyright in the translation itself.
+Source: Authors Guild News — https://authorsguild.org/news/authors-guild-releases-model-book-contract-to-the-general-public-to-guide-writers-when-negotiating-with-trade-publishers/

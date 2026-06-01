@@ -1,0 +1,5 @@
+Term: TIFF
+Glossary: vfx
+Definition: Abbreviation for tagged image file format, a specific image file format.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/tiff/

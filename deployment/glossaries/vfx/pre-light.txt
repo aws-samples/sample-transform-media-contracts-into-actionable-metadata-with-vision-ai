@@ -1,0 +1,5 @@
+Term: Pre-light
+Glossary: vfx
+Definition: The process of lighting a scene before the main production unit arrives in order to facilitate complex setups and maximize the full crew’s efficiency. Can apply to physical production or to prelighting virtual environments as they are developed.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/pre-light/

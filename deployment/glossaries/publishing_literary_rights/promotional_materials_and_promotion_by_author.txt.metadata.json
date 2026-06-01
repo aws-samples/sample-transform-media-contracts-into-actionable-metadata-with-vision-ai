@@ -1,0 +1,18 @@
+{
+  "metadataAttributes": {
+    "glossary": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "publishing_literary_rights"
+      },
+      "includeForEmbedding": true
+    },
+    "term": {
+      "value": {
+        "type": "STRING",
+        "stringValue": "Promotional Materials and Promotion by Author"
+      },
+      "includeForEmbedding": true
+    }
+  }
+}

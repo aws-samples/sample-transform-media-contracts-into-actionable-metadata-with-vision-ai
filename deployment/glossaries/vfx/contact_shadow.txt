@@ -1,0 +1,5 @@
+Term: contact shadow
+Glossary: vfx
+Definition: A shadow that is cast from one object when it is in direct contact with another object, as opposed to a shadow that is cast on a distant surface.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/contact-shadow/

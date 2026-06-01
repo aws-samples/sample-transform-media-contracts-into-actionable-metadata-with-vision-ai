@@ -1,0 +1,5 @@
+Term: drop frame
+Glossary: vfx
+Definition: Video footage in which two frames are dropped every minute except the tenth. It is used to compensate for the fact that timecode works at exactly 30 frames per second, but NTSC video runs at only 29.97fps.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/drop-frame/

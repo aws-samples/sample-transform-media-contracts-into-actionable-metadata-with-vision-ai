@@ -1,0 +1,4 @@
+Term: And Sequence
+Glossary: odrl
+Definition: The relation is satisfied when each of the Constraints are satisfied in the order specified.
+Usage Context: This property MUST only be used for Logical Constraints, and the list of operand values MUST be Constraint instances. The order of the list MUST be preserved. The andSequence operator is an example where there may be temporal conditional requirements between the operands. This may lead to situations where the outcome is unresolvable, such as deadlock if one of the Constraints is unable to be satisfied. ODRL Processing systems SHOULD plan for these scenarios and implement mechanisms to resolve them.

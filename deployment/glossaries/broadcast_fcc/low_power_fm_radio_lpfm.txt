@@ -1,0 +1,5 @@
+Term: Low Power FM Radio (LPFM)
+Glossary: broadcast_fcc
+Definition: A broadcast service created by the FCC in January 2000 that permits the licensing of 50-100 watt FM radio stations within a service radius of up to 3.5 miles, and 1-10 watt FM radio stations within a service radius of 1-2 miles.
+Usage Context: LPFM licenses are reserved for noncommercial educational entities serving local communities. Subject to specific FCC rules limiting commercial use and ownership.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

@@ -1,0 +1,5 @@
+Term: Background Actor
+Glossary: sag_aftra
+Definition: A performer who appears in a non-speaking, non-scripted role providing atmospheric presence, as distinguished from principal performers. Covered by separate SAG-AFTRA schedules with lower scale rates and distinct contract provisions.
+Usage Context: Background actors are subject to the 20.5% P&H contribution rate. West Coast Zone covered position counts were increased to match East Coast Zone under the 2023 TV/Theatrical Contracts.
+Source: SAG-AFTRA Background Actors Resources — https://www.sagaftra.org/contracts-industry-resources/background-actors

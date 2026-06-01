@@ -1,0 +1,4 @@
+Term: Attributed Party
+Glossary: odrl
+Definition: The Party to be attributed.
+Usage Context: Maybe specified as part of the attribute action.

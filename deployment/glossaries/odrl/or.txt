@@ -1,0 +1,4 @@
+Term: Or
+Glossary: odrl
+Definition: The relation is satisfied when at least one of the Constraints is satisfied.
+Usage Context: This property MUST only be used for Logical Constraints, and the list of operand values MUST be Constraint instances.

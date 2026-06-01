@@ -1,0 +1,5 @@
+Term: Virtual rapid prototyping (VRP)
+Glossary: vfx
+Definition: A previs process which leverages virtual production techniques, and enables a small crew to plan, shoot and edit sequences in real-time using actors in mocap suits.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-rapid-prototyping-vrp/

@@ -1,0 +1,5 @@
+Term: frustum
+Glossary: vfx
+Definition: Term commonly used in computer graphics to describe the 3D region that is visible on the screen (which is formed by a clipped pyramid); in particular, frustum culling is a method of hidden surface determination.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/frustum/

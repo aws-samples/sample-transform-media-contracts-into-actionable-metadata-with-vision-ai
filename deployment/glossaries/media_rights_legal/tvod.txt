@@ -1,0 +1,5 @@
+Term: TVOD
+Glossary: media_rights_legal
+Definition: Transactional Video-on-Demand. A platform where users pay per-title to rent or purchase content. Examples: iTunes, Google Play, Amazon rental/purchase.
+Usage Context: Licensed Media enumeration. Typically a separate window from SVOD in distribution agreements.
+Source: media_rights_legal

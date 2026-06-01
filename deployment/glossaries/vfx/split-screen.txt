@@ -1,0 +1,5 @@
+Term: split-screen
+Glossary: vfx
+Definition: A basic composite in which two elements are combined using a simple matte with little or no articulation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/split-screen/

@@ -1,0 +1,5 @@
+Term: wide-angle lens
+Glossary: vfx
+Definition: Any lens that has a smaller-than-normal focal length. For a 35mm camera, a focal length of 50mm is considered normal, since it reasonably duplicates the magnification of a human eye.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/wide-angle-lens/

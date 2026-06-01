@@ -1,0 +1,5 @@
+Term: snorkel lens
+Glossary: vfx
+Definition: See periscope lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/snorkel-lens/

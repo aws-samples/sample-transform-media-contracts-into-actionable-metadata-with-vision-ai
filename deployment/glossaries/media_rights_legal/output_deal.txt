@@ -1,0 +1,5 @@
+Term: Output Deal
+Glossary: media_rights_legal
+Definition: An agreement where a distributor or platform commits to acquire all content produced by a studio or producer during the deal term, rather than selecting individual titles.
+Usage Context: Distribution strategy. Provides guaranteed distribution for the producer and content pipeline for the distributor.
+Source: media_rights_legal

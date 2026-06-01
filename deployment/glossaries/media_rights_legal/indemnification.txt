@@ -1,0 +1,5 @@
+Term: Indemnification
+Glossary: media_rights_legal
+Definition: A contractual obligation to defend and hold harmless the other party from claims arising from breach of representations, warranties, or obligations. May be mutual or one-sided.
+Usage Context: Legal protections: 'Each party shall indemnify the other against all claims arising from a breach of its representations.'
+Source: media_rights_legal

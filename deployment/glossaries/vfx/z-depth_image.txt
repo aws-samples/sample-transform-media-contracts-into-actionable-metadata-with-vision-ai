@@ -1,0 +1,5 @@
+Term: Z-depth image
+Glossary: vfx
+Definition: A specialized image that uses the brightness of each pixel to specify the relative depth for each pixel in the corresponding RGB image. This depth may be measured relative to some arbitrary fixed point in space or relative to the virtual camera that is being used to capture the scene. Also called a Z-buffer.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/z-depth-image/

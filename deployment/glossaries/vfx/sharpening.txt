@@ -1,0 +1,5 @@
+Term: sharpening
+Glossary: vfx
+Definition: The process of applying an algorithm that emphasizes the edges in an image. The result is an image that appears to have increased sharpness.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sharpening/

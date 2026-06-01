@@ -1,0 +1,5 @@
+Term: oversampling
+Glossary: vfx
+Definition: Sampling data at a higher-than-normal resolution in order to mitigate sampling errors or inaccuracies from uncharacteristic data.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/oversampling/

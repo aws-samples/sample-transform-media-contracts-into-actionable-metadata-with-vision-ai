@@ -1,0 +1,5 @@
+Term: floating windows
+Glossary: vfx
+Definition: (stereo) Invented by Raymond and Nigel Spottiswoode, this is the use of printed vertical bands to create a surround to supplant the physical screen surround. The result is a so-called virtual window that is floating in space to eliminate the screen edge cue conflicts and to extend the parallax budget of the projected image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/floating-windows/

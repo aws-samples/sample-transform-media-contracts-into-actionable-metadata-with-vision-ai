@@ -1,0 +1,5 @@
+Term: 3D glasses
+Glossary: vfx
+Definition: Specially designed glasses that are worn to view stereoscopic imagery. See also anaglyph glasses, flicker glasses, polarized glasses.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/3d-glasses/

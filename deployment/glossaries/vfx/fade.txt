@@ -1,0 +1,5 @@
+Term: fade
+Glossary: vfx
+Definition: Decreasing the brightness of an image over time, eventually resulting in a black image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fade/

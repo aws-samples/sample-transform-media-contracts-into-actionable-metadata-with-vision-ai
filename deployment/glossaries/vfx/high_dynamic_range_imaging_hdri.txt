@@ -1,0 +1,5 @@
+Term: High dynamic range imaging (HDRI)
+Glossary: vfx
+Definition: An omnidirectional set of images shot in a bracketed wide range of exposures that captures the real-world illumination values of an environment. An HDRI is often used as an Image Based Light (IBL) to light virtual assets and environments.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/high-dynamic-range-imaging-hdri/

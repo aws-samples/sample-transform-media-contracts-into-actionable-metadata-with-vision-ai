@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Rights & Clearances Analyst Agent — Verification Process
+    ==========================================================
+    Verification checklist specific to rights and clearance analysis.
+-->
+<rights_verification>
+
+    <pass_1_input_validation>
+        <step>Confirm you are working from the Extractor agent's structured output.</step>
+        <step>Verify the extraction contains rights_grant and at least one of: ownership_and_chain_of_title, talent_and_third_party_obligations, or exhibits_and_attachments.</step>
+        <step>If the extraction contains no rights grant at all, produce a minimal output noting that no rights provisions were found for analysis.</step>
+    </pass_1_input_validation>
+
+    <pass_2_completeness>
+        <step>Have you analyzed the grant of rights for scope sufficiency across all three dimensions (rights, territory, media)?</step>
+        <step>Have you assessed language rights alignment with granted territories?</step>
+        <step>Have you evaluated chain of title and classified the warranty by strength tier?</step>
+        <step>If music provisions are present, have you assessed all three legs (sync, master, performance)?</step>
+        <step>Have you evaluated embedded IP clearance warranties?</step>
+        <step>Have you analyzed sublicensing and assignment provisions?</step>
+        <step>Have you assessed holdback adequacy against the distribution scope?</step>
+        <step>Have you analyzed reversion mechanics including sublicense survival and derivative work ownership?</step>
+        <step>Have you assessed E&amp;O insurability?</step>
+        <step>Have you identified all silent zone items — rights neither granted nor reserved?</step>
+    </pass_2_completeness>
+
+    <pass_3_accuracy>
+        <step>Does every finding cite a specific section_reference from the extraction?</step>
+        <step>Are warranty strength classifications supported by the actual warranty language quoted?</step>
+        <step>Are territory/language misalignments based on actual extraction data, not assumptions about what territories "should" have?</step>
+        <step>Have you avoided analyzing financial terms, guild compliance, or regulatory matters beyond their rights/clearance dimension?</step>
+        <step>Are cross_references to other agents specific enough for those agents to act on?</step>
+        <step>Is the overall_rights_posture classification (clean/conditional/deficient) supported by the specific findings?</step>
+    </pass_3_accuracy>
+
+    <pass_4_metadata>
+        <step>Does rights_gap_count match the actual number of gaps listed in rights_findings?</step>
+        <step>Does clearance_risk_count match the actual number of clearance risks listed?</step>
+        <step>Does silent_zone_count match the actual count of silent zone items across all sections?</step>
+        <step>Are grantor and grantee correctly identified?</step>
+    </pass_4_metadata>
+
+</rights_verification>

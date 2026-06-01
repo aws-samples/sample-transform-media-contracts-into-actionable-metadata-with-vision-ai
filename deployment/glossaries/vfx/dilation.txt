@@ -1,0 +1,5 @@
+Term: dilation
+Glossary: vfx
+Definition: An image-processing technique that results in brighter areas of the image increasing in size and darker areas decreasing. See also erosion.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dilation/

@@ -1,0 +1,4 @@
+Term: Included In
+Glossary: odrl
+Definition: An Action transitively asserts that another Action that encompasses its operational semantics.
+Usage Context: The purpose is to explicitly assert that the semantics of the referenced instance of an other Action encompasses (includes) the semantics of this instance of Action. The includedIn property is transitive, and as such, the Actions form ancestor relationships.

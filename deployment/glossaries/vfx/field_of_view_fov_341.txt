@@ -1,0 +1,5 @@
+Term: Field of view (FOV)
+Glossary: vfx
+Definition: The portion of the world that can be seen at any given moment by a person or camera. For a camera, FOV is measured in degrees and based on the focal length of the lens and the size of the camera’s image sensor or film back.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/field-of-view-fov/

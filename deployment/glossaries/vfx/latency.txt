@@ -1,0 +1,5 @@
+Term: latency
+Glossary: vfx
+Definition: is a time delay in the signal that would appear as if the action (and/or audio) were lagging. Latency is physically a consequence of the limited velocity with which any physical interaction can propagate. Latency can cause images or audio to be out of sync or late.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/latency/

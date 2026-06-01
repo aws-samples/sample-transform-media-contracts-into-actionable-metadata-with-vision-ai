@@ -1,0 +1,5 @@
+Term: Rectilinear lens
+Glossary: vfx
+Definition: A photographic lens that yields images where straight features, such as the walls of buildings, appear with straight lines, as opposed to being curved. In other words, it is a lens with little or no barrel or pincushion distortion. At particularly wide angles, however, the rectilinear perspective will cause objects to appear increasingly stretched and enlarged as they near the edge of the frame. These types of lenses are often used to create forced perspective effects. The vast majority of video and still cameras use lenses that produce nearly rectilinear images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rectilinear-lens/

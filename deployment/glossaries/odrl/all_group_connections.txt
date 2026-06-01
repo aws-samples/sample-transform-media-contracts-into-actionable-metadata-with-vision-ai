@@ -1,0 +1,4 @@
+Term: All Group Connections
+Glossary: odrl
+Definition: Specifies that the scope of the relationship is all of the group connections of the Party.
+Usage Context: For example, may be used to indicate all groups that the Party is a member of. Note that “group” scope is also assumed.

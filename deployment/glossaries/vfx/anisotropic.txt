@@ -1,0 +1,5 @@
+Term: anisotropic
+Glossary: vfx
+Definition: Having properties (such as color or reflectivity) that differ based on the direction of measurement.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/anisotropic/

@@ -1,0 +1,5 @@
+Term: Transliminal set
+Glossary: vfx
+Definition: A physical set that extends beyond the boundaries of LED volume doors to mitigate the proscenium feeling, which can occur when set builds all feel the same size in relation to the volume.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/transliminal-set/

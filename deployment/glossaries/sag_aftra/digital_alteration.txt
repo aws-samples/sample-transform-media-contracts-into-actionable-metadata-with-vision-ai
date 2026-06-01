@@ -1,0 +1,5 @@
+Term: Digital Alteration
+Glossary: sag_aftra
+Definition: The practice of changing an actor's performance as captured in photography or soundtrack previously recorded by the performer.
+Usage Context: Under the 2023 TV/Theatrical Contracts, the performer's explicit consent is required to digitally alter a performance, unless the alteration is substantially as scripted, performed, and/or recorded (i.e., traditional post-production edits and fixes do not require separate consent).
+Source: SAG-AFTRA AI Resources — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts/artificial-intelligence-resources

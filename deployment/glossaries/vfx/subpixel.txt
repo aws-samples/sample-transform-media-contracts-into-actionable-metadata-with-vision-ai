@@ -1,0 +1,5 @@
+Term: subpixel
+Glossary: vfx
+Definition: Any technique that works at a resolution of greater than a single pixel; usually accomplished by making slight weighted corrections to several surrounding pixels.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/subpixel/

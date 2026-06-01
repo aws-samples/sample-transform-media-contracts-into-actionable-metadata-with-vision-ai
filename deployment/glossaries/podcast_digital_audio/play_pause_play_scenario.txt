@@ -1,0 +1,5 @@
+Term: Play-Pause-Play Scenario
+Glossary: podcast_digital_audio
+Definition: A listening scenario in which a single unique download is divided into multiple file requests — for example, a user plays the first half of an episode using a website audio player, clicks pause, and then resumes a half-hour later. Per IAB rules, this should be counted as one unique download.
+Usage Context: Care must be taken to avoid double-counting play-pause-play events. Part of the unique identification and aggregation step in IAB's recommended measurement process.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

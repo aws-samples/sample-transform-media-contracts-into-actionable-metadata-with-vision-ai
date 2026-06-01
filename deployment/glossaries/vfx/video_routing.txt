@@ -1,0 +1,5 @@
+Term: Video routing
+Glossary: vfx
+Definition: The process of routing video signals through devices such as switches and matrices.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/video-routing/

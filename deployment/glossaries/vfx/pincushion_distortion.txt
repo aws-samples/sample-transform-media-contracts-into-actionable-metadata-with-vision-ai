@@ -1,0 +1,5 @@
+Term: pincushion distortion
+Glossary: vfx
+Definition: A type of lens distortion in which straight lines are bent inward toward the center of an image. See also barrel distortion.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pincushion-distortion/

@@ -1,0 +1,5 @@
+Term: Extended reality (XR)
+Glossary: vfx
+Definition: An umbrella term for virtual reality (VR), augmented reality (AR), and mixed reality (MR), and all future realities such technology might bring.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/extended-reality-xr/

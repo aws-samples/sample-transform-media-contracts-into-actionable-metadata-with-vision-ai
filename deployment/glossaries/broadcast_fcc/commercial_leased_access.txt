@@ -1,0 +1,5 @@
+Term: Commercial Leased Access
+Glossary: broadcast_fcc
+Definition: A manner through which independent video producers can access cable system capacity for a fee, as required by FCC rules implementing the 1984 and 1992 Cable Acts.
+Usage Context: Relevant to independent distribution agreements and cable carriage discussions. Leased access rates and rules are subject to FCC regulation.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

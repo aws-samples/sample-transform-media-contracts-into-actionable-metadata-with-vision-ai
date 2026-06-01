@@ -1,0 +1,5 @@
+Term: raster graphics
+Glossary: vfx
+Definition: Image representation using a grid of pixels.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/raster-graphics/

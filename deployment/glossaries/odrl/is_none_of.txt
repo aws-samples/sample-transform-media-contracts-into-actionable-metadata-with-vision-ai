@@ -1,0 +1,3 @@
+Term: Is none of
+Glossary: odrl
+Definition: A set-based operator indicating that a given value is none of the right operand of the Constraint.

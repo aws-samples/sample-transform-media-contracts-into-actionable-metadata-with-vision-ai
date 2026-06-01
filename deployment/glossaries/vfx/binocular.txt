@@ -1,0 +1,5 @@
+Term: binocular
+Glossary: vfx
+Definition: (stereo) Two eyes. The term binocular stereopsis (two-eyed solid seeing) is used in some psychology books for the depth sense more simply described as stereopsis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/binocular/

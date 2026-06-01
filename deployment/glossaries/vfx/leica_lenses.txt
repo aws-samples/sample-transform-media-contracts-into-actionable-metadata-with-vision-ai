@@ -1,0 +1,5 @@
+Term: Leica lenses
+Glossary: vfx
+Definition: The brand of lenses used on the animation cameras that photographed storyboards in the earliest Disney days. They have currently found their way onto many production cameras.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/leica-lenses/

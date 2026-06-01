@@ -1,0 +1,5 @@
+Term: Motion capture supervisor
+Glossary: vfx
+Definition: The technical supervisor leading a motion capture team responsible for shoots, technology decisions, and is the on-set point-of-contact. Ensures the capture and delivery of the highest quality across all motion capture data and processing to on-set visualization and VFX teams.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-capture-supervisor/

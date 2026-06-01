@@ -1,0 +1,5 @@
+Term: Pre-cap
+Glossary: vfx
+Definition: A pre-production motion capture session used for motion studies and to help guide previs.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/pre-cap/

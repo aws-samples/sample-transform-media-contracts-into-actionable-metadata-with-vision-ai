@@ -1,0 +1,5 @@
+Term: temporal aliasing
+Glossary: vfx
+Definition: An artifact that is due to limited temporal resolution.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/temporal-aliasing/

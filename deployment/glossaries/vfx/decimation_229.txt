@@ -1,0 +1,5 @@
+Term: Decimation
+Glossary: vfx
+Definition: The reduction of geometry and texture to optimize an asset’s real-time performance; a key difference between assets created for real-time vs. post-production animation.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/decimation/

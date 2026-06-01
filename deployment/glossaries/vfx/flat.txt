@@ -1,0 +1,5 @@
+Term: flat
+Glossary: vfx
+Definition: Another term for low contrast.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/flat/

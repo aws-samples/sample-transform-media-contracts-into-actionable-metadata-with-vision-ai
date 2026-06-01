@@ -1,0 +1,5 @@
+Term: Keylight
+Glossary: vfx
+Definition: The trade name of a color difference keyer developed by the Computer Film Company (CFC).
+Source: ves
+Reference: https://vpglossary.com/vesglossary/keylight/

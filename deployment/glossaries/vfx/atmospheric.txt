@@ -1,0 +1,5 @@
+Term: Atmospheric
+Glossary: vfx
+Definition: Fog, smoke, fire, and other physically-based visual effects rendered by a real-time engine.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/atmospheric/

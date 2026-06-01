@@ -1,0 +1,5 @@
+Term: digital imaging technician (DIT)
+Glossary: vfx
+Definition: The camera department crew member who works in collaboration with the cinematographer on workflow, systemization, camera settings, signal integrity, and image manipulation to achieve the highest image quality and creative goals of cinematography in the digital realm. The DIT is usually on set during shooting and a good resource for the VFX supervisor.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital-imaging-technician-dit/

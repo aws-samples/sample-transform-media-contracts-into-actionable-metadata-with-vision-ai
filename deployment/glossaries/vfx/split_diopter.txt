@@ -1,0 +1,5 @@
+Term: split diopter
+Glossary: vfx
+Definition: A split diopter is an auxiliary lens – half lens and half plain glass – that goes in front of the camera lens so only half of the scene is focused for close-ups.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/split-diopter/

@@ -1,0 +1,5 @@
+Term: DOD
+Glossary: vfx
+Definition: Abbreviation for domain of definition. DOF: Abbreviation for depth of field.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dod/

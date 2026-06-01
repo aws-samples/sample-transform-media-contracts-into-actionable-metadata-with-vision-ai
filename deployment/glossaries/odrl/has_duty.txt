@@ -1,0 +1,4 @@
+Term: Has Duty
+Glossary: odrl
+Definition: Relates an individual Duty to a Permission.
+Usage Context: A Duty is a pre-condition which must be fulfilled in order to receive the Permission.

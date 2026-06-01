@@ -1,0 +1,5 @@
+Term: depth of focus
+Glossary: vfx
+Definition: A term that is often improperly used when one wishes to refer to the depth of field. Depth of focus is a specific term for the point behind the lens (inside the camera body) where a piece of film should be placed so that the image will be properly focused.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/depth-of-focus/

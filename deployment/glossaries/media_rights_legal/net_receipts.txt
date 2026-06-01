@@ -1,0 +1,5 @@
+Term: Net Receipts
+Glossary: media_rights_legal
+Definition: Gross receipts minus the distribution fee and recoupable expenses. The amount remitted to the content owner after the distributor takes its share.
+Usage Context: Distribution agreements: 'After deduction of the Distribution Fee and Recoupable Expenses, remaining Net Receipts shall be remitted to Owner quarterly.'
+Source: media_rights_legal

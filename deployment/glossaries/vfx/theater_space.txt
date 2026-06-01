@@ -1,0 +1,5 @@
+Term: theater space
+Glossary: vfx
+Definition: (stereo) The region appearing to be in front of the screen or out into the audience. Can also be called audience space. Images with negative parallax will appear to be in theater space. The boundary between screen and theater space is the plane of the screen and has zero parallax. See screen space.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/theater-space/

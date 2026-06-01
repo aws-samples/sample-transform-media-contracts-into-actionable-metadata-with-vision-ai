@@ -1,0 +1,5 @@
+Term: convergence
+Glossary: vfx
+Definition: (stereo) The inward rotation of the eyes, in the horizontal direction, producing fusion. The more general term is vergence, which includes inward and outward rotation. The term has also been used, confusingly, to describe the movement of left and right image fields or the rotation (toe-in) of camera heads.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/convergence/

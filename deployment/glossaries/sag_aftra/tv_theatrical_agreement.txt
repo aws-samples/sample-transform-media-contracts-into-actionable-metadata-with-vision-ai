@@ -1,0 +1,5 @@
+Term: TV/Theatrical Agreement
+Glossary: sag_aftra
+Definition: The primary SAG-AFTRA collective bargaining agreement covering scripted dramatic television, streaming, and theatrical motion picture production. The current agreement is the 2023 TV/Theatrical Contracts.
+Usage Context: Negotiated with the AMPTP on a three-year cycle. Incorporates MBA provisions, sideletters (including Exhibit A for SVOD and the Home Video Sideletter), and AI provisions on digital replicas.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

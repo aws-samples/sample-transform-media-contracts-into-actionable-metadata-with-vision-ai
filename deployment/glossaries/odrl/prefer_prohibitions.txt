@@ -1,0 +1,4 @@
+Term: Prefer Prohibitions
+Glossary: odrl
+Definition: Prohibitions take preference over permissions.
+Usage Context: Used to determine policy conflict outcomes.

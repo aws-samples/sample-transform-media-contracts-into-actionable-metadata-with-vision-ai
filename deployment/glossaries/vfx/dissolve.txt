@@ -1,0 +1,5 @@
+Term: dissolve
+Glossary: vfx
+Definition: A specific transition effect in which one scene gradually fades out at the same time that a second scene fades in. Halfway through a linear dissolve the image will be a 50% mix of both scenes.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dissolve/

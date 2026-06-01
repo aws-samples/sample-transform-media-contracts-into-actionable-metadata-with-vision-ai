@@ -1,0 +1,5 @@
+Term: Head-up display (HUD)
+Glossary: vfx
+Definition: A transparent overlay which presents data about the virtual world to a viewer without their having to look away from their current perspective. Used in conjunction with virtual camera to approximate the display of a real-world camera during virtual scouting, techvis, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/head-up-display-hud/

@@ -1,0 +1,5 @@
+Term: Publication
+Glossary: publishing_literary_rights
+Definition: The publisher's obligation to publish the work within a specified time frame following acceptance, typically 12 to 18 months. The publisher's failure to publish within the specified time frame is grounds for contract termination and retention of paid advances by the author.
+Usage Context: Except as otherwise set forth in the Publication section, the publisher will publish or cause publication within 12/18 months following acceptance of the complete Work and Related Materials, in such formats, editions, style, manner, imprint, cover price, and jacket/cover as the publisher determines.
+Source: Authors Guild Model Trade Book Contract Section 9 — https://go.authorsguild.org/contract_sections/9

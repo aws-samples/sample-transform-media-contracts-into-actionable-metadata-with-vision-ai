@@ -1,0 +1,5 @@
+Term: screen right
+Glossary: vfx
+Definition: The right side of the screen or image from the viewpoint of the viewer. Opposite of screen left.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/screen-right/

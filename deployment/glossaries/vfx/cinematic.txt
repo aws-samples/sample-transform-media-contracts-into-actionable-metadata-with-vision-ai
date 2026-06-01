@@ -1,0 +1,5 @@
+Term: Cinematic
+Glossary: vfx
+Definition: A non-interactive animation sequence in an otherwise interactive experience as referred to in real-time engines. Also called a cutscene.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/cinematic/

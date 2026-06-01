@@ -1,0 +1,5 @@
+Term: deinterlace
+Glossary: vfx
+Definition: The process of separating the two fields that make up a video image into two distinct images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/deinterlace/

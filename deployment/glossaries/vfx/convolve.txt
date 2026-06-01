@@ -1,0 +1,5 @@
+Term: convolve
+Glossary: vfx
+Definition: An image processing operation that involves the specialized averaging of a neighborhood of pixels using a convolution filter. Also known as spatial convolution.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/convolve/

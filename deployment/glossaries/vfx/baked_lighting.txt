@@ -1,0 +1,5 @@
+Term: Baked lighting
+Glossary: vfx
+Definition: An asset with highlights and shadows baked into its surface texture which does not directly respond to lighting changes; useful for increasing real-time render performance. See also interactive lighting.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/baked-lighting/

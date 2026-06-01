@@ -1,0 +1,5 @@
+Term: Binary Space Partition (BSP)
+Glossary: vfx
+Definition: A computer science term for a particular way to structure data for fast access spatially.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/binary-space-partition-bsp/

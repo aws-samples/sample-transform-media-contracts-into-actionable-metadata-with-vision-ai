@@ -1,0 +1,5 @@
+Term: Bandwidth
+Glossary: broadcast_fcc
+Definition: The capacity of a line or channel to carry signals. The necessary bandwidth is the amount of spectrum required to transmit the signal without distortion or loss of information. FCC rules require suppression of the signal outside the band to prevent interference.
+Usage Context: Used in spectrum allocation, broadcast licensing, and internet service definitions. Relevant to distribution agreements for streaming and broadcast services.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

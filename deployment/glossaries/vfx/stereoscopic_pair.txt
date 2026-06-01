@@ -1,0 +1,5 @@
+Term: stereoscopic pair
+Glossary: vfx
+Definition: A pair of images (one for each eye) that comprise a stereoscopic image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stereoscopic-pair/

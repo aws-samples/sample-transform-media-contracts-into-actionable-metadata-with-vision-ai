@@ -1,0 +1,4 @@
+Term: Compensating Party
+Glossary: odrl
+Definition: The Party that is the provider of the compensation.
+Usage Context: Maybe specified as part of the compensate duty action.

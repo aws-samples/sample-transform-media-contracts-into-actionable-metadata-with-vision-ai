@@ -1,0 +1,5 @@
+Term: ASC Manual
+Glossary: vfx
+Definition: See American Cinematographer Manual.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/asc-manual/

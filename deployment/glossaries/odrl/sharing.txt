@@ -1,0 +1,4 @@
+Term: Sharing
+Glossary: odrl
+Definition: Permits commercial derivatives, but only non-commercial distribution.
+Usage Context: This term is defined by Creative Commons.

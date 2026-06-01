@@ -1,0 +1,5 @@
+Term: Media server
+Glossary: vfx
+Definition: A repository for digital assets designed to distribute them over a network; can be directly connected to LED volume nodes for distribution. Also a powerful playback device for video and audio assets with sophisticated media control and synchronization capabilities.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/media-server/

@@ -1,0 +1,5 @@
+Term: Insurance
+Glossary: publishing_literary_rights
+Definition: Publisher's insurance coverage (typically media perils liability coverage) extended to the author as an additional insured, protecting against claims of copyright infringement, defamation, privacy violations, and similar risks arising from publication of the work.
+Usage Context: Authors Guild strongly recommends that authors require publisher insurance coverage as a condition of signing, and that the policy name the author as an additional insured. Without coverage, the author's indemnity exposure can be financially ruinous.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

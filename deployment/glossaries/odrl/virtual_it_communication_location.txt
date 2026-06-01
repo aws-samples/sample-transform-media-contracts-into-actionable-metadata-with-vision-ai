@@ -1,0 +1,4 @@
+Term: Virtual IT Communication Location
+Glossary: odrl
+Definition: An identified location of the IT communication space which is relevant for exercising the action of the Rule.
+Usage Context: Example: an Internet domain or IP address range.

@@ -1,0 +1,5 @@
+Term: LAD
+Glossary: vfx
+Definition: Abbreviation for Laboratory Aim Density (LAD) printing control method. By exposing a LAD patch, the value of the exposure of that piece of film can be determined. Kodak publishes suggested density tolerances for each type of film in the duplicating and print system.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lad/

@@ -1,0 +1,5 @@
+Term: Marker
+Glossary: vfx
+Definition: A physical reference for tracking purposes. See also active marker and passive marker.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/marker/

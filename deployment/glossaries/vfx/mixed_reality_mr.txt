@@ -1,0 +1,5 @@
+Term: Mixed reality (MR)
+Glossary: vfx
+Definition: The general term for connecting the physical world with the virtual world.  Manipulation of a virtual object can affect the physical world and changes to a physical object can affect the virtual world.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/mixed-reality-mr/

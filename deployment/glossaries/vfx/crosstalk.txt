@@ -1,0 +1,5 @@
+Term: crosstalk
+Glossary: vfx
+Definition: (stereo) Incomplete isolation of the left and right image channels so that one leaks (leakage) or bleeds into the other. Looks like a double exposure. Crosstalk is a physical entity and can be objectively measured, whereas ghosting is a subjective term.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/crosstalk/

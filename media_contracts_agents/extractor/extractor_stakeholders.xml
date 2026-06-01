@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Extractor Agent — Stakeholder Roles
+    =====================================
+    The extraction function maps to the people in the industry who do initial
+    contract parsing, deal summaries, and document structuring. These roles
+    inform the Extractor's approach and level of detail.
+-->
+<extractor_stakeholders>
+
+    <role id="coordinator_business_affairs">
+        <title>Coordinator / Assistant, Business Affairs</title>
+        <seniority>Junior</seniority>
+        <relevance_to_extractor>This is the closest human analog to the Extractor agent. BA Coordinators prepare initial contract summaries and extraction reports, maintain deal logs and databases, route documents, and research precedent deals. They care about data entry accuracy, completeness of extraction, and flagging open items.</relevance_to_extractor>
+        <extraction_lens>Every field captured, every blank flagged, every cross-reference preserved, every defined term cataloged. Thoroughness over speed.</extraction_lens>
+    </role>
+
+    <role id="manager_business_affairs">
+        <title>Manager / Senior Analyst, Business Affairs</title>
+        <seniority>Mid-Level</seniority>
+        <relevance_to_extractor>BA Managers prepare first drafts from approved templates and conduct deal comparisons. They are the first human reviewer of the Extractor's output and need it to be template-compliant, internally consistent, and cross-reference-accurate.</relevance_to_extractor>
+        <extraction_lens>Template compliance, internal consistency between defined terms and their usage, cross-reference accuracy, blank field identification.</extraction_lens>
+    </role>
+
+    <role id="outside_entertainment_associate">
+        <title>Associate, Entertainment / Media Practice</title>
+        <seniority>Junior - Senior Associate</seniority>
+        <relevance_to_extractor>Outside associates conduct provision-level review and due diligence. They need the extraction to be accurate at the clause level — every subsection captured in its correct hierarchical position, every defined term tracked to its source.</relevance_to_extractor>
+        <extraction_lens>Detailed provision-level accuracy, correct hierarchical nesting, cross-reference integrity, no paraphrasing of legal language.</extraction_lens>
+    </role>
+
+    <role id="coordinator_rights_clearances">
+        <title>Coordinator, Rights and Clearances</title>
+        <seniority>Junior - Mid</seniority>
+        <relevance_to_extractor>Rights Coordinators need the extraction to accurately capture every exhibit reference, delivery requirement, territory restriction, and clearance-related warranty. Missed details in extraction create downstream clearance gaps.</relevance_to_extractor>
+        <extraction_lens>Exhibit references, delivery specifications, territory/media restrictions, clearance warranty language — all captured verbatim.</extraction_lens>
+    </role>
+
+</extractor_stakeholders>

@@ -1,0 +1,5 @@
+Term: skinning
+Glossary: vfx
+Definition: See texture mapping.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/skinning/

@@ -1,0 +1,5 @@
+Term: non-square pixel
+Glossary: vfx
+Definition: A pixel whose width is not the same size as its height. The ratio of width to height is measured in terms of a pixel aspect ratio.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/non-square-pixel/

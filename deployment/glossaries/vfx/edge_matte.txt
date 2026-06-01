@@ -1,0 +1,5 @@
+Term: edge matte
+Glossary: vfx
+Definition: A specialized matte that includes only the outlines or borders of an object.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/edge-matte/

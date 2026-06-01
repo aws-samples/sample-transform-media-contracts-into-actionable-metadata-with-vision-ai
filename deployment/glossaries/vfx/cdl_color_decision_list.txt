@@ -1,0 +1,5 @@
+Term: CDL (Color Decision List)
+Glossary: vfx
+Definition: Term used in digital intermediate work that is used to describe the list that contains the “suggested” correct color for each shot.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cdl-color-decision-list/

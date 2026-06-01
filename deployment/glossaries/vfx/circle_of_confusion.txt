@@ -1,0 +1,5 @@
+Term: circle of confusion
+Glossary: vfx
+Definition: The size of the circle to which an idealized point will diverge when the lens is focused at different depths. Used as a way to measure the focus of a lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/circle-of-confusion/

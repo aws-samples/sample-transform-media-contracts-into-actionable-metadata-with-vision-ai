@@ -1,0 +1,5 @@
+Term: Clipping
+Glossary: vfx
+Definition: 1. In image processing, the loss of detail of an image in areas whose intensity falls outside of the minimum or maximum range of the capture device. 2. In rendering, the area of a scene which falls outside of the field of view or near/far clipping plane of the virtual camera. 3. In production design, a method used to create cutaway views of a model.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/clipping/

@@ -1,0 +1,5 @@
+Term: color temperature
+Glossary: vfx
+Definition: A method of specifying color based on an absolute temperature scale, degrees Kelvin (K). The color is equivalent to the color of light that would be emitted if a pure black object were heated to that temperature. Higher color temperatures are more blue; lower temperatures are more red.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-temperature/

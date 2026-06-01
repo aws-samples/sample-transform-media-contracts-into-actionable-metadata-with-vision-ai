@@ -1,0 +1,5 @@
+Term: foot-lambert (fL, fl or ft-L)
+Glossary: vfx
+Definition: a unit of luminance A foot-lambert equals 1/π candela per square foot, or 3.426 candela per square meter (the corresponding SI unit).
+Source: ves
+Reference: https://vpglossary.com/vesglossary/foot-lambert-fl-fl-or-ft-l/

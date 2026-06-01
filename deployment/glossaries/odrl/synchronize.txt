@@ -1,0 +1,3 @@
+Term: Synchronize
+Glossary: odrl
+Definition: To use the Asset in timed relations with media (audio/visual) elements of another Asset.

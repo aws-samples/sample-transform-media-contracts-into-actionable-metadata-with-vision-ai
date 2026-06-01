@@ -1,0 +1,5 @@
+Term: opaque
+Glossary: vfx
+Definition: The characteristic of an image that causes it to fully obscure any image that is behind it. Opaque is the opposite of transparent.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/opaque/

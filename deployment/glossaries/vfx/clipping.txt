@@ -1,0 +1,5 @@
+Term: clipping
+Glossary: vfx
+Definition: The process (intentional or otherwise) whereby data above or below a certain threshold is removed or lost. With digital images, this usually translates to colors outside a specific range.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/clipping/

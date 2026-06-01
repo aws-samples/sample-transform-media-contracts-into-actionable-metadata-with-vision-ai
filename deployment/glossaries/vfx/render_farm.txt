@@ -1,0 +1,5 @@
+Term: render farm
+Glossary: vfx
+Definition: A group of computers that is set up as a place to submit 2D or 3D processes for noninteractive computation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/render-farm/

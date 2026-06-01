@@ -1,0 +1,5 @@
+Term: Edge diffraction
+Glossary: vfx
+Definition: A light-interference phenomenon that occurs around high-contrast edges of an object, such as LED screens.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/edge-diffraction/

@@ -1,0 +1,5 @@
+Term: editing
+Glossary: vfx
+Definition: The process of assembling shots and scenes into a final product, making decisions about their length and ordering.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/editing/

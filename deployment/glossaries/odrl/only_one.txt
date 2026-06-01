@@ -1,0 +1,4 @@
+Term: Only One
+Glossary: odrl
+Definition: The relation is satisfied when only one, and not more, of the Constaints is satisfied
+Usage Context: This property MUST only be used for Logical Constraints, and the list of operand values MUST be Constraint instances.

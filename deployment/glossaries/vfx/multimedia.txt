@@ -1,0 +1,5 @@
+Term: multimedia
+Glossary: vfx
+Definition: A broad categorization that generally refers to some method of displaying information using sound and imagery simultaneously.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/multimedia/

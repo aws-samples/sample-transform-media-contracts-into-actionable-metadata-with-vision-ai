@@ -1,0 +1,5 @@
+Term: Panavision
+Glossary: vfx
+Definition: (1) A manufacturer of motion picture lenses and cameras. (2) The trade name for a specific widescreen process and lenses developed by the Panavision company. It is an anamorphic format that produces an image with a 2.35:1 aspect ratio. See also anamorphic format, Cinemascope.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/panavision/

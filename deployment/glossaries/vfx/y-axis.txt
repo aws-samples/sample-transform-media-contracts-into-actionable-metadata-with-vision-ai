@@ -1,0 +1,5 @@
+Term: y-axis
+Glossary: vfx
+Definition: Generally the vertical axis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/y-axis/

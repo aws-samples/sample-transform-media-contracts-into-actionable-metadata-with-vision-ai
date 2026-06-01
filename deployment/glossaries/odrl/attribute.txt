@@ -1,0 +1,4 @@
+Term: Attribute
+Glossary: odrl
+Definition: To attribute the use of the Asset.
+Usage Context: May link to an Asset with the attribution information. May link to a Party with the  role “attributedParty” function.

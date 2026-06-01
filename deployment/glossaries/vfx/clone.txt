@@ -1,0 +1,5 @@
+Term: clone
+Glossary: vfx
+Definition: In digital paint, a method of copying information from one region of an image to another.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/clone/

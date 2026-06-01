@@ -1,0 +1,5 @@
+Term: matte pass
+Glossary: vfx
+Definition: (1) In multiple-pass photography, a pass that is lit in some high-contrast fashion so that it can be used as a matte during compositing. (2) In multiple-pass rendering, a separate render of the alpha channel of one of the objects in the scene for use during compositing. See also beauty pass, light pass, reflection pass, shadow pass.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/matte-pass/

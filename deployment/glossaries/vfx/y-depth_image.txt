@@ -1,0 +1,5 @@
+Term: Y-depth image
+Glossary: vfx
+Definition: A specialized image that uses the brightness of each pixel to specify the height of that pixel relative to some reference ground plane. See also Z-depth image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/y-depth-image/

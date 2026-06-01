@@ -1,0 +1,4 @@
+Term: All Second-level Connections
+Glossary: odrl
+Definition: Specifies that the scope of the relationship is all of the second-level connections to the Party.
+Usage Context: For example, may be used to indicate all “friends of friends” of the Party. Note that “group” scope is also assumed.

@@ -1,0 +1,5 @@
+Term: camera aperture
+Glossary: vfx
+Definition: The opening in a camera lens. It is usually referred to in f-stops or t-stops. It allows a specific amount of light to hit the film or sensor, thus resulting in an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/camera-aperture/

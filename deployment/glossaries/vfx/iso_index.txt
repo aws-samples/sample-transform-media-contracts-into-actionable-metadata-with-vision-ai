@@ -1,0 +1,5 @@
+Term: ISO index
+Glossary: vfx
+Definition: A standard numerical rating for specifying a film’s sensitivity to light. ISO is the abbreviation for International Standards Organization. The ISO index actually incorporates both the American ASA rating and the European DIN rating. Many manufacturers now use their own specific exposure index instead. See also ASA rating, DIN rating.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/iso-index/

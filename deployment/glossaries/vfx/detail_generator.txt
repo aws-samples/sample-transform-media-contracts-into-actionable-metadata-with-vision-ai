@@ -1,0 +1,5 @@
+Term: detail generator
+Glossary: vfx
+Definition: An adjustment available on some video cameras that introduces additional sharpening into the captured image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/detail-generator/

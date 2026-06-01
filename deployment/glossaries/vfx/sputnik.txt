@@ -1,0 +1,5 @@
+Term: Sputnik
+Glossary: vfx
+Definition: Nickname for the tracking object affixed to a motion picture camera for outside-in tracking. Also referred to as the ‘crown’ or ‘tiara’. See “Outside-in tracking”
+Source: vp
+Reference: https://vpglossary.com/vpglossary/sputnik/

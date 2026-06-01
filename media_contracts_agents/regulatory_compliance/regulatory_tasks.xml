@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Regulatory & Compliance Analyst Agent — Tasks
+    ================================================
+    Ordered analysis steps performed on the Extractor's output.
+-->
+<regulatory_tasks>
+
+    <task>Review the Extractor's output. Identify the granted territories, licensed platforms/media, and contract type. Determine the regulatory footprint: which jurisdictions' regulations will apply based on where and how the content will be exploited.</task>
+
+    <task>Build a regulatory applicability map:
+        <sub_task>For each major territory or territory group in the grant, identify the primary regulatory frameworks that govern content distribution (e.g., EU: AVMS Directive + GDPR; US: FCC + CCPA; UK: Ofcom + UK GDPR; Australia: BSA + Privacy Act; Canada: CRTC + PIPEDA)</sub_task>
+        <sub_task>For each platform type in the grant (broadcast, cable, SVOD, AVOD, FAST, theatrical, digital download), identify platform-specific regulatory obligations</sub_task>
+        <sub_task>If the territory is blank or "worldwide," provide conditional analysis for the most impactful regulatory regimes</sub_task>
+    </task>
+
+    <task>Analyze content rating and classification obligations:
+        <sub_task>Which classification systems apply based on the granted territories and platforms? (MPAA for US theatrical, FCC for US broadcast, BBFC for UK, FSK for Germany, CSA for France, KIJKWIJZER for Netherlands, DJCTQ for Brazil, etc.)</sub_task>
+        <sub_task>Does the contract assign responsibility for obtaining ratings? To which party?</sub_task>
+        <sub_task>Who bears the cost of classification submissions?</sub_task>
+        <sub_task>Does the contract address content modifications that may be required to achieve a target rating in specific territories?</sub_task>
+        <sub_task>If the contract is silent on ratings, flag as a regulatory gap — ratings are typically required before lawful exhibition and the cost/responsibility must be allocated</sub_task>
+    </task>
+
+    <task>Evaluate local content quota compliance:
+        <sub_task>Does the territory grant implicate the EU AVMS Directive Article 13 requirement (30% European works on SVOD catalogs)?</sub_task>
+        <sub_task>Does it implicate Australian content quotas (Australian Content Standard for broadcast)?</sub_task>
+        <sub_task>Does it implicate Canadian content requirements (CRTC Canadian content rules)?</sub_task>
+        <sub_task>Does the content qualify as "European works," "Australian content," or "Canadian content" under the applicable definitions?</sub_task>
+        <sub_task>Is quota compliance responsibility allocated in the contract? If not, flag as a regulatory gap.</sub_task>
+        <sub_task>Note that quota obligations typically fall on the platform/broadcaster, not the content owner — but the contract should clarify whether the content owner makes any representations about content origin or qualification</sub_task>
+    </task>
+
+    <task>Analyze accessibility requirements:
+        <sub_task>Closed captioning: which mandates apply? (FCC rules for US; European Accessibility Act for EU by June 2025; Ofcom Code for UK; equivalent mandates in other granted territories)</sub_task>
+        <sub_task>Audio description: which mandates apply? (FCC requirements for top-rated networks; EAA for EU; Ofcom for UK)</sub_task>
+        <sub_task>Subtitle standards for the deaf and hard of hearing: are specific technical standards referenced (e.g., CEA-708 for US, EBU-TT for EU)?</sub_task>
+        <sub_task>Who is responsible for creating accessible versions — the content owner or the distributor/platform?</sub_task>
+        <sub_task>Who bears the cost?</sub_task>
+        <sub_task>Are delivery timelines for accessible versions specified? Are they compatible with regulatory deadlines?</sub_task>
+        <sub_task>If the contract is silent on accessibility, flag as a regulatory gap — accessibility obligations are mandatory in most major distribution territories and cannot be ignored</sub_task>
+    </task>
+
+    <task>Assess export controls and sanctions compliance:
+        <sub_task>Does the territory grant include or border OFAC-sanctioned jurisdictions (currently: Cuba, Iran, North Korea, Syria, and Crimea/Donetsk/Luhansk regions; plus comprehensive sanctions programs)?</sub_task>
+        <sub_task>Are there EU restrictive measures that apply to any granted territories?</sub_task>
+        <sub_task>Does the contract include sanctions compliance representations from either party?</sub_task>
+        <sub_task>Are sanctioned territories explicitly carved out of the territory grant?</sub_task>
+        <sub_task>If the territory is "worldwide" with no sanctions carve-out, flag as a compliance risk — distribution to sanctioned territories creates criminal and civil liability</sub_task>
+        <sub_task>Does the content involve restricted technology (encryption, DRM) that may implicate export control regulations separate from sanctions?</sub_task>
+    </task>
+
+    <task>Evaluate data protection and privacy obligations:
+        <sub_task>Which data protection regimes apply based on the granted territories? (GDPR for EU/EEA; UK GDPR; CCPA/CPRA for California; LGPD for Brazil; PIPA for South Korea; PIPL for China; PIPEDA for Canada)</sub_task>
+        <sub_task>Does the contract address viewer data collection, ownership, and sharing? Which party is the data controller? Which is the processor?</sub_task>
+        <sub_task>Does the contract include a data processing agreement or reference to one?</sub_task>
+        <sub_task>Are there cross-border data transfer implications? If viewer data from EU territories is transferred to a US-based party, are transfer mechanisms addressed (Standard Contractual Clauses, adequacy decisions)?</sub_task>
+        <sub_task>Does the contract address data subject rights (access, deletion, portability) that regulations require?</sub_task>
+        <sub_task>If the contract is silent on data protection despite multi-territory distribution, flag as a regulatory gap</sub_task>
+    </task>
+
+    <task>Analyze content moderation and platform liability (regulatory dimension):
+        <sub_task>If the contract involves a digital platform, does it address the platform's regulatory obligations for content moderation (EU Digital Services Act, UK Online Safety Act)?</sub_task>
+        <sub_task>Does the contract's DMCA/takedown provisions comply with US safe harbor requirements (17 USC § 512)?</sub_task>
+        <sub_task>Are there transparency reporting obligations that the platform must meet under applicable regulations?</sub_task>
+    </task>
+
+    <task>Assess governing law and dispute resolution compatibility with regulatory regimes:
+        <sub_task>Is the contract's governing law compatible with the regulatory regimes that apply? (A contract governed by US law distributing in the EU must still comply with EU regulations — the governing law choice does not override local regulatory requirements)</sub_task>
+        <sub_task>Do the dispute resolution provisions (arbitration, mediation, litigation) account for the possibility of regulatory enforcement actions that may not be arbitrable?</sub_task>
+    </task>
+
+    <task>Compile a regulatory gap analysis:
+        <sub_task>List every regulatory obligation identified that the contract does not address</sub_task>
+        <sub_task>For each gap: which regulation creates the obligation, which party is most likely to face enforcement, and what is the consequence of non-compliance (fines, license revocation, criminal liability, content takedown)?</sub_task>
+        <sub_task>Classify gaps by severity: HIGH (criminal/civil liability or license revocation), MEDIUM (significant fines or content takedown), LOW (administrative burden or minor penalties)</sub_task>
+    </task>
+
+    <task>Produce a regulatory findings summary:
+        <sub_task>List all regulatory gaps, ranked by severity</sub_task>
+        <sub_task>List all provisions where regulatory compliance is addressed but the allocation may be inadequate</sub_task>
+        <sub_task>List all provisions where the contract is well-aligned with regulatory requirements</sub_task>
+        <sub_task>Assess overall regulatory posture: compliant (all major obligations addressed), partially addressed (some gaps), or deficient (material obligations unaddressed)</sub_task>
+        <sub_task>Note cross-references to other specialist agents</sub_task>
+    </task>
+
+    <task>Populate metadata and run verification before finalizing output.</task>
+</regulatory_tasks>

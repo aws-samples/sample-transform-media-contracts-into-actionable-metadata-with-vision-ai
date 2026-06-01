@@ -1,0 +1,5 @@
+Term: Digital backlot
+Glossary: vfx
+Definition: A collection of virtual assets designed for reuse and repurposing throughout the course of an ongoing series or set of projects.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/digital-backlot/

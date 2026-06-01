@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Foundation Gestalt Perception — Shared by All Sub-Agents
+    ==========================================================
+    Principles for perceiving and understanding the structure of legal
+    documents before analyzing their content. Every agent should apply
+    these perception principles when reading a contract or an extraction.
+-->
+<foundation_gestalt>
+
+    <prescan>
+        <instruction>Before analyzing contract provisions, perceive the document's legal structure:</instruction>
+        <step>Identify whether this is a contract, amendment, exhibit, or other legal document.</step>
+        <step>Identify the document title and contract type from the header.</step>
+        <step>Note the structural hierarchy: articles, sections, subsections, and their numbering scheme.</step>
+        <step>Identify the parties from the preamble or header block.</step>
+        <step>Observe the overall document flow: preamble → recitals → operative provisions → general provisions → signature blocks.</step>
+    </prescan>
+
+    <principles>
+
+        <principle name="visual_hierarchy">
+            <guidance>Legal documents use consistent visual hierarchy to signal structure: ALL CAPS or bold text = article headings (ARTICLE I — DEFINITIONS). Numbered sections (1.1, 1.2) = operative provisions. Indented sub-items (a), (b), (c) = enumerated lists within a section. Italic or quoted text = defined terms being introduced. Use this hierarchy to correctly nest and classify provisions.</guidance>
+        </principle>
+
+        <principle name="proximity">
+            <guidance>Spatial grouping in contracts indicates logical relationships: Text immediately following a section number belongs to that section. Indented items under a section are sub-provisions of that section. Signature blocks grouped together indicate the execution section. Recitals (WHEREAS clauses) cluster between the preamble and operative provisions.</guidance>
+        </principle>
+
+        <principle name="similarity">
+            <guidance>Consistent formatting indicates provision type: Same numbering depth (1.1, 2.1, 3.1) = same structural level. Same indentation = same hierarchical level. Capitalized terms in quotes = defined terms throughout. Blank lines with underscores = fill-in fields requiring negotiation. Use formatting consistency to classify and group provisions.</guidance>
+        </principle>
+
+        <principle name="continuity">
+            <guidance>Follow the logical flow of contract provisions: Articles progress from definitions → rights → financial → term → general. Section numbers within an article are sequential. Cross-references (e.g., "as defined in Section 1.2") create logical links between provisions. Defined terms introduced early are used throughout — track their usage.</guidance>
+        </principle>
+
+    </principles>
+
+    <document_structure_patterns>
+        <pattern type="standard_contract">Preamble → Recitals → Articles (numbered) → Signature blocks. Most common structure.</pattern>
+        <pattern type="template_contract">Same as standard but with blank fill-in fields (underscores, brackets) indicating negotiable terms.</pattern>
+        <pattern type="amendment">References an existing agreement by date and parties, then modifies specific provisions.</pattern>
+        <pattern type="exhibit_schedule">Supplementary document referenced by the main agreement, containing detailed specifications, lists, or calculations.</pattern>
+        <pattern type="multi_page_continuation">Page begins mid-sentence or mid-section, indicating continuation from a previous page.</pattern>
+    </document_structure_patterns>
+
+    <provision_regions>
+        <region type="preamble">Opening paragraph identifying parties, date, and agreement type. Contains party definitions.</region>
+        <region type="recitals">WHEREAS clauses establishing background and purpose. Precede the operative provisions.</region>
+        <region type="definitions">Article defining key terms. Usually Article I. Terms are capitalized and quoted.</region>
+        <region type="rights_grant">Core operative provisions granting or licensing rights, including territory, media, language, and exclusivity. The commercial heart of the agreement.</region>
+        <region type="ownership">Chain of title, IP ownership warranties, work-for-hire references, and prior encumbrances. May appear in recitals, representations, or a dedicated article.</region>
+        <region type="financial">Compensation, fees, revenue shares, payment terms. The economic provisions.</region>
+        <region type="term">Duration, renewal, and termination provisions.</region>
+        <region type="obligations">Delivery, performance, reporting, editorial control, key person, and compliance requirements.</region>
+        <region type="talent_third_party">Guild compliance, residual obligations, music licensing, and embedded IP clearances. May be in a dedicated article or scattered across reps/warranties and delivery provisions.</region>
+        <region type="digital_emerging">AI training, digital likeness, NFT/metaverse, social media clips, viewer data, and data privacy. Often in a modern addendum or scattered across rights grant and restrictions.</region>
+        <region type="insurance">E&amp;O coverage, general liability, additional insured requirements. Often in the legal protections or general provisions article.</region>
+        <region type="regulatory">Content ratings, local content quotas, accessibility, export controls, data protection law compliance. May be in a dedicated compliance article or in delivery/obligations.</region>
+        <region type="legal_boilerplate">Governing law, dispute resolution, force majeure, entire agreement. General provisions typically near the end.</region>
+        <region type="signature">Execution blocks with party names, signature lines, and date fields.</region>
+    </provision_regions>
+
+</foundation_gestalt>

@@ -1,0 +1,5 @@
+Term: naming conventions
+Glossary: vfx
+Definition: The standardized names that are used within a facility to differentiate the various elements and files that are stored on disk for a project.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/naming-conventions/

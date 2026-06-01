@@ -1,0 +1,5 @@
+Term: linear encoding
+Glossary: vfx
+Definition: A method of converting the colors from the input image to an output image in an evenly distributed, linear way. Also referred to as linear mapping. See linear color space, nonlinear color space.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/linear-encoding/

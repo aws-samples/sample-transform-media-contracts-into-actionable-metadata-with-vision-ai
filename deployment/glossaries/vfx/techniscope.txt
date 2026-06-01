@@ -1,0 +1,5 @@
+Term: Techniscope
+Glossary: vfx
+Definition: A system designed to produce 35mm anamorphic prints from 35mm negatives using an image area that is approximately half the height of regular 35mm images and a special camera. The negative image area is then stretched to normal height and projected at an aspect ratio of 2.35:1. See also Cinemascope, Superscope.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/techniscope/

@@ -1,0 +1,5 @@
+Term: 4D
+Glossary: vfx
+Definition: Entertainment that has the added sensory content of physical simulations, e.g., heat, scents, wind, resistance, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/4d/

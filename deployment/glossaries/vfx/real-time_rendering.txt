@@ -1,0 +1,5 @@
+Term: Real-time rendering
+Glossary: vfx
+Definition: The translation of a scene into display pixels for instantaneous playback at real-time speeds such as 24, 30, 60, 90 frames per second. In contrast, traditional offline rendering may take minutes or even hours to produce each frame.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/real-time-rendering/

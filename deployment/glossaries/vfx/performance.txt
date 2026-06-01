@@ -1,0 +1,5 @@
+Term: Performance
+Glossary: vfx
+Definition: 1 The performance quality and render rate of the onscreen real-time content, measured in frames per second or in milliseconds, also referred to as perf. Perf must meet or exceed the camera’s frame rate for optimum visual appearance with an LED volume. 2 The actions of a character in a scene. Performances can be captured via motion picture camera and various motion capture methods.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/performance/

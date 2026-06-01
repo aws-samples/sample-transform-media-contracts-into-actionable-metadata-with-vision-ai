@@ -1,0 +1,5 @@
+Term: IPv6 Truncation
+Glossary: podcast_digital_audio
+Definition: The IAB-recommended practice of truncating IPv6 addresses to their first 64 bits before calculating Listener and Download metrics. Accounts for the characteristic of IPv6 addresses not being static, with multiple addresses cycling on a single device in a given time period.
+Usage Context: Prevents inflation of unique-listener counts caused by IPv6 address cycling. Applied as: Listeners or Downloads = Count of Unique (IP* + UA), where IP* is either full IPv4 or 64-bit-prefix IPv6. Addresses can be hashed for privacy without affecting the formulas.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

@@ -1,0 +1,5 @@
+Term: codec
+Glossary: vfx
+Definition: A specific type of compression used on images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/codec/

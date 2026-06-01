@@ -1,0 +1,5 @@
+Term: Motion base
+Glossary: vfx
+Definition: A physical platform used to move an object, typically driven by manual input or motion control with capabilities described in axes of motion, such as a 6-axis motion base.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-base/

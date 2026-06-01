@@ -1,0 +1,5 @@
+Term: anamorphic lens
+Glossary: vfx
+Definition: A lens that changes the width-to-height relationship of the original image. The most common anamorphic camera lenses in film work compress the horizontal axis by 50%. See Cinemascope.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/anamorphic-lens/

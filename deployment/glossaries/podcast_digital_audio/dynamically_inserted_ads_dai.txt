@@ -1,0 +1,5 @@
+Term: Dynamically Inserted Ads (DAI)
+Glossary: podcast_digital_audio
+Definition: Ads that are targeted and inserted at the time of file request. The ad server determines the best ad to serve to the listener at the time of request. In a podcast consumed online, ads may be inserted into a file that is being progressively downloaded at designated ad breaks.
+Usage Context: Standard technology for programmatic and targeted podcast advertising. Allows for geographic, demographic, and contextual targeting. Enables ad replacement in back-catalog episodes for ongoing monetization.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

@@ -1,0 +1,3 @@
+Term: Target
+Glossary: odrl
+Definition: The target property indicates the Asset that is the primary subject to which the Rule action directly applies.

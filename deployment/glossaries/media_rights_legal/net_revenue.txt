@@ -1,0 +1,5 @@
+Term: Net Revenue
+Glossary: media_rights_legal
+Definition: Gross revenue less specified deductions (taxes, platform fees, approved expenses). The exact definition varies by contract and is a critical negotiation point.
+Usage Context: Content licensing: 'Licensee shall pay Licensor X% of Net Revenue. Net Revenue shall mean gross revenue less applicable taxes, platform fees, and approved deductions.'
+Source: media_rights_legal

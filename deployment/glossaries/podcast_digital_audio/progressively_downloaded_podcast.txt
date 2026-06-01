@@ -1,0 +1,5 @@
+Term: Progressively Downloaded Podcast
+Glossary: podcast_digital_audio
+Definition: A podcast that appears to be streamed but is actually being downloaded while the listener is listening to the file. The downloaded file is stored in a temporary location rather than to a library as with a fully downloaded podcast. Delivery is recorded the same way in server logs as a full download.
+Usage Context: The most common podcast delivery method for online consumption. Distinguished from true streaming (which uses a specialized server and protocol, typical for live events). Despite appearance of streaming, uses standard HTTP delivery.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

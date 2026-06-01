@@ -1,0 +1,5 @@
+Term: convolution kernel
+Glossary: vfx
+Definition: The group of pixels that will be considered when performing a convolve operation. Generally the size of the kernel is the only worry, which is usually a square matrix with an odd number of elements in each dimension. The most common kernel size is 3 × 3. Occasionally the term is used as a synonym for the convolution filter.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/convolution-kernel/

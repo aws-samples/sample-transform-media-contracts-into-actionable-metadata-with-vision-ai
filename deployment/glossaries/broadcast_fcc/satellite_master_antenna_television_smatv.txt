@@ -1,0 +1,5 @@
+Term: Satellite Master Antenna Television (SMATV)
+Glossary: broadcast_fcc
+Definition: A satellite dish system used to deliver signals to multiple dwelling units (e.g., apartment buildings and trailer parks). SMATV systems are typically regulated differently from cable franchises due to their private property configuration.
+Usage Context: Used in hospitality, multi-dwelling unit, and institutional distribution contexts. Subject to specific FCC rules regarding satellite reception and signal distribution.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

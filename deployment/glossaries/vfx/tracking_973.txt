@@ -1,0 +1,5 @@
+Term: Tracking
+Glossary: vfx
+Definition: The process of determining the position and orientation of a camera or other object relative to the scene via various optical/digital methods; used for integration between the virtual and physical worlds.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/tracking/

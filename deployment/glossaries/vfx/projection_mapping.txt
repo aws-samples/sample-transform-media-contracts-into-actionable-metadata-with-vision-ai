@@ -1,0 +1,5 @@
+Term: projection mapping
+Glossary: vfx
+Definition: See camera mapping.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/projection-mapping/

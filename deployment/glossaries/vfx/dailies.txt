@@ -1,0 +1,5 @@
+Term: dailies
+Glossary: vfx
+Definition: Imagery produced during the previous day’s work or a meeting to view this work.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dailies/

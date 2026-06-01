@@ -1,0 +1,5 @@
+Term: D1 format
+Glossary: vfx
+Definition: A digital component video format. D1 is considered to be a nearly lossless format, although it does use 4:2:2 compression.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/d1-format/

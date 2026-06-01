@@ -1,0 +1,4 @@
+Term: Profile
+Glossary: odrl
+Definition: The identifier(s) of an ODRL Profile that the Policy conforms to.
+Usage Context: The profile property is mandatory if the Policy is using an ODRL Profile.

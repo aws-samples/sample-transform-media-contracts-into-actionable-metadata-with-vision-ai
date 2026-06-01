@@ -1,0 +1,5 @@
+Term: SECAM
+Glossary: vfx
+Definition: Officially this is an acronym for séquentiel couleur à mémoire, but most English speakers use the translation sequential color and memory. SECAM is a standard for color television used in France and a few African and Eastern European nations. It carries 625 lines of resolution, played back at a rate of 25 frames per second.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/secam/

@@ -1,0 +1,5 @@
+Term: EXR
+Glossary: vfx
+Definition: See OpenEXR.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/exr/

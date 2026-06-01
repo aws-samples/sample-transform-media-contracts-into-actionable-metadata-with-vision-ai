@@ -1,0 +1,4 @@
+Term: Offer
+Glossary: odrl
+Definition: A Policy that proposes a Rule over an Asset from an assigner.
+Usage Context: An Offer Policy MUST contain at least one Permission or Prohibition rule and a Party with Assigner function (in the same Permission or Prohibition). The Offer Policy MAY contain a Party with Assignee function, but MUST not grant any privileges to that Party.

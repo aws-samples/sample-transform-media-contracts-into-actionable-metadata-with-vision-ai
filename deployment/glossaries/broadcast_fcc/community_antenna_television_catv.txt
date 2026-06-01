@@ -1,0 +1,5 @@
+Term: Community Antenna Television (CATV)
+Glossary: broadcast_fcc
+Definition: A service through which subscribers pay to have local television stations and additional programs brought into their homes from an antenna via a coaxial cable. The historical predecessor to modern cable television service.
+Usage Context: Appears in older distribution agreements and regulatory documents. Modern cable television systems evolved from CATV infrastructure.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

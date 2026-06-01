@@ -1,0 +1,5 @@
+Term: JPEG
+Glossary: vfx
+Definition: A (typically lossy) compression technique or a specific image format that utilizes this technique. JPEG is an abbreviation for the Joint Photographic Experts Group.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/jpeg/

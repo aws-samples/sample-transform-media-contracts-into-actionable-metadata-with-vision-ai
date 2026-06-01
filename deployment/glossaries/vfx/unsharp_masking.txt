@@ -1,0 +1,5 @@
+Term: unsharp masking
+Glossary: vfx
+Definition: A particular technique used to sharpen an image that involves subtracting a slightly blurred image from the original. Used not only in the digital realm but also as a photographic technique.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/unsharp-masking/

@@ -1,0 +1,5 @@
+Term: Collective Bargaining Agreement (CBA)
+Glossary: sag_aftra
+Definition: The agreement or agreements in force between SAG-AFTRA and producers governing the employment and services of performers, and which provide for producer contributions into the Pension Plan and Health Plan. Does not include CBAs between SAG-AFTRA and the unions representing its own employees.
+Usage Context: Establishes the binding framework for scale wages, residuals, Pension & Health contributions, working conditions, and grievance procedures. In any conflict between a deal memo and the CBA, the CBA governs.
+Source: SAG-AFTRA Pension Plan Article I Definitions — https://www.sagaftraplans.org/sag-pension/spd/article-i-definitions

@@ -1,0 +1,5 @@
+Term: Statements of Account
+Glossary: publishing_literary_rights
+Definition: Periodic royalty statements rendered by the publisher to the author, typically twice-yearly (semi-annual) or annually, showing units sold, revenue earned, royalties calculated, advances recouped, reserves against returns, and amounts owed. Failure to pay royalties when due is considered a serious breach of a publishing contract.
+Usage Context: Authors Guild advocates for detailed royalty statements showing sales by format, territory, and channel; clear calculation of reserves against returns; and timely payment following each statement period. Statements should allow the author or agent to verify proper royalty accounting.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

@@ -1,0 +1,5 @@
+Term: fast Fourier transform (FFT)
+Glossary: vfx
+Definition: An algorithm for converting an image so that it is represented in terms of the magnitude and phase of the various frequencies that make up the image. Yes, there is a regular Fourier transform, but nobody uses it because it is not … fast.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fast-fourier-transform-fft/

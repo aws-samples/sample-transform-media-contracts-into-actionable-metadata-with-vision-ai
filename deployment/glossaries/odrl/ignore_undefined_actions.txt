@@ -1,0 +1,4 @@
+Term: Ignore Undefined Actions
+Glossary: odrl
+Definition: The Action is to be ignored and is not part of the policy – and the policy remains valid.
+Usage Context: Used to support actions not known to the policy system.

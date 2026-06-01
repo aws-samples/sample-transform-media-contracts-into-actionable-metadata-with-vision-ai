@@ -1,0 +1,4 @@
+Term: Delivery Channel
+Glossary: odrl
+Definition: The delivery channel used for exercising the action of the Rule.
+Usage Context: Example: the asset may be distributed only on mobile networks.

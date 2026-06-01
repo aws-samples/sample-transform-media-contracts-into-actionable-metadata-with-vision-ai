@@ -1,0 +1,5 @@
+Term: Direct License
+Glossary: music_rights_licensing
+Definition: Any license agreement between an ASCAP member and a music user (for example, a radio station, TV network, website, live venue, or background music service) granting the user the rights to perform publicly the member's music directly, rather than through ASCAP's blanket license.
+Usage Context: ASCAP cannot audit the music user or program producer on a member's behalf for direct or source licenses. ASCAP also cannot make up the difference in performance royalties if the member's ASCAP royalties would have been greater. Members retain the right to grant direct licenses because ASCAP's rights are nonexclusive.
+Source: ASCAP Help Center — https://www.ascap.com/help

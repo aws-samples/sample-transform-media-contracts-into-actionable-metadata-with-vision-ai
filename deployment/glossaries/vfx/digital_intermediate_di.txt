@@ -1,0 +1,5 @@
+Term: digital intermediate (DI)
+Glossary: vfx
+Definition: A high-quality digital version of a film that is used to finalize all color balancing issues.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital-intermediate-di/

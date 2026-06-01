@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Rights & Clearances Analyst Agent — Response Format
+    =====================================================
+    Media Contracts Schema (MCS) v1.0
+    Implements: Part 1 (envelope) + Part 2 (metadata) + Part 5 (specialized/rights) +
+                Part 6 (findings) + Part 7 (tags)
+    See: schemas/base/mcs_base_schema.xml
+
+    Output schema consumed by the Risk Strategist and human reviewers
+    (R&C Directors, Production Counsel, E&O brokers, Music Supervisors).
+-->
+<response_format>
+    <response analyzer="rights_clearance"
+              schema_version="1.0"
+              job_id="{JOB_ID}"
+              timestamp="{ISO_8601_TIMESTAMP}">
+        <!-- MCS Part 2: Core Metadata -->
+        <metadata>
+            <analyzer_name>rights_clearance</analyzer_name>
+            <schema_version>1.0</schema_version>
+            <timestamp>{ISO_8601_TIMESTAMP}</timestamp>
+            <source_document>{DOCUMENT_TITLE_FROM_EXTRACTOR}</source_document>
+            <element_count>{TOTAL_RIGHTS_ELEMENTS_ANALYZED}</element_count>
+            <confidence>{high|medium|low}</confidence>
+
+            <!-- Rights-specific metadata -->
+            <contract_type>{CONTRACT_TYPE_FROM_EXTRACTOR}</contract_type>
+            <grantor>{PARTY_GRANTING_RIGHTS}</grantor>
+            <grantee>{PARTY_RECEIVING_RIGHTS}</grantee>
+            <overall_rights_posture>{CLEAN|CONDITIONAL|DEFICIENT}</overall_rights_posture>
+            <rights_gap_count>{TOTAL_GAPS_IDENTIFIED}</rights_gap_count>
+            <clearance_risk_count>{TOTAL_CLEARANCE_RISKS}</clearance_risk_count>
+            <silent_zone_count>{TOTAL_SILENT_ZONE_ITEMS}</silent_zone_count>
+        </metadata>
+
+        <!-- MCS Part 5: Specialized Section (rights & clearances) -->
+        <specialized type="rights_clearance">
+            <grant_scope_analysis>
+            <scope_classification>{BROAD|NARROW|MIXED}</scope_classification>
+            <rights_granted>
+                <right>{EACH_SPECIFIC_RIGHT_GRANTED}</right>
+                <!-- Repeat -->
+            </rights_granted>
+            <rights_not_granted_but_likely_needed>
+                <gap>
+                    <right>{SPECIFIC_RIGHT_NOT_GRANTED}</right>
+                    <why_needed>{WHY_THE_GRANTEE_LIKELY_NEEDS_THIS}</why_needed>
+                    <section_reference>{RELEVANT_CONTRACT_SECTION}</section_reference>
+                </gap>
+                <!-- Repeat -->
+            </rights_not_granted_but_likely_needed>
+            <silent_zone_rights>
+                <item>
+                    <right>{RIGHT_NEITHER_GRANTED_NOR_RESERVED}</right>
+                    <significance>{HIGH|MEDIUM|LOW}</significance>
+                    <note>{WHY_THIS_AMBIGUITY_MATTERS}</note>
+                </item>
+                <!-- Repeat -->
+            </silent_zone_rights>
+            </grant_scope_analysis>
+
+            <territory_analysis>
+            <territories_granted>{LIST_OF_TERRITORIES}</territories_granted>
+            <territory_restrictions>{CARVE_OUTS_OR_LIMITATIONS}</territory_restrictions>
+            <territory_gaps>
+                <gap>
+                    <territory>{TERRITORY_NOT_COVERED}</territory>
+                    <issue>{WHY_THIS_GAP_MATTERS}</issue>
+                </gap>
+                <!-- Repeat -->
+            </territory_gaps>
+            <language_territory_alignment>
+                <misalignment>
+                    <territory>{TERRITORY_GRANTED}</territory>
+                    <missing_language>{LANGUAGE_NOT_AUTHORIZED_FOR_THIS_TERRITORY}</missing_language>
+                </misalignment>
+                <!-- Repeat, or note "All territories have aligned language rights" -->
+            </language_territory_alignment>
+            </territory_analysis>
+
+            <platform_media_analysis>
+            <media_granted>{LIST_OF_LICENSED_MEDIA_AND_PLATFORMS}</media_granted>
+            <media_restrictions>{CARVE_OUTS_OR_LIMITATIONS}</media_restrictions>
+            <future_proofing>{TECHNOLOGY_SPECIFIC_vs_FUTURE_PROOF_LANGUAGE_ASSESSMENT}</future_proofing>
+            <silent_zone_platforms>
+                <item>
+                    <platform>{PLATFORM_TYPE_NOT_ADDRESSED}</platform>
+                    <note>{e.g._FAST_channels_not_mentioned_in_a_2024_deal}</note>
+                </item>
+                <!-- Repeat -->
+            </silent_zone_platforms>
+            </platform_media_analysis>
+
+            <language_rights_analysis>
+            <dubbing_granted>{YES_WITH_LANGUAGES|NO|NOT_ADDRESSED}</dubbing_granted>
+            <subtitling_granted>{YES_WITH_LANGUAGES|NO|NOT_ADDRESSED}</subtitling_granted>
+            <cost_responsibility>{WHO_BEARS_LOCALIZATION_COSTS}</cost_responsibility>
+            <quality_approval>{APPROVAL_MECHANIC_AND_SILENCE_TREATMENT}</quality_approval>
+            <ownership_on_termination>{WHO_OWNS_LOCALIZED_VERSIONS}</ownership_on_termination>
+            <gaps>
+                <gap>{EACH_LANGUAGE_RIGHTS_GAP_IDENTIFIED}</gap>
+                <!-- Repeat -->
+            </gaps>
+            <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </language_rights_analysis>
+
+            <chain_of_title_analysis>
+            <ip_owner>{IDENTIFIED_OWNER}</ip_owner>
+            <warranty_strength>{STRONGEST|MODERATE|WEAKEST|ABSENT}</warranty_strength>
+            <warranty_language>{VERBATIM_KEY_WARRANTY_PHRASE}</warranty_language>
+            <work_for_hire_status>{DOCUMENTED|REFERENCED_BUT_UNDOCUMENTED|NOT_ADDRESSED|NOT_APPLICABLE}</work_for_hire_status>
+            <prior_encumbrances>
+                <encumbrance>
+                    <description>{WHAT_THE_ENCUMBRANCE_IS}</description>
+                    <compatible_with_grant>{YES|NO|UNCLEAR}</compatible_with_grant>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </encumbrance>
+                <!-- Repeat -->
+            </prior_encumbrances>
+            <disclosed_disputes>{ANY_KNOWN_TITLE_DISPUTES}</disclosed_disputes>
+            <overall_assessment>{CLEAN|GAPS_IDENTIFIED|MATERIAL_RISK}</overall_assessment>
+            <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </chain_of_title_analysis>
+
+            <music_licensing_analysis>
+            <!-- Omit entirely if no music provisions in extraction -->
+            <sync_rights>
+                <status>{CONFIRMED_CLEARED|WARRANTED|PENDING|NOT_ADDRESSED}</status>
+                <scope_aligned_with_grant>{YES|NO|PARTIALLY — note misalignment}</scope_aligned_with_grant>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </sync_rights>
+            <master_use_rights>
+                <status>{CONFIRMED_CLEARED|WARRANTED|PENDING|NOT_ADDRESSED}</status>
+                <scope_aligned_with_grant>{YES|NO|PARTIALLY}</scope_aligned_with_grant>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </master_use_rights>
+            <public_performance_rights>
+                <status>{ADDRESSED_VIA_PRO|WARRANTED|NOT_ADDRESSED}</status>
+                <pro_affiliations>{ASCAP|BMI|SESAC|GMR|NOT_SPECIFIED}</pro_affiliations>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </public_performance_rights>
+            <overall_music_clearance>{ALL_THREE_LEGS_CLEAR|GAPS_EXIST|NOT_ADDRESSED}</overall_music_clearance>
+            </music_licensing_analysis>
+
+            <embedded_ip_analysis>
+            <clearance_warranty_present>{YES|NO}</clearance_warranty_present>
+            <warranty_specificity>{GENERAL|SPECIFIC_WITH_EXHIBIT|ABSENT}</warranty_specificity>
+            <indemnification_backing>{YES|NO|PARTIAL}</indemnification_backing>
+            <pending_clearances>
+                <item>
+                    <description>{WHAT_IS_PENDING}</description>
+                    <resolution_mechanism>{DEADLINE_AND_CONSEQUENCE_IF_SPECIFIED}</resolution_mechanism>
+                </item>
+                <!-- Repeat -->
+            </pending_clearances>
+            <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </embedded_ip_analysis>
+
+            <sublicensing_assignment_analysis>
+            <sublicensing_permitted>{YES_UNLIMITED|YES_WITH_APPROVAL|PROHIBITED|NOT_ADDRESSED}</sublicensing_permitted>
+            <approval_mechanic>{IF_APPLICABLE — silence_treatment_and_process}</approval_mechanic>
+            <sublicensor_liability>{WHETHER_GRANTEE_REMAINS_LIABLE}</sublicensor_liability>
+            <assignment_permitted>{YES|YES_WITH_CONSENT|PROHIBITED|NOT_ADDRESSED}</assignment_permitted>
+            <change_of_control_trigger>{YES|NO|NOT_ADDRESSED}</change_of_control_trigger>
+            <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </sublicensing_assignment_analysis>
+
+            <exclusivity_holdback_analysis>
+            <exclusivity_type>{EXCLUSIVE|NON_EXCLUSIVE|TERRITORY_DEPENDENT}</exclusivity_type>
+            <holdback_provisions>
+                <holdback>
+                    <restriction>{WHAT_IS_RESTRICTED}</restriction>
+                    <duration>{HOW_LONG}</duration>
+                    <adequacy>{ADEQUATE|GAP_IDENTIFIED — describe}</adequacy>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </holdback>
+                <!-- Repeat -->
+            </holdback_provisions>
+            <holdback_gaps>
+                <gap>{COMPETING_EXPLOITATION_PERMITTED_THROUGH_HOLDBACK_GAP}</gap>
+                <!-- Repeat -->
+            </holdback_gaps>
+            </exclusivity_holdback_analysis>
+
+            <reversion_analysis>
+            <reversion_trigger>{ON_EXPIRATION|ON_TERMINATION|BOTH|NOT_ADDRESSED}</reversion_trigger>
+            <sublicense_survival>{SURVIVE|TERMINATE|NOT_ADDRESSED}</sublicense_survival>
+            <sell_off_permitted>{YES_WITH_DURATION|NO|NOT_ADDRESSED}</sell_off_permitted>
+            <derivative_work_ownership>{WHO_OWNS_DUBBED_VERSIONS_MARKETING_MATERIALS_METADATA}</derivative_work_ownership>
+            <materials_return>{RETURN_DESTROY_OR_NOT_ADDRESSED}</materials_return>
+            <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </reversion_analysis>
+
+            <eo_insurability_assessment>
+            <likely_insurable>{YES|YES_WITH_CONDITIONS|CONCERNS_LIKELY|SIGNIFICANT_RISK}</likely_insurable>
+            <concerns>
+                <concern>{EACH_FACTOR_THAT_WOULD_GIVE_AN_EO_INSURER_PAUSE}</concern>
+                <!-- Repeat -->
+            </concerns>
+            <insurance_provisions_adequate>{YES|NO|NOT_ADDRESSED_IN_CONTRACT}</insurance_provisions_adequate>
+            </eo_insurability_assessment>
+
+            <digital_emerging_rights_analysis>
+            <ai_training_rights>{ADDRESSED_RESTRICTED|ADDRESSED_GRANTED|SILENT_ZONE}</ai_training_rights>
+            <nft_metaverse>{ADDRESSED|SILENT_ZONE}</nft_metaverse>
+            <social_media_clips>{SCOPED|AMBIGUOUS|SILENT_ZONE}</social_media_clips>
+            <digital_likeness_clearance>{PER_USE_CONSENT|BLANKET|UNDEFINED|NOT_APPLICABLE}</digital_likeness_clearance>
+            <gaps>
+                <gap>{EACH_EMERGING_RIGHTS_GAP_FROM_CLEARANCE_PERSPECTIVE}</gap>
+                <!-- Repeat -->
+            </gaps>
+            </digital_emerging_rights_analysis>
+        </specialized>
+
+        <!-- MCS Part 6: Findings (rights & clearances) -->
+        <rights_findings>
+            <rights_gaps>
+                <gap>
+                    <description>{WHAT_THE_GAP_IS}</description>
+                    <severity>{HIGH|MEDIUM|LOW}</severity>
+                    <category>{TERRITORY|MEDIA|LANGUAGE|CLEARANCE|CHAIN_OF_TITLE|MUSIC|EMBEDDED_IP|DIGITAL|HOLDBACK|OTHER}</category>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                    <exploitation_impact>{HOW_THIS_GAP_AFFECTS_THE_GRANTEE_ABILITY_TO_EXPLOIT}</exploitation_impact>
+                </gap>
+                <!-- Repeat, ranked by severity -->
+            </rights_gaps>
+            <clearance_risks>
+                <risk>
+                    <description>{WHAT_THE_CLEARANCE_RISK_IS}</description>
+                    <severity>{HIGH|MEDIUM|LOW}</severity>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                    <mitigation>{WHAT_WOULD_RESOLVE_THIS_RISK}</mitigation>
+                </risk>
+                <!-- Repeat -->
+            </clearance_risks>
+            <cross_references>
+                <cross_reference agent="{AGENT_ID}"
+                                 note="{BRIEF_DESCRIPTION}"
+                                 />
+                <!-- Repeat as needed -->
+            </cross_references>
+        </rights_findings>
+
+        <!-- MCS Part 7: Tags -->
+        <tags>
+            <!-- Can repeat tags as needed. -->
+            <tag>{TOPICAL_TAG}</tag>
+        </tags>
+    </response>
+</response_format>

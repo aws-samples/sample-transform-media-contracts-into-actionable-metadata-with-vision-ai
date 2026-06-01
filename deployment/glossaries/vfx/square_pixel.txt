@@ -1,0 +1,5 @@
+Term: square pixel
+Glossary: vfx
+Definition: A pixel with equal X and Y dimensions.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/square-pixel/

@@ -1,0 +1,5 @@
+Term: stereoplexing
+Glossary: vfx
+Definition: (stereo) Short for stereoscopic multiplexing. A means of incorporating information for the left and right perspective views into a single information channel without expansion of the bandwidth.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stereoplexing/

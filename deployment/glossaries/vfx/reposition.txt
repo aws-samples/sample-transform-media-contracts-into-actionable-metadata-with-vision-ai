@@ -1,0 +1,5 @@
+Term: reposition
+Glossary: vfx
+Definition: The process of adjusting the placement of an element within the frame. Also referred to as repo.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/reposition/

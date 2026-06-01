@@ -1,0 +1,3 @@
+Term: Contracted Party
+Glossary: odrl
+Definition: The Party who is being contracted.

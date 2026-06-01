@@ -1,0 +1,5 @@
+Term: crawling
+Glossary: vfx
+Definition: An undesirable artifact characterized by edges that do not remain stable over time.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/crawling/

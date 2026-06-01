@@ -1,0 +1,5 @@
+Term: Scale
+Glossary: sag_aftra
+Definition: The minimum compensation rate established by the applicable SAG-AFTRA collective bargaining agreement for a given performer category (e.g., day player, weekly player, background actor) and production type.
+Usage Context: Producers may not pay below scale for covered work. Scale rates increase with each MBA cycle; increases are typically expressed as a percentage over prior-cycle minimums.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

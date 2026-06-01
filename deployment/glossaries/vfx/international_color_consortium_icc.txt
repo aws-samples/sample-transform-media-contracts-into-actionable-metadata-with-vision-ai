@@ -1,0 +1,5 @@
+Term: International Color Consortium (ICC)
+Glossary: vfx
+Definition: The organization established for the purpose of standardizing color management across different platforms.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/international-color-consortium-icc/

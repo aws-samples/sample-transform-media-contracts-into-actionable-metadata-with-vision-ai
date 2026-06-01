@@ -1,0 +1,5 @@
+Term: Contingent Compensation
+Glossary: media_rights_legal
+Definition: Compensation dependent on commercial performance, typically a percentage of defined profits. Distinguished from fixed compensation payable regardless of performance.
+Usage Context: Talent agreements: 'Performer shall be entitled to X% of Net Profits as defined in Exhibit A.'
+Source: media_rights_legal

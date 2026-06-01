@@ -1,0 +1,5 @@
+Term: shadow pass
+Glossary: vfx
+Definition: In motion control photography one of a set of passes that include the beauty pass, the matte pass, and the reflection pass, among others. Its purpose is to capture only the shadows cast by the subject. In the CGI world, it is a separate render output that retains only the shadow for use in compositing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/shadow-pass/

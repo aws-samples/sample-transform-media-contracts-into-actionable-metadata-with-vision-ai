@@ -1,0 +1,5 @@
+Term: Compositing Supervisor
+Glossary: vfx
+Definition: The individual responsible for the aesthetic and technical supervision of all digital composites created for a project. The Compositing Supervisor leads a team of compositors. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/compositing-supervisor/

@@ -1,0 +1,5 @@
+Term: record
+Glossary: vfx
+Definition: One of the red, green, or blue color-sensitive layers in a piece of film. Thus, the blue record is equivalent to a digital image’s blue channel.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/record/

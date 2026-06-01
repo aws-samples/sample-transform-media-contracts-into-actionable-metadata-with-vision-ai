@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Financial Analyst Agent — Tasks
+    =================================
+    Ordered analysis steps the Financial Analyst performs on the Extractor's output.
+    Every task produces financial analysis. Input is the structured extraction.
+-->
+<financial_tasks>
+
+    <task>Review the Extractor's output and identify the contract type and parties. Determine which party is the payor and which is the payee. In some structures (e.g., distribution agreements), the distributor collects revenue and remits net amounts — identify the revenue flow direction.</task>
+
+    <task>Map the complete compensation structure:
+        <sub_task>Identify all compensation components: fixed fees, revenue shares, MGs, residuals, royalties, contingent compensation, per diems, and any other payment obligations</sub_task>
+        <sub_task>For each component, determine: who pays whom, how much, when, and under what conditions</sub_task>
+        <sub_task>Classify the overall deal structure: flat fee, pure revenue share, MG-plus-overage, hybrid, or other</sub_task>
+        <sub_task>Identify any compensation components that are blank or require negotiation, and note their potential range</sub_task>
+    </task>
+
+    <task>Deconstruct the revenue base definition:
+        <sub_task>Identify the defined revenue base term (Net Revenue, Gross Receipts, Net Profits, Net Receipts, or other)</sub_task>
+        <sub_task>Trace the definition back to its starting point — what constitutes the top-line gross number?</sub_task>
+        <sub_task>Enumerate every approved deduction in the order specified by the contract (or note if no order is specified)</sub_task>
+        <sub_task>For each deduction, determine: is it capped or uncapped? Does it require pre-approval? Is there a ceiling or formula?</sub_task>
+        <sub_task>Assess whether the net result after all deductions is likely to produce meaningful payments or is structured to minimize payouts</sub_task>
+        <sub_task>If the revenue base is undefined, circularly defined, or references an undefined term, flag as a critical financial finding</sub_task>
+    </task>
+
+    <task>Analyze distribution fee mechanics:
+        <sub_task>Identify the distribution fee percentage (or note if blank)</sub_task>
+        <sub_task>Determine the fee base: is the fee calculated on gross receipts, net receipts, or some other defined amount?</sub_task>
+        <sub_task>Determine the waterfall position: is the fee deducted before or after recoupable expenses? Before or after MG recoupment?</sub_task>
+        <sub_task>If blank, model the impact at industry low (15%), mid (25%), and high (35%) points</sub_task>
+    </task>
+
+    <task>Analyze recoupable expenses:
+        <sub_task>List every recoupable expense category identified in the extraction</sub_task>
+        <sub_task>For each category: is it capped or uncapped? Is pre-approval required? Is there a reporting obligation?</sub_task>
+        <sub_task>Identify any categories that are vaguely defined (e.g., "other reasonable expenses") and note the exposure</sub_task>
+        <sub_task>Determine the total potential exposure from uncapped recoupable expenses</sub_task>
+        <sub_task>Assess the interaction between recoupable expenses and the distribution fee — does the distributor earn their fee AND recoup expenses, or are they interrelated?</sub_task>
+    </task>
+
+    <task>Analyze minimum guarantee mechanics (if present):
+        <sub_task>Determine the MG amount (or note if blank)</sub_task>
+        <sub_task>Classify the MG type: recoupable advance, non-recoupable floor, or hybrid</sub_task>
+        <sub_task>Trace the recoupment mechanic: against what revenue stream is the MG recouped? At what rate? After what deductions?</sub_task>
+        <sub_task>Model the breakeven point: how much gross revenue must be generated before the rights holder receives payment above the MG?</sub_task>
+        <sub_task>If blank, model at representative amounts and show the breakeven sensitivity</sub_task>
+    </task>
+
+    <task>Construct the financial waterfall:
+        <sub_task>Build a top-to-bottom revenue flow showing every deduction layer from gross receipts to each party's net receipt</sub_task>
+        <sub_task>Show the order of operations: which deductions come first, second, third</sub_task>
+        <sub_task>Identify where each party's payment enters the waterfall</sub_task>
+        <sub_task>If there are blank fields, show the waterfall with placeholder variables and note the sensitivity</sub_task>
+        <sub_task>Express the waterfall both as a formula and as a worked example with representative numbers if sufficient data exists</sub_task>
+    </task>
+
+    <task>Analyze MFN provisions (if present):
+        <sub_task>Identify what triggers MFN parity</sub_task>
+        <sub_task>What is the comparison set — comparable deals, all deals, or a specific reference deal?</sub_task>
+        <sub_task>Is the MFN prospective only (future deals) or retroactive (existing deals)?</sub_task>
+        <sub_task>Is there a notification obligation when MFN is triggered?</sub_task>
+        <sub_task>Assess practical enforceability: can the beneficiary actually discover when MFN is triggered?</sub_task>
+    </task>
+
+    <task>Analyze payment mechanics:
+        <sub_task>Payment schedule: when are payments due relative to revenue recognition? What is the cash flow lag?</sub_task>
+        <sub_task>Payment thresholds: is there a minimum threshold before payments are remitted? How does this affect small-revenue periods?</sub_task>
+        <sub_task>Currency provisions: which currency are payments denominated in? Who bears exchange rate risk? When is the conversion rate set?</sub_task>
+        <sub_task>Withholding tax: who bears the withholding tax obligation? Is there a gross-up provision?</sub_task>
+        <sub_task>Reserves: can the payor withhold reserves against returns, adjustments, or disputes? For how long? At what percentage?</sub_task>
+    </task>
+
+    <task>Analyze reporting and audit provisions (financial perspective):
+        <sub_task>Reporting frequency and detail: is the reporting sufficient to verify payment accuracy?</sub_task>
+        <sub_task>Audit rights: how often can audits be conducted? What is the notice period? What records are accessible?</sub_task>
+        <sub_task>Audit cost allocation: who pays for the audit? Is there a materiality threshold (e.g., underpayment exceeding X%) that triggers cost-shifting to the audited party?</sub_task>
+        <sub_task>Statute of limitations: how far back can audit claims reach? Is there a contractual limitation that is shorter than the legal default?</sub_task>
+        <sub_task>Interest on underpayments: does the contract specify interest on amounts found to be underpaid?</sub_task>
+        <sub_task>Assessment: are the audit rights practically enforceable or are they restricted to the point of being nominal?</sub_task>
+    </task>
+
+    <task>Analyze residual and royalty obligations (financial dimension):
+        <sub_task>Identify all residual/royalty obligations and their calculation basis</sub_task>
+        <sub_task>Determine who bears the residual obligation: the producer, the distributor, or allocated between them</sub_task>
+        <sub_task>If guild-mandated (SAG-AFTRA, WGA, DGA), note the CBA reference but flag financial exposure to the Talent Analyst via cross_reference</sub_task>
+        <sub_task>Assess how residual obligations interact with the revenue waterfall: are they deducted before or after the content owner's share?</sub_task>
+    </task>
+
+    <task>Identify financial blank fields and model their impact:
+        <sub_task>List every financial term that is blank or requires negotiation</sub_task>
+        <sub_task>For each blank field, state the reasonable industry range for this contract type</sub_task>
+        <sub_task>Model the economic swing: what is the difference in outcome between the low and high end of the range?</sub_task>
+        <sub_task>Rank blank fields by economic impact — which unfilled term has the largest dollar effect?</sub_task>
+    </task>
+
+    <task>Produce a financial findings summary:
+        <sub_task>List all financial risks identified, ranked by severity (economic impact and likelihood of dispute)</sub_task>
+        <sub_task>List all financial ambiguities — provisions where the math cannot be computed from the contract language as written</sub_task>
+        <sub_task>List all favorable and unfavorable terms from each party's perspective</sub_task>
+        <sub_task>Note any cross-references to other specialist agents for issues with financial implications but non-financial primary character</sub_task>
+    </task>
+
+    <task>Populate metadata and run verification before finalizing output.</task>
+</financial_tasks>

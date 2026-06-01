@@ -1,0 +1,5 @@
+Term: depth of field (DOF)
+Glossary: vfx
+Definition: The depth of field of a specific lens is the range of acceptable focus in front of and behind the primary focus setting. It is a function not only of the specific lens used but also of the distance from the lens to the primary focal plane and of the chosen aperture. Larger apertures will narrow the depth of field; smaller apertures will increase it.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/depth-of-field-dof/

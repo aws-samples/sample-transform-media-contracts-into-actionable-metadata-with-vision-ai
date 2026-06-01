@@ -1,0 +1,5 @@
+Term: Precision time protocol (PTP)
+Glossary: vfx
+Definition: A form of timecode with sub-microsecond timing accuracy. See also timecode.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/precision-time-protocol-ptp/

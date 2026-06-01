@@ -1,0 +1,3 @@
+Term: Copy
+Glossary: odrl
+Definition: The act of making an exact reproduction of the asset.

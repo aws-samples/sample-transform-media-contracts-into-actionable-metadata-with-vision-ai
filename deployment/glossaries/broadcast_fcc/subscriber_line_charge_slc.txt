@@ -1,0 +1,5 @@
+Term: Subscriber Line Charge (SLC)
+Glossary: broadcast_fcc
+Definition: A monthly fee paid by telephone subscribers used to compensate the local telephone company for part of the cost of installation and maintenance of telephone wire, poles, and other facilities that link a customer's home to the telephone network.
+Usage Context: Appears on consumer telephone bills. Regulated by the FCC under Title II. Not applicable to wireless or VoIP services in the same form.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

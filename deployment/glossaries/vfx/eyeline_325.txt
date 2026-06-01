@@ -1,0 +1,5 @@
+Term: Eyeline
+Glossary: vfx
+Definition: An object that an actor looks at while shooting a scene and spatially represents a cg element. Can be anything from a tape mark, to a tennis ball, to a motion controlled screen.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/eyeline/

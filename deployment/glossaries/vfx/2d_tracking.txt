@@ -1,0 +1,5 @@
+Term: 2D tracking
+Glossary: vfx
+Definition: The process of determining the motion of objects in a scene relative to the camera. The data derived by a 2D track is dependent on the number of points tracked. See 3D tracking, one-point track, two-point track, four-point track.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/2d-tracking/

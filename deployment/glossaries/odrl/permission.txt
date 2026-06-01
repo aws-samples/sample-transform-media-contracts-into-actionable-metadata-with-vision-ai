@@ -1,0 +1,3 @@
+Term: Permission
+Glossary: odrl
+Definition: The ability to perform an Action over an Asset.

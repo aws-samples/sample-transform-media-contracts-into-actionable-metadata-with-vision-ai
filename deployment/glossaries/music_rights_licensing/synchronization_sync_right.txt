@@ -1,0 +1,5 @@
+Term: Synchronization (Sync) Right
+Glossary: music_rights_licensing
+Definition: The right to use a recording of a musical work in audiovisual form — for example, as part of a motion picture, television program, music video, or commercial announcement. Often, the music is 'synchronized' or recorded in timed relation with the visual images. Synchronization rights are licensed by the music publisher to the producer of the movie or program.
+Usage Context: A sync license covers only the underlying composition. To use an existing recording in an audiovisual work, a separate master use license is required from the owner of the sound recording. 'Full song' syncs typically command higher fees than partial uses.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

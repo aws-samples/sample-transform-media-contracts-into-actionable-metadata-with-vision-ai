@@ -1,0 +1,4 @@
+Term: Execute
+Glossary: odrl
+Definition: To run the computer program Asset.
+Usage Context: For example, machine executable code or Java such as a game or application.

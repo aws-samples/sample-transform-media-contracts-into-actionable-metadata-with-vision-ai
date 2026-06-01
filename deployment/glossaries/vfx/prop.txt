@@ -1,0 +1,5 @@
+Term: Prop
+Glossary: vfx
+Definition: A physical or virtual item which can be interacted with.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/prop/

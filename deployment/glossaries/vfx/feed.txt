@@ -1,0 +1,5 @@
+Term: Feed
+Glossary: vfx
+Definition: The live or nearly live footage coming from cameras, real-time engines, or other live-action sources. Often used for remote collaboration to provide camera feeds remotely to editors and other crew members to assist with rapid feedback.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/feed-2/

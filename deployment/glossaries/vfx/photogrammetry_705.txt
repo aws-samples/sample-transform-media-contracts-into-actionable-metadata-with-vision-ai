@@ -1,0 +1,5 @@
+Term: Photogrammetry
+Glossary: vfx
+Definition: The automated construction of a 3D model asset triangulated from multiple 2D photographs; can also be combined with point clouds derived from LIDAR scans, aka sensor fusion. See also image based modeling.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/photogrammetry/

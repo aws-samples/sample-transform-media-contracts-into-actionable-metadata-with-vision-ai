@@ -1,0 +1,5 @@
+Term: grain
+Glossary: vfx
+Definition: The individual particles of silver halide in a piece of film that capture an image when exposed to light. Because the distribution and sensitivity of these particles are not uniform, they are perceived (particularly when projected) as causing a noticeable graininess. Different film stocks will have different visual grain characteristics.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/grain/

@@ -1,0 +1,5 @@
+Term: black point
+Glossary: vfx
+Definition: (1) On a piece of film, the measured density in the area of greatest opacity. (2) In a digital image, the numerical value that corresponds to the darkest area that will be represented when the image is eventually viewed in its final form.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/black-point/

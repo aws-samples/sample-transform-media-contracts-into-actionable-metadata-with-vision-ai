@@ -1,0 +1,5 @@
+Term: Lineup (lineup sheet)
+Glossary: vfx
+Definition: Essentially a road map on how to put a specific shot together usually created by the production side VFX editor and sent to the VFX facility doing the work. This sheet has the specifics on frame rate, warps, layers/elements of the comp, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lineup-lineup-sheet/

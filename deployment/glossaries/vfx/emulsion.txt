@@ -1,0 +1,5 @@
+Term: emulsion
+Glossary: vfx
+Definition: The light-sensitive material that is applied to a transparent base to create photographic film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/emulsion/

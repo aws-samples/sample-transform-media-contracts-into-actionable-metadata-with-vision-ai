@@ -1,0 +1,5 @@
+Term: key code
+Glossary: vfx
+Definition: See edge numbers.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/key-code/

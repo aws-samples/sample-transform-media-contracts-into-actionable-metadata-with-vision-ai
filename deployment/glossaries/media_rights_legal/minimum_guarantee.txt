@@ -1,0 +1,5 @@
+Term: Minimum Guarantee
+Glossary: media_rights_legal
+Definition: A guaranteed minimum payment from licensee to licensor, typically recoupable against future revenue share. Functions as a floor on compensation or an advance against earnings.
+Usage Context: Content licensing: 'Licensee shall guarantee a minimum payment of $X per license year, recoupable against revenue share payments.'
+Source: media_rights_legal

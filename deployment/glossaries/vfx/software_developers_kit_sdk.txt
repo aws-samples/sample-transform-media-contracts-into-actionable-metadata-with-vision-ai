@@ -1,0 +1,5 @@
+Term: software developer’s kit (SDK)
+Glossary: vfx
+Definition: A programming interface that accompanies many software packages. It is used to write additional plug-ins and standalone programs to extend the capabilities of that software package.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/software-developers-kit-sdk/

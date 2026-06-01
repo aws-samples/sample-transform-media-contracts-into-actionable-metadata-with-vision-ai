@@ -1,0 +1,5 @@
+Term: posterization
+Glossary: vfx
+Definition: An effect applied to an image that intentionally causes banding.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/posterization/

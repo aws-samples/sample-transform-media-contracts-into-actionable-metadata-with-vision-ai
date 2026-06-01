@@ -1,0 +1,5 @@
+Term: Final Qualification
+Glossary: film_tv_production
+Definition: Under the WGA MBA (Article 16.A.2.a.(i)), the status of having received a qualifying writing credit (such as 'Written by' or 'Screen Story') that triggers eligibility for separated rights. Required for a writer to exercise separated rights in theatrical and television motion pictures.
+Usage Context: Determined at the conclusion of the credit determination process. Writers who contribute to a project but do not achieve final qualification are not eligible for separated rights.
+Source: WGA Understanding Separated Rights — https://www.wga.org/uploadedfiles/know_your_rights/SeparatedRights.pdf

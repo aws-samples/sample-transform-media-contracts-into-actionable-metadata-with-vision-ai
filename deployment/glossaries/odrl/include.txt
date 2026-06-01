@@ -1,0 +1,4 @@
+Term: Include
+Glossary: odrl
+Definition: To include other related assets in the Asset.
+Usage Context: For example: bio picture must be included in the attribution. Use of a relation sub-property is required for the related assets.

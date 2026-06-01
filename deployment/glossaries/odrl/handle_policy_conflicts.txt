@@ -1,0 +1,4 @@
+Term: Handle Policy Conflicts
+Glossary: odrl
+Definition: The conflict-resolution strategy for a Policy.
+Usage Context: If no strategy is specified, the default is invalid.

@@ -1,0 +1,5 @@
+Term: MoCap
+Glossary: vfx
+Definition: Abbreviation for motion capture. A technique whereby an individual being’s performance is captured and translated for use in driving a CG being’s performance. Also known as performance capture.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/mocap/

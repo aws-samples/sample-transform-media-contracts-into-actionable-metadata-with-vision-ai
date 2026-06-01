@@ -1,0 +1,5 @@
+Term: folding
+Glossary: vfx
+Definition: The process of consolidating discrete mathematical operations into a single function.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/folding/

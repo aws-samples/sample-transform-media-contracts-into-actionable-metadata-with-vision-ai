@@ -1,0 +1,5 @@
+Term: light pass
+Glossary: vfx
+Definition: (1) In multiple-pass photography, the pass of individual lights striking the subject, such as the key or fill, for later use in compositing. (2) In multiple-pass rendering, the CG element that represents the effects of a particular light striking the object. See also beauty pass, matte pass, reflection pass, shadow pass.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/light-pass/

@@ -1,0 +1,5 @@
+Term: on-line compositing
+Glossary: vfx
+Definition: A method of compositing that uses a highly interactive hardware/software combination to quickly provide the results of every compositing operation. Distinguished from an off-line or batch compositing system.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/on-line-compositing/

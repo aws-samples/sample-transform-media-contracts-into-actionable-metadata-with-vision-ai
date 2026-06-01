@@ -1,0 +1,4 @@
+Term: Attributing Party
+Glossary: odrl
+Definition: The Party who undertakes the attribution.
+Usage Context: Maybe specified as part of the attribute action.

@@ -1,0 +1,5 @@
+Term: keyframe animation
+Glossary: vfx
+Definition: The process of creating animation using keyframes.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/keyframe-animation/

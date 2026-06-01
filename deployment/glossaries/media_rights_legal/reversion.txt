@@ -1,0 +1,5 @@
+Term: Reversion
+Glossary: media_rights_legal
+Definition: The return of all licensed rights to the original rights holder upon expiration or termination. The licensee/distributor must cease exploitation and the rights holder regains full control.
+Usage Context: Termination provisions: 'Upon termination, all distribution rights shall revert to Owner.'
+Source: media_rights_legal

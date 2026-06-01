@@ -1,0 +1,7 @@
+Term: Encoder
+Glossary: vfx
+Definition: A device that records and/or streams rotations. Attached to the moving parts of a crane this would
+give us a solve of the camera position. Also useful in deriving linear translation in the case of a dolly
+move or the telescoping portion of a crane arm.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/encoder/

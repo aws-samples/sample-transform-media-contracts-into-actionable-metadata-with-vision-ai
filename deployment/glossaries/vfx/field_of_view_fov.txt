@@ -1,0 +1,5 @@
+Term: field of view (FOV)
+Glossary: vfx
+Definition: The range of a scene that will be captured by a specific camera. FOV is usually measured as the number of horizontal degrees (out of 360), although a vertical field of view is also a valid measurement.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/field-of-view-fov/

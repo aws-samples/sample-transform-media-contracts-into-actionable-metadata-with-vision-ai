@@ -1,0 +1,5 @@
+Term: perf
+Glossary: vfx
+Definition: Abbreviation for perforation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/perf/

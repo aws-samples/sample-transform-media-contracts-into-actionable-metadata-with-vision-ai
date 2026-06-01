@@ -1,0 +1,5 @@
+Term: Synchronization License
+Glossary: media_rights_legal
+Definition: A license to use a musical composition in timed synchronization with visual images in an audiovisual production. Covers the underlying composition only; a separate master use license is needed for a specific recording.
+Usage Context: Music agreements: 'Publisher hereby grants a synchronization license for the Composition for use in the Production.'
+Source: media_rights_legal

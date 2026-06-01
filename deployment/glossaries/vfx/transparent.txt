@@ -1,0 +1,5 @@
+Term: transparent
+Glossary: vfx
+Definition: The characteristic of an image that allows other images that are behind it to still be partially visible. Transparent is the opposite of opaque.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/transparent/

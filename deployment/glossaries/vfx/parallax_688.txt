@@ -1,0 +1,5 @@
+Term: Parallax
+Glossary: vfx
+Definition: The perceptual difference in an object’s position when seen from different vantage points.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/parallax/

@@ -1,0 +1,5 @@
+Term: color management
+Glossary: vfx
+Definition: A global term used to describe the process of producing consistent color across a range of software and devices.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-management/

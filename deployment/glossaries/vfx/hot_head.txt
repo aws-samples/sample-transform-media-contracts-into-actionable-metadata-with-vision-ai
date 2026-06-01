@@ -1,0 +1,5 @@
+Term: hot head
+Glossary: vfx
+Definition: A computer-assisted camera mount head that can either record the pan and tilt of an operated camera or use previously recorded pan/tilt information to play back; that is, to drive the camera head mount to replicate the pan/tilt move. As the equipment improves, more axes are becoming recordable and capable of being played back to drive the camera.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hot-head/

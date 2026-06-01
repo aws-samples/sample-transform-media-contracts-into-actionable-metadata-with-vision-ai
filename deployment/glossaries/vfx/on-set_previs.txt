@@ -1,0 +1,5 @@
+Term: on-set previs
+Glossary: vfx
+Definition: Creates real-time (or near real-time) visualizations on location to help the director, VFX supervisor, and crew quickly evaluate captured imagery. This includes the use of techniques that can synchronize and composite live photography with 2D or 3D virtual elements for immediate visual feedback. Also see previs, pitchvis, technical previs, and postvis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/on-set-previs/

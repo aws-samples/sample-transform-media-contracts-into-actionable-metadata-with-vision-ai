@@ -1,0 +1,5 @@
+Term: flat lens
+Glossary: vfx
+Definition: Another term for a spherical lens. Sometimes also used as a relative term for measuring the distortion and exposure variance of any lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/flat-lens/

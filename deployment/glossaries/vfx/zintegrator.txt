@@ -1,0 +1,5 @@
+Term: Zintegrator
+Glossary: vfx
+Definition: A category of markered props used for aligning physical sets/objects to virtual counterparts; can be used to drive static non-markered objects within a volume.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/zintegrator/

@@ -1,0 +1,5 @@
+Term: ZPS
+Glossary: vfx
+Definition: (stereo) Abbreviation for zero parallax setting, which is the means used to control screen parallax to place an object in the plane of the screen. ZPS may be controlled by HIT, or toe-in. Refer to the plane of zero parallax or the point of zero parallax (PZP) so achieved. Prior terminology says that left and right images are converged when in the plane of the screen. That term should be avoided because it may be confused with the convergence of the eyes and because the word implies rotation of camera heads. Such rotation produces geometric distortion and may be expedient in camera rigs, but it is unforgivable in a CG virtual camera rig.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/zps/

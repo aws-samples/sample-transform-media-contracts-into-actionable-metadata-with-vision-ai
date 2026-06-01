@@ -1,0 +1,5 @@
+Term: dots per inch (DPI)
+Glossary: vfx
+Definition: A common method for measuring spatial resolution in the print industry. The horizontal and vertical scales are assumed to be equal, unless specified otherwise.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dots-per-inch-dpi/

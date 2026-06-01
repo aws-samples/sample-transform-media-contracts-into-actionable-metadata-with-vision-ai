@@ -1,0 +1,5 @@
+Term: LED panel
+Glossary: vfx
+Definition: A modular array of LED lights which display video content. Originally designed for indoor/outdoor advertising, entertainment venues, and broadcast use, LED panels are now used to create and enhance lighting and appropriately scaled environments for motion picture cinematography.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/led-panel/

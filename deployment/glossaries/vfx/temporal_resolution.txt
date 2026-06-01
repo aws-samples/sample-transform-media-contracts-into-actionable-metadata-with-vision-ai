@@ -1,0 +1,5 @@
+Term: temporal resolution
+Glossary: vfx
+Definition: A measurement of the amount of data used to capture a sequence of images. Temporal resolution is usually specified by giving the number of frames per second used to capture the sequence.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/temporal-resolution/

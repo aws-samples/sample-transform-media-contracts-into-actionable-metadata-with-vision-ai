@@ -1,0 +1,5 @@
+Term: matte channel
+Glossary: vfx
+Definition: Another name for the alpha channel in a four-channel image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/matte-channel/

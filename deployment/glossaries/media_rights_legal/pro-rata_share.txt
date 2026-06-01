@@ -1,0 +1,5 @@
+Term: Pro-Rata Share
+Glossary: media_rights_legal
+Definition: In subscription revenue models, a creator's share calculated proportionally based on viewing time relative to total platform viewing time, applied against a percentage of the subscription revenue pool.
+Usage Context: Digital rights/UGC: 'Creator shall receive a pro-rata share based on viewing time: (Creator hours / total hours) x X% of subscription revenue pool.'
+Source: media_rights_legal

@@ -1,0 +1,5 @@
+Term: maquette
+Glossary: vfx
+Definition: Very detailed physical sculpture of a creature or character.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/maquette/

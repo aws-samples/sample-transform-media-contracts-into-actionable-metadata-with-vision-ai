@@ -1,0 +1,5 @@
+Term: Windowing
+Glossary: media_rights_legal
+Definition: Sequential release of content across different distribution platforms, each with an exclusivity period before the next window opens. Typical sequence: theatrical, premium VOD, SVOD, free TV/AVOD.
+Usage Context: Distribution agreements: 'Distributor shall adhere to the following release windows: (a) Theatrical: X days exclusive; (b) SVOD: Y days post-theatrical.'
+Source: media_rights_legal

@@ -1,0 +1,5 @@
+Term: ghosting
+Glossary: vfx
+Definition: (stereo) Term used to describe the perception of crosstalk.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ghosting/

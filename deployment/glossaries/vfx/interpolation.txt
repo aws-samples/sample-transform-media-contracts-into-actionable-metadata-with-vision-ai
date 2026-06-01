@@ -1,0 +1,5 @@
+Term: interpolation
+Glossary: vfx
+Definition: The process of using certain rules or formulas to derive new data based on a set of existing data. See also bicubic interpolation, bilinear interpolation, linear interpolation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/interpolation/

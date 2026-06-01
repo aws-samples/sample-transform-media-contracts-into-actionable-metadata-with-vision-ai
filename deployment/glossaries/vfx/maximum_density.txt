@@ -1,0 +1,5 @@
+Term: maximum density
+Glossary: vfx
+Definition: The point of exposure at which additional light (on the negative) will no longer affect the resulting image. The definitions of maximum and minimum density would be reversed if you were speaking of print (reversal) film instead of negative. Also known as D-max.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/maximum-density/

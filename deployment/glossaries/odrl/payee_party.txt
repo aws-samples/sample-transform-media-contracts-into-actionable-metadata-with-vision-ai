@@ -1,0 +1,3 @@
+Term: Payee Party
+Glossary: odrl
+Definition: The Party is the recipient of the payment.

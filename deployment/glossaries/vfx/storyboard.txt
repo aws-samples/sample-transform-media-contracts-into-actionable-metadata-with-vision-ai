@@ -1,0 +1,5 @@
+Term: storyboard
+Glossary: vfx
+Definition: A sequence of drawings that shows the intended action in a scene. Used as a visualization tool before the scene is shot.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/storyboard/

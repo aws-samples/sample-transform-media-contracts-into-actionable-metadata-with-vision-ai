@@ -1,0 +1,5 @@
+Term: Association for Computing Machinery
+Glossary: vfx
+Definition: An organization, founded in 1947, that is the world’s first educational and scientific computing society. SIGGRAPH is one of the many special interest groups within the ACM.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/association-for-computing-machinery/

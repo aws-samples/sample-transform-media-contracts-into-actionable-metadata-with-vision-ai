@@ -1,0 +1,5 @@
+Term: VistaVision
+Glossary: vfx
+Definition: A specialized 35mm film format that runs the film through the camera horizontally instead of vertically and is able to capture more than twice the resolution of a standard 35mm frame. Generally only used for visual effects work nowadays. Also known as eight-perf and also spelled Vistavision.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/vistavision/

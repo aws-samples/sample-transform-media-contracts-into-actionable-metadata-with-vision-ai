@@ -1,0 +1,5 @@
+Term: anaglyph glasses
+Glossary: vfx
+Definition: A type of 3D glasses that uses two different lens colors, usually red and blue, to control the images that are seen by each eye in a stereoscopic image. See also flicker glasses, polarized glasses.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/anaglyph-glasses/

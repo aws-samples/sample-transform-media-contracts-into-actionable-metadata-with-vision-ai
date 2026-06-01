@@ -1,0 +1,5 @@
+Term: Virtual preproduction
+Glossary: vfx
+Definition: An extended period of prep and asset creation prior to the start of a virtual production which ideally engages the VAD, cinematographer, director, and other key production personnel in non-consecutive contracts. Also referred to as soft prep.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-preproduction/

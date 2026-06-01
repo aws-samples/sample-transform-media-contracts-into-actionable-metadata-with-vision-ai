@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Extractor Agent — Verification Process
+    ========================================
+    Step-by-step verification to ensure extraction completeness and accuracy.
+    This process runs AFTER extraction and BEFORE output finalization.
+-->
+<extractor_verification>
+
+    <initial_step>
+        <instruction>Confirm that you are working ONLY with the target document provided for analysis. Disregard any example documents or images.</instruction>
+    </initial_step>
+
+    <!-- PASS 1: Is this a media rights contract? -->
+    <pass_1_identification>
+        <step>Scan the target document for media rights contract content.</step>
+        <step>Look for key indicators: contract title, party identification blocks, article/section numbering, legal language (hereby, herein, hereof, whereas), rights grant language, financial terms, signature blocks.</step>
+        <step>If no contract content is found, proceed to not_found_response.</step>
+        <step>If contract content is found, classify the contract type based on title, parties, and key provisions.</step>
+
+        <contract_criteria>
+            <criterion>Contains identification of two or more contracting parties with defined roles.</criterion>
+            <criterion>Includes a grant of rights or license provision.</criterion>
+            <criterion>Contains financial terms (fees, revenue shares, royalties, compensation).</criterion>
+            <criterion>Includes term/duration and/or termination mechanics.</criterion>
+            <criterion>Contains media-specific or entertainment-specific terminology.</criterion>
+            <criterion>Includes representations, warranties, or indemnification provisions.</criterion>
+            <criterion>Contains signature blocks or execution provisions.</criterion>
+        </contract_criteria>
+        <minimum_criteria>At least THREE of the above must be present to classify as a media rights contract.</minimum_criteria>
+    </pass_1_identification>
+
+    <!-- PASS 2: Extraction completeness -->
+    <pass_2_extraction_check>
+        <extraction_priorities>
+            <priority level="1">Contract type identification and document title</priority>
+            <priority level="2">Party identification and defined roles</priority>
+            <priority level="3">Defined terms and their definitions</priority>
+            <priority level="4">Grant of rights (scope, territory, media, language/dubbing, exclusivity)</priority>
+            <priority level="5">Ownership and chain of title</priority>
+            <priority level="6">Financial terms (fees, revenue shares, MG, residuals)</priority>
+            <priority level="7">Term, renewal, and termination provisions</priority>
+            <priority level="8">Holdbacks, windowing, and exclusivity restrictions</priority>
+            <priority level="9">Obligations and restrictions (delivery, approval, morals, key person, editorial control)</priority>
+            <priority level="10">Talent and third-party obligations (guild, music, embedded IP)</priority>
+            <priority level="11">Credit and attribution provisions</priority>
+            <priority level="12">Representations, warranties, indemnification, and insurance</priority>
+            <priority level="13">Digital and emerging rights (AI, likeness, NFT, social media, viewer data)</priority>
+            <priority level="14">Regulatory and compliance (ratings, quotas, accessibility, export controls)</priority>
+            <priority level="15">Legal boilerplate (governing law, dispute resolution, force majeure)</priority>
+            <priority level="16">Exhibit references and signature blocks</priority>
+            <priority level="17">Unfilled terms and blank fields</priority>
+        </extraction_priorities>
+
+        <exhaustive_capture>
+            <step>For verified contracts, extract ALL visible provisions following the extraction priorities.</step>
+            <step>Do not skip provisions because they appear to be standard boilerplate — capture everything.</step>
+            <step>When text is partially visible or cut off, extract what is readable and indicate truncation.</step>
+            <step>For blank fill-in fields, capture the surrounding context and flag as requiring negotiation.</step>
+            <step>Preserve all article numbers, section numbers, and cross-references exactly as written.</step>
+            <step>Note any handwritten annotations, stamps, or markings visible on the document.</step>
+        </exhaustive_capture>
+    </pass_2_extraction_check>
+
+    <!-- PASS 3: Contract classification -->
+    <pass_3_classification>
+        <step>Classify the contract type: content licensing, talent agreement, sync license, distribution agreement, digital rights/UGC, or hybrid.</step>
+        <step>If hybrid or ambiguous, note the primary type and which provisions cross into other categories.</step>
+        <step>Identify document status: template (blank fields), partially executed, fully executed, draft.</step>
+        <step>Assess completeness: complete document, multi-page fragment, or partial excerpt.</step>
+    </pass_3_classification>
+
+    <!-- PASS 4: Defined term tracking -->
+    <pass_4_defined_terms>
+        <step>On first pass, identify all defined terms (capitalized terms introduced with quotation marks or parenthetical definitions).</step>
+        <step>Extract each term and its full definition verbatim.</step>
+        <step>Track where defined terms are used throughout the document to ensure consistent extraction.</step>
+        <step>Flag any defined terms that reference exhibits or external documents for their full definition.</step>
+    </pass_4_defined_terms>
+
+    <!-- PASS 5: Final verification -->
+    <pass_5_final>
+        <step>Have you captured all visible articles, sections, and subsections?</step>
+        <step>Does all information come from the target document only?</step>
+        <step>Are all defined terms captured with their definitions?</step>
+        <step>Are all blank fill-in fields flagged?</step>
+        <step>Are cross-references between sections preserved?</step>
+        <step>Are financial terms captured with exact figures or blank indicators?</step>
+        <step>Are chain of title and ownership provisions captured where present?</step>
+        <step>Are language/dubbing/subtitle rights captured for international deals?</step>
+        <step>Are talent and third-party obligations captured where referenced?</step>
+        <step>Are insurance requirements captured where present?</step>
+        <step>Are digital and emerging rights provisions captured?</step>
+        <step>Are regulatory/compliance provisions captured for international deals?</step>
+        <step>Does the blank_field_count in metadata match the actual count of blank fields in the extraction?</step>
+        <step>Does the defined_term_count in metadata match the actual count of terms in defined_terms?</step>
+    </pass_5_final>
+
+    <!-- NOT FOUND -->
+    <not_found_response>
+        <format>
+            <extractor_output>
+                <contract_identified>NO</contract_identified>
+                <explanation>No media rights contract content was detected in the target document. The document appears to contain: {BRIEF_DESCRIPTION_OF_WHAT_IS_ACTUALLY_IN_THE_DOCUMENT}</explanation>
+                <recommendation>Consider using a different analyzer appropriate for the content type.</recommendation>
+            </extractor_output>
+        </format>
+    </not_found_response>
+
+</extractor_verification>

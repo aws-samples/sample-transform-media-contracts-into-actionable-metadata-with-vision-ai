@@ -1,0 +1,5 @@
+Term: exposure sheets
+Glossary: vfx
+Definition: Sheets that tell the Oxberry (or Downshooter) cameraman in what order to layer and shoot the animation cels and for how many frames per cel, per layer. They do essentially the same thing for the optical printer cameraman: Indicate order of layout, exposure, length, and filtration of the elements to be rephotographed. (In animation also called x-sheets or dope sheets.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/exposure-sheets/

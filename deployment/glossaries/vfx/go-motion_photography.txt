@@ -1,0 +1,5 @@
+Term: Go-Motion photography
+Glossary: vfx
+Definition: Technique that gives naturalistic motion blur when shooting miniatures. The camera shutter remains open with the motion control rig moving continuously through the shot.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/go-motion-photography/

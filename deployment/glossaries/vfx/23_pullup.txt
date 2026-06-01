@@ -1,0 +1,5 @@
+Term: 2:3 pullup
+Glossary: vfx
+Definition: Pronounced as “two-three pullup,” this is a method for converting 30fps video to 24fps film. Also called a 3:2 pullup or just pullup.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/23-pullup/

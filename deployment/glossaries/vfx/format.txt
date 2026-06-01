@@ -1,0 +1,5 @@
+Term: format
+Glossary: vfx
+Definition: (1) The size, resolution, aspect ratio, etc., for a given image. (2) The file format for a given image. (3) The physical medium (such as film, video, etc.) used to capture or display an image sequence. (4) A multitude of additional variations and subcategories of the first three definitions.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/format/

@@ -1,0 +1,5 @@
+Term: vectorscope
+Glossary: vfx
+Definition: A device used to view the chrominance portion of a video signal. Radial distance from the center of the display represents saturation (chrominance amplitude), and the counterclockwise or clockwise angular distance represents the hue (chrominance phase). See also waveform monitor.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/vectorscope/

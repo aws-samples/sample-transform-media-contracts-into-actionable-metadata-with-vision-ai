@@ -1,0 +1,5 @@
+Term: Inside-out tracking
+Glossary: vfx
+Definition: A method of camera tracking which uses a sensor mounted directly on the camera and searches for trackable features such as markers in the ceiling or a map of the physical set using machine vision techniques. See also outside-in tracking.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/inside-out-tracking/

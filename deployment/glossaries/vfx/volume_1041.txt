@@ -1,0 +1,5 @@
+Term: Volume
+Glossary: vfx
+Definition: The physical space in which performance capture is recorded. Also refers to a nearly enclosed LED stage in which a volume of light is emitted, or a display surface for projected content.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/volume/

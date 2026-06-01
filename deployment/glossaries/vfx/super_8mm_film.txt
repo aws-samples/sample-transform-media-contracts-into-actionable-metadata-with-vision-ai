@@ -1,0 +1,5 @@
+Term: Super 8mm film
+Glossary: vfx
+Definition: The Super 8 format is a narrow-gauge film that contains one perforation along each side and runs 72 frames per foot.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/super-8mm-film/

@@ -1,0 +1,5 @@
+Term: file format
+Glossary: vfx
+Definition: A standardized description of how a piece of data (such as an image) is to be stored.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/file-format/

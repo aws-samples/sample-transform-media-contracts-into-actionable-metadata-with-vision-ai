@@ -1,0 +1,5 @@
+Term: Systems administrator
+Glossary: vfx
+Definition: The IT professional overseeing areas including network infrastructure, servers, and spectrum management.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/systems-administrator/

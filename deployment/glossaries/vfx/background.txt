@@ -1,0 +1,5 @@
+Term: background
+Glossary: vfx
+Definition: In a composite, the bottom element over which all others are added. In general, the background makes up the majority of the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/background/

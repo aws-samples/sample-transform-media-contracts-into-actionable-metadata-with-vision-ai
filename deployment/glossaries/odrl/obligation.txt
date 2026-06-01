@@ -1,0 +1,4 @@
+Term: Obligation
+Glossary: odrl
+Definition: Relates an individual Duty to a Policy.
+Usage Context: The Duty is a requirement which must be fulfilled.

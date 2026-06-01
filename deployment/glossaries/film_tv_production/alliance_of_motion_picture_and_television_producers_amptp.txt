@@ -1,0 +1,5 @@
+Term: Alliance of Motion Picture and Television Producers (AMPTP)
+Glossary: film_tv_production
+Definition: The trade association that represents major motion picture and television studios, networks, and streaming services in collective bargaining negotiations with Hollywood unions including the WGA, DGA, SAG-AFTRA, and IATSE.
+Usage Context: The AMPTP negotiates the WGA MBA, the DGA Basic Agreement, and the SAG-AFTRA TV/Theatrical MBA, typically on roughly parallel three-year cycles. Member companies automatically become signatory to resulting agreements.
+Source: AMPTP — https://www.amptp.org

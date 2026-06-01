@@ -1,0 +1,3 @@
+Term: Count
+Glossary: odrl
+Definition: Numeric count of executions of the action of the Rule.

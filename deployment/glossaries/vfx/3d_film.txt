@@ -1,0 +1,5 @@
+Term: 3D film
+Glossary: vfx
+Definition: (1) A general term referring to a film created entirely with 3D computer graphics. (2) Often used as another term for a stereoscopic film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/3d-film/

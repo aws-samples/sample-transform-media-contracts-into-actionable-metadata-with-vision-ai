@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Talent & Guild Compliance Analyst Agent — Response Format
+    ===========================================================
+    Media Contracts Schema (MCS) v1.0
+    Implements: Part 1 (envelope) + Part 2 (metadata) + Part 5 (specialized/talent) +
+                Part 6 (findings) + Part 7 (tags)
+    See: schemas/base/mcs_base_schema.xml
+
+    Output schema consumed by the Risk Strategist and human reviewers
+    (talent attorneys, agents, managers, guild representatives).
+-->
+<response_format>
+    <response analyzer="talent_guild_compliance"
+              schema_version="1.0"
+              job_id="{JOB_ID}"
+              timestamp="{ISO_8601_TIMESTAMP}">
+        <!-- MCS Part 2: Core Metadata -->
+        <metadata>
+            <analyzer_name>talent_guild_compliance</analyzer_name>
+            <schema_version>1.0</schema_version>
+            <timestamp>{ISO_8601_TIMESTAMP}</timestamp>
+            <source_document>{DOCUMENT_TITLE_FROM_EXTRACTOR}</source_document>
+            <element_count>{TOTAL_ELEMENTS_ANALYZED}</element_count>
+            <confidence>{high|medium|low}</confidence>
+
+            <!-- Analyzer-specific metadata -->
+            <contract_type>{CONTRACT_TYPE_FROM_EXTRACTOR}</contract_type>
+            <talent_parties>{NAMES_AND_ROLES_OF_ALL_TALENT_RELATED_PARTIES}</talent_parties>
+            <guilds_referenced>{LIST_OF_GUILDS_OR_NONE}</guilds_referenced>
+            <overall_talent_protection_posture>{STRONG|ADEQUATE|WEAK|DEFICIENT}</overall_talent_protection_posture>
+            <guild_compliance_issue_count>{NUMBER_OF_CBA_COMPLIANCE_ISSUES}</guild_compliance_issue_count>
+            <talent_gap_count>{NUMBER_OF_PROTECTION_GAPS}</talent_gap_count>
+        </metadata>
+
+        <!-- MCS Part 5: Specialized Section (talent & guild compliance) -->
+        <specialized type="talent_guild_compliance">
+            <guild_compliance>
+                <signatory_status>{GUILD_SIGNATORY|NON_SIGNATORY|UNCLEAR_NOT_REFERENCED}</signatory_status>
+                <guild_assessments>
+                    <guild_assessment guild="{GUILD_NAME}">
+                        <provisions_reviewed>{WHICH_PROVISIONS_WERE_CHECKED_AGAINST_CBA}</provisions_reviewed>
+                        <compliance_issues>
+                            <issue>
+                                <provision>{WHAT_THE_CONTRACT_PROVIDES}</provision>
+                                <cba_minimum>{WHAT_THE_CBA_REQUIRES — or "verify against current CBA" if uncertain}</cba_minimum>
+                                <shortfall>{HOW_THE_CONTRACT_FALLS_SHORT}</shortfall>
+                                <section_reference>{CONTRACT_SECTION}</section_reference>
+                            </issue>
+                            <!-- Repeat -->
+                        </compliance_issues>
+                        <above_minimum_provisions>
+                            <provision>
+                                <description>{WHAT_EXCEEDS_THE_CBA_MINIMUM}</description>
+                                <enhancement>{HOW_IT_EXCEEDS}</enhancement>
+                                <section_reference>{CONTRACT_SECTION}</section_reference>
+                            </provision>
+                            <!-- Repeat -->
+                        </above_minimum_provisions>
+                    </guild_assessment>
+                    <!-- Repeat for each guild -->
+                </guild_assessments>
+            </guild_compliance>
+
+            <residual_analysis>
+                <!-- Omit entirely if no residuals in extraction -->
+                <obligation>
+                    <type>{GUILD_MANDATED|INDIVIDUALLY_NEGOTIATED}</type>
+                    <basis>{CALCULATION_BASIS}</basis>
+                    <responsible_party>{WHO_PAYS}</responsible_party>
+                    <guild_reference>{CBA_REFERENCE_IF_APPLICABLE}</guild_reference>
+                    <offset_against_other_compensation>{YES_DESCRIBE|NO|NOT_ADDRESSED}</offset_against_other_compensation>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                    <compliance_note>{ANY_CONCERN_ABOUT_CBA_COMPLIANCE}</compliance_note>
+                </obligation>
+                <!-- Repeat -->
+            </residual_analysis>
+
+            <credit_analysis>
+                <screen_credit>
+                    <position>{MAIN_TITLES|END_TITLES|BOTH|NOT_SPECIFIED}</position>
+                    <card_type>{SINGLE_CARD|SHARED_CARD|NOT_SPECIFIED}</card_type>
+                    <size>{SIZE_RELATIVE_TO_TITLE_OR_OTHER_CREDITS}</size>
+                    <conditions>{ANY_CONDITIONS_ON_RECEIVING_CREDIT}</conditions>
+                    <guild_minimum_met>{YES|NO|NOT_APPLICABLE}</guild_minimum_met>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </screen_credit>
+                <paid_advertising>
+                    <included>{YES_ALL|YES_ABOVE_THRESHOLD|NO|NOT_ADDRESSED}</included>
+                    <threshold>{SIZE_OR_FORMAT_THRESHOLD_IF_APPLICABLE}</threshold>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </paid_advertising>
+                <credit_remedy>
+                    <remedy_type>{PROSPECTIVE_CORRECTION|DAMAGES|INJUNCTIVE_RELIEF|NONE_SPECIFIED}</remedy_type>
+                    <injunctive_relief_waived>{YES|NO|NOT_ADDRESSED}</injunctive_relief_waived>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </credit_remedy>
+                <derivative_work_credit>{DOES_CREDIT_CARRY_TO_DUBBED_VERSIONS_CLIPS_DIGITAL}</derivative_work_credit>
+            </credit_analysis>
+
+            <morals_clause_analysis>
+                <!-- Omit entirely if no morals clause -->
+                <trigger_definition>{WHAT_CONDUCT_TRIGGERS_THE_CLAUSE}</trigger_definition>
+                <trigger_breadth>{NARROW_SPECIFIC|MODERATE|BROAD_VAGUE}</trigger_breadth>
+                <determination_authority>{WHO_DECIDES_WHETHER_TRIGGER_OCCURRED}</determination_authority>
+                <remedies>{TERMINATION|SUSPENSION|FINANCIAL_CLAWBACK|OTHER}</remedies>
+                <cure_period>{DURATION_OR_NONE}</cure_period>
+                <mutual>{YES_BOTH_PARTIES|NO_TALENT_ONLY}</mutual>
+                <retroactive>{YES|NO|NOT_ADDRESSED}</retroactive>
+                <assessment>{HOW_THIS_COMPARES_TO_TALENT_SIDE_BEST_PRACTICES}</assessment>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </morals_clause_analysis>
+
+            <key_person_analysis>
+                <!-- Omit entirely if no key person clause -->
+                <key_person>{NAME_OR_ROLE}</key_person>
+                <trigger_events>{DEATH|DISABILITY|UNAVAILABILITY|VOLUNTARY_DEPARTURE|BREACH}</trigger_events>
+                <consequences>{TERMINATION|SUSPENSION|REPLACEMENT|RENEGOTIATION}</consequences>
+                <cure_or_replacement_right>{YES_DESCRIBE|NO}</cure_or_replacement_right>
+                <accrued_compensation_treatment>{WHAT_HAPPENS_TO_EARNED_COMPENSATION}</accrued_compensation_treatment>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </key_person_analysis>
+
+            <ai_digital_likeness_analysis>
+                <likeness_grant_present>{YES|NO}</likeness_grant_present>
+                <scope>{SPECIFIC_PRODUCTION|BROADER — describe}</scope>
+                <consent_mechanic>{PER_USE|PER_PROJECT|BLANKET_TERM|BLANKET_PERPETUITY|NOT_SPECIFIED}</consent_mechanic>
+                <additional_compensation_for_ai_use>{YES_DESCRIBE|NO|NOT_ADDRESSED}</additional_compensation_for_ai_use>
+                <duration_beyond_term>{YES_PERPETUITY|YES_LIMITED — describe|NO_COTERMINOUS|NOT_ADDRESSED}</duration_beyond_term>
+                <scope_limitations>{PRODUCTION_ONLY|INCLUDES_MARKETING|INCLUDES_MERCHANDISING|UNLIMITED}</scope_limitations>
+                <comparison_to_sag_aftra_2023>
+                    <meets_baseline>{YES|NO|PARTIALLY|NOT_APPLICABLE — non-guild}</meets_baseline>
+                    <shortfalls>{SPECIFIC_WAYS_IT_FALLS_BELOW_2023_CBA_PROVISIONS}</shortfalls>
+                    <enhancements>{SPECIFIC_WAYS_IT_EXCEEDS_2023_CBA_PROVISIONS}</enhancements>
+                </comparison_to_sag_aftra_2023>
+                <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </ai_digital_likeness_analysis>
+
+            <pay_or_play_analysis>
+                <!-- Omit entirely if no pay-or-play -->
+                <compensation_covered>{FULL_FIXED|REDUCED_AMOUNT|CONTINGENT_INCLUDED|NOT_SPECIFIED}</compensation_covered>
+                <exceptions>
+                    <exception>{EACH_EXCEPTION_TO_PAY_OR_PLAY}</exception>
+                    <!-- Repeat -->
+                </exceptions>
+                <commitment_classification>{GENUINE|CONDITIONAL|ILLUSORY}</commitment_classification>
+                <assessment>{PLAIN_LANGUAGE_ASSESSMENT_OF_ACTUAL_PROTECTION_VALUE}</assessment>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </pay_or_play_analysis>
+
+            <exclusivity_analysis>
+                <scope>{COMPETING_PROJECTS|ALL_ACTING|MEDIA_APPEARANCES|ENDORSEMENTS|SOCIAL_MEDIA|COMBINATION}</scope>
+                <duration>{PRODUCTION_PERIOD_ONLY|EXTENDED — describe pre_and_post_extensions}</duration>
+                <geographic_scope>{WORLDWIDE|TERRITORY_LIMITED}</geographic_scope>
+                <carve_outs>
+                    <carve_out>{EACH_EXCEPTION_TO_EXCLUSIVITY}</carve_out>
+                    <!-- Repeat -->
+                </carve_outs>
+                <proportionality_assessment>{PROPORTIONAL|DISPROPORTIONATE — scope_vs_compensation}</proportionality_assessment>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </exclusivity_analysis>
+
+            <approval_rights_analysis>
+                <approval_right>
+                    <subject>{WHAT_THE_APPROVAL_COVERS}</subject>
+                    <standard>{MUTUAL|NOT_UNREASONABLY_WITHHELD|SOLE_DISCRETION_PRODUCER|CONSULTATION_ONLY}</standard>
+                    <meaningful>{YES|NOMINAL — explain}</meaningful>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </approval_right>
+                <!-- Repeat for each approval/consultation right -->
+            </approval_rights_analysis>
+
+            <performance_likeness_grant_analysis>
+                <rights_granted>{PERFORMANCE_ONLY|NAME_LIKENESS_VOICE|BIOGRAPHICAL|ALL}</rights_granted>
+                <extends_beyond_production>{YES — merchandising_derivatives|NO_PRODUCTION_ONLY}</extends_beyond_production>
+                <duration>{COTERMINOUS|SURVIVES_IN_PERPETUITY_FOR_PRODUCTION|SURVIVES_BROADER}</duration>
+                <reservations>{WHAT_TALENT_RETAINS}</reservations>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+            </performance_likeness_grant_analysis>
+
+            <termination_protections>
+                <accrued_compensation>{PAID_THROUGH_DATE|FORFEITED|SUBJECT_TO_CLAWBACK|NOT_ADDRESSED}</accrued_compensation>
+                <credit_survives>{YES|NO|NOT_ADDRESSED}</credit_survives>
+                <performance_rights_survive>{YES_FOR_CAPTURED_FOOTAGE|NO|NOT_ADDRESSED}</performance_rights_survive>
+                <severance_or_kill_fee>{YES_DESCRIBE|NO|NOT_ADDRESSED}</severance_or_kill_fee>
+                <clawback_provisions>{YES_DESCRIBE|NO}</clawback_provisions>
+                <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </termination_protections>
+
+            <modern_protection_gaps>
+                <social_media_obligations>
+                    <required>{YES|NO|NOT_ADDRESSED}</required>
+                    <scope>{NUMBER_OF_POSTS_PLATFORMS_TIMELINE_IF_SPECIFIED}</scope>
+                    <compensated>{YES|NO|INCLUDED_IN_FIXED_FEE|NOT_ADDRESSED}</compensated>
+                </social_media_obligations>
+                <publicity_obligations>
+                    <defined_and_bounded>{YES — describe limits|NO_OPEN_ENDED|NOT_ADDRESSED}</defined_and_bounded>
+                    <expenses_covered>{YES|NO|NOT_ADDRESSED}</expenses_covered>
+                </publicity_obligations>
+                <data_privacy>{TALENT_PERSONAL_DATA_ADDRESSED|NOT_ADDRESSED}</data_privacy>
+                <promotional_clips>{DURATION_AND_PLATFORM_LIMITS|UNLIMITED|NOT_ADDRESSED}</promotional_clips>
+            </modern_protection_gaps>
+        </specialized>
+
+        <!-- MCS Part 6: Findings (talent & guild compliance) -->
+        <talent_findings>
+            <guild_compliance_issues>
+                <issue>
+                    <description>{WHAT_FALLS_BELOW_CBA}</description>
+                    <guild>{WHICH_GUILD}</guild>
+                    <severity>{HIGH|MEDIUM|LOW}</severity>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </issue>
+                <!-- Repeat -->
+            </guild_compliance_issues>
+            <protection_gaps>
+                <gap>
+                    <description>{WHAT_PROTECTION_IS_ABSENT}</description>
+                    <expected_for>{CONTRACT_TYPE_WHERE_THIS_IS_STANDARD}</expected_for>
+                    <severity>{HIGH|MEDIUM|LOW}</severity>
+                    <talent_impact>{HOW_THIS_GAP_AFFECTS_TALENT}</talent_impact>
+                </gap>
+                <!-- Repeat -->
+            </protection_gaps>
+            <one_sided_provisions>
+                <provision>
+                    <description>{WHAT_IS_ONE_SIDED}</description>
+                    <favors>{PRODUCER|PLATFORM|DISTRIBUTOR}</favors>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                    <note>{CONTEXT}</note>
+                </provision>
+                <!-- Repeat -->
+            </one_sided_provisions>
+            <strong_protections>
+                <provision>
+                    <description>{WHAT_EXCEEDS_NORMS_IN_TALENT_FAVOR}</description>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </provision>
+                <!-- Repeat -->
+            </strong_protections>
+            <cross_references>
+                <cross_reference agent="{AGENT_ID}"
+                                 note="{BRIEF_DESCRIPTION}"
+                                 />
+                <!-- Repeat -->
+            </cross_references>
+        </talent_findings>
+
+        <!-- MCS Part 7: Tags -->
+        <tags>
+            <!-- Can repeat tags as needed. -->
+            <tag>{TOPICAL_TAG}</tag>
+        </tags>
+    </response>
+</response_format>

@@ -1,0 +1,5 @@
+Term: Synthetic Performer
+Glossary: sag_aftra
+Definition: A digitally created asset that appears to be a natural performer but is not recognizable as any identifiable natural performer, is not voiced by an actor, and is not a Digital Replica or the result of an actor employment agreement. Two types exist under the 2023 MOA: Generic and Recognizable.
+Usage Context: Producers using any type of synthetic performer must give notice to SAG-AFTRA, which will then bargain over appropriate consideration if the synthetic performer is used in place of a performer. Intended to regulate fully GAI-created characters.
+Source: SAG-AFTRA Regulating AI TV/Theatrical 2023 — https://www.sagaftra.org/sites/default/files/sa_documents/AI%20TVTH.pdf

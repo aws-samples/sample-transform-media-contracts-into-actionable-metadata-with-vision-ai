@@ -1,0 +1,5 @@
+Term: Computer Graphics Supervisor
+Glossary: vfx
+Definition: The person responsible for determining the aesthetic and technical solutions, software selections, and overall pipeline for the 3D work on a project. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/computer-graphics-supervisor/

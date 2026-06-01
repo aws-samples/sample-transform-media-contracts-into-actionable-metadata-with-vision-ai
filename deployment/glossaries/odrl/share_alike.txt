@@ -1,0 +1,4 @@
+Term: Share Alike
+Glossary: odrl
+Definition: Derivative works be licensed under the same terms or compatible terms as the original work.
+Usage Context: This term is defined by Creative Commons.

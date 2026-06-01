@@ -1,0 +1,5 @@
+Term: corresponding points
+Glossary: vfx
+Definition: (stereo) The image points of the left and right fields referring to the same point on the object. The distance between the corresponding points on the projection screen is defined as parallax. Also known as conjugate or homologous points.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/corresponding-points/

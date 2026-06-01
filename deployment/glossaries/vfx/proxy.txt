@@ -1,0 +1,5 @@
+Term: proxy
+Glossary: vfx
+Definition: A scaled-down image that is used as a stand-in for a higher resolution original.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/proxy/

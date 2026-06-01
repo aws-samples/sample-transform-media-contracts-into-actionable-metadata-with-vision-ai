@@ -1,0 +1,5 @@
+Term: stereoscopic image
+Glossary: vfx
+Definition: Imagery that is designed to send a different image to each observer’s left and right eyes, thereby producing a sense of depth.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stereoscopic-image/

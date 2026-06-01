@@ -1,0 +1,5 @@
+Term: complementary color
+Glossary: vfx
+Definition: The color that results when the primary color is subtracted from white.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/complementary-color/

@@ -1,0 +1,4 @@
+Term: Version
+Glossary: odrl
+Definition: The version of the target Asset.
+Usage Context: Example: Single Paperback or Multiple Issues or version 2.0 or higher.

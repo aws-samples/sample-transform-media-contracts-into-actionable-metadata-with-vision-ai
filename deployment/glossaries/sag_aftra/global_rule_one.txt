@@ -1,0 +1,5 @@
+Term: Global Rule One
+Glossary: sag_aftra
+Definition: A SAG-AFTRA rule requiring members, worldwide and regardless of location, to work only for producers who are signatory to an applicable SAG-AFTRA collective bargaining agreement.
+Usage Context: Prohibits members from accepting non-union work on covered production types anywhere in the world. Violations can result in disciplinary action including fines and expulsion.
+Source: SAG-AFTRA Global Rule One — https://www.sagaftra.org/contracts-industry-resources/global-rule-one

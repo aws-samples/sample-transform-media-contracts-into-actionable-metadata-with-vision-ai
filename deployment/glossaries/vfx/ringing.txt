@@ -1,0 +1,5 @@
+Term: ringing
+Glossary: vfx
+Definition: A visual artifact, often caused by excessive sharpening, that is characterized by over-emphasized transitions between bright and dark areas in an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ringing/

@@ -1,0 +1,5 @@
+Term: ID3 Tag
+Glossary: podcast_digital_audio
+Definition: The metadata header in an MP3 audio file containing information such as title, artist, album, artwork, and other identifying data. ID3v2 tags are placed at the start of the file, allowing players to use the ID3 data ahead of streaming without downloading the full file.
+Usage Context: IAB recommendation is for the ID3 size to be limited to 300kb with a maximum 800x800 px artwork. Used as part of the one-minute threshold calculation for IAB-compliant downloads.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

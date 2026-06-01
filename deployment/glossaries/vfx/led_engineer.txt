@@ -1,0 +1,5 @@
+Term: LED engineer
+Glossary: vfx
+Definition: The crewmember responsible, as part of a team, for the design, prep, and installation of the LED panels and related LED systems. This person is responsible for task such as mapping, LED tile configuration, and LED processor setup and LED tile color calibration.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/led-engineer/

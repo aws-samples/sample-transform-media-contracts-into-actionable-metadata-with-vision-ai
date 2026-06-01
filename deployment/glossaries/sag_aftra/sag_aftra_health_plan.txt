@@ -1,0 +1,5 @@
+Term: SAG-AFTRA Health Plan
+Glossary: sag_aftra
+Definition: The health benefits plan administered by SAG-AFTRA Plans for eligible members, funded by employer contributions under collective bargaining agreements. Eligibility is earned based on covered earnings thresholds.
+Usage Context: Receives employer P&H contributions remitted via the Contributions Manager. Members must meet minimum earnings thresholds in a reporting period to qualify for health coverage.
+Source: SAG-AFTRA Plans — https://www.sagaftraplans.org

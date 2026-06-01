@@ -1,0 +1,5 @@
+Term: temporal filling
+Glossary: vfx
+Definition: Process by which missing image data is replaced from frames elsewhere in a shot where that image area is revealed.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/temporal-filling/

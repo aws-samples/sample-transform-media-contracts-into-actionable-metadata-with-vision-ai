@@ -1,0 +1,5 @@
+Term: Signal to Noise
+Glossary: vfx
+Definition: (abbreviated as S/N). The ratio of signal intensity to noise intensity, usually expressed as a quotient. A useful ration when evaluating sensor chips and audio systems among other things.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/signal-to-noise/

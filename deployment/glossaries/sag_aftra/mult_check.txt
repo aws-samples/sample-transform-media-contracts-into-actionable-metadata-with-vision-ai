@@ -1,0 +1,5 @@
+Term: Mult Check
+Glossary: sag_aftra
+Definition: A residual payment that aggregates multiple residual amounts for multiple projects or episodes from the same production company into a single check, rather than issuing separate payments for each episode or project.
+Usage Context: Example: a performer who appeared in multiple episodes of a single series receives one mult check covering all episode residuals due from that producer in a given reporting cycle, rather than one check per episode.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

@@ -1,0 +1,4 @@
+Term: Scope
+Glossary: odrl
+Definition: The identifier of a scope that provides context to the extent of the entity.
+Usage Context: Used to define scopes for Assets and Parties.

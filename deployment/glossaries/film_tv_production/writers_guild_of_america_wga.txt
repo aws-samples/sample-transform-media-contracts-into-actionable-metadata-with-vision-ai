@@ -1,0 +1,5 @@
+Term: Writers Guild of America (WGA)
+Glossary: film_tv_production
+Definition: The labor union composed of writers who write content for television shows, movies, news programs, documentaries, animation, and internet/mobile new media. Most movies and scripted network television shows in the United States are written by writers working under a WGA contract. The WGA operates as two affiliated guilds — WGA West (WGAW), headquartered in Los Angeles, and WGA East (WGAE), based in New York — that negotiate jointly under the same collective bargaining agreement.
+Usage Context: WGA signatory status is required for production companies to hire WGA writers on covered productions. WGA performs credit determination, residuals administration, and script registration functions. Most writing contracts for theatrical motion pictures and scripted television are subject to the WGA Minimum Basic Agreement.
+Source: Writers Guild of America West — https://www.wga.org

@@ -1,0 +1,5 @@
+Term: Immersion
+Glossary: vfx
+Definition: The sensation of feeling present in a digital environment.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/immersion/

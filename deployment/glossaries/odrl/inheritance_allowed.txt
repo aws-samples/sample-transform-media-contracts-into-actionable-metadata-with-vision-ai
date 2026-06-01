@@ -1,0 +1,4 @@
+Term: Inheritance Allowed
+Glossary: odrl
+Definition: Indicates if the Policy entity can be inherited.
+Usage Context: A boolean value.

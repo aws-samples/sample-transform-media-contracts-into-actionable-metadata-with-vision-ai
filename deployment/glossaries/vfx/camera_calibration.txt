@@ -1,0 +1,5 @@
+Term: Camera calibration
+Glossary: vfx
+Definition: The process of aligning a real-world camera to its virtual counterpart, essential for integration between live-action and virtual elements.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/camera-calibration/

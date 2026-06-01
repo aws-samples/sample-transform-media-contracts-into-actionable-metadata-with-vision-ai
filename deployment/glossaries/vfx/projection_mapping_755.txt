@@ -1,0 +1,5 @@
+Term: Projection mapping
+Glossary: vfx
+Definition: A method for warping and conforming content onto a surface. Projection mapping can be used to map content onto the geometry of an LED volume. especially for complex shapes like curves and multiple surfaces.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/projection-mapping/

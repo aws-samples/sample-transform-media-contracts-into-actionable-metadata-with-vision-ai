@@ -1,0 +1,5 @@
+Term: Cycle
+Glossary: vfx
+Definition: A sequence of movements that can be seamlessly looped. Can be used to depict a virtual character walk or other repeatable actions.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/cycle/

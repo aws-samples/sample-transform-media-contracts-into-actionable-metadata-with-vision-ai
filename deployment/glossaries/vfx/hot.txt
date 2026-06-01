@@ -1,0 +1,5 @@
+Term: hot
+Glossary: vfx
+Definition: A non-exact term for describing an image that is too bright. Completely unrelated to the terms warm and cool.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hot/

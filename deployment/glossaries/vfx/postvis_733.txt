@@ -1,0 +1,5 @@
+Term: Postvis
+Glossary: vfx
+Definition: The process of visualizing and/or reconceptualizing the visual effects of a film, after the live-action elements have been shot.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/postvis/

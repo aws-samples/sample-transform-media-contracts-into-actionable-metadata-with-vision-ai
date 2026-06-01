@@ -1,0 +1,131 @@
+{
+    "document_constants": {
+        "characters_per_token": 4.5,
+        "avg_words_per_page": 500,
+        "avg_characters_per_page": 2500,
+        "avg_tokens_per_page": 555.5555556,
+        "avg_tokens_per_document": 10000,
+        "avg_image_tokens": 1600
+    },
+    "models": [
+        {
+            "family": "Claude 4.6",
+            "name": "Claude Opus 4.6",
+            "input_per_1m": 5,
+            "output_per_1m": 25
+        },
+        {
+            "family": "Claude 4.6",
+            "name": "Claude Sonnet 4.6",
+            "input_per_1m": 3,
+            "output_per_1m": 15
+        },
+        {
+            "family": "Claude 4.5",
+            "name": "Claude Sonnet 4.5",
+            "input_per_1m": 3,
+            "output_per_1m": 15
+        },
+        {
+            "family": "Claude 4.5",
+            "name": "Claude Haiku 4.5",
+            "input_per_1m": 1,
+            "output_per_1m": 5
+        },
+        {
+            "family": "Nova 1",
+            "name": "Nova Micro",
+            "input_per_1m": 0.035,
+            "output_per_1m": 0.14
+        },
+        {
+            "family": "Nova 1",
+            "name": "Nova Lite",
+            "input_per_1m": 0.06,
+            "output_per_1m": 0.24
+        },
+        {
+            "family": "Nova 1",
+            "name": "Nova Pro",
+            "input_per_1m": 0.8,
+            "output_per_1m": 3.2
+        },
+        {
+            "family": "Nova 1",
+            "name": "Nova Premier",
+            "input_per_1m": 2.5,
+            "output_per_1m": 12.5
+        },
+        {
+            "family": "Nova 2",
+            "name": "Nova 2 Lite",
+            "input_per_1m": 0.3,
+            "output_per_1m": 2.5
+        }
+    ],
+    "agents": [
+        {
+            "id": "extractor",
+            "label": "Extractor",
+            "prompt_tokens": 2500,
+            "max_output_tokens": 16000,
+            "uses_images": true,
+            "default_model": "Nova Lite",
+            "default_include": true
+        },
+        {
+            "id": "financial",
+            "label": "Financial",
+            "prompt_tokens": 3000,
+            "max_output_tokens": 16000,
+            "uses_images": true,
+            "default_model": "Nova Lite",
+            "default_include": false
+        },
+        {
+            "id": "rights_clearance",
+            "label": "Rights Clearance",
+            "prompt_tokens": 3000,
+            "max_output_tokens": 16000,
+            "uses_images": false,
+            "default_model": "Nova Lite",
+            "default_include": true
+        },
+        {
+            "id": "talent_guild_compliance",
+            "label": "Talent & Guild Compliance",
+            "prompt_tokens": 3000,
+            "max_output_tokens": 16000,
+            "uses_images": false,
+            "default_model": "Nova Lite",
+            "default_include": false
+        },
+        {
+            "id": "regulatory_compliance",
+            "label": "Regulatory Compliance",
+            "prompt_tokens": 3000,
+            "max_output_tokens": 16000,
+            "uses_images": false,
+            "default_model": "Nova Lite",
+            "default_include": false
+        },
+        {
+            "id": "handwriting_analyzer",
+            "label": "Handwriting Analyzer",
+            "prompt_tokens": 3000,
+            "max_output_tokens": 3000,
+            "uses_images": true,
+            "default_model": "Nova Lite",
+            "default_include": false
+        },
+        {
+            "id": "risk_strategist",
+            "label": "Risk Strategist",
+            "prompt_tokens": 3000,
+            "max_output_tokens": 64000,
+            "uses_images": false,
+            "default_model": "Nova Lite",
+            "default_include": false
+        }
+    ]
+}

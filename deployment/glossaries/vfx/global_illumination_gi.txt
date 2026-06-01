@@ -1,0 +1,5 @@
+Term: Global Illumination (GI)
+Glossary: vfx
+Definition: Virtual content determined to be of sufficient visual quality to be suitable for final pixel, in-camera visual effects.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/global-illumination-gi/

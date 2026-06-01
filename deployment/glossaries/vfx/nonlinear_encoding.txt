@@ -1,0 +1,5 @@
+Term: nonlinear encoding
+Glossary: vfx
+Definition: A method of converting the colors from an input image to an output image in a nonlinear way. See linear color space, nonlinear color space.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/nonlinear-encoding/

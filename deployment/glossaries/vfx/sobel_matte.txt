@@ -1,0 +1,5 @@
+Term: Sobel matte
+Glossary: vfx
+Definition: A discrete differentiation operator, computing an approximation of the gradient of the image intensity function. In simplified words, it uses an edge detection algorithm to create an outline around the edge.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sobel-matte/

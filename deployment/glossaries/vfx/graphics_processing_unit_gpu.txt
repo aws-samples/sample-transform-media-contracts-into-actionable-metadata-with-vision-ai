@@ -1,0 +1,5 @@
+Term: Graphics processing unit (GPU)
+Glossary: vfx
+Definition: A specialized type of microprocessor optimized to display graphics and do very specific computational tasks. Modern real-time engines rely heavily on GPUs for performance.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/graphics-processing-unit-gpu/

@@ -1,0 +1,5 @@
+Term: Methodology
+Glossary: vfx
+Definition: The chosen technical approach to the needs of a specific shot or scene. This may include an LED volume, green screen setup, partial set or location.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/methodology/

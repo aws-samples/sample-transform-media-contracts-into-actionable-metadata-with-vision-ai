@@ -1,0 +1,5 @@
+Term: Color science
+Glossary: vfx
+Definition: The field and techniques for measuring, processing, and displaying color accurately.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/color-science/

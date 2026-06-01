@@ -1,0 +1,3 @@
+Term: Attach policy
+Glossary: odrl
+Definition: The act of keeping the policy notice with the asset.

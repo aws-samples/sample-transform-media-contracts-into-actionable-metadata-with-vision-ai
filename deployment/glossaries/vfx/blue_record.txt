@@ -1,0 +1,5 @@
+Term: blue record
+Glossary: vfx
+Definition: The layer of the film that captures blue light.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/blue-record/

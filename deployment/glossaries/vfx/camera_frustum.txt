@@ -1,0 +1,5 @@
+Term: camera frustum
+Glossary: vfx
+Definition: Basically, what the camera sees. See also frustum and viewing frustum.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/camera-frustum/

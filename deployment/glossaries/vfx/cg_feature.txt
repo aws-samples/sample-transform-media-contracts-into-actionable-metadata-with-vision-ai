@@ -1,0 +1,5 @@
+Term: CG feature
+Glossary: vfx
+Definition: Any feature film created entirely with computer-generated imagery.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cg-feature/

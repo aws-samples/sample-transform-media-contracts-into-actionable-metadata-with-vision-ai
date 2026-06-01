@@ -1,0 +1,5 @@
+Term: Matte
+Glossary: vfx
+Definition: A mask used to isolate areas of an image for use in compositing.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/matte/

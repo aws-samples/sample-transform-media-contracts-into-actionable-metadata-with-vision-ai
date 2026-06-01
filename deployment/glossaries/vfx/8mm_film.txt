@@ -1,0 +1,5 @@
+Term: 8mm film
+Glossary: vfx
+Definition: A narrow-gauge film that contains 74 frames per foot.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/8mm-film/

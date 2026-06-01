@@ -1,0 +1,5 @@
+Term: Deep images
+Glossary: vfx
+Definition: record multiple samples of data, at different depths in 3D. Each pixel can store color, opacity, extra AOVs, along with the distance from the camera, across multiple samples of depth. Deep data can represent samples of discrete surfaces in space, or continuous volumes.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/deep-images/

@@ -1,0 +1,5 @@
+Term: Dramatic-Musical Work
+Glossary: music_rights_licensing
+Definition: A musical work written for a dramatic production such as an opera, operetta, musical, or similar stage work. An entire (or substantially complete) recording of a dramatico-musical work performed on radio would constitute a dramatic performance and fall outside an ASCAP license.
+Usage Context: Licensing dramatic-musical works for stage or dramatic performance requires clearance directly from the rightsholders (grand rights), not through ASCAP. Partial uses (a single song from a musical performed in a concert) may qualify as nondramatic.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

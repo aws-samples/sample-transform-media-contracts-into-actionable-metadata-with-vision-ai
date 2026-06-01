@@ -1,0 +1,5 @@
+Term: Agreement Subtype
+Glossary: sag_aftra
+Definition: A classification that further narrows the terms of a specific collective bargaining agreement for contribution reporting purposes, with valid values varying by parent Agreement type.
+Usage Context: Required for remittance to the SAG-AFTRA Health Plan. Determines the specific P&H contribution rate and reporting template used.
+Source: SAG-AFTRA Contributions Manager Glossary — https://www.sagaftraplans.org/employers/contributions-manager/contributions-manager-glossary-terms

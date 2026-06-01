@@ -1,0 +1,5 @@
+Term: tracking
+Glossary: vfx
+Definition: The process of determining the movement of objects in a scene (relative to the camera) by analyzing the captured footage of that scene. See 2D tracking, 3D tracking.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/tracking/

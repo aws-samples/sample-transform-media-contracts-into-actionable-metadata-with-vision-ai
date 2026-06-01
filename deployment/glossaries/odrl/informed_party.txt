@@ -1,0 +1,4 @@
+Term: Informed Party
+Glossary: odrl
+Definition: The Party to be informed of all uses.
+Usage Context: Maybe specified as part of the inform action.

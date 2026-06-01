@@ -1,0 +1,5 @@
+Term: focus
+Glossary: vfx
+Definition: (1) To adjust a lens so that the image it produces is as sharp as possible. (2) The point in space behind a lens where this sharpness occurs.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/focus/

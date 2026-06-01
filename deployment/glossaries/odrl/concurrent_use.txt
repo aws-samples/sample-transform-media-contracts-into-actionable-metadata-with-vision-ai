@@ -1,0 +1,3 @@
+Term: Concurrent Use
+Glossary: odrl
+Definition: To create multiple copies of the Asset that are being concurrently used.

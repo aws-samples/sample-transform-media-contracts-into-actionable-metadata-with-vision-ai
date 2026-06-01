@@ -1,0 +1,4 @@
+Term: Undefined Term
+Glossary: odrl
+Definition: Is used to indicate how to support Actions that are not part of any vocabulary or profile in the policy expression system.
+Usage Context: Instances of UndefinedTerm describe strategies for processing unsupported actions.

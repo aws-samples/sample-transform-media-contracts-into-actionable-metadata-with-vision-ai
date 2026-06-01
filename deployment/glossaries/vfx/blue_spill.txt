@@ -1,0 +1,5 @@
+Term: blue spill
+Glossary: vfx
+Definition: Any contamination of the foreground subject by light reflected from the blue screen in front of which it is placed. See also spill, green spill.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/blue-spill/

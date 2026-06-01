@@ -1,0 +1,5 @@
+Term: silver halide crystals
+Glossary: vfx
+Definition: The silver compounds, usually silver bromide and silver iodide, that are impregnated in the photographic emulsion of film. These compounds, when acted on by actinic rays, are disintegrated, with the formation of metallic silver in a finely divided state. The photographic image results when the film is subjected to processing. They are commonly seen as film grain.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/silver-halide-crystals/

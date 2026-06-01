@@ -1,0 +1,5 @@
+Term: optical compositing
+Glossary: vfx
+Definition: The process of using an optical printer to produce composite imagery.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/optical-compositing/

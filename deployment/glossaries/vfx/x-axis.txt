@@ -1,0 +1,5 @@
+Term: x-axis
+Glossary: vfx
+Definition: Generally the horizontal axis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/x-axis/

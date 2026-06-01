@@ -1,0 +1,5 @@
+Term: Safetyvis
+Glossary: vfx
+Definition: On-set visualization of crew positions for COVID safety to ensure everyone can work at a safe distance to minimize exposure.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/safetyvis/

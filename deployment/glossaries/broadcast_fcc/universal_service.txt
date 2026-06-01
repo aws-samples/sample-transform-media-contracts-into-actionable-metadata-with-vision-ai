@@ -1,0 +1,5 @@
+Term: Universal Service
+Glossary: broadcast_fcc
+Definition: An FCC-administered program that helps ensure that all consumers in the nation have access to quality telecommunications and information services at affordable rates. Also makes support available to schools and libraries to receive access to telecommunications and internet services (E-Rate program).
+Usage Context: Funded by Universal Service Fund contributions from telecom carriers. Administered by the Universal Service Administrative Company (USAC). Supports high-cost, low-income, schools/libraries, and rural healthcare programs.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

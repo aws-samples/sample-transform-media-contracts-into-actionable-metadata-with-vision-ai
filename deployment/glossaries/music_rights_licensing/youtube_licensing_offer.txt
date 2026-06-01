@@ -1,0 +1,5 @@
+Term: YouTube Licensing Offer
+Glossary: music_rights_licensing
+Definition: A direct license agreement opportunity administered by the Harry Fox Agency on behalf of the NMPA, open to all independent music publishers and non-U.S. mechanical collection societies with reciprocal HFA agreements. Created following NMPA's 2011 lawsuit against YouTube for unpaid royalties, and settled by enabling publishers to collect synchronization fees based on user-generated video uploads.
+Usage Context: Allows publishers to opt into a pre-negotiated license covering use of their compositions in user-generated YouTube content. Administered by HFA for participating publishers.
+Source: Harry Fox Agency — https://www.harryfox.com

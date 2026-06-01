@@ -1,0 +1,5 @@
+Term: hold-out matte
+Glossary: vfx
+Definition: A matte used to prevent a foreground element from completely obscuring an object in the background plate.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hold-out-matte/

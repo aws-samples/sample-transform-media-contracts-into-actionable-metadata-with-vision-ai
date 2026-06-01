@@ -1,0 +1,5 @@
+Term: motion blur
+Glossary: vfx
+Definition: An artifact caused by the fact that a camera’s shutter is open for a finite duration as it captures an image. Any object that is moving during that time will appear blurred along the path that it was traveling.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/motion-blur/

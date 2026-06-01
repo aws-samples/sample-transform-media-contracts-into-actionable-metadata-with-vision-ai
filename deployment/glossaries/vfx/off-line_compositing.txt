@@ -1,0 +1,5 @@
+Term: off-line compositing
+Glossary: vfx
+Definition: Another term for batch compositing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/off-line-compositing/

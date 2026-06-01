@@ -1,0 +1,5 @@
+Term: sync block
+Glossary: vfx
+Definition: A mechanical device used to measure film length. Film is loaded onto a cylinder calibrated at 1 foot per rotation. An attached counter reads and updates the total amount of footage that winds through.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sync-block/

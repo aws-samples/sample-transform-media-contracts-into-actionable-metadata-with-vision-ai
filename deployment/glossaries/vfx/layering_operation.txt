@@ -1,0 +1,5 @@
+Term: layering operation
+Glossary: vfx
+Definition: A global term referring to any compositing operation that integrates one element with another element based on their alpha channels or RGB values.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/layering-operation/

@@ -1,0 +1,3 @@
+Term: Group
+Glossary: odrl
+Definition: Specifies that the scope of the relationship is the defined group with multiple individual members.

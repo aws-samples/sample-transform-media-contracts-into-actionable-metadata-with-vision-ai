@@ -1,0 +1,5 @@
+Term: articulate matte
+Glossary: vfx
+Definition: A matte whose shape changes over time and which is designed to accurately follow the contours of the object to which it corresponds.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/articulate-matte/

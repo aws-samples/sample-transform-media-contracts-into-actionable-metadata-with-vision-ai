@@ -1,0 +1,5 @@
+Term: quantizing
+Glossary: vfx
+Definition: Colloquial term for a quantization artifact.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/quantizing/

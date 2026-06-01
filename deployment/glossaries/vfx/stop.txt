@@ -1,0 +1,5 @@
+Term: stop
+Glossary: vfx
+Definition: A way of measuring exposure that traces back to the different f-stop settings available on any given lens. The f-stops on a lens are calibrated so that each successive stop will give twice the exposure. Thus, “increase the brightness by one stop” means to double the brightness; “decrease by two stops” would result in one-fourth the original brightness.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stop/

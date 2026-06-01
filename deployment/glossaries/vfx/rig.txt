@@ -1,0 +1,5 @@
+Term: rig
+Glossary: vfx
+Definition: (stereo) Dual camera heads in a properly engineered mount used to shoot stereo movies.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rig/

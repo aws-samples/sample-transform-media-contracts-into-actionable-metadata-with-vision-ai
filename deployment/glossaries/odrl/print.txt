@@ -1,0 +1,4 @@
+Term: Print
+Glossary: odrl
+Definition: To create a tangible and permanent rendition of an Asset.
+Usage Context: For example, creating a permanent, fixed (static), and directly perceivable representation of the Asset, such as printing onto paper.

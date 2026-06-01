@@ -1,0 +1,5 @@
+Term: digitization
+Glossary: vfx
+Definition: The process of sampling any analog subject to produce a digital representation. Within the field of digital compositing, usually refers to the process of converting a video or film source to digital information.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digitization/

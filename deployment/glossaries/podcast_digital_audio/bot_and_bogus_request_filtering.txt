@@ -1,0 +1,5 @@
+Term: Bot and Bogus Request Filtering
+Glossary: podcast_digital_audio
+Definition: The IAB-recommended practice of filtering out raw requests that should not be counted because they likely come from bots or from products that behave like real downloads. Includes filtering of: server IP addresses, abnormal download volumes from single IPs, AWS IP addresses, erroneous referrers, bogus user agents, and self-identified bots.
+Usage Context: Known 'safe' IP addresses (dorms, corporations with many users) should be maintained in an inclusion-list and re-validated every 30-90 days. Apple iOS Podcast app 2-byte range requests (Range: 0-1) should always be excluded from processing.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

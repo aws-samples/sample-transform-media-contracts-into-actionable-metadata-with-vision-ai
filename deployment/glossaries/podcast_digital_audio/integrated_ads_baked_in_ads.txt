@@ -1,0 +1,5 @@
+Term: Integrated Ads (Baked-In Ads)
+Glossary: podcast_digital_audio
+Definition: Ads that are part of the podcast content and included, or 'baked-in,' with the file that is downloaded. Historically often read by the podcast host or a familiar voice, or included as a static ad or jingle. Targeting is limited because every listener who downloads the file receives the same ads.
+Usage Context: Common for creator-read sponsorships and smaller podcast operations. Does not support per-listener targeting or dynamic ad insertion. Ads remain in the file indefinitely in the publisher's archives.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

@@ -1,0 +1,5 @@
+Term: Data wrangler
+Glossary: vfx
+Definition: A crewmember who records on-set data, which can include camera telemetry, footage, tracking, real-time scene, metadata, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/data-wrangler/

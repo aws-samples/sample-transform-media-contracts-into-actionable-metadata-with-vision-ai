@@ -1,0 +1,5 @@
+Term: selection device
+Glossary: vfx
+Definition: (stereo) The hardware used to present the appropriate image to the appropriate eye and to block the unwanted image. For 3D movies the selection device is usually eyewear used in conjunction with a device at the projector, like a polarizing device.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/selection-device/

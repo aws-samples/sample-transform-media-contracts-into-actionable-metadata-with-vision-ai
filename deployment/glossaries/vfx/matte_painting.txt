@@ -1,0 +1,5 @@
+Term: matte painting
+Glossary: vfx
+Definition: A hand-painted image, usually intended to be photorealistic, that is combined with live-action footage.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/matte-painting/

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Extractor Agent — Response Format
+    ===================================
+    Media Contracts Schema (MCS) v1.0
+    Implements: Part 1 (envelope) + Part 2 (metadata) + Part 3 (common_spine) +
+                Part 5 (specialized/extraction) + Part 7 (tags)
+    See: schemas/base/mcs_base_schema.xml
+
+    The output schema for the Extractor. This is the structured extraction
+    that all downstream specialist agents consume as input.
+
+    This format contains extraction fields ONLY. No analysis, no key term
+    tagging, no risk assessment, no negotiation priorities.
+-->
+<response_format>
+    <response analyzer="extractor"
+              schema_version="1.0"
+              job_id="{JOB_ID}"
+              timestamp="{ISO_8601_TIMESTAMP}">
+        <!-- MCS Part 2: Core Metadata -->
+        <metadata>
+            <analyzer_name>extractor</analyzer_name>
+            <schema_version>1.0</schema_version>
+            <timestamp>{ISO_8601_TIMESTAMP}</timestamp>
+            <source_document>{EXACT_TITLE_AS_SHOWN}</source_document>
+            <element_count>{TOTAL_NUMBER_OF_EXTRACTED_ELEMENTS}</element_count>
+            <confidence>{high|medium|low}</confidence>
+
+            <!-- Extractor-specific metadata -->
+            <contract_type>{CONTENT_LICENSE|TALENT_AGREEMENT|SYNC_LICENSE|DISTRIBUTION_AGREEMENT|DIGITAL_RIGHTS_UGC|OTHER}</contract_type>
+            <contract_completeness>{COMPLETE|PARTIAL_MULTI_PAGE|FRAGMENT}</contract_completeness>
+            <document_status>{TEMPLATE|PARTIALLY_EXECUTED|FULLY_EXECUTED|DRAFT|UNKNOWN}</document_status>
+            <page_count>{NUMBER_OF_PAGES_OR_SECTIONS_DETECTED}</page_count>
+            <blank_field_count>{TOTAL_NUMBER_OF_UNFILLED_FIELDS}</blank_field_count>
+            <defined_term_count>{TOTAL_NUMBER_OF_DEFINED_TERMS_IDENTIFIED}</defined_term_count>
+            <template_notice>{ANY_DISCLAIMER_OR_TEMPLATE_NOTICE_TEXT}</template_notice>
+            <effective_date>{DATE_OR_BLANK_INDICATOR}</effective_date>
+        </metadata>
+
+        <!-- MCS Part 3: Common Spine (text extraction in reading order) -->
+        <common_spine element_count="{NUMBER_OF_TEXT_ELEMENTS}">
+            <!-- Each section/paragraph becomes a spine element -->
+            <element id="elem_001" tag="{P|H1|H2|H3|Table|List}" order="1" page="{PAGE_NUMBER}">
+                <text>{TEXT_CONTENT_OF_ELEMENT}</text>
+            </element>
+            <!-- Repeat for all extracted text in reading order -->
+        </common_spine>
+
+        <!-- MCS Part 4: Topical Analysis (optional) -->
+        <topical_analysis>{TOPICS_IDENTIFIED_IN_CONTRACT}</topical_analysis>
+
+        <!-- MCS Part 5: Specialized Section (extraction) -->
+        <!-- If no contract content is found, omit <extraction> entirely -->
+        <specialized type="extraction">
+            <extraction>
+
+            <parties>
+                <party>
+                    <defined_name>{SHORT_NAME_e.g._Licensor_Producer_Publisher}</defined_name>
+                    <legal_name>{FULL_NAME_OR_BLANK}</legal_name>
+                    <role>{ROLE_IN_AGREEMENT}</role>
+                    <entity_type>{ORGANIZATIONAL_TYPE_OR_BLANK}</entity_type>
+                    <jurisdiction>{JURISDICTION_OF_FORMATION_OR_BLANK}</jurisdiction>
+                    <principal_office>{ADDRESS_OR_BLANK}</principal_office>
+                </party>
+                <!-- Repeat for each party -->
+            </parties>
+
+            <recitals>
+                <recital>{VERBATIM_TEXT_OF_EACH_WHEREAS_CLAUSE}</recital>
+                <!-- Repeat for each recital -->
+            </recitals>
+
+            <defined_terms>
+                <term>
+                    <n>{DEFINED_TERM_NAME}</n>
+                    <definition>{VERBATIM_DEFINITION}</definition>
+                    <section_reference>{WHERE_DEFINED}</section_reference>
+                </term>
+                <!-- Repeat for each defined term -->
+            </defined_terms>
+
+            <rights_grant>
+                <grant_nature>{EXCLUSIVE|NON_EXCLUSIVE|OTHER}</grant_nature>
+                <transferability>{TRANSFERABLE|NON_TRANSFERABLE|CONDITIONAL}</transferability>
+                <specific_rights>
+                    <right>{EACH_SPECIFIC_RIGHT_GRANTED}</right>
+                    <!-- Repeat -->
+                </specific_rights>
+                <licensed_media>
+                    <medium>{EACH_LICENSED_PLATFORM_OR_MEDIA_TYPE}</medium>
+                    <!-- Repeat -->
+                </licensed_media>
+                <territory>{TERRITORY_SPECIFICATION_OR_BLANK}</territory>
+                <language_rights>
+                    <dubbing>{DUBBING_RIGHTS_AND_APPROVED_LANGUAGES}</dubbing>
+                    <subtitling>{SUBTITLE_RIGHTS_AND_APPROVED_LANGUAGES}</subtitling>
+                    <cost_responsibility>{WHICH_PARTY_BEARS_LOCALIZATION_COSTS}</cost_responsibility>
+                    <quality_approval>{WHO_APPROVES_LOCALIZED_VERSIONS}</quality_approval>
+                    <ownership_of_localized_versions>{WHO_OWNS_DUBBED_OR_SUBTITLED_VERSIONS}</ownership_of_localized_versions>
+                </language_rights>
+                <sublicensing>{SUBLICENSING_TERMS_AND_RESTRICTIONS}</sublicensing>
+                <reservation_of_rights>{VERBATIM_RESERVATION_LANGUAGE}</reservation_of_rights>
+                <holdbacks>
+                    <holdback>{EACH_HOLDBACK_PROVISION}</holdback>
+                </holdbacks>
+                <ai_digital_likeness>
+                    <provision>{AI_AND_DIGITAL_LIKENESS_TERMS_IF_PRESENT}</provision>
+                </ai_digital_likeness>
+                <merchandising>{MERCHANDISING_RIGHTS_TERMS_IF_PRESENT}</merchandising>
+                <promotional_use>{PROMOTIONAL_USE_ALLOWANCES}</promotional_use>
+            </rights_grant>
+
+            <ownership_and_chain_of_title>
+                <ip_owner>{PARTY_IDENTIFIED_AS_UNDERLYING_IP_OWNER}</ip_owner>
+                <ip_type>{COPYRIGHT|TRADEMARK|BOTH|OTHER}</ip_type>
+                <chain_of_title_warranty>{VERBATIM_WARRANTY_LANGUAGE_IF_PRESENT}</chain_of_title_warranty>
+                <work_for_hire>{WORK_FOR_HIRE_CLASSIFICATION_OR_DOCUMENTATION_REFERENCED}</work_for_hire>
+                <prior_encumbrances>{ANY_REFERENCED_LIENS_PRIOR_LICENSES_OR_ENCUMBRANCES}</prior_encumbrances>
+                <title_disputes>{ANY_KNOWN_DISPUTES_OR_PENDING_CLAIMS_REFERENCED}</title_disputes>
+            </ownership_and_chain_of_title>
+
+            <financial_terms>
+                <fixed_compensation>
+                    <amount>{DOLLAR_AMOUNT_OR_BLANK}</amount>
+                    <payment_schedule>{PAYMENT_TIMING_AND_INSTALLMENTS}</payment_schedule>
+                </fixed_compensation>
+                <revenue_share>
+                    <percentage>{PERCENTAGE_OR_BLANK}</percentage>
+                    <revenue_base>{DEFINITION_OF_REVENUE_BASE}</revenue_base>
+                    <approved_deductions>{ENUMERATED_DEDUCTIONS}</approved_deductions>
+                </revenue_share>
+                <minimum_guarantee>
+                    <amount>{MG_AMOUNT_OR_BLANK}</amount>
+                    <recoupment_terms>{HOW_MG_IS_RECOUPED}</recoupment_terms>
+                </minimum_guarantee>
+                <residuals_royalties>
+                    <structure>{RESIDUAL_OR_ROYALTY_STRUCTURE}</structure>
+                    <guild_reference>{CBA_OR_GUILD_REFERENCE_IF_ANY}</guild_reference>
+                </residuals_royalties>
+                <distribution_fee>
+                    <percentage>{FEE_PERCENTAGE_OR_BLANK}</percentage>
+                </distribution_fee>
+                <recoupable_expenses>
+                    <expense_category>{EACH_RECOUPABLE_EXPENSE_TYPE}</expense_category>
+                    <!-- Repeat -->
+                </recoupable_expenses>
+                <most_favored_nations>{MFN_PROVISION_IF_PRESENT}</most_favored_nations>
+                <contingent_compensation>{NET_PROFITS_OR_BONUS_STRUCTURE}</contingent_compensation>
+                <per_diem_travel>{PER_DIEM_AND_TRAVEL_TERMS}</per_diem_travel>
+                <reporting>
+                    <frequency>{REPORTING_FREQUENCY}</frequency>
+                    <deadline>{DAYS_AFTER_PERIOD_END}</deadline>
+                    <audit_rights>{AUDIT_PROVISION_DETAILS}</audit_rights>
+                </reporting>
+            </financial_terms>
+
+            <term_and_termination>
+                <initial_term>
+                    <duration>{TERM_LENGTH_OR_BLANK}</duration>
+                    <commencement>{WHEN_TERM_BEGINS}</commencement>
+                </initial_term>
+                <renewal>
+                    <mechanism>{RENEWAL_TERMS}</mechanism>
+                    <notice_period>{NOTICE_REQUIRED_FOR_RENEWAL}</notice_period>
+                </renewal>
+                <termination_triggers>
+                    <trigger>{EACH_TERMINATION_TRIGGER_WITH_DETAILS}</trigger>
+                    <!-- Repeat -->
+                </termination_triggers>
+                <cure_period>{CURE_PERIOD_DURATION_AND_TERMS}</cure_period>
+                <post_termination>
+                    <obligation>{EACH_POST_TERMINATION_OBLIGATION}</obligation>
+                    <!-- Repeat -->
+                </post_termination>
+                <reversion_of_rights>{REVERSION_TERMS}</reversion_of_rights>
+                <sell_off_period>{SELL_OFF_DURATION_AND_CONDITIONS}</sell_off_period>
+                <survival>{SECTIONS_THAT_SURVIVE_TERMINATION}</survival>
+            </term_and_termination>
+
+            <obligations_and_restrictions>
+                <delivery_requirements>{DELIVERY_SPECS_AND_TIMELINES}</delivery_requirements>
+                <exclusivity_restrictions>{EXCLUSIVITY_PERIODS_AND_SCOPE}</exclusivity_restrictions>
+                <morals_clause>{MORALS_CLAUSE_TEXT_IF_PRESENT}</morals_clause>
+                <key_person_clause>{KEY_PERSON_PROVISION_IF_PRESENT}</key_person_clause>
+                <editorial_control>{EDITORIAL_CONTROL_RIGHTS}</editorial_control>
+                <approval_rights>
+                    <approval>{EACH_APPROVAL_OR_CONSULTATION_RIGHT}</approval>
+                </approval_rights>
+                <content_standards>{COMMUNITY_GUIDELINES_AND_COMPLIANCE_REQUIREMENTS}</content_standards>
+                <dmca_compliance>{DMCA_AND_TAKEDOWN_PROVISIONS}</dmca_compliance>
+                <content_moderation>{MODERATION_RIGHTS_AND_APPEAL_PROCESS}</content_moderation>
+                <data_portability>{DATA_ACCESS_AND_PORTABILITY_TERMS}</data_portability>
+                <publicity_obligations>{PROMOTIONAL_AND_PUBLICITY_REQUIREMENTS}</publicity_obligations>
+            </obligations_and_restrictions>
+
+            <talent_and_third_party_obligations>
+                <guild_union_compliance>
+                    <guild>{EACH_GUILD_OR_UNION_REFERENCED}</guild>
+                    <!-- Repeat -->
+                </guild_union_compliance>
+                <residual_obligations>{RESIDUAL_AND_ROYALTY_OBLIGATIONS_TO_TALENT}</residual_obligations>
+                <music_licensing>
+                    <sync_rights_status>{SYNC_RIGHTS_CLEARANCE_STATUS_AND_TERMS}</sync_rights_status>
+                    <master_use_status>{MASTER_USE_LICENSE_STATUS_AND_TERMS}</master_use_status>
+                    <public_performance>{PUBLIC_PERFORMANCE_RIGHTS_AND_PRO_AFFILIATIONS}</public_performance>
+                </music_licensing>
+                <embedded_ip_clearances>
+                    <clearance>{EACH_THIRD_PARTY_IP_CLEARANCE_REFERENCED}</clearance>
+                    <!-- Repeat -->
+                </embedded_ip_clearances>
+                <pending_consents>{ANY_THIRD_PARTY_CONSENTS_STILL_REQUIRED}</pending_consents>
+            </talent_and_third_party_obligations>
+
+            <credit_and_attribution>
+                <screen_credit>{CREDIT_SPECIFICATION_POSITION_SIZE_CARD}</screen_credit>
+                <paid_advertising>{PAID_AD_CREDIT_OBLIGATIONS}</paid_advertising>
+                <music_credit>{END_TITLE_CREDIT_FORMAT}</music_credit>
+                <credit_remedies>{REMEDY_FOR_CREDIT_FAILURE}</credit_remedies>
+            </credit_and_attribution>
+
+            <legal_protections>
+                <representations_warranties>
+                    <party_warranties party="{PARTY_NAME}">
+                        <warranty>{EACH_REPRESENTATION_OR_WARRANTY}</warranty>
+                    </party_warranties>
+                    <!-- Repeat for each party -->
+                </representations_warranties>
+                <indemnification>
+                    <type>{MUTUAL|ONE_SIDED}</type>
+                    <scope>{INDEMNIFICATION_SCOPE_AND_COVERAGE}</scope>
+                </indemnification>
+                <liability_limitation>
+                    <cap>{LIABILITY_CAP_AMOUNT_OR_FORMULA}</cap>
+                    <exclusions>{EXCLUDED_DAMAGE_TYPES}</exclusions>
+                </liability_limitation>
+                <insurance>
+                    <eo_coverage>{E_AND_O_INSURANCE_REQUIREMENTS}</eo_coverage>
+                    <general_liability>{GENERAL_LIABILITY_INSURANCE_REQUIREMENTS}</general_liability>
+                    <additional_insured>{WHETHER_OTHER_PARTY_MUST_BE_NAMED}</additional_insured>
+                    <proof_of_coverage>{WHEN_AND_HOW_PROOF_MUST_BE_PROVIDED}</proof_of_coverage>
+                </insurance>
+                <governing_law>{GOVERNING_LAW_JURISDICTION}</governing_law>
+                <dispute_resolution>{ARBITRATION_MEDIATION_OR_LITIGATION_DETAILS}</dispute_resolution>
+                <force_majeure>{FORCE_MAJEURE_PROVISION_AND_ENUMERATED_EVENTS}</force_majeure>
+                <entire_agreement>{ENTIRE_AGREEMENT_AND_AMENDMENT_CLAUSE}</entire_agreement>
+            </legal_protections>
+
+            <digital_and_emerging_rights>
+                <ai_training_rights>{AI_TRAINING_AND_ML_USAGE_RESTRICTIONS_OR_GRANTS}</ai_training_rights>
+                <ai_generated_content>{RIGHTS_TO_CREATE_NEW_CONTENT_USING_AI}</ai_generated_content>
+                <digital_likeness>{DIGITAL_LIKENESS_AND_DEEPFAKE_PROTECTIONS}</digital_likeness>
+                <nft_metaverse_interactive>{NFT_METAVERSE_AND_INTERACTIVE_MEDIA_RIGHTS}</nft_metaverse_interactive>
+                <social_media_clips>{SOCIAL_MEDIA_CLIP_RIGHTS}</social_media_clips>
+                <viewer_data_ownership>{VIEWER_DATA_OWNERSHIP_AND_SHARING_PROVISIONS}</viewer_data_ownership>
+                <data_privacy_compliance>{DATA_PROTECTION_AND_PRIVACY_LAW_COMPLIANCE}</data_privacy_compliance>
+            </digital_and_emerging_rights>
+
+            <regulatory_and_compliance>
+                <content_ratings>{CONTENT_RATING_AND_CLASSIFICATION_OBLIGATIONS}</content_ratings>
+                <local_content_quotas>{LOCAL_CONTENT_QUOTA_OBLIGATIONS}</local_content_quotas>
+                <accessibility>
+                    <closed_captioning>{CLOSED_CAPTIONING_REQUIREMENTS}</closed_captioning>
+                    <audio_description>{AUDIO_DESCRIPTION_REQUIREMENTS}</audio_description>
+                    <subtitle_standards>{SUBTITLE_STANDARDS_FOR_ACCESSIBILITY}</subtitle_standards>
+                </accessibility>
+                <export_controls>{EXPORT_CONTROL_AND_SANCTIONS_COMPLIANCE}</export_controls>
+                <data_protection_law>{SPECIFIC_DATA_PROTECTION_REGIMES_REFERENCED}</data_protection_law>
+            </regulatory_and_compliance>
+
+            <exhibits_and_attachments>
+                <exhibit>
+                    <reference>{EXHIBIT_LETTER_OR_NUMBER}</reference>
+                    <described_contents>{WHAT_THE_EXHIBIT_CONTAINS}</described_contents>
+                </exhibit>
+                <!-- Repeat -->
+            </exhibits_and_attachments>
+
+            <signature_blocks>
+                <signature>
+                    <party>{PARTY_NAME}</party>
+                    <signatory_title>{AUTHORIZED_SIGNATORY_TITLE}</signatory_title>
+                    <date_field>{DATE_OR_BLANK}</date_field>
+                </signature>
+                <!-- Repeat -->
+            </signature_blocks>
+
+            <extraction_notes>
+                <unfilled_terms>
+                    <unfilled_term>{EACH_BLANK_FIELD_WITH_SECTION_REF}</unfilled_term>
+                </unfilled_terms>
+                <truncated_text>
+                    <truncation>{ANY_TEXT_CUT_OFF_AT_PAGE_BOUNDARIES}</truncation>
+                </truncated_text>
+                <cross_references>
+                    <reference>{REFERENCES_TO_OTHER_SECTIONS_OR_DOCUMENTS}</reference>
+                </cross_references>
+                <undefined_terms_in_use>
+                    <term_in_use>{DEFINED_TERM_STYLE_TERMS_USED_BUT_NOT_DEFINED_IN_VISIBLE_TEXT}</term_in_use>
+                </undefined_terms_in_use>
+            </extraction_notes>
+            </extraction>
+        </specialized>
+
+        <!-- MCS Part 7: Tags -->
+        <tags>
+            <!-- Can repeat tags as needed. -->
+            <tag>{TOPICAL_TAG}</tag>
+        </tags>
+    </response>
+</response_format>

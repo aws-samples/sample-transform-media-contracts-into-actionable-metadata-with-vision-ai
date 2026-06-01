@@ -1,0 +1,5 @@
+Term: AVOD
+Glossary: media_rights_legal
+Definition: Advertising-based Video-on-Demand. Content available at no charge to viewers, revenue generated through advertising.
+Usage Context: Licensed Media enumeration in content licensing agreements. Listed alongside SVOD, TVOD, and FAST as distinct exploitation windows.
+Source: media_rights_legal

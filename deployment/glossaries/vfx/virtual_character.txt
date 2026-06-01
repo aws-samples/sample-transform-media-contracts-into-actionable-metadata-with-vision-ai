@@ -1,0 +1,5 @@
+Term: Virtual character
+Glossary: vfx
+Definition: A humanoid, animal, or other living creature whose animated movements are created in real-time via the input of a human operator via performance capture.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-character/

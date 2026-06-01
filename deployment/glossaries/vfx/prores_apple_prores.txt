@@ -1,0 +1,5 @@
+Term: ProRes (Apple ProRes)
+Glossary: vfx
+Definition: A high quality, lossy video compression format developed by Apple Inc. for use in post-production that supports up to 8K. The ProRes family of codecs use compression algorithms based on the discrete cosine transform (DCT) technique, much like the H.26x and MPEG standards. ProRes is widely used as a final format delivery method for HD broadcast files in commercials, features, Blu-ray, and streaming. Pro Res 4:2:2 LT Pro Res 4:2:2 Proxy, compressed Rec. 709 color and dynamic range in typically either 8- or 10-bits per color, Y’CbCr color sub-sampled formats (see HDR.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/prores-apple-prores/

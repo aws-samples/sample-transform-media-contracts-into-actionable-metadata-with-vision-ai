@@ -1,0 +1,5 @@
+Term: view frustum culling
+Glossary: vfx
+Definition: The process of removing objects that lie completely outside the viewing frustum from the rendering process.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/view-frustum-culling/

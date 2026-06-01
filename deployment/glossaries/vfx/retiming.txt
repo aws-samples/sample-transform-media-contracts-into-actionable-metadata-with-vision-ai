@@ -1,0 +1,5 @@
+Term: Retiming
+Glossary: vfx
+Definition: The process of converting motion captured at one rate to another; useful for synchronizing mocap captured in different sessions or deriving slow-motion or high-speed frame rate effects for virtual shots.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/retiming/

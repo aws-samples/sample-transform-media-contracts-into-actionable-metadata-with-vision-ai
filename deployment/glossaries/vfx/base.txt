@@ -1,0 +1,5 @@
+Term: base
+Glossary: vfx
+Definition: The transparent material (usually cellulose acetate) on which emulsions are applied to make photographic film. Note that a base is generally not completely transparent, but rather has a slight characteristic color that may need to be compensated for when scanning.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/base/

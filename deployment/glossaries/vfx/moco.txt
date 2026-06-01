@@ -1,0 +1,5 @@
+Term: moco
+Glossary: vfx
+Definition: Abbreviation for motion control.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/moco/

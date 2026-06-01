@@ -1,0 +1,5 @@
+Term: Performance capture
+Glossary: vfx
+Definition: A combination of techniques used to capture an actor’s entire performance, including facial expressions, head, hands, and body position.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/performance-capture/

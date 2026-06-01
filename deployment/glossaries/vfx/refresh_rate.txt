@@ -1,0 +1,5 @@
+Term: Refresh rate
+Glossary: vfx
+Definition: The frequency at which an electronic display is refreshed, usually expressed in hertz (Hz). Higher refresh rates can make motion appear smoother.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/refresh-rate/

@@ -1,0 +1,5 @@
+Term: cardboard effect
+Glossary: vfx
+Definition: (stereo) An effect in which a viewer perceives the objects and characters in a 3D composition to be flat (as if on cardboard cutouts). This effect is often the result of using a lens with a long focal length.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cardboard-effect/

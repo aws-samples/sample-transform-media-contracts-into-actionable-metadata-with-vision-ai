@@ -1,0 +1,5 @@
+Term: Hermite curve
+Glossary: vfx
+Definition: A specific type of spline curve that allows for explicit control over the curve’s tangent at every control point.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hermite-curve/

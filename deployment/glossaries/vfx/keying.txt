@@ -1,0 +1,5 @@
+Term: keying
+Glossary: vfx
+Definition: The process of algorithmically extracting an object from its background and combining it with a different background.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/keying/

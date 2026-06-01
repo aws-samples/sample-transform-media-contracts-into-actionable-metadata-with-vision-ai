@@ -1,0 +1,4 @@
+Term: Tracked Party
+Glossary: odrl
+Definition: The Party whose usage is being tracked.
+Usage Context: May be specified as part of the acceptTracking action.

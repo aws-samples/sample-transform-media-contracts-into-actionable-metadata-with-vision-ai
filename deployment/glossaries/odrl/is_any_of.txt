@@ -1,0 +1,3 @@
+Term: Is any of
+Glossary: odrl
+Definition: A set-based operator indicating that a given value is any of the right operand of the Constraint.

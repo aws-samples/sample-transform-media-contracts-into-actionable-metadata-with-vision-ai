@@ -1,0 +1,5 @@
+Term: beamsplitter
+Glossary: vfx
+Definition: (stereo) Technically this is a couple of prisms cemented together with a semi-silvered layer to split a light beam into two halves. For the rig used for stereo-cinematography, a thin sheet of glass that is semi-silvered is used in the optical path. Such a device is more properly called a pellicule (or pellicle).
+Source: ves
+Reference: https://vpglossary.com/vesglossary/beamsplitter/

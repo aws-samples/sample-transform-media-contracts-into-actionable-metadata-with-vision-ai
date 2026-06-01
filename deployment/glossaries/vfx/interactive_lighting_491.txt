@@ -1,0 +1,5 @@
+Term: Interactive lighting
+Glossary: vfx
+Definition: An asset whose highlights and shadows will respond interactively to lighting within the environment. See also baked lighting.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/interactive-lighting/

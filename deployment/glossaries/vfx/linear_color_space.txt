@@ -1,0 +1,5 @@
+Term: linear color space
+Glossary: vfx
+Definition: A color space in which the relationship between a pixel’s digital value and its visual brightness remains constant (linear) across the full gamut of black to white.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/linear-color-space/

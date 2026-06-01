@@ -1,0 +1,5 @@
+Term: global illumination
+Glossary: vfx
+Definition: A general term used to describe the modeling of all of the reflected and transmitted light that originates from every surface in a scene.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/global-illumination/

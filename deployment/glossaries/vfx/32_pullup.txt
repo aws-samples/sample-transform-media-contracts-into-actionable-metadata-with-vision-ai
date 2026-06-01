@@ -1,0 +1,5 @@
+Term: 3:2 pullup
+Glossary: vfx
+Definition: Usually synonymous with 2:3 pullup.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/32-pullup/

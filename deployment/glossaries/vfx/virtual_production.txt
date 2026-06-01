@@ -1,0 +1,5 @@
+Term: Virtual production
+Glossary: vfx
+Definition: Virtual production uses technology to join the digital world with the physical world in real-time. It enables filmmakers to interact with the digital process in the same ways they interact with live-action production. Some examples of virtual production include world capture (location/set scanning and digitization), visualization (previs, techvis, postvis), performance capture (mocap, volumetric capture), simulcam (on-set visualization), and in-camera visual effects (ICVFX). The key to the successful use of this technique is choosing the right tools to solve production problems and empowering the creators without detracting or distracting the crew from the content creation process.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-production/

@@ -1,0 +1,5 @@
+Term: translation
+Glossary: vfx
+Definition: A geometric transformation that refers only to a change in position, without a change in scale or rotation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/translation/

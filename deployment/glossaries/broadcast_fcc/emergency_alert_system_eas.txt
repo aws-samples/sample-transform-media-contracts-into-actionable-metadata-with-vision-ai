@@ -1,0 +1,5 @@
+Term: Emergency Alert System (EAS)
+Glossary: broadcast_fcc
+Definition: The national public warning system that requires participation by broadcast, cable, satellite, and wireline video providers to alert the public during emergencies. Operated jointly by FCC, FEMA, and the National Weather Service.
+Usage Context: All participating distributors must install and test EAS equipment. Distribution agreements may reference EAS compliance obligations.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

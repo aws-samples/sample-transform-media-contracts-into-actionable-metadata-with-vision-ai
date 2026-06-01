@@ -1,0 +1,5 @@
+Term: visual effects (VFX)
+Glossary: vfx
+Definition: A broad term that refers to just about anything that cannot be captured using standard photographic techniques. Visual effects can be accomplished in-camera or via a number of different optical or digital post-production processes. Visual effects are a subcategory of special effects.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/visual-effects-vfx/

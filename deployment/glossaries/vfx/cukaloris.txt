@@ -1,0 +1,5 @@
+Term: cukaloris
+Glossary: vfx
+Definition: Panel with irregular holes cut in it to project patterned shadows onto a subject. Also known as a kukaloris, cuke, or cookie.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cukaloris/

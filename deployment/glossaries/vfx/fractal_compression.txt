@@ -1,0 +1,5 @@
+Term: fractal compression
+Glossary: vfx
+Definition: A lossy compression algorithm that is based on repeated use of scaled and rotated pixel patterns.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fractal-compression/

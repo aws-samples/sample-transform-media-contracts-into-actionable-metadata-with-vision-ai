@@ -1,0 +1,5 @@
+Term: node view
+Glossary: vfx
+Definition: A view, available in most compositing software, that shows the hierarchical structure of the image-processing operations that will be used to generate a final composite.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/node-view/

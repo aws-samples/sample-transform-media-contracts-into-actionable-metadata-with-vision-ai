@@ -1,0 +1,5 @@
+Term: digital artist
+Glossary: vfx
+Definition: Any artist who creates and manipulates images digitally. The term encompasses both 2D and 3D artists and can be synonymous with the various titles used, such as CG Artist, Technical Director (TD), Compositor, Matte Painter, Character Animator, etc. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital-artist/

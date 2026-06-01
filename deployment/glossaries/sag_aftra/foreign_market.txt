@@ -1,0 +1,5 @@
+Term: Foreign Market
+Glossary: sag_aftra
+Definition: Any product licensed for distribution to any part of the world outside the United States, its commonwealths, territories, possessions, and Canada.
+Usage Context: Triggers foreign residual calculations and Foreign Royalties distributions administered by SAG-AFTRA. Distinct from the domestic market for residual schedule purposes, and subject to country-specific formulas.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

@@ -1,0 +1,5 @@
+Term: Showrunner
+Glossary: film_tv_production
+Definition: The person who has overall creative authority and management responsibility for a television series, typically the executive producer who also serves as head writer. The showrunner oversees the writers' room, production, and post-production, and is the primary creative decision-maker.
+Usage Context: Not a formal title under the WGA MBA, but a widely recognized industry function. Co-showrunner arrangements (where two individuals share the responsibility) are common on high-budget productions. The Screen Credits Manual does not formally recognize 'Showrunner' as a writing credit.
+Source: WGA Screenwriters Handbook — https://www.wga.org/uploadedfiles/members/employment_resources/Screenwriter-Handbook.pdf

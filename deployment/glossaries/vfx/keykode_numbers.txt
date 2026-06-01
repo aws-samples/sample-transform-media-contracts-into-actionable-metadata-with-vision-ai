@@ -1,0 +1,5 @@
+Term: Keykode numbers
+Glossary: vfx
+Definition: A specific form of edge numbers that was introduced by Kodak.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/keykode-numbers/

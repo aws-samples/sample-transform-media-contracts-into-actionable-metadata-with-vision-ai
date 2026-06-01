@@ -1,0 +1,5 @@
+Term: Fix it in pre
+Glossary: vfx
+Definition: A philosophical tenet of virtual production referring to the preparation of assets and planning during pre-production; as opposed to the traditional visual effects paradigm of fix it in post.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/fix-it-in-pre/

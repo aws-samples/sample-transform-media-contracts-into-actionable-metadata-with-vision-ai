@@ -1,0 +1,5 @@
+Term: DGA Basic Agreement
+Glossary: film_tv_production
+Definition: The collective bargaining agreement between the DGA and participating studios, setting forth minimum compensation, residuals, creative rights, credit provisions, and working conditions for DGA-covered personnel. Governs the Qualifications Lists administered by DGA Contract Administration.
+Usage Context: Administered by Directors Guild of America Contract Administration (DGACA). Qualifications Lists, established under Article 14 section 200 of the Basic Agreement, govern placement and advancement of assistant directors and unit production managers.
+Source: DGA Contract Administration FAQ — https://www.dgaca.org/faq

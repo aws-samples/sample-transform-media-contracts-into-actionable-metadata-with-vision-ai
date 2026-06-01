@@ -1,0 +1,5 @@
+Term: Performer Contract
+Glossary: sag_aftra
+Definition: The formal engagement document required by SAG-AFTRA for each covered performer on a signatory production, incorporating the applicable CBA terms. A Short Project Agreement Performer Contract is required for each performer on SPA-covered productions.
+Usage Context: Must be signed by each performer on a signatory production and submitted to SAG-AFTRA along with any riders, side letters, addendums, or long-form agreements. Required alongside Exhibit G forms for each workday.
+Source: SAG-AFTRA Production Center — https://www.sagaftra.org/production-center/contract/886/getting-started

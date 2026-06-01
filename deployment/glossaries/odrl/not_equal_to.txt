@@ -1,0 +1,3 @@
+Term: Not equal to
+Glossary: odrl
+Definition: Indicating that a given value is not equal to the right operand of the Constraint.

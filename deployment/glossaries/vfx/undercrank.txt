@@ -1,0 +1,5 @@
+Term: undercrank
+Glossary: vfx
+Definition: Running a camera at a lower speed than the intended projection rate, resulting in projected footage that appears to move faster than normal. Footage shot at a slower-than-normal rate is said to have been shot undercranked.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/undercrank/

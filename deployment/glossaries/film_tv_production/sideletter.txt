@@ -1,0 +1,5 @@
+Term: Sideletter
+Glossary: film_tv_production
+Definition: A supplemental agreement attached to a principal collective bargaining agreement that addresses a specific subject matter, such as residuals rates for a particular market (SVOD, Home Video), new technology use, or transitional arrangements. Sideletters are binding on signatories alongside the main agreement.
+Usage Context: Major WGA, DGA, and SAG-AFTRA CBAs typically include numerous sideletters addressing SVOD residuals, new media, short-form content, AI provisions, and other topics. The sideletter's terms control for the subject matter it addresses.
+Source: WGA Minimum Basic Agreement — https://www.wga.org

@@ -1,0 +1,5 @@
+Term: self-illuminated blue screen
+Glossary: vfx
+Definition: See transmission blue screen.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/self-illuminated-blue-screen/

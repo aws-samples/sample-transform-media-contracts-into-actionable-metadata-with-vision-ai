@@ -1,0 +1,5 @@
+Term: Most Favored Nations
+Glossary: media_rights_legal
+Definition: A provision ensuring one party receives terms no less favorable than those granted to any comparable party in a similar transaction. Abbreviated MFN.
+Usage Context: Music sync: 'Compensation for this Composition shall be no less favorable than terms granted to any other composition used in the Production.'
+Source: media_rights_legal

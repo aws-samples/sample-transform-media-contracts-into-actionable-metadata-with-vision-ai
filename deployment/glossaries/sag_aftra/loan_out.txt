@@ -1,0 +1,5 @@
+Term: Loan-Out
+Glossary: sag_aftra
+Definition: The performer's corporation to which the performer causes residual and other compensation payments to be directed, using a federal employer identification number rather than the performer's Social Security number.
+Usage Context: Common tax-structuring vehicle (typically an S-Corporation or LLC) for principal performers, series regulars, and featured talent. Deal memos and talent agreements are typically executed between the production company and the loan-out entity, with the performer signing on behalf of the loan-out.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

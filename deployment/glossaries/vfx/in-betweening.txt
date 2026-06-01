@@ -1,0 +1,5 @@
+Term: in-betweening
+Glossary: vfx
+Definition: The process of interpolating between the key frames of an animation sequence.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/in-betweening/

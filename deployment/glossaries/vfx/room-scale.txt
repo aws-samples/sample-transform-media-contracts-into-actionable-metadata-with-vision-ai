@@ -1,0 +1,5 @@
+Term: Room-scale
+Glossary: vfx
+Definition: A 1:1 correspondence between a physical space and a virtual environment.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/room-scale/

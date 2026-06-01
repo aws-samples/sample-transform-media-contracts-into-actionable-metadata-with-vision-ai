@@ -1,0 +1,5 @@
+Term: short lens
+Glossary: vfx
+Definition: A relative term, in contrast to a long lens. Also known as a wide-angle lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/short-lens/

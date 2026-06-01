@@ -1,0 +1,5 @@
+Term: Possessory Credit
+Glossary: film_tv_production
+Definition: A credit historically given to directors taking the form 'A Film By [Director Name]' or similar possessory language. Under DGA Basic Agreement section 8-104, directors and their employers have freedom to negotiate for possessory credits. Possessory credits in any form will not be given to a first-time director unless that director brought the property that was the basis for the film to the studio and provided substantial services to its development.
+Usage Context: Subject of long-standing dispute between the DGA (which permits freely negotiated possessory credits) and the WGA (which opposes them as diminishing the contribution of writers). The DGA has acknowledged overuse of possessory credit and adopted non-binding guidelines for studios, such as considering whether the director has established a marketable name, a substantial body of work of three or more films, or a signature style.
+Source: DGA Press Release on Possessory Credit — https://www.dga.org/News/PressReleases/2004/0209-DGA-Amends-Contract-Provisions-Regarding-Possessory-Credit

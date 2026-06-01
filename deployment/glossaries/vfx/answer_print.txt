@@ -1,0 +1,5 @@
+Term: answer print
+Glossary: vfx
+Definition: The first print from the lab containing synchronized image and sound and which has had all of the scenes color balanced.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/answer-print/

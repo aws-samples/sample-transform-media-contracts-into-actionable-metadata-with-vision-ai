@@ -1,0 +1,5 @@
+Term: Motion processing
+Glossary: vfx
+Definition: The clean-up of raw motion capture performances to eliminate errors or artifacts from the original capture.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-processing/

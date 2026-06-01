@@ -1,0 +1,5 @@
+Term: component video
+Glossary: vfx
+Definition: Video signal in which various aspects of color such as luminance and chrominance are maintained separately.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/component-video/

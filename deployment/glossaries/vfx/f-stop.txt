@@ -1,0 +1,5 @@
+Term: f-stop
+Glossary: vfx
+Definition: A measurement of the aperture of a lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/f-stop/

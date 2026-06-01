@@ -1,0 +1,3 @@
+Term: Has Prohibition
+Glossary: odrl
+Definition: Relates an individual Prohibition to a Policy.

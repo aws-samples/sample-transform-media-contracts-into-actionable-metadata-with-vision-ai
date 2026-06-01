@@ -1,0 +1,5 @@
+Term: HDRI
+Glossary: vfx
+Definition: Abbreviation for high dynamic range imaging.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hdri/

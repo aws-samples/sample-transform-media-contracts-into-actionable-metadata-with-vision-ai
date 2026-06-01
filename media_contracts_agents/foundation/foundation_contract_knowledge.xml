@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Foundation Contract Knowledge — Shared by All Sub-Agents
+    ==========================================================
+    The shared domain knowledge base for media rights contract analysis.
+    Contains: contract element taxonomy, contract type identification guidance,
+    and domain-specific analytical guidance across all provision categories.
+
+    This file answers the question: "What are the things that exist in media
+    rights contracts, and how should an expert think about them?"
+
+    It does NOT define tasks, output formats, or agent-specific behavior.
+-->
+<foundation_contract_knowledge>
+
+    <!-- ================================================================== -->
+    <!--  MASTER TAXONOMY: Contract Elements to Identify                     -->
+    <!--  The complete list of provision categories and elements that may     -->
+    <!--  appear in any media rights contract. Each sub-agent focuses on     -->
+    <!--  the categories within its specialization but needs awareness of    -->
+    <!--  the full taxonomy for cross-referencing.                           -->
+    <!-- ================================================================== -->
+    <contract_elements_to_identify>
+        <category name="parties_and_recitals">
+            <element>Contracting parties and their legal designations</element>
+            <element>Party roles (licensor/licensee, producer/performer, publisher/producer, owner/distributor, platform/creator)</element>
+            <element>Organizational type and jurisdiction of formation</element>
+            <element>Recitals establishing purpose and background</element>
+            <element>Effective date and execution details</element>
+        </category>
+
+        <category name="rights_grants">
+            <element>Scope of license (exclusive vs. non-exclusive)</element>
+            <element>Specific rights granted (reproduce, distribute, perform, display, make available, synchronize)</element>
+            <element>Licensed media and platforms (theatrical, broadcast, SVOD, AVOD, TVOD, FAST, digital, mobile)</element>
+            <element>Territory and geographic restrictions</element>
+            <element>Language, dubbing, and subtitle rights</element>
+            <element>Sublicensing and assignment rights</element>
+            <element>Reservation of rights clauses</element>
+            <element>Holdback and exclusivity provisions</element>
+            <element>AI and digital likeness rights</element>
+            <element>Merchandising rights</element>
+            <element>Promotional use allowances</element>
+        </category>
+
+        <category name="ownership_and_chain_of_title">
+            <element>Underlying IP ownership (copyright, trademark) and which party holds it</element>
+            <element>Chain of title — whether rights were properly assigned or licensed at each transfer point</element>
+            <element>Work-for-hire classifications and documentation</element>
+            <element>Title gaps, reversions, or known disputes referenced in the agreement</element>
+            <element>Pre-existing IP encumbrances or liens</element>
+        </category>
+
+        <category name="financial_terms">
+            <element>Fixed fees and license fees</element>
+            <element>Revenue share percentages and calculation methodology</element>
+            <element>Minimum guarantees and advances</element>
+            <element>Residuals and royalty structures</element>
+            <element>Synchronization fees</element>
+            <element>Distribution fees and commission rates</element>
+            <element>Recoupable expenses and approved deductions</element>
+            <element>Per diem, travel, and production allowances</element>
+            <element>Payment schedules and thresholds</element>
+            <element>Most-favored-nations provisions</element>
+            <element>Contingent compensation and net profits definitions</element>
+        </category>
+
+        <category name="term_and_termination">
+            <element>Initial term and commencement date</element>
+            <element>Renewal options and notice requirements</element>
+            <element>Termination triggers (breach, force majeure, incapacity)</element>
+            <element>Cure periods</element>
+            <element>Post-termination obligations (cease exploitation, return materials)</element>
+            <element>Reversion of rights</element>
+            <element>Sell-off periods</element>
+            <element>Survival clauses</element>
+        </category>
+
+        <category name="obligations_and_restrictions">
+            <element>Delivery requirements and specifications</element>
+            <element>Content standards and community guidelines</element>
+            <element>Exclusivity periods and appearance restrictions</element>
+            <element>Morals clauses</element>
+            <element>Key person clauses</element>
+            <element>Approval and consultation rights (marketing, key art, credit)</element>
+            <element>Editorial control rights (cuts, edits, re-versioning, format alteration)</element>
+            <element>Reporting and accounting obligations</element>
+            <element>Audit rights</element>
+            <element>DMCA and takedown compliance</element>
+            <element>Content moderation provisions</element>
+            <element>Data portability requirements</element>
+        </category>
+
+        <category name="talent_and_third_party_obligations">
+            <element>Guild and union compliance (SAG-AFTRA, WGA, DGA, IATSE)</element>
+            <element>Residual and royalty obligations to performers, writers, directors</element>
+            <element>Music licensing status (sync rights, master use rights, public performance rights)</element>
+            <element>Clearances for embedded IP (logos, footage, artwork, brand marks, archival material)</element>
+            <element>Third-party consent requirements and pending clearances</element>
+        </category>
+
+        <category name="digital_and_emerging_rights">
+            <element>AI training and generative AI usage restrictions or grants</element>
+            <element>Data privacy and viewer data ownership provisions</element>
+            <element>NFT, metaverse, and interactive media rights</element>
+            <element>Social media clip rights and promotional use on digital platforms</element>
+            <element>User-generated content policies and platform takedown obligations</element>
+            <element>Digital likeness and deepfake protections</element>
+        </category>
+
+        <category name="legal_protections">
+            <element>Representations and warranties</element>
+            <element>Indemnification obligations (mutual or one-sided)</element>
+            <element>Limitation of liability and damage caps</element>
+            <element>Insurance requirements (E&amp;O coverage, general liability, production insurance)</element>
+            <element>Governing law and jurisdiction</element>
+            <element>Dispute resolution (arbitration, mediation, litigation)</element>
+            <element>Force majeure provisions</element>
+            <element>Entire agreement and amendment clauses</element>
+        </category>
+
+        <category name="regulatory_and_compliance">
+            <element>Content rating and classification obligations</element>
+            <element>Local content quotas (particularly for international distribution)</element>
+            <element>Accessibility requirements (closed captioning, audio description, subtitles for the deaf)</element>
+            <element>Export controls and sanctions compliance</element>
+            <element>Data protection and privacy law compliance (GDPR, CCPA, etc.)</element>
+        </category>
+
+        <category name="credit_and_attribution">
+            <element>Screen credit specifications (position, size, card type)</element>
+            <element>Paid advertising credit obligations</element>
+            <element>Music credit requirements in end titles</element>
+            <element>Credit remedy provisions</element>
+            <element>Name and likeness usage rights</element>
+        </category>
+    </contract_elements_to_identify>
+
+    <!-- ================================================================== -->
+    <!--  CONTRACT TYPE IDENTIFICATION GUIDANCE                              -->
+    <!-- ================================================================== -->
+    <contract_type_identification>
+        <type name="content_licensing_agreement">
+            <indicators>References to "Licensed Content," "Licensed Media," territory grants, SVOD/AVOD/TVOD platform enumeration, holdback provisions, and content delivery obligations.</indicators>
+            <typical_parties>Licensor and Licensee</typical_parties>
+            <key_provisions>Grant of rights, territory, licensed media, language/dubbing/subtitle rights, holdbacks, license fees, revenue share, minimum guarantees, term and renewal, chain of title warranty, E&amp;O insurance, embedded IP clearances, regulatory compliance.</key_provisions>
+        </type>
+
+        <type name="talent_performance_agreement">
+            <indicators>References to "Performer," "Producer," role descriptions, principal photography periods, SAG-AFTRA, residuals, screen credit, morals clauses, pay-or-play terms.</indicators>
+            <typical_parties>Producer and Performer</typical_parties>
+            <key_provisions>Engagement and services, fixed and contingent compensation, rights grant including likeness, AI training restrictions, digital likeness protections, credit, exclusivity, morals clause, key person clause, pay-or-play, guild compliance, social media clip rights.</key_provisions>
+        </type>
+
+        <type name="music_synchronization_license">
+            <indicators>References to "Composition," "synchronization," "master recording," "master use license," ASCAP/BMI/SESAC/GMR, sync fees, performance royalties, approved scene descriptions.</indicators>
+            <typical_parties>Music Publisher/Rights Holder and Production Company</typical_parties>
+            <key_provisions>Composition identification, approved use and scene, duration of use, territory, media, sync fee, performance royalties, MFN, no-alteration clause, promotional use allowance, chain of title warranty for the composition.</key_provisions>
+        </type>
+
+        <type name="distribution_agreement">
+            <indicators>References to "Distributor," "Programs," distribution channels, windowing schedules, distribution fees, recoupable expenses, marketing plans, subdistribution, reversion of rights.</indicators>
+            <typical_parties>Content Owner and Distributor</typical_parties>
+            <key_provisions>Appointment and exclusivity, authorized channels, windowing, distribution fee percentage, recoupable expenses, net receipts, marketing approval, delivery requirements, language/dubbing/subtitle rights, editorial control, chain of title warranty, E&amp;O insurance, guild residual obligations, embedded IP clearances, reversion, sell-off period, local content quotas, accessibility requirements, export controls.</key_provisions>
+        </type>
+
+        <type name="digital_rights_ugc_license">
+            <indicators>References to "Platform," "Creator," "Creator Content," user-generated content, ad revenue share, subscription pro-rata, direct monetization, community guidelines, content moderation, DMCA, data portability.</indicators>
+            <typical_parties>Platform Operator and Content Creator</typical_parties>
+            <key_provisions>License to platform (host, store, transcode), promotional license, creator retains ownership, ad revenue share, subscription revenue formula, direct monetization, content standards, moderation and appeal, DMCA compliance, analytics access, data portability, platform amendment rights, AI training restrictions, social media clip rights, viewer data ownership, data privacy compliance.</key_provisions>
+        </type>
+    </contract_type_identification>
+
+    <!-- ================================================================== -->
+    <!--  DOMAIN GUIDANCE — How experts think about each provision area      -->
+    <!-- ================================================================== -->
+
+    <domain_guidance>
+
+        <area name="financial_structures">
+            <guidance>Fixed fee / flat fee: A one-time or installment-based payment for rights granted. Common in content licenses and sync licenses.</guidance>
+            <guidance>Revenue share: A percentage of defined revenue (Net Revenue, Gross Receipts, Net Profits). Pay close attention to the definition of the revenue base and approved deductions — these materially affect the economic value.</guidance>
+            <guidance>Minimum guarantee (MG): A guaranteed minimum payment, typically recoupable against future revenue share. The recoupment mechanic determines whether the MG is an advance or a floor.</guidance>
+            <guidance>Distribution fee: A percentage retained by the distributor from gross receipts before any other deductions. Typically ranges from 15-35%.</guidance>
+            <guidance>Recoupable expenses: Costs the distributor may deduct from revenue before remitting to the content owner. Watch for uncapped expense categories.</guidance>
+            <guidance>Most-favored-nations (MFN): Ensures one party receives terms no less favorable than those given to comparable parties. Common in music sync deals.</guidance>
+            <guidance>Pay-or-play: Producer must pay performer's full compensation regardless of whether services are actually used. A significant financial commitment.</guidance>
+            <guidance>Residuals: Ongoing payments for reuse of content, often governed by guild collective bargaining agreements (SAG-AFTRA, DGA, WGA).</guidance>
+            <guidance>Net Profits / Contingent Compensation: Typically defined with extensive deductions. The definition of "Net Profits" is often the most heavily negotiated provision in talent agreements.</guidance>
+            <guidance>Ad revenue share vs. subscription pro-rata: Digital platforms may use different models. Ad share is based on ad impressions against specific content. Subscription pro-rata allocates a pool based on viewing time ratios.</guidance>
+        </area>
+
+        <area name="defined_terms">
+            <guidance>Defined terms are the backbone of contract interpretation. A term defined in Section 1 controls its meaning throughout the entire agreement.</guidance>
+            <guidance>Watch for terms defined parenthetically within a clause (e.g., 'the "Territory"') as well as terms defined in a dedicated definitions article.</guidance>
+            <guidance>Key defined terms to always capture: Licensed Content, Territory, Licensed Media, Term, Net Revenue/Gross Receipts/Net Profits, Production, Composition, Programs, Creator Content, Community Guidelines.</guidance>
+            <guidance>Blank defined terms (e.g., Territory: _____________) indicate terms requiring negotiation. Flag these prominently.</guidance>
+        </area>
+
+        <area name="windowing">
+            <guidance>Windowing refers to the sequential release of content across different platforms with exclusivity periods between each window.</guidance>
+            <guidance>Typical window sequence: Theatrical → Premium VOD → SVOD → Free TV/AVOD.</guidance>
+            <guidance>Window durations are measured in days or months post-theatrical release.</guidance>
+            <guidance>Holdbacks prevent the licensor from licensing to competing platforms during specified periods.</guidance>
+        </area>
+
+        <area name="chain_of_title">
+            <guidance>Chain of title is the documentary evidence that the grantor actually owns or controls the rights being licensed. A clean chain means no gaps, unresolved claims, or competing interests.</guidance>
+            <guidance>Look for representations and warranties specifically addressing ownership and clear title — not all ownership warranties are equal. "Grantor owns all rights" is stronger than "Grantor has the right to enter into this agreement."</guidance>
+            <guidance>Work-for-hire: Under U.S. law, requires either an employment relationship or a signed written agreement for commissioned works in enumerated categories. If the contract references work-for-hire but no written agreement is evidenced, flag this as a risk.</guidance>
+            <guidance>Prior encumbrances: Look for carve-outs or disclosures of existing licenses, liens, or security interests that may limit the rights being granted. These are sometimes buried in exhibits or schedules.</guidance>
+            <guidance>If the contract is silent on chain of title entirely, this is a significant gap — the licensee has no contractual protection if a third party claims ownership.</guidance>
+        </area>
+
+        <area name="language_and_localization">
+            <guidance>Language rights are critical in international distribution deals. Look for explicit grants of dubbing and subtitling rights, approved languages, and whether the grant is territory-matched.</guidance>
+            <guidance>Cost allocation: Who pays for dubbing and subtitling is a meaningful economic term. Look for whether costs are borne by the distributor, deducted as recoupable expenses, or shared.</guidance>
+            <guidance>Quality approval: Content owners often retain approval rights over localized versions to protect brand integrity. Look for approval mechanics and whether silence constitutes acceptance.</guidance>
+            <guidance>Ownership of localized versions: The party who pays for dubbing/subtitling does not necessarily own the localized version. The contract should specify who owns dubbed tracks and subtitle files upon termination.</guidance>
+            <guidance>If a distribution agreement covers multiple territories but is silent on language rights, flag this as a gap — the distributor may not have authority to create localized versions.</guidance>
+        </area>
+
+        <area name="talent_and_third_party">
+            <guidance>Guild/union compliance: If the content involves SAG-AFTRA, WGA, DGA, or IATSE talent, the agreement should address who is responsible for residual payments and CBA compliance. Failure to comply can result in guild action against both the producer and the distributor.</guidance>
+            <guidance>Music licensing has three components: (1) synchronization license for the composition, (2) master use license for the specific recording, and (3) public performance rights handled through PROs (ASCAP, BMI, SESAC, GMR). All three must be cleared.</guidance>
+            <guidance>Embedded IP clearances: Every third-party element visible in the content (logos, artwork, signage, archival footage, photographs) requires clearance. The content owner typically warrants that all clearances are obtained.</guidance>
+            <guidance>Pending clearances: Some agreements acknowledge that certain clearances are pending at execution. These should be flagged as risk items requiring resolution before distribution.</guidance>
+        </area>
+
+        <area name="digital_and_emerging">
+            <guidance>AI and digital likeness: Increasingly common in talent agreements. Look for consent requirements, per-use authorization, and additional compensation triggers for AI-generated replicas of performance, voice, or likeness.</guidance>
+            <guidance>AI training rights: Distinct from digital likeness. Look for whether the licensee may use the content as training data for ML models. Modern agreements increasingly prohibit this explicitly or require separate consent and compensation.</guidance>
+            <guidance>NFT, metaverse, and interactive media: If not explicitly addressed, these rights are generally reserved by the rights holder under most standard grants. Flag their absence as an item to clarify, especially in newer deals.</guidance>
+            <guidance>Social media clip rights: Look for duration limits (typically 30-60 seconds), approved platforms, and whether clips may be independently monetized or are limited to promotional use.</guidance>
+            <guidance>Viewer data ownership: In streaming distribution deals, viewer data has independent commercial value. Look for who owns it, sharing obligations, anonymization requirements, and restrictions on using data for competitive purposes.</guidance>
+            <guidance>Content moderation: In digital/UGC agreements, look for the platform's right to remove, restrict, or demonetize content, and whether the creator has appeal rights.</guidance>
+            <guidance>Data portability: The creator's right to download their content and metadata upon termination. Note format requirements and timelines.</guidance>
+            <guidance>Platform amendment rights: Many digital agreements allow the platform to unilaterally update terms with notice. Note the notice period and whether continued use constitutes acceptance.</guidance>
+            <guidance>Data privacy compliance: Look for references to specific regulatory regimes (GDPR, CCPA, LGPD, PIPA). In international deals, data protection obligations may vary by territory and should be allocated between parties.</guidance>
+        </area>
+
+        <area name="insurance">
+            <guidance>E&amp;O (Errors and Omissions) insurance is standard in distribution agreements. Typical minimum coverage is $1M-$3M per occurrence / $3M-$5M aggregate. Look for specified minimums and whether they are adequate for the deal size.</guidance>
+            <guidance>The distributor or broadcaster typically requires being named as an additional insured on the E&amp;O policy. Look for this requirement and the deadline for providing proof of coverage.</guidance>
+            <guidance>If the agreement requires insurance but specifies no minimum amounts, flag this as vague — the coverage could be nominal and effectively worthless.</guidance>
+            <guidance>If the agreement is entirely silent on insurance, flag this as a missing standard provision, especially for distribution agreements and talent agreements.</guidance>
+        </area>
+
+        <area name="regulatory_compliance">
+            <guidance>Content ratings: In broadcast and theatrical distribution, content must be rated by the applicable classification body (MPAA for U.S. theatrical, BBFC for UK, FSK for Germany, etc.). The agreement should specify who is responsible for obtaining ratings and bearing the cost.</guidance>
+            <guidance>Local content quotas: The EU's AVMS Directive requires streaming platforms to ensure at least 30% European works in their catalogs. Australia, Canada, and other jurisdictions have similar requirements. For international distribution deals, look for quota-related obligations.</guidance>
+            <guidance>Accessibility: FCC rules in the U.S. require closed captioning for most video programming. The European Accessibility Act imposes similar requirements in the EU. Look for who is responsible for creating accessible versions and bearing the cost.</guidance>
+            <guidance>Export controls and sanctions: Distribution to sanctioned territories (e.g., OFAC-listed countries) creates legal exposure. Look for compliance representations and territory carve-outs for sanctioned jurisdictions.</guidance>
+            <guidance>If the agreement covers international distribution but is silent on regulatory compliance, flag this as a gap — the parties have not allocated compliance risk.</guidance>
+        </area>
+    </domain_guidance>
+
+    <!-- ================================================================== -->
+    <!--  NEGATIVE CLASSIFICATION — What is NOT a media rights contract       -->
+    <!-- ================================================================== -->
+    <not_media_rights_contracts>
+        <item>General commercial contracts without media/entertainment-specific terms are NOT media rights contracts.</item>
+        <item>Employment agreements without performance, likeness, or creative rights provisions are NOT talent agreements.</item>
+        <item>Software licenses or SaaS agreements are NOT media rights contracts.</item>
+        <item>Real estate leases, loan agreements, or insurance policies are NOT media rights contracts.</item>
+        <item>Non-disclosure agreements or confidentiality agreements alone are NOT media rights contracts, though they may accompany one.</item>
+    </not_media_rights_contracts>
+
+    <!-- ================================================================== -->
+    <!--  GENERAL ANALYTICAL PRINCIPLES                                      -->
+    <!-- ================================================================== -->
+    <analytical_principles>
+        <principle>Pay special attention to defined terms (typically capitalized or in quotes) and track their definitions throughout the document.</principle>
+        <principle>Note references to exhibits, schedules, or attachments and their described contents.</principle>
+        <principle>Identify whether provisions are standard boilerplate or appear to be specifically negotiated terms.</principle>
+        <principle>When blank fields appear (e.g., $___, ___%), treat them as unfilled terms requiring negotiation.</principle>
+        <principle>The same word can have different meanings in different contract types. "Territory" in a distribution agreement refers to geographic scope; in a talent agreement it may refer to where the performer may not compete. Context controls meaning.</principle>
+        <principle>The absence of a provision is often as significant as its presence. A distribution agreement with no force majeure clause, or a talent deal with no AI protections, creates risk through silence.</principle>
+    </analytical_principles>
+
+</foundation_contract_knowledge>

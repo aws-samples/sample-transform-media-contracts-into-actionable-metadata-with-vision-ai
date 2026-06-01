@@ -1,0 +1,5 @@
+Term: SMPTE
+Glossary: vfx
+Definition: Abbreviation for Society of Motion Picture and Television Engineers.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/smpte/

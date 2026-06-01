@@ -1,0 +1,5 @@
+Term: gobo
+Glossary: vfx
+Definition: See cukaloris.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gobo/

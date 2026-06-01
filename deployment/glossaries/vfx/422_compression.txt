@@ -1,0 +1,5 @@
+Term: 4:2:2 compression
+Glossary: vfx
+Definition: A method of encoding the data needed to represent an image by sampling Y (luminance) for every pixel but removing every other UV (chroma) pixel in the horizontal direction.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/422-compression/

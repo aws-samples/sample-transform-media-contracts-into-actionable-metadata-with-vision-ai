@@ -1,0 +1,5 @@
+Term: rotation
+Glossary: vfx
+Definition: A geometric transformation that changes the orientation of an image relative to a certain axis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rotation/

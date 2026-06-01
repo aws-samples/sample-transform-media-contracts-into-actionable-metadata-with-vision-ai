@@ -1,0 +1,5 @@
+Term: UPM (unit production manager)
+Glossary: vfx
+Definition: The DGA-approved title for the top below-the-line staff position, responsible for managing the production and regulating the costs of delivering the expected film or television show on budget at the end of principal photography. Non-DGA productions might call them a production manager or production supervisor. They work closely with the line producer. Sometimes the line producer is the UPM.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/upm-unit-production-manager/

@@ -1,0 +1,5 @@
+Term: white balance
+Glossary: vfx
+Definition: The calibration of a camera for accurate color capture or of an image for accurate color display based on specific lighting conditions.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/white-balance/

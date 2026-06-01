@@ -1,0 +1,3 @@
+Term: Lend
+Glossary: odrl
+Definition: The act of making available the asset to a third-party for a fixed period of time without exchange of value.

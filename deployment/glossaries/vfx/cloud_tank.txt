@@ -1,0 +1,5 @@
+Term: cloud tank
+Glossary: vfx
+Definition: A large water-filled glass enclosure that is used to create clouds and other atmospheric effects. The clouds are usually produced by injecting some opaque liquid (such as white paint) into the water.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cloud-tank/

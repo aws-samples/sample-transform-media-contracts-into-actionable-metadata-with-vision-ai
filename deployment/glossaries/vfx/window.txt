@@ -1,0 +1,5 @@
+Term: window
+Glossary: vfx
+Definition: (stereo) The stereo window that corresponds to the screen surround unless floating windows are used.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/window/

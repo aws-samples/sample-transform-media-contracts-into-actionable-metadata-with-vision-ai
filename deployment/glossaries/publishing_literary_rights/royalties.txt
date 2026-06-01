@@ -1,0 +1,5 @@
+Term: Royalties
+Glossary: publishing_literary_rights
+Definition: Periodic payments made to the author by the publisher based on sales of the work, typically calculated as a percentage of either the retail (list) price, the net receipts (wholesale price received by the publisher), or the amount received for specialty sales. Different royalty rates typically apply to different formats (hardcover, trade paperback, mass-market, ebook, audiobook) and different sales channels.
+Usage Context: Royalty rates should meet industry standards and should not be severely reduced by 'special sales' provisions that allow the publisher to offer deep discounts at the author's expense. Authors Guild advocates for de-escalating royalties (which don't suddenly drop at deep discount thresholds) rather than a sudden jump to minimal rates for deeply discounted sales.
+Source: Authors Guild Contract Reviews — https://authorsguild.org/legal-services/contract-reviews/

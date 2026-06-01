@@ -1,0 +1,3 @@
+Term: Install
+Glossary: odrl
+Definition: To load the computer program Asset onto a storage device which allows operating or running the Asset.

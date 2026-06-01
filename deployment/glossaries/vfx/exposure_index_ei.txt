@@ -1,0 +1,5 @@
+Term: exposure index (EI)
+Glossary: vfx
+Definition: A standardized, but manufacturer-specific, numerical rating system for specifying a film’s sensitivity to light. Several industry-standard systems are in use, including the ASA rating, the ISO index, and the DIN rating. To make it even more interesting, many manufacturers will specify a rating for both daylight lighting and tungsten lighting.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/exposure-index-ei/

@@ -1,0 +1,5 @@
+Term: sequence
+Glossary: vfx
+Definition: (1) A collection of images designed to be played sequentially. (2) A group of related scenes in a film, usually set in the same time and/or location.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sequence/

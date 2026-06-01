@@ -1,0 +1,5 @@
+Term: Operator Service Provider (OSP)
+Glossary: broadcast_fcc
+Definition: A common carrier that provides services from public phones, including payphones and those in hotels, motels, airports, and similar public locations.
+Usage Context: Subject to FCC consumer protection rules including rate disclosure requirements. Relevant to operator-assisted call services.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

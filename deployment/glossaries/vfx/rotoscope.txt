@@ -1,0 +1,5 @@
+Term: rotoscope
+Glossary: vfx
+Definition: Originally the name of a device patented in 1917 by Max Fleischer to aid in cel animation. Now used as a general term for the process of creating imagery or mattes on a frame-by-frame basis by hand. Also referred to as a roto.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rotoscope/

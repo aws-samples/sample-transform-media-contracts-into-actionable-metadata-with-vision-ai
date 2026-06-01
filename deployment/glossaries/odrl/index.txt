@@ -1,0 +1,4 @@
+Term: Index
+Glossary: odrl
+Definition: To record the Asset in an index.
+Usage Context: For example, to include a link to the Asset in a search engine database.

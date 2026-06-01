@@ -1,0 +1,4 @@
+Term: Refinement
+Glossary: odrl
+Definition: Constraint used to refine the semantics of an Action, or Party/Asset Collection
+Usage Context: Example: the Action print is only permitted on 50% of the asset.

@@ -1,0 +1,5 @@
+Term: TARGA
+Glossary: vfx
+Definition: A specific image file format.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/targa/

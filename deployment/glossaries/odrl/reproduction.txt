@@ -1,0 +1,4 @@
+Term: Reproduction
+Glossary: odrl
+Definition: Making multiple copies.
+Usage Context: This term is defined by Creative Commons.

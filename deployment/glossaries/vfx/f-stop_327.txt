@@ -1,0 +1,5 @@
+Term: F-stop
+Glossary: vfx
+Definition: The ratio of focal length to aperture size which dictates depth of field and the lens’ light gathering ability.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/f-stop/

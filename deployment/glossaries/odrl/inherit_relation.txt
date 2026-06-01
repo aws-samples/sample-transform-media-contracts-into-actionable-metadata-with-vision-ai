@@ -1,0 +1,4 @@
+Term: Inherit Relation
+Glossary: odrl
+Definition: Indentifies the type of inheritance.
+Usage Context: For example, this may indicate the business scenario, such as subscription, or prior arrangements between the parties (that are not machine representable).

@@ -1,0 +1,5 @@
+Term: Pension Credit
+Glossary: sag_aftra
+Definition: A unit which measures the amount of time a performer has worked in the motion picture industry in employment covered by a collective bargaining agreement.
+Usage Context: Used to determine a member's eligibility for pension benefits, vesting, and benefit amount. Distinct from Earnings Credit.
+Source: SAG-AFTRA Plans Glossary — https://www.sagaftraplans.org/sag-pension/spd/glossary-terms

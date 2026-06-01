@@ -1,0 +1,4 @@
+Term: Derivative Works
+Glossary: odrl
+Definition: Distribution of derivative works.
+Usage Context: This term is defined by Creative Commons.

@@ -1,0 +1,5 @@
+Term: Solid state drive (SSD)
+Glossary: vfx
+Definition: A hard drive with no moving parts, which improves performance and reliability; M2 SSD’s are faster, enabling optimal virtual production capabilities. See also HDD.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/solid-state-drive-ssd/

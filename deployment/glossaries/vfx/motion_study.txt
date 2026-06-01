@@ -1,0 +1,5 @@
+Term: Motion study
+Glossary: vfx
+Definition: The observation and analysis of the motion of an object or character to aid in reproducing it virtually.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-study/

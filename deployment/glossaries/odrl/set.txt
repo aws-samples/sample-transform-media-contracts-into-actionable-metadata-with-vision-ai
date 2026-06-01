@@ -1,0 +1,4 @@
+Term: Set
+Glossary: odrl
+Definition: A Policy that expresses a Rule over an Asset.
+Usage Context: A Set Policy MUST contain a target Asset, and at least one Rule. A Set Policy is the default Policy subclass. The Set is aimed at scenarios where there is an open criteria for the semantics of the policy expressions and typically refined by other systems/profiles that process the information at a later time. No privileges are granted to any Party (if defined).

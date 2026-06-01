@@ -1,0 +1,5 @@
+Term: Periwinkle effect
+Glossary: vfx
+Definition: Technique for shooting wet-for-dry using an underwater blue screen process. Invented by Jeffrey A. Okun, ves, and Thomas Boland.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/periwinkle-effect/

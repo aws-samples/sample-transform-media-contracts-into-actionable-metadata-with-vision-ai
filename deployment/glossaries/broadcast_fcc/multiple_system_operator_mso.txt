@@ -1,0 +1,5 @@
+Term: Multiple System Operator (MSO)
+Glossary: broadcast_fcc
+Definition: A company that owns and operates multiple cable television systems. Major U.S. MSOs include Comcast (Xfinity), Charter (Spectrum), and Cox Communications.
+Usage Context: Distribution agreements for cable television typically involve negotiations with MSOs rather than individual local cable operators. Carriage deals may cover multiple systems.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

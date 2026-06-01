@@ -1,0 +1,4 @@
+Term: Operand
+Glossary: odrl
+Definition: Operand is an abstract property for a logical relationship.
+Usage Context: Sub-properties of operand are used for Logical Constraints.

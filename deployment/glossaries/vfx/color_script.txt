@@ -1,0 +1,5 @@
+Term: color script
+Glossary: vfx
+Definition: (stereo) Colors used for scene-to-scene and character design to match image depth requirements per script.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-script/

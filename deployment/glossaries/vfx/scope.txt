@@ -1,0 +1,5 @@
+Term: scope
+Glossary: vfx
+Definition: (1) Abbreviation for any anamorphic process, such as Cinemascope, Techniscope, Superscope. (2) Shorthand for video scope, a waveform monitor.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/scope/

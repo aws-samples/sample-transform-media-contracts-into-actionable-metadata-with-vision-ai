@@ -1,0 +1,5 @@
+Term: camera mapping
+Glossary: vfx
+Definition: A CG technique in which an image is projected from the camera onto a 3D object. This technique is useful for recreating a simulation of a 3D environment using 2D photographic elements. Also called projection mapping.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/camera-mapping/

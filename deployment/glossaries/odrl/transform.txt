@@ -1,0 +1,4 @@
+Term: Transform
+Glossary: odrl
+Definition: To convert the Asset into a different format.
+Usage Context: Typically used to convert the Asset into a different format for consumption on/transfer to a third party system.

@@ -1,0 +1,5 @@
+Term: convolution mask
+Glossary: vfx
+Definition: See convolution filter.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/convolution-mask/

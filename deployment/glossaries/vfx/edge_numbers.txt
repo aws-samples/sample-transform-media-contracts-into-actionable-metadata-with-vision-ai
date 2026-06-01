@@ -1,0 +1,5 @@
+Term: edge numbers
+Glossary: vfx
+Definition: Sequential numbers printed along the edge of a piece of film (outside of the perforations) by the manufacturer to help identify particular frames.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/edge-numbers/

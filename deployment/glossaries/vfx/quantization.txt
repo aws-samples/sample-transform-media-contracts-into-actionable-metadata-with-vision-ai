@@ -1,0 +1,5 @@
+Term: quantization
+Glossary: vfx
+Definition: The process of assigning discrete digital values to samples taken from a continuous analog data set.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/quantization/

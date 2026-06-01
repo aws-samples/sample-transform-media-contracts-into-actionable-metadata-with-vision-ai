@@ -1,0 +1,5 @@
+Term: Short Project Agreement
+Glossary: sag_aftra
+Definition: A SAG-AFTRA low-budget agreement covering short films with a budget under $50,000 and running no more than 40 minutes, permitting film festival screenings and free-to-consumer new media platform release.
+Usage Context: Allows independent producers to hire SAG-AFTRA talent on short films at reduced rates compared to theatrical scale. Requires signed Performer Contracts and Exhibit G forms for each performer workday.
+Source: SAGindie FAQ — https://www.sagindie.org/resources/faq/

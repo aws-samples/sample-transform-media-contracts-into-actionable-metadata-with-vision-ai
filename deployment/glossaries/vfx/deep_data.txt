@@ -1,0 +1,5 @@
+Term: Deep data
+Glossary: vfx
+Definition: An image that holds additional information about each pixel along the z axis like multilayered images where each layer has a depth associated with. But unlike voxels, only at some arbitrary specified points in depth. The data can be evaluated through different types of interpolation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/deep-data/

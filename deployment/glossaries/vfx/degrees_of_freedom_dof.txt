@@ -1,0 +1,5 @@
+Term: Degrees of freedom (DoF)
+Glossary: vfx
+Definition: The number of dimensions an object or headset can move or be tracked in 3D space. A 3 DoF system can track position or orientation, but not both simultaneously, while a 6 DoF system can track position and orientation simultaneously.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/degrees-of-freedom-dof/

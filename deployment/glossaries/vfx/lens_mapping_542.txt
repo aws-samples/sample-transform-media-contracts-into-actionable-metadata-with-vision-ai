@@ -1,0 +1,5 @@
+Term: Lens mapping
+Glossary: vfx
+Definition: Calculating the distortion of a lens by shooting a grid. Used in making rendered CG elements distort the same way as the lens on the live action camera. See also camera calibration and alignment.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/lens-mapping/

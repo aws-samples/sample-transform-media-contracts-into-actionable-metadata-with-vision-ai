@@ -1,0 +1,5 @@
+Term: monochrome
+Glossary: vfx
+Definition: An image that contains only a single hue, and the only variation is in the luminance of that hue. Typically, a monochrome image consists only of shades of gray.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/monochrome/

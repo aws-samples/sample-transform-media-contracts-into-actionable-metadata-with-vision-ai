@@ -1,0 +1,4 @@
+Term: Unit Of Count
+Glossary: odrl
+Definition: The unit of measure used for counting the executions of the action of the Rule.
+Usage Context: Note: Typically used with Duties to indicate the unit entity to be counted of the Action. <br />Example: A duty to compensate and a unitOfCount constraint of 'perUser' would indicate that the compensation by multiplied by the 'number of users'.

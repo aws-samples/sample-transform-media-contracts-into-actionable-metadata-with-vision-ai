@@ -1,0 +1,5 @@
+Term: geometric transformation
+Glossary: vfx
+Definition: An effect that causes some or all of the pixels in a given image to change their current location. Such effects include translation, rotation, scaling, warping, and various specialized distortion effects.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/geometric-transformation/

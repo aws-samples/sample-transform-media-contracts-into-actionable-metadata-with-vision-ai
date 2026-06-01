@@ -1,0 +1,5 @@
+Term: graphical user interface (GUI)
+Glossary: vfx
+Definition: A user interface that utilizes images and other graphical elements to simplify the process of interacting with the software. Also known as the look and feel of the software.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/graphical-user-interface-gui/

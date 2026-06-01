@@ -1,0 +1,5 @@
+Term: Head-mounted camera (HMC)
+Glossary: vfx
+Definition: A special camera rig designed to capture an actor’s facial performance.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/head-mounted-camera-hmc/

@@ -1,0 +1,5 @@
+Term: shutter angle
+Glossary: vfx
+Definition: The part of a motion picture camera that determines how long a given area of film will be exposed to a scene. Most cameras have the ability to adjust their shutter angle. A larger shutter angle will result in increased motion blur on moving objects.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/shutter-angle/

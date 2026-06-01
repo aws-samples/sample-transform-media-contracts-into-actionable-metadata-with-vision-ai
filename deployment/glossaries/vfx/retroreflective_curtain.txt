@@ -1,0 +1,5 @@
+Term: retroreflective curtain
+Glossary: vfx
+Definition: A highly reflective background screen. The projected image, or specific light source, is bounced off the screen and back into the lens of a camera. This is achieved by having a screen made of a retroreflective material. Such material is made from millions of glass beads affixed to the surface of the cloth. These glass beads reflect light back only in the direction from which it came, far more efficiently than any common surface.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/retroreflective-curtain/

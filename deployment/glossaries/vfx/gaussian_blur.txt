@@ -1,0 +1,5 @@
+Term: Gaussian blur
+Glossary: vfx
+Definition: A specific method for blurring an image based on a Gaussian filter.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gaussian-blur/

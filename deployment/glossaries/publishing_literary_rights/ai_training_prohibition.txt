@@ -1,0 +1,5 @@
+Term: AI Training Prohibition
+Glossary: publishing_literary_rights
+Definition: A contract provision prohibiting the use of the author's work to train artificial intelligence technologies without the author's express permission. Emerging as a standard Authors Guild-recommended clause in response to the use of copyrighted books for training large language models.
+Usage Context: Authors Guild updated Model Trade Book Contract to include prohibition on use of an author's work for training AI technologies without the author's express permission. Authors should verify this protection is included in any new contract.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

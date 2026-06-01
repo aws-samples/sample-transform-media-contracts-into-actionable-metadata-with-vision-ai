@@ -1,0 +1,3 @@
+Term: Transfer Ownership
+Glossary: odrl
+Definition: To transfer the ownership of the Asset in perpetuity.

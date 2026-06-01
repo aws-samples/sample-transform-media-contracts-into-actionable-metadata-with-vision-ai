@@ -1,0 +1,5 @@
+Term: Spectrum management
+Glossary: vfx
+Definition: The process of managing all of the various wireless hardware, including non-visible infrared tracking, etc, on a stage or volume to avoid crosstalk and interference.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/spectrum-management/

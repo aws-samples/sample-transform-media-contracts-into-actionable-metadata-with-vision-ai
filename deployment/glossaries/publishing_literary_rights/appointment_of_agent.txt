@@ -1,0 +1,5 @@
+Term: Appointment of Agent
+Glossary: publishing_literary_rights
+Definition: A clause designating the author's literary agent as the author's representative for purposes of the contract, typically directing payments to the agent and authorizing the agent to receive notices on the author's behalf. Typically accompanied by an agency commission provision.
+Usage Context: Agents typically take 15% of author earnings from the contract, deducted before the author is paid. Authors should ensure that the agent's authority is limited to matters specified in the author-agent agreement.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

@@ -1,0 +1,4 @@
+Term: Derive
+Glossary: odrl
+Definition: To create a new derivative Asset from this Asset and to edit or modify the derivative.
+Usage Context: A new asset is created and may have significant overlaps with the original Asset. (Note that the notion of whether or not the change is significant enough to qualify as a new asset is subjective). To the derived Asset a next policy may be applied.

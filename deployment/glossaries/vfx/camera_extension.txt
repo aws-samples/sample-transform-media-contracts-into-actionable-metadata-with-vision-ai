@@ -1,0 +1,5 @@
+Term: Camera extension
+Glossary: vfx
+Definition: The process of augmenting footage from original live-action or virtual cinematography during post-production. Extensions may involve adding additional frames to existing angles or creating entirely new angles.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/camera-extension/

@@ -1,0 +1,5 @@
+Term: Incident lighting
+Glossary: vfx
+Definition: Lighting on a subject which comes directly from a source; as opposed to indirect lighting, which is reflected or bounced before reaching the subject.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/incident-lighting/

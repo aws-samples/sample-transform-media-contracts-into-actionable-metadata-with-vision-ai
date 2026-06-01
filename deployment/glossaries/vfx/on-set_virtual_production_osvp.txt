@@ -1,0 +1,5 @@
+Term: On-Set Virtual Production (OSVP)
+Glossary: vfx
+Definition: Use of virtual production techniques to capture imagery in-camera. See also ICVFX and Extended Reality.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/on-set-virtual-production-osvp/

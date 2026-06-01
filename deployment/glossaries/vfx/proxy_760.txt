@@ -1,0 +1,5 @@
+Term: Proxy
+Glossary: vfx
+Definition: A scaled-down file that is used as a stand-in for a higher resolution original.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/proxy/

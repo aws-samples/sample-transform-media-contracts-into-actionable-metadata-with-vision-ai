@@ -1,0 +1,5 @@
+Term: Production Executive Arbitration
+Glossary: film_tv_production
+Definition: A credit arbitration triggered automatically when a WGA signatory production credits a production executive (officer or employee of the production company) as a writer. The WGA arbitrates whether the executive's contribution meets the threshold for writing credit.
+Usage Context: Guards against inflation of writing credits by assigning them to executives who did not perform substantial writing services. A key protection in the WGA credit system.
+Source: WGA Credits Manuals — https://www.wga.org/contracts/credits/manuals

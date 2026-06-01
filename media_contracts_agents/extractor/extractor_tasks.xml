@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Extractor Agent — Tasks
+    ========================
+    The ordered steps the Extractor follows to parse a media rights contract.
+    Every task produces extraction output. No task produces analysis or opinion.
+-->
+<extractor_tasks>
+    <task>Perform an initial scan to identify the contract type: content licensing agreement, talent/performance agreement, music synchronization license, distribution agreement, digital rights/UGC license, or hybrid/other.</task>
+
+    <task>Extract the document header, title, and any template or disclaimer notices.</task>
+
+    <task>Identify all contracting parties, their defined short names (e.g., "Licensor", "Performer"), organizational types, jurisdictions, and principal office locations.</task>
+
+    <task>Extract all recitals (WHEREAS clauses) establishing the purpose and background of the agreement.</task>
+
+    <task>Identify and catalog every defined term in the agreement. Defined terms are typically capitalized and introduced with quotation marks or parenthetical definitions. Extract each term and its full definition verbatim.</task>
+
+    <task>Extract the complete grant of rights:
+        <sub_task>Nature of the grant (exclusive, non-exclusive, non-transferable)</sub_task>
+        <sub_task>Specific rights granted (reproduce, distribute, perform, display, synchronize, make available, exploit)</sub_task>
+        <sub_task>Licensed media and platforms with all enumerated categories</sub_task>
+        <sub_task>Territory specifications</sub_task>
+        <sub_task>Language, dubbing, and subtitle rights — which languages are authorized, who bears localization costs, who approves quality, and who owns the localized versions</sub_task>
+        <sub_task>Sublicensing and assignment restrictions</sub_task>
+        <sub_task>Reservation of rights language</sub_task>
+        <sub_task>Holdback provisions and exclusivity restrictions</sub_task>
+    </task>
+
+    <task>Extract ownership and chain of title information:
+        <sub_task>Which party is identified as the underlying IP owner (copyright, trademark)</sub_task>
+        <sub_task>Any chain-of-title warranty language</sub_task>
+        <sub_task>Work-for-hire classifications or assignment documentation referenced</sub_task>
+        <sub_task>Any referenced prior encumbrances, liens, or existing licenses on the IP</sub_task>
+        <sub_task>Any known title disputes or pending claims mentioned in the agreement</sub_task>
+    </task>
+
+    <task>Extract all financial and compensation terms:
+        <sub_task>Fixed fees, license fees, and synchronization fees with amounts or blank indicators</sub_task>
+        <sub_task>Revenue share percentages and the definition of the revenue base (Net Revenue, Gross Receipts, Net Profits)</sub_task>
+        <sub_task>Minimum guarantees and recoupment mechanics</sub_task>
+        <sub_task>Residuals and royalty structures including guild references</sub_task>
+        <sub_task>Distribution fees and commission rates</sub_task>
+        <sub_task>Recoupable expense categories</sub_task>
+        <sub_task>Payment schedules, thresholds, and reporting periods</sub_task>
+        <sub_task>Most-favored-nations provisions</sub_task>
+        <sub_task>Per diem, travel, and production allowances</sub_task>
+        <sub_task>Contingent compensation triggers</sub_task>
+    </task>
+
+    <task>Extract term and termination provisions:
+        <sub_task>Initial term duration and commencement trigger</sub_task>
+        <sub_task>Renewal mechanics, notice periods, and automatic renewal conditions</sub_task>
+        <sub_task>Termination triggers (breach, force majeure, incapacity, abandonment)</sub_task>
+        <sub_task>Cure periods and notice requirements</sub_task>
+        <sub_task>Post-termination obligations (cease exploitation, return/destroy materials, final accounting)</sub_task>
+        <sub_task>Reversion of rights provisions</sub_task>
+        <sub_task>Sell-off periods for existing commitments</sub_task>
+        <sub_task>Survival clauses identifying which provisions outlast termination</sub_task>
+    </task>
+
+    <task>Extract all obligation and restriction provisions:
+        <sub_task>Delivery requirements and technical specifications</sub_task>
+        <sub_task>Exclusivity periods and appearance/alteration restrictions</sub_task>
+        <sub_task>Morals clauses</sub_task>
+        <sub_task>Key person clauses — identify the key person and consequences of unavailability</sub_task>
+        <sub_task>Editorial control rights — who may cut, edit, re-version, reformat, and whether approval is required</sub_task>
+        <sub_task>Approval and consultation rights (marketing, key art, credit, trailers)</sub_task>
+        <sub_task>Reporting, accounting, and audit rights with frequency and notice periods</sub_task>
+        <sub_task>Content standards and community guidelines compliance</sub_task>
+        <sub_task>DMCA and takedown compliance obligations</sub_task>
+        <sub_task>Content moderation rights and appeal processes</sub_task>
+        <sub_task>Data portability and analytics access provisions</sub_task>
+        <sub_task>Publicity and promotional obligations</sub_task>
+    </task>
+
+    <task>Extract talent and third-party obligation provisions:
+        <sub_task>Guild and union references (SAG-AFTRA, WGA, DGA, IATSE) and compliance obligations</sub_task>
+        <sub_task>Residual and royalty obligations to performers, writers, directors — who bears responsibility and under which CBA</sub_task>
+        <sub_task>Music licensing status: sync rights clearance, master use license status, public performance rights and PRO affiliations (ASCAP, BMI, SESAC, GMR)</sub_task>
+        <sub_task>Embedded IP clearances: third-party logos, footage, artwork, brand marks, archival material — whether cleared and by whom</sub_task>
+        <sub_task>Any third-party consents still required or identified as pending</sub_task>
+    </task>
+
+    <task>Extract credit and attribution provisions: screen credit specifications, paid advertising obligations, music credit requirements, and credit remedy limitations.</task>
+
+    <task>Extract all legal protection provisions:
+        <sub_task>Representations and warranties by each party</sub_task>
+        <sub_task>Indemnification obligations (mutual or asymmetric)</sub_task>
+        <sub_task>Limitation of liability and damage exclusions</sub_task>
+        <sub_task>Insurance requirements: E&amp;O coverage minimums, general liability, whether the other party must be named as additional insured, proof-of-coverage deadlines</sub_task>
+        <sub_task>Governing law and jurisdiction</sub_task>
+        <sub_task>Dispute resolution mechanism (arbitration, mediation, litigation)</sub_task>
+        <sub_task>Force majeure provisions with enumerated triggering events</sub_task>
+        <sub_task>Entire agreement, amendment, and waiver clauses</sub_task>
+    </task>
+
+    <task>Extract all digital and emerging rights provisions:
+        <sub_task>AI training rights — restrictions or grants on using content, performances, or likenesses as ML training data</sub_task>
+        <sub_task>AI-generated content — rights to create new content using AI based on licensed material</sub_task>
+        <sub_task>Digital likeness and deepfake protections — consent requirements, per-use authorization, additional compensation triggers</sub_task>
+        <sub_task>NFT, metaverse, and interactive media rights — whether addressed, reserved, or granted</sub_task>
+        <sub_task>Social media clip rights — authorized duration, platforms, and whether clips may be independently monetized</sub_task>
+        <sub_task>Viewer data ownership — which party owns audience data, sharing obligations, anonymization requirements</sub_task>
+        <sub_task>Data privacy compliance — specific regulatory regimes referenced (GDPR, CCPA, etc.) and compliance obligations</sub_task>
+    </task>
+
+    <task>Extract regulatory and compliance provisions:
+        <sub_task>Content rating and classification obligations</sub_task>
+        <sub_task>Local content quotas (EU AVMS Directive, Australian/Canadian requirements)</sub_task>
+        <sub_task>Accessibility requirements — closed captioning, audio description, subtitle standards</sub_task>
+        <sub_task>Export controls and sanctions compliance — restricted territories, OFAC/EU sanctions references</sub_task>
+        <sub_task>Data protection law compliance — which regimes apply and how obligations are allocated</sub_task>
+    </task>
+
+    <task>Extract all references to exhibits, schedules, and attachments, noting their described contents even if the exhibits themselves are not present in the document.</task>
+
+    <task>Note all signature blocks, including party names, signatory titles, and date fields.</task>
+
+    <task>Populate extraction_notes:
+        <sub_task>List every blank fill-in field with its section reference</sub_task>
+        <sub_task>Note any truncated text at page boundaries</sub_task>
+        <sub_task>Catalog all cross-references to other sections, exhibits, or external documents</sub_task>
+        <sub_task>Note any defined terms used but not defined within the visible document</sub_task>
+    </task>
+
+    <task>Populate metadata: contract type, document title, completeness, document status, blank field count, defined term count.</task>
+
+    <task>Run the verification process defined in extractor_verification.xml before finalizing output.</task>
+
+    <task>If no media rights contract content is found, respond with the not_found_response as specified in extractor_verification.xml.</task>
+</extractor_tasks>

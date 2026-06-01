@@ -1,0 +1,5 @@
+Term: Volume operator
+Glossary: vfx
+Definition: A crewmember from the volume operations team; involved with the operations and content related to the LED volume. Includes Key Volume Operator, Assistant Volume Operator, VIT, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/volume-operator/

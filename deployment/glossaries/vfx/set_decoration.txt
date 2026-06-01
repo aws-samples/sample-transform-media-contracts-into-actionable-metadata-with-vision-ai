@@ -1,0 +1,5 @@
+Term: Set decoration
+Glossary: vfx
+Definition: Physical objects on the set to help blend with the virtual world; elements may also appear replicated within the virtual environment. Also referred to as set dec.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/set-decoration/

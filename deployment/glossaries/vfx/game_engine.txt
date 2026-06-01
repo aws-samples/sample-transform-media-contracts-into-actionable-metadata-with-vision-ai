@@ -1,0 +1,5 @@
+Term: Game engine
+Glossary: vfx
+Definition: is a software-development environment designed for people to build video games. Developers use game engines to construct games for consoles, mobile devices, and personal computers. The core functionality typically provided by a game engine includes a rendering engine (“renderer”) for 2D or 3D graphics, a physics engine or collision detection (and collision response), sound, scripting, animation, artificial intelligence, networking, streaming, memory management, threading, localization support, scene graph, and may include video support for cinematics.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/game-engine/

@@ -1,0 +1,5 @@
+Term: Cue Sheet
+Glossary: music_rights_licensing
+Definition: A document listing every piece of music used in an audiovisual production, including the title, composer(s), publisher(s), timing, and type of use (background, visual vocal, theme, etc.). Cue sheets are used by performing rights organizations to calculate and distribute performance royalties when the production is broadcast.
+Usage Context: Producers are obligated to submit accurate cue sheets to the relevant PROs (ASCAP, BMI, SESAC) for all film, television, and streaming productions containing music. Inaccurate or missing cue sheets result in non-payment to composers and publishers.
+Source: ASCAP Member Access — https://www.ascap.com/member-access

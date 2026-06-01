@@ -1,0 +1,5 @@
+Term: surround
+Glossary: vfx
+Definition: (stereo) The vertical and horizontal edges immediately adjacent to the screen.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/surround/

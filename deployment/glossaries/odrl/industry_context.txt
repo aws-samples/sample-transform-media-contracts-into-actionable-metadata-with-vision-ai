@@ -1,0 +1,4 @@
+Term: Industry Context
+Glossary: odrl
+Definition: A defined industry sector setting a context for exercising the action of the Rule.
+Usage Context: Example: publishing or financial industry.

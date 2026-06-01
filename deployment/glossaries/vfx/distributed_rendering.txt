@@ -1,0 +1,5 @@
+Term: Distributed rendering
+Glossary: vfx
+Definition: Multiple instances of an engine processing the same scene in parallel to achieve a much higher total resolution.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/distributed-rendering/

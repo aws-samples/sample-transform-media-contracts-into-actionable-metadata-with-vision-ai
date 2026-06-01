@@ -1,0 +1,5 @@
+Term: witness camera
+Glossary: vfx
+Definition: Cameras used to film or videotape the action from one or more viewpoints that are not the same viewpoints used by the primary production camera. This data is used in the creation of many things, ranging from determining where everything on the set was in three dimensions to providing animation reference.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/witness-camera/

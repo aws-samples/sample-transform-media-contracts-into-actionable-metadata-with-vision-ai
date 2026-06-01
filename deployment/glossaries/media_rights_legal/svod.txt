@@ -1,0 +1,5 @@
+Term: SVOD
+Glossary: media_rights_legal
+Definition: Subscription Video-on-Demand. A platform where users pay a recurring subscription for access to a content library. Examples: Netflix, Disney+, Amazon Prime Video.
+Usage Context: Licensed Media enumeration. Often the most valuable window in modern content licensing after theatrical.
+Source: media_rights_legal

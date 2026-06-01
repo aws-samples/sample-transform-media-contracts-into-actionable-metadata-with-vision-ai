@@ -1,0 +1,5 @@
+Term: Visual Effects Producer
+Glossary: vfx
+Definition: The individual responsible for the administrative side of visual effects production. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/visual-effects-producer/

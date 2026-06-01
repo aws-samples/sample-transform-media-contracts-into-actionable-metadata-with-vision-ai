@@ -1,0 +1,5 @@
+Term: Residuals
+Glossary: sag_aftra
+Definition: Compensation paid to performers for the continued use or reuse of a motion picture or television program beyond its initial exhibition, including free TV reruns, basic cable, pay cable, home video/DVD, New Media (SVOD/AVOD), and theatrical reissue. Commercial residuals are not processed by SAG-AFTRA but are paid directly by payroll companies.
+Usage Context: Residuals are triggered by additional markets or runs beyond the initial exhibition window. SAG-AFTRA's Residuals Tracker allows members to monitor payments. Payment must be received by the performer within 60 days of SAG-AFTRA receiving the check from the producer.
+Source: SAG-AFTRA Residuals — https://www.sagaftra.org/membership-benefits/residuals

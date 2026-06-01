@@ -1,0 +1,5 @@
+Term: green spill
+Glossary: vfx
+Definition: Any contamination of the foreground subject by light reflected from the green screen in front of which it is placed. See also spill, blue spill.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/green-spill/

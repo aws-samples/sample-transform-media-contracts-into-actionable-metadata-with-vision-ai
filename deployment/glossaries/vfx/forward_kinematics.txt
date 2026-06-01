@@ -1,0 +1,5 @@
+Term: Forward Kinematics
+Glossary: vfx
+Definition: The process of manually positioning the joints top down, e.g., rotate the shoulder, then the elbow, and then the wrist in an attempt to get the hand in the right position.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/forward-kinematics/

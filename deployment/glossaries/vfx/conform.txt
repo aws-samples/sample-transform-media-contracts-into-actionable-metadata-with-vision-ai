@@ -1,0 +1,5 @@
+Term: conform
+Glossary: vfx
+Definition: The process of matching raw, original footage with some edited version of that footage.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/conform/

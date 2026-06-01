@@ -1,0 +1,5 @@
+Term: retinal disparity
+Glossary: vfx
+Definition: (stereo) See disparity.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/retinal-disparity/

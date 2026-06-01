@@ -1,0 +1,5 @@
+Term: composite video
+Glossary: vfx
+Definition: Video signal in which the color elements are all combined (encoded) into a single signal.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/composite-video/

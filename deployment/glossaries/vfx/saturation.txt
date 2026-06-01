@@ -1,0 +1,5 @@
+Term: saturation
+Glossary: vfx
+Definition: The brilliance or purity of a given color. The difference between a pastel and a pure color is the amount of saturation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/saturation/

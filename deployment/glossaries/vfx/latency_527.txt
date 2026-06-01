@@ -1,0 +1,5 @@
+Term: Latency
+Glossary: vfx
+Definition: The delay from when a signal is sent to when it is received/displayed at its destination. Reducing signal latency is a key guideline for success when using virtual production techniques. Modest latency can be managed with prediction, interpolation and overscan.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/latency/

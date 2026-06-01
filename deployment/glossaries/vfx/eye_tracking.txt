@@ -1,0 +1,5 @@
+Term: Eye tracking
+Glossary: vfx
+Definition: The capture of eye movements and gaze, typically part of facial capture.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/eye-tracking/

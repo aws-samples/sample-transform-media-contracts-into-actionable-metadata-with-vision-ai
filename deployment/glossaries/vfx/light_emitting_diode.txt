@@ -1,0 +1,5 @@
+Term: light emitting diode
+Glossary: vfx
+Definition: See LED.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/light-emitting-diode/

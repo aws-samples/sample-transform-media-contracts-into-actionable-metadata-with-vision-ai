@@ -1,0 +1,5 @@
+Term: spatial resolution
+Glossary: vfx
+Definition: A measurement of the amount of data used to capture an image. In a digital image, spatial resolution is usually specified by giving the X and Y dimensions of the image as measured in pixels.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/spatial-resolution/

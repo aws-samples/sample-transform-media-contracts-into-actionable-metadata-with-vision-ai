@@ -1,0 +1,4 @@
+Term: Anonymize
+Glossary: odrl
+Definition: To anonymize all or parts of the Asset.
+Usage Context: For example, to remove identifying particulars for statistical or for other comparable purposes, or to use the Asset without stating the author/source.

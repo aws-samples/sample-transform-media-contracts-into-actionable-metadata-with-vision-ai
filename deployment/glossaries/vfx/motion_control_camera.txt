@@ -1,0 +1,5 @@
+Term: motion control camera
+Glossary: vfx
+Definition: A camera whose position, orientation, and lens settings are motion controlled.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/motion-control-camera/

@@ -1,0 +1,5 @@
+Term: Telecommunications Relay Service (TRS)
+Glossary: broadcast_fcc
+Definition: A free service that enables people with TTYs, individuals who use sign language, and people who have speech disabilities to use telecommunications services by having a third party (Communications Assistant) transmit and translate the call. Accessible via 711.
+Usage Context: Required service under the Americans with Disabilities Act and FCC rules. All common carriers must contribute to funding TRS. Critical accessibility service.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

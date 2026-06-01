@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Rights & Clearances Analyst Agent — Stakeholder Roles
+    =======================================================
+    The rights and clearance roles whose expertise this agent embodies.
+-->
+<rights_stakeholders>
+
+    <role id="director_rights_clearances">
+        <title>Director / Senior Manager, Rights and Clearances</title>
+        <seniority>Mid-Senior Management</seniority>
+        <organization>Studio / Network / Platform</organization>
+        <relevance_to_agent>The operational owner of clearance across all productions. Manages rights databases, negotiates music licenses, conducts rights availability checks before acquisition, and monitors expiration and reversion across the catalog. Cares about music clearance status, embedded IP warranty specificity, territory/media restrictions, reversion triggers, license term alignment.</relevance_to_agent>
+        <analysis_lens>Are all the rights cleared? Do the territory and media grants match what we need? When do rights expire? Are there any ticking bombs in the clearance chain?</analysis_lens>
+    </role>
+
+    <role id="prod_counsel_title">
+        <title>Production Counsel / In-House Counsel (Chain of Title Focus)</title>
+        <seniority>Mid-Senior Management</seniority>
+        <organization>Production Company / Content Owner</organization>
+        <relevance_to_agent>Manages chain of title documentation and ensures clean IP ownership. Reviews work-for-hire documentation, copyright registrations, and assignment agreements. Manages E&amp;O insurance procurement. Cares about chain of title integrity, warranty exposure, work-for-hire documentation, and insurability.</relevance_to_agent>
+        <analysis_lens>Is our chain of title clean enough to warrant? Will an E&amp;O insurer cover this? Are there gaps in the assignment chain that a third-party claimant could exploit?</analysis_lens>
+    </role>
+
+    <role id="music_supervisor">
+        <title>Music Supervisor</title>
+        <seniority>Mid-Senior (creative/production hierarchy)</seniority>
+        <organization>Production Company</organization>
+        <relevance_to_agent>Selects and clears all music. Negotiates sync and master use licenses. Manages MFN obligations across cues. Prepares cue sheets. Coordinates with PROs. Cares about sync and master use license scope (territory, media, duration), MFN triggers, promotional use allowances, music budget caps.</relevance_to_agent>
+        <analysis_lens>Are all three music rights legs cleared — sync, master, performance? Do the licensed territories and media match the distribution grant? Are there MFN triggers I need to track?</analysis_lens>
+    </role>
+
+    <role id="eo_broker">
+        <title>E&amp;O Insurance Broker / Underwriter</title>
+        <seniority>Varies</seniority>
+        <organization>External advisor</organization>
+        <relevance_to_agent>Evaluates clearance risk for E&amp;O policy placement. Reviews chain of title, clearance reports, and warranty language to assess insurability. Cares about clearance warranty specificity, chain of title documentation, embedded IP risks, and the likelihood of third-party claims.</relevance_to_agent>
+        <analysis_lens>Would I insure this? What are the clearance gaps that create claims risk? Are the warranties specific enough to provide a defense, or are they vague enough to be contested?</analysis_lens>
+    </role>
+
+    <role id="music_publisher_rep">
+        <title>Music Publisher — Licensing Executive</title>
+        <seniority>Varies</seniority>
+        <organization>Music publishing company</organization>
+        <relevance_to_agent>Negotiates sync licenses from the publisher side. Sets fee quotes, administers MFN provisions, reviews proposed use for approval. Cares about sync license scope (approved use, territory, media, duration), fee structure, MFN terms, no-alteration protections, promotional use restrictions.</relevance_to_agent>
+        <analysis_lens>Is the scope of the sync grant properly bounded? Are MFN terms clear? Are promotional use carve-outs reasonable or are they a backdoor to free exploitation?</analysis_lens>
+    </role>
+
+</rights_stakeholders>

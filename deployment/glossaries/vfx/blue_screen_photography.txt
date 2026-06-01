@@ -1,0 +1,5 @@
+Term: blue screen photography
+Glossary: vfx
+Definition: The process of photographing an object in front of a blue screen with the intention of extracting a matte for that object using various keying and/or color-difference techniques.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/blue-screen-photography/

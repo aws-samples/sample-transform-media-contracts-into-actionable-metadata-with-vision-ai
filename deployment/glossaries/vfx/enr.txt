@@ -1,0 +1,5 @@
+Term: ENR
+Glossary: vfx
+Definition: Named for its inventor, Ernesto Novelli Rimo, a former control department operator at Technicolor Rome who designed the technique for Vittorio Storaro, ASC, AIC, to use on Warren Beatty’s 1981 film Reds. ENR is a proprietary color-positive developing technique that utilizes an additional black-and-white developing bath inserted at an appropriate stage of a print’s processing in order to retain silver. After the film has been bleached, but prior to the silver being fixed out of the film, this extra bath allows for a controlled amount of silver to be redeveloped, adding density in the areas with the most exposure – primarily the blacks. See also bleach bypass.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/enr/

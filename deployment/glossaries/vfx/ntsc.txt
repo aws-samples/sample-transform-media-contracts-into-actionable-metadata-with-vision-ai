@@ -1,0 +1,5 @@
+Term: NTSC
+Glossary: vfx
+Definition: Abbreviation for National Television Systems Committee. Refers not only to the committee itself, but also to the standard that they established for color television in the United States and other countries. It carries 525 lines of information, played back at a rate of approximately 30 frames per second (actually 29.97). Due to its unreliable color reproduction ability, the initials are often said to stand for never the same color or never twice the same color.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ntsc/

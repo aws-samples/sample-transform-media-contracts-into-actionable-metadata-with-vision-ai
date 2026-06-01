@@ -1,0 +1,5 @@
+Term: Frames per second
+Glossary: vfx
+Definition: 1) How many pictures the camera is taking per second. 2) How many images the real-time engine is rendering per second, which should never run below that of the camera. Rendering frame rate is influenced by the complexity of the assets, the processing power of the artist machine, and the output resolution.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/frames-per-second/

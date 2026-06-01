@@ -1,0 +1,5 @@
+Term: Virtual camera (Vcam)
+Glossary: vfx
+Definition: A camera in a real-time engine which behaves the same way a real-world camera would with respect to optics, aspect ratio, etc. A Vcam can be manipulated using a tracked device such as a mobile device, tablet, game controller, or a physical object with a tracking reference attached such as a real-world tripod, dolly, crane, drone, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-camera-vcam/

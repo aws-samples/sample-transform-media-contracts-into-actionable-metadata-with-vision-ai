@@ -1,0 +1,4 @@
+Term: Display
+Glossary: odrl
+Definition: To create a static and transient rendition of an Asset.
+Usage Context: For example, displaying an image on a screen. If the action is to be performed to a wider audience than just the Assignees, then the Recipient constraint is recommended to be used.

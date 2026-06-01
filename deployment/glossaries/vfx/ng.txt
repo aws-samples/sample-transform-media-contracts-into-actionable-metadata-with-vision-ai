@@ -1,0 +1,5 @@
+Term: NG
+Glossary: vfx
+Definition: Abbreviation for no good (e.g., that take was NG or no good).
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ng/

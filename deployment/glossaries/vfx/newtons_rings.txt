@@ -1,0 +1,5 @@
+Term: Newton’s rings
+Glossary: vfx
+Definition: An artifact, usually seen in optical printing, characterized by circular moiré patterns that appear in the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/newtons-rings/

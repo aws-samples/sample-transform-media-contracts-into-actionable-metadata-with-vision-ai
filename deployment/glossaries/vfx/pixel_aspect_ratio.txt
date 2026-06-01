@@ -1,0 +1,5 @@
+Term: pixel aspect ratio
+Glossary: vfx
+Definition: The width of a given pixel divided by its height. A number of image representation methods do not use pixels that have an equivalent width and height. The pixel aspect ratio is independent of a particular image’s aspect ratio. See also non-square pixels.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pixel-aspect-ratio/

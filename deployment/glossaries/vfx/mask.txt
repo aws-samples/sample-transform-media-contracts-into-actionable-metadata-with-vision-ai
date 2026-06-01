@@ -1,0 +1,5 @@
+Term: mask
+Glossary: vfx
+Definition: An image used to selectively restrict or modify certain image-processing operations on another image or the process of doing so.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/mask/

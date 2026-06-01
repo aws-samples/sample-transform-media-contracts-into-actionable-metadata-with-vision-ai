@@ -1,0 +1,5 @@
+Term: Reuse Fee
+Glossary: sag_aftra
+Definition: A fee payable to a performer for the reuse of a clip or portion of their performance in a different production, commercial, or promotional context beyond the original engagement.
+Usage Context: Reuse fees are separate from residuals and are triggered when a producer wants to lift a performance segment for use elsewhere. Rates are governed by the applicable CBA and may require performer consent.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

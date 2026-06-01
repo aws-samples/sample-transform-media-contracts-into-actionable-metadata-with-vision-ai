@@ -1,0 +1,5 @@
+Term: PPD
+Glossary: vfx
+Definition: Abbreviation for Pixels Per Degree – the most accurate unit for describing an HMD visual accuracy.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ppd/

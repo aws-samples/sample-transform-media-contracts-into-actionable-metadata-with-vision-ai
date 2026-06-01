@@ -1,0 +1,5 @@
+Term: Z-space
+Glossary: vfx
+Definition: The distance of a 3D object from the camera, real or virtual. When viewing a 2D image on a monitor, Z-space is the distance away from the camera.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/z-space/

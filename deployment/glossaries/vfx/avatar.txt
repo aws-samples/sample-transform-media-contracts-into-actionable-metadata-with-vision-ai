@@ -1,0 +1,5 @@
+Term: Avatar
+Glossary: vfx
+Definition: A virtual representation of a real-world user, often operated via performance capture or physical control interfaces; see also digital humans.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/avatar/

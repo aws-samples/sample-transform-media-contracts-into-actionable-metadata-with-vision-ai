@@ -1,0 +1,5 @@
+Term: Haptics
+Glossary: vfx
+Definition: Technology that creates forces, vibrations, or temperature changes to simulate real-world sensations such as g-force and impact.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/haptics/

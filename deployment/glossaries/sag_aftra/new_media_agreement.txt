@@ -1,0 +1,5 @@
+Term: New Media Agreement
+Glossary: sag_aftra
+Definition: The SAG-AFTRA agreement covering original content produced for initial exhibition on internet, mobile, or streaming platforms rather than traditional linear television or theatrical release.
+Usage Context: Distinguishes original streaming content from made-for-TV content that is later streamed. Under the 2017 MBA, streaming residuals begin after 90 days rather than one year, with a 300% increase in first-two-year residuals.
+Source: SAG-AFTRA New Media Contract — https://www.sagaftra.org/production-center/contract/884/getting-started

@@ -1,0 +1,5 @@
+Term: special visual effects
+Glossary: vfx
+Definition: See visual effects.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/special-visual-effects/

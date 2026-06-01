@@ -1,0 +1,5 @@
+Term: paintbox
+Glossary: vfx
+Definition: Usually used in the video post-production world as a generic term for a variety of paint and compositing devices.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/paintbox/

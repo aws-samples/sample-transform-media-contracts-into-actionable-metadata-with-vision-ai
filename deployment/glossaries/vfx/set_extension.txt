@@ -1,0 +1,5 @@
+Term: Set extension
+Glossary: vfx
+Definition: A virtual continuation of a physical set which gives the illusion of a much larger area to the camera.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/set-extension/

@@ -1,0 +1,5 @@
+Term: Look up table (LUT)
+Glossary: vfx
+Definition: A mathematical formula or matrix that acts as a color correction, such as transforming between a RAW camera image and the desired display appearance such as an SDR or HDR monitor.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/look-up-table-lut/

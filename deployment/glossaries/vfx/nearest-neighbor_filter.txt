@@ -1,0 +1,5 @@
+Term: nearest-neighbor filter
+Glossary: vfx
+Definition: Another term for the impulse filter.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/nearest-neighbor-filter/

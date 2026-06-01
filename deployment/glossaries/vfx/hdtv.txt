@@ -1,0 +1,5 @@
+Term: HDTV
+Glossary: vfx
+Definition: High-definition television. A television standard with significantly greater spatial resolution than standard NTSC, PAL, or SECAM.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hdtv/

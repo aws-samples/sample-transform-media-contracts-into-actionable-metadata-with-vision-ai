@@ -1,0 +1,5 @@
+Term: Z-channel
+Glossary: vfx
+Definition: A Z-depth image that is integrated with a color image as an additional channel.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/z-channel/

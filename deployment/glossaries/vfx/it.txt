@@ -1,0 +1,5 @@
+Term: IT
+Glossary: vfx
+Definition: Abbreviation for information technology. Generally an information system, a communications system or, more specifically speaking, a computer system – including all hardware, software, and peripheral equipment – operated by a limited group of users.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/it/

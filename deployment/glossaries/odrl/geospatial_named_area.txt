@@ -1,0 +1,4 @@
+Term: Geospatial Named Area
+Glossary: odrl
+Definition: A named and identified geospatial area with defined borders which is used for exercising the action of the Rule. An IRI MUST be used to represent this value.
+Usage Context: A code value for the area and source of the code must be presented in the Right Operand. <br />Example: the [[iso3166]] Country Codes or the Getty Thesaurus of Geographic Names.

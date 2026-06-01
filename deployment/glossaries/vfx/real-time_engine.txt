@@ -1,0 +1,5 @@
+Term: Real-time engine
+Glossary: vfx
+Definition: If the physical camera needs to be motion captured to strengthen real-time integration of digital elements, see Simulcam.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/real-time-engine/

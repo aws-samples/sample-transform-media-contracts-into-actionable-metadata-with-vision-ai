@@ -1,0 +1,5 @@
+Term: banding
+Glossary: vfx
+Definition: An artifact that appears in areas of a color gradient where the lack of sufficient color resolution causes noticeable bands instead of a smooth transition. Also known as contouring. See also Mach banding.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/banding/

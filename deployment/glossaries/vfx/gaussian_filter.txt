@@ -1,0 +1,5 @@
+Term: Gaussian filter
+Glossary: vfx
+Definition: A specific digital filter that is often used when resampling an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gaussian-filter/

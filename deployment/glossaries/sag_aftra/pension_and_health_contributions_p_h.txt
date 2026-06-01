@@ -1,0 +1,5 @@
+Term: Pension and Health Contributions (P&H)
+Glossary: sag_aftra
+Definition: Employer-paid contributions to the SAG-AFTRA Pension Plan and Health Plan, calculated as a percentage of covered performer compensation. Current rates are 21% for principal performers and 20.5% for background performers.
+Usage Context: Producers must include P&H on all covered performer pay on top of scale or negotiated compensation. Non-payment results in grievance exposure and potential signatory status revocation.
+Source: SAGindie FAQ — https://www.sagindie.org/resources/faq/

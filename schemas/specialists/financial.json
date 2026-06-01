@@ -1,0 +1,69 @@
+[
+  {
+    "name": "financial",
+    "description": "Analyzes deal economics, revenue share, minimum guarantees, MFN provisions, payment terms, and audit rights. Use for contracts involving money, compensation, licensing fees, or revenue splits.",
+    "inputSchema": {
+      "type": "object",
+      "description": "Input payload for the financial specialist.",
+      "properties": {
+        "job_id": {
+          "type": "string",
+          "description": "Unique identifier for the contract-review job."
+        },
+        "extraction_s3_prefix": {
+          "type": "string",
+          "description": "S3 prefix where per-page extraction XML files are stored. The specialist reads extraction pages directly from S3."
+        },
+        "s3_prefix": {
+          "type": "string",
+          "description": "Per-job S3 key prefix (directory name) where specialist outputs are written."
+        },
+        "results_bucket": {
+          "type": "string",
+          "description": "S3 bucket name for reading extractions and writing results."
+        }
+      },
+      "required": [
+        "job_id",
+        "extraction_s3_prefix",
+        "s3_prefix",
+        "results_bucket"
+      ]
+    },
+    "outputSchema": {
+      "type": "object",
+      "description": "Result of the financial specialist analysis.",
+      "properties": {
+        "status": {
+          "type": "string",
+          "description": "Result status: COMPLETE or FAILED."
+        },
+        "specialist": {
+          "type": "string",
+          "description": "Specialist identifier that produced this result."
+        },
+        "output": {
+          "type": "string",
+          "description": "Status message confirming analysis completion and S3 location of the full output."
+        },
+        "s3_key": {
+          "type": "string",
+          "description": "Canonical S3 key where the XML output was written."
+        },
+        "elapsed": {
+          "type": "number",
+          "description": "Wall-clock time in seconds the specialist took to complete."
+        },
+        "error": {
+          "type": "string",
+          "description": "Error message (populated only when status is FAILED)."
+        }
+      },
+      "required": [
+        "status",
+        "specialist",
+        "output"
+      ]
+    }
+  }
+]

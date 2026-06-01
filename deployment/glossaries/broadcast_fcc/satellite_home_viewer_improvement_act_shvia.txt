@@ -1,0 +1,5 @@
+Term: Satellite Home Viewer Improvement Act (SHVIA)
+Glossary: broadcast_fcc
+Definition: Legislation modifying the Satellite Home Viewer Act of 1988. SHVIA permits satellite companies to provide local broadcast TV signals to all subscribers who reside in the local TV station's market, and permits satellite companies to provide 'distant' network broadcast stations to eligible satellite subscribers.
+Usage Context: Central to satellite distribution of broadcast television. Distinguishes 'local-into-local' carriage from distant network signals, each with different copyright and licensing implications.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

@@ -1,0 +1,5 @@
+Term: zoom
+Glossary: vfx
+Definition: (1) In a real camera, the act of increasing the focal length of the camera’s lens to magnify a portion of the scene. (2) With digital images, the act of increasing the scale of a portion of an image in order to duplicate the effect of a camera zoom.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/zoom/

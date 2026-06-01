@@ -1,0 +1,5 @@
+Term: OpenColorIO (OCIO)
+Glossary: vfx
+Definition: A system that enables color transforms and image display to be handled in a consistent manner across multiple graphics applications.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/opencolorio-ocio/

@@ -1,0 +1,5 @@
+Term: HSB
+Glossary: vfx
+Definition: Hue, saturation, and brightness. A method of specifying the colors in an image based on a mix of these three components.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hsb/

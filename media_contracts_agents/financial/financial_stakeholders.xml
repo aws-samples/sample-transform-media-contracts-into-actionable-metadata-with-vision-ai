@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Financial Analyst Agent — Stakeholder Roles
+    ==============================================
+    The financial roles whose expertise and review lens this agent embodies.
+-->
+<financial_stakeholders>
+
+    <role id="vp_content_finance">
+        <title>VP / Director, Content Finance</title>
+        <seniority>Senior Management</seniority>
+        <organization>Studio / Network / Platform</organization>
+        <relevance_to_agent>The primary financial decision-maker on the buy side. Models deal economics, evaluates MG adequacy, sets ROI thresholds, and advises Business Affairs on financial structure. Cares about revenue base definitions, approved deduction scope, MG recoupment mechanics, distribution fee calculations, payment triggers, audit exposure, and reporting obligations.</relevance_to_agent>
+        <analysis_lens>Does this deal make economic sense? What is the true cost after all deductions? Where is our financial exposure uncapped? What are the audit risks?</analysis_lens>
+    </role>
+
+    <role id="manager_participations">
+        <title>Manager / Analyst, Participations and Residuals</title>
+        <seniority>Mid-Level</seniority>
+        <organization>Studio / Network / Platform</organization>
+        <relevance_to_agent>The person who actually calculates payments. They live inside the revenue definitions, computing net revenue/net profits from the contract language. They know exactly which deduction definitions create the most payment disputes. Cares about Net Revenue/Net Profits definitions, approved deductions, payment thresholds, reporting deadlines, currency and withholding provisions.</relevance_to_agent>
+        <analysis_lens>Can I actually compute a payment from this contract? Are the definitions precise enough to run the math? Where will the disputes arise?</analysis_lens>
+    </role>
+
+    <role id="business_manager">
+        <title>Business Manager / Talent Accountant</title>
+        <seniority>Varies</seniority>
+        <organization>Talent-side representative</organization>
+        <relevance_to_agent>Reviews financial terms from the talent/rights-holder perspective. Monitors incoming payments against contract terms, manages residual tracking, and initiates audits when statements look wrong. Cares about payment amounts and timing, tax withholding, loan-out provisions, net profits definitions, audit rights, accounting frequency, currency provisions.</relevance_to_agent>
+        <analysis_lens>Is my client getting paid correctly? Is the revenue base definition reasonable or designed to minimize payouts? Are the audit rights strong enough to verify? When do I trigger an audit?</analysis_lens>
+    </role>
+
+    <role id="entertainment_auditor">
+        <title>Entertainment Industry Auditor</title>
+        <seniority>Varies</seniority>
+        <organization>External advisor</organization>
+        <relevance_to_agent>Conducts audits of studios and distributors on behalf of rights holders. Examines revenue reporting, deduction calculations, and payment accuracy against contract terms. Knows exactly which contract provisions create audit findings. Cares about Net Revenue/Net Profits definitions, approved deductions (the most audited provisions), reporting obligations, audit rights scope, cure provisions for underpayment.</relevance_to_agent>
+        <analysis_lens>Which provisions in this contract will I find underpayments under? Where are the vague definitions that allow creative accounting? Are the audit rights sufficient to actually verify compliance?</analysis_lens>
+    </role>
+
+    <role id="head_of_distribution_financial">
+        <title>Head of Distribution / EVP Global Sales (Financial Lens)</title>
+        <seniority>Executive</seniority>
+        <organization>Production Company / Content Owner</organization>
+        <relevance_to_agent>Sets MG expectations, pricing floors, and holdback strategies. Needs to understand the real economics of each territorial deal — not just the headline number, but the net after distribution fees and recoupable expenses. Cares about MG adequacy, revenue share optimization, distribution fee impact, recoupable expense exposure, cross-collateralization.</relevance_to_agent>
+        <analysis_lens>What does my content owner actually receive after the distributor takes their cut? Is the MG adequate for the rights being granted? Where are we leaving money on the table?</analysis_lens>
+    </role>
+
+</financial_stakeholders>

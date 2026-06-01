@@ -1,0 +1,5 @@
+Term: weave
+Glossary: vfx
+Definition: See film weave.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/weave/

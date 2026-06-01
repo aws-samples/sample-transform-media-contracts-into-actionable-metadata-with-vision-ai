@@ -1,0 +1,5 @@
+Term: digital
+Glossary: vfx
+Definition: A method of representing data via discrete, well-defined samples, as opposed to analog.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital/

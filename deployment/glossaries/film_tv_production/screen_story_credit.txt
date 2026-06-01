@@ -1,0 +1,5 @@
+Term: Screen Story Credit
+Glossary: film_tv_production
+Definition: A WGA writing credit accorded when the writer is given source material of a story nature and creates a substantially new and different story. Receiving the qualifying credit is known as 'Final Qualification' and is a prerequisite for separated rights eligibility when working from source material.
+Usage Context: A writer who believes they have created a substantially new and different story from provided source material must seek and receive a Screen Story credit to be eligible for separated rights. Governed by MBA Article 16.A.3.
+Source: WGA Understanding Separated Rights — https://www.wga.org/uploadedfiles/know_your_rights/SeparatedRights.pdf

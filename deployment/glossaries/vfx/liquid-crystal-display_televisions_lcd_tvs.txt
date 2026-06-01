@@ -1,0 +1,5 @@
+Term: Liquid-crystal-display televisions (LCD TVs)
+Glossary: vfx
+Definition: Television sets that use liquid-crystal displays to produce images. They are, by far, the most widely produced and sold television display type. LCD TVs are thin and light, but have some disadvantages compared to other display types such as high power consumption, poorer contrast ratio, and inferior color gamut.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/liquid-crystal-display-televisions-lcd-tvs/

@@ -1,0 +1,5 @@
+Term: key
+Glossary: vfx
+Definition: (1) Another name for a matte. (2) The process of extracting a subject from its background by isolating it with its own matte and compositing it over a new background.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/key/

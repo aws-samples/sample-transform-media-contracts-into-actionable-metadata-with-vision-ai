@@ -1,0 +1,4 @@
+Term: Timed Count
+Glossary: odrl
+Definition: The number of seconds after which timed metering use of the asset begins.
+Usage Context: This original term and URI from the OMA specification should be used: http://www.openmobilealliance.com/oma-dd/timed-count .

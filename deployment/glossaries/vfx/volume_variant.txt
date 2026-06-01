@@ -1,0 +1,5 @@
+Term: Volume variant
+Glossary: vfx
+Definition: A variation of a given volume load and physical set configuration, typically due to a desired change in set appearance or camera position.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/volume-variant/

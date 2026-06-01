@@ -1,0 +1,5 @@
+Term: stereoscopy
+Glossary: vfx
+Definition: (stereo) The art and science of creating images with the depth sense stereopsis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stereoscopy/

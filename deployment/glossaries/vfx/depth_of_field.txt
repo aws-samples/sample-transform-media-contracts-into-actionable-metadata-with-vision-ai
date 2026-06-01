@@ -1,0 +1,6 @@
+Term: Depth of field
+Glossary: vfx
+Definition: The distance in front of and behind the focused subject that is still sharp. Determined by the focal
+length, aperture, and camera-to-subject distance.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/depth-of-field/

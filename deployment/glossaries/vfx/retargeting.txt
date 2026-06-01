@@ -1,0 +1,5 @@
+Term: Retargeting
+Glossary: vfx
+Definition: The application of performance capture data to a CG character’s skeleton; can be used to convert motion captured such  as from a human to a larger character.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/retargeting/

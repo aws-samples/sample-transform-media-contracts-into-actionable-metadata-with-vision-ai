@@ -1,0 +1,5 @@
+Term: bounce light
+Glossary: vfx
+Definition: Light that is reflected or bounced off of other objects in a scene before it reaches the subject.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bounce-light/

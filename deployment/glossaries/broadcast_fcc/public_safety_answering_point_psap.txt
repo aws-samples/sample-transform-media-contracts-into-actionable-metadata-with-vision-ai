@@ -1,0 +1,5 @@
+Term: Public Safety Answering Point (PSAP)
+Glossary: broadcast_fcc
+Definition: A generic term for the person or group of people who answer 911 emergency phone calls. PSAPs are subject to specific FCC rules regarding 911 service provisioning and Enhanced 911 (E911) location information.
+Usage Context: Central to emergency services telecommunications framework. VoIP and mobile providers must route 911 calls to appropriate PSAPs.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

@@ -1,0 +1,5 @@
+Term: Global Illumination
+Glossary: vfx
+Definition: A method of virtual lighting which achieves greater photorealism by simulating the indirect, bounced properties of physical light; a crossover between virtual and physical cinematography.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/global-illumination/

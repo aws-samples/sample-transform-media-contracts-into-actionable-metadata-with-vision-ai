@@ -1,0 +1,5 @@
+Term: control points
+Glossary: vfx
+Definition: The specific points that are interpreted to define the shape of a curve.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/control-points/

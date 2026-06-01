@@ -1,0 +1,5 @@
+Term: British Academy of Film and Television Arts (BAFTA)
+Glossary: vfx
+Definition: The British version of the American Academy of Motion Picture Arts and Sciences (AMPAS).
+Source: ves
+Reference: https://vpglossary.com/vesglossary/british-academy-of-film-and-television-arts-bafta/

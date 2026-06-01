@@ -1,0 +1,5 @@
+Term: Digital content creation (DCC)
+Glossary: vfx
+Definition: The category of applications used to create different forms of creative content such as 3D, 2D, video, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/digital-content-creation-dcc/

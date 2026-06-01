@@ -1,0 +1,5 @@
+Term: 3D motion blur
+Glossary: vfx
+Definition: Motion blur that is calculated for a CG scene as it is rendered, as opposed to applying 2D motion blur as a post-process.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/3d-motion-blur/

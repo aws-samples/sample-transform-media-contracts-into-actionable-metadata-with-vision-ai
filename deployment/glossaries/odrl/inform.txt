@@ -1,0 +1,4 @@
+Term: Inform
+Glossary: odrl
+Definition: To inform that an action has been performed on or in relation to the Asset.
+Usage Context: May link to a Party with the role 'informedParty' function.

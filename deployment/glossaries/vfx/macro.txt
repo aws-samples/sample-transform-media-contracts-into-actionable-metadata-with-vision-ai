@@ -1,0 +1,5 @@
+Term: macro
+Glossary: vfx
+Definition: (1) In the digital world, a combination of functions or effects that are grouped together to create a new effect. (2) A specialized lens that is capable of focusing at an extremely close distance to the subject.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/macro/

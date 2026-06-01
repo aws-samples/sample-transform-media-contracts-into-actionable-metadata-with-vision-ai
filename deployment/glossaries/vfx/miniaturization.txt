@@ -1,0 +1,5 @@
+Term: miniaturization
+Glossary: vfx
+Definition: (stereo) Often occurs when a large interaxial separation is used for shots of people at medium distances or for photography of distant objects, like houses or hills. The perception of such images as miniatures is idiosyncratic and varies from person to person.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/miniaturization/

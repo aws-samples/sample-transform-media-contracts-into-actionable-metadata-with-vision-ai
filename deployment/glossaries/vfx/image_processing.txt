@@ -1,0 +1,5 @@
+Term: image processing
+Glossary: vfx
+Definition: The use of various tools and algorithms to modify digital images within a computer.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/image-processing/

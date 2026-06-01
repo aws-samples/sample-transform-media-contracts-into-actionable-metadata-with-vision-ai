@@ -1,0 +1,5 @@
+Term: Level of detail (LOD)
+Glossary: vfx
+Definition: The representation of a 3D asset, with a specific image quality and render performance. Multiple levels of detail may be produced for various applications.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/level-of-detail-lod/

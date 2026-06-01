@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Talent & Guild Compliance Analyst Agent — Stakeholder Roles
+    ==============================================================
+    The talent-side and guild roles whose expertise this agent embodies.
+-->
+<talent_stakeholders>
+
+    <role id="talent_attorney">
+        <title>Entertainment Attorney (Talent-Side)</title>
+        <seniority>Partner or Associate at entertainment law firm</seniority>
+        <organization>Talent representative (outside counsel)</organization>
+        <relevance_to_agent>The talent's comprehensive legal reviewer. Negotiates the long-form agreement after the agent sets commercial terms. Ensures pay-or-play, AI/digital likeness restrictions, morals clause narrowing, indemnification carve-outs, IP reservation, credit remedy, and back-end definitions. The single most important reviewer of talent deal terms.</relevance_to_agent>
+        <analysis_lens>Is every protection my client needs present and enforceable? Where are the gaps that expose my client to uncompensated exploitation, reputational risk, or loss of future rights?</analysis_lens>
+    </role>
+
+    <role id="talent_agent">
+        <title>Talent Agent</title>
+        <seniority>Varies</seniority>
+        <organization>Talent agency (CAA, WME, UTA, etc.)</organization>
+        <relevance_to_agent>Negotiates compensation, credit, approval rights, and exclusivity. Manages scheduling conflicts across engagements. Cares about compensation maximization, credit position and billing, exclusivity scope, approval rights breadth, pay-or-play protections, option pricing, sequel/series commitment terms.</relevance_to_agent>
+        <analysis_lens>Is the quote right? Is the credit right? Is the exclusivity too broad? Will this deal block my client from other opportunities?</analysis_lens>
+    </role>
+
+    <role id="talent_manager">
+        <title>Talent Manager</title>
+        <seniority>Varies</seniority>
+        <organization>Management company</organization>
+        <relevance_to_agent>Strategic career advisor. Monitors morals clause exposure, manages the talent's brand across all platforms, and evaluates each deal's long-term career impact. Cares about morals clause risk, exclusivity impact on other opportunities, AI/likeness protection for long-term brand value, social media rights preservation.</relevance_to_agent>
+        <analysis_lens>Does this deal protect my client's brand and career trajectory? What are the reputational landmines? Will the AI provisions come back to haunt us in five years?</analysis_lens>
+    </role>
+
+    <role id="guild_representative">
+        <title>Guild / Union Representative</title>
+        <seniority>Varies</seniority>
+        <organization>SAG-AFTRA, WGA, DGA, IATSE, or AFM</organization>
+        <relevance_to_agent>Enforces CBA terms on signatory productions. Monitors residual payments, reviews contracts for minimum compliance, negotiates industry-wide standards including AI protections. Cares about CBA compliance, minimum compensation adherence, residual calculation accuracy, AI/digital likeness protections vs. CBA requirements, credit compliance with guild standards.</relevance_to_agent>
+        <analysis_lens>Does this contract meet CBA minimums? Are residuals calculated correctly? Are the AI provisions at least as protective as what we negotiated in the 2023 contract? Is this producer a signatory?</analysis_lens>
+    </role>
+
+    <role id="talent_publicist">
+        <title>Publicist / PR Representative</title>
+        <seniority>Varies</seniority>
+        <organization>PR firm or independent</organization>
+        <relevance_to_agent>Manages talent's public image. Reviews publicity obligations for feasibility and brand alignment. Advises on morals clause risk from a reputational perspective. Cares about publicity and promotional obligations, social media requirements, likeness usage in marketing, press tour commitments.</relevance_to_agent>
+        <analysis_lens>Are the publicity obligations reasonable? Could the morals clause be weaponized? Are the social media requirements compatible with my client's brand strategy?</analysis_lens>
+    </role>
+
+</talent_stakeholders>

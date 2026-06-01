@@ -1,0 +1,5 @@
+Term: green screen
+Glossary: vfx
+Definition: Identical in use and concept to a blue screen (only it is green).
+Source: ves
+Reference: https://vpglossary.com/vesglossary/green-screen/

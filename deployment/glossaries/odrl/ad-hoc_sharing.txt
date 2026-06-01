@@ -1,0 +1,4 @@
+Term: Ad-hoc sharing
+Glossary: odrl
+Definition: The act of sharing the asset to parties in close proximity to the owner.
+Usage Context: This original term and URI from the OMA specification should be used: http://www.openmobilealliance.com/oma-dd/adhoc-share .

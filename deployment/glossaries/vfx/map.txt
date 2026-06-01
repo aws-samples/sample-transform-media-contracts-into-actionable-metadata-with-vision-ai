@@ -1,0 +1,5 @@
+Term: Map
+Glossary: vfx
+Definition: “Map” or “Level and Scene” refers to a set environment within a real-time engine.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/map/

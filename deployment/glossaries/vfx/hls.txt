@@ -1,0 +1,5 @@
+Term: HLS
+Glossary: vfx
+Definition: Hue, luminance, and saturation. A method of specifying the colors in an image based on a mix of these three components.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hls/

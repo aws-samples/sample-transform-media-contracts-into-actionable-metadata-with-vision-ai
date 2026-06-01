@@ -1,0 +1,5 @@
+Term: two-point track
+Glossary: vfx
+Definition: A type of 2D tracking in which two points are selected from a sequence of images to extract an approximation of an object’s movement relative to the camera. Allows for the determination of rotation and scale as well as basic translation. See one-point track, four-point track.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/two-point-track/

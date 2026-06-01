@@ -1,0 +1,5 @@
+Term: Storage
+Glossary: vfx
+Definition: The media in which assets are stored including magnetic and solid state hard drives. Storage performance is a critical factor for real-time workflows.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/storage/

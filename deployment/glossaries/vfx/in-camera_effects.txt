@@ -1,0 +1,5 @@
+Term: in-camera effects
+Glossary: vfx
+Definition: Visual effects that are accomplished solely during principal photography, involving no additional post-production.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/in-camera-effects/

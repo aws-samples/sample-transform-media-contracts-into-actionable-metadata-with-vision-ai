@@ -1,0 +1,5 @@
+Term: premultiplied image
+Glossary: vfx
+Definition: An image whose red, green, and blue channels have been multiplied by a matte. Usually this matte is stored as the alpha channel of this image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/premultiplied-image/

@@ -1,0 +1,5 @@
+Term: backing color
+Glossary: vfx
+Definition: The color of the uniform background that is used when shooting an element for traveling matte extraction.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/backing-color/

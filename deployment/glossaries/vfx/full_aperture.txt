@@ -1,0 +1,5 @@
+Term: full aperture
+Glossary: vfx
+Definition: A specific 35mm film framing, also known as camera aperture.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/full-aperture/

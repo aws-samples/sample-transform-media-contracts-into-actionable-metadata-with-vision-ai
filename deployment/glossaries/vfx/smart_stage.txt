@@ -1,0 +1,5 @@
+Term: Smart stage
+Glossary: vfx
+Definition: A stage purpose-built for virtual production which might include LED walls, tracking systems, real-time animation, performance capture, and VR capabilities.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/smart-stage/

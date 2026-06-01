@@ -1,0 +1,5 @@
+Term: Story By Credit
+Glossary: film_tv_production
+Definition: A WGA credit used when the writer was hired to write for story, when the story idea was purchased from the writer by a WGA signatory company, or when the resultant script is based on a sequel story devised by the writer under WGA jurisdiction. The 'Story by' credit cannot be shared by more than two writers in film and three in television.
+Usage Context: A 'Story by' credit with an accompanying 'Screenplay by' credit establishes separated rights. The story may have been written in different literary forms, including a film treatment.
+Source: WGA Screenwriting Credit System — https://en.wikipedia.org/wiki/WGA_screenwriting_credit_system

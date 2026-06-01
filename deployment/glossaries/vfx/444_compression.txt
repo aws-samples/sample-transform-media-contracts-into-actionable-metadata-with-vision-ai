@@ -1,0 +1,5 @@
+Term: 4:4:4 compression
+Glossary: vfx
+Definition: A method of encoding the data needed to represent an image by sampling Y (luminance) and UV (chroma) for every pixel in the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/444-compression/

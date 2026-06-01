@@ -1,0 +1,5 @@
+Term: Residuals Base
+Glossary: sag_aftra
+Definition: The compensation figure against which residual percentages are calculated for a given performer's engagement, typically consisting of the performer's gross compensation plus applicable P&H contributions attributable to residual-covered uses.
+Usage Context: For a day player, the residuals base equals the total guaranteed compensation paid plus H&P contributions. Used as the multiplicand in applying percentage-based residual schedules for each market or run.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

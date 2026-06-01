@@ -1,0 +1,5 @@
+Term: trucking
+Glossary: vfx
+Definition: Camera movement that is perpendicular to the direction of the camera lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/trucking/

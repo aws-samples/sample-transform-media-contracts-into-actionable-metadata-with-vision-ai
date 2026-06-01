@@ -1,0 +1,5 @@
+Term: technical previs (Techvis)
+Glossary: vfx
+Definition: Incorporates and generates accurate camera, lighting, design, and scene layout information to help define production requirements. This often takes the form of dimensional diagrams that illustrate how particular shots can be accomplished, using real-world terms and measurements. Also see previs, pitchvis, on-set previs, and postvis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/technical-previs-techvis/

@@ -1,0 +1,5 @@
+Term: cinematographer
+Glossary: vfx
+Definition: An individual who is experienced in the art of capturing images on camera. The main cinematographer for a film is the Director of Photography.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cinematographer/

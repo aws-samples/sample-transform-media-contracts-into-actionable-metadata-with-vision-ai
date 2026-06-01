@@ -1,0 +1,5 @@
+Term: color timer or grader (colorist)
+Glossary: vfx
+Definition: A person who adjusts the scene-to-scene color continuity when preparing the final print of a film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-timer-or-grader-colorist/

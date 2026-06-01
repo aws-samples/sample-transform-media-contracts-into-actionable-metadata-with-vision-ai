@@ -1,0 +1,5 @@
+Term: Virtual scouting
+Glossary: vfx
+Definition: The use of tools such as virtual cameras and VR headsets to share and interact with a model of a set for shot planning and production design.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-scouting/

@@ -1,0 +1,5 @@
+Term: exposure split
+Glossary: vfx
+Definition: A simple split-screen shot in which multiple exposures of a given scene are combined in order to bring areas of widely divergent brightness into the same shot. Also known as an E-split.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/exposure-split/

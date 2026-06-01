@@ -1,0 +1,5 @@
+Term: Aspect ratio
+Glossary: vfx
+Definition: The ratio between the width and the height of an image or screen. Some common film/TV production aspect ratios are 1.85(spherical), 2.35/2.39(scope/anamorphic), and 1.77 (aka 16:9)
+Source: vp
+Reference: https://vpglossary.com/vpglossary/aspect-ratio/

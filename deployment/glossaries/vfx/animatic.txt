@@ -1,0 +1,5 @@
+Term: animatic
+Glossary: vfx
+Definition: A rough animation that gives some idea about the timing of a sequence. Essentially a moving storyboard. See previs.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/animatic/

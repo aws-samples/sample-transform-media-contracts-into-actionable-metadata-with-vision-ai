@@ -1,0 +1,5 @@
+Term: prime lens
+Glossary: vfx
+Definition: A camera lens with a fixed focal length, as opposed to a zoom lens, which has a variable focal length.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/prime-lens/

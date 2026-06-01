@@ -1,0 +1,5 @@
+Term: Engine operator
+Glossary: vfx
+Definition: The crewmember responsible for maintaining and operating the real-time engine within the volume, and loading and operating assets.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/engine-operator/

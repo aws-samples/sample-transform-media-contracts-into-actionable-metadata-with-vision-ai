@@ -1,0 +1,5 @@
+Term: viewing frustum
+Glossary: vfx
+Definition: The region of space in the modeled world that may appear on the screen; it is the field of view of the notional camera. The exact shape of this region varies depending on what kind of camera lens is being simulated, but typically it is a frustum of a rectangular pyramid (hence the name). The planes that cut the frustum perpendicular to the viewing direction are called the near plane and the far plane. Objects closer to the camera than the near plane or beyond the far plane are not drawn. Often, the far plane is placed infinitely far away from the camera so all objects within the frustum are drawn regardless of their distance from the camera. Also referred
+Source: ves
+Reference: https://vpglossary.com/vesglossary/viewing-frustum/

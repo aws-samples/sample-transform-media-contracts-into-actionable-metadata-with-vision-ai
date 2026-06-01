@@ -1,0 +1,4 @@
+Term: Translate
+Glossary: odrl
+Definition: To translate the original natural language of an Asset into another natural language.
+Usage Context: A new derivative Asset is created by that action.

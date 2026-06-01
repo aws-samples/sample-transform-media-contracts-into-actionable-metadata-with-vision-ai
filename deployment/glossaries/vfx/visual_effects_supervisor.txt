@@ -1,0 +1,5 @@
+Term: Visual effects supervisor
+Glossary: vfx
+Definition: The crewmember responsible for the creative and technical aspects of visual effects. Real-time assets often overlap with post-production visual effects and the virtual production supervisor.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/visual-effects-supervisor/

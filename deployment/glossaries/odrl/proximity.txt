@@ -1,0 +1,4 @@
+Term: proximity
+Glossary: odrl
+Definition: An value indicating the closeness or nearness.
+Usage Context: This original term and URI from the OMA specification should be used: http://www.openmobilealliance.com/oma-dd/proximity .

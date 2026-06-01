@@ -1,0 +1,4 @@
+Term: Compensated Party
+Glossary: odrl
+Definition: The Party is the recipient of the compensation.
+Usage Context: Maybe specified as part of the compensate duty action.

@@ -1,0 +1,5 @@
+Term: High Definition Television (HDTV)
+Glossary: broadcast_fcc
+Definition: An improved television system which provides approximately twice the vertical and horizontal resolution of existing (standard definition) television standards. HDTV also provides audio quality approaching that of compact discs.
+Usage Context: Common HDTV resolutions include 720p and 1080i/1080p. Distribution agreements typically require HD 1080p delivery files in H.264 or H.265 codec. Successor technology UHD/4K has largely taken over as the premium format.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

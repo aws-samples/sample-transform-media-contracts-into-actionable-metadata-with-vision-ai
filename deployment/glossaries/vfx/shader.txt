@@ -1,0 +1,5 @@
+Term: Shader
+Glossary: vfx
+Definition: is a type of computer program that performs a variety of specialized functions in various fields of computer graphics special effects, or does video post-processing unrelated to shading, or even performs functions unrelated to graphics at all.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/shader/

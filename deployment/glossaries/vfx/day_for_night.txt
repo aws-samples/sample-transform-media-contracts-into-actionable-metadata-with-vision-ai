@@ -1,0 +1,5 @@
+Term: day for night
+Glossary: vfx
+Definition: The process of shooting footage in daylight conditions with the intention of eventually presenting it as a nighttime scene. It may involve a combination of photographic, lighting, and digital post-processing techniques.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/day-for-night/

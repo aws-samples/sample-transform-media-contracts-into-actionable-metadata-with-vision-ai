@@ -1,0 +1,6 @@
+Term: 2D
+Glossary: vfx
+Definition: 2D: Shorthand for two dimensional. Containing information in only two dimensions (generally
+width and height) without any sense of depth.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/2d/

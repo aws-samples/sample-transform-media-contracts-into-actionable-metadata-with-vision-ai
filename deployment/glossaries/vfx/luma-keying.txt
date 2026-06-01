@@ -1,0 +1,5 @@
+Term: luma-keying
+Glossary: vfx
+Definition: A matte-extraction technique that uses the luminance values in the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/luma-keying/

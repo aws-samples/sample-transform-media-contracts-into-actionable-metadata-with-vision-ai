@@ -1,0 +1,5 @@
+Term: tablet
+Glossary: vfx
+Definition: A user-input device that provides a greater amount of control than the traditional computer mouse. Generally used in conjunction with a special pen.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/tablet/

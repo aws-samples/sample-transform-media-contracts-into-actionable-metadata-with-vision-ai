@@ -1,0 +1,5 @@
+Term: Grant of Rights
+Glossary: publishing_literary_rights
+Definition: The clause at the heart of the publishing contract that describes the exclusive rights the author is granting to the publisher — what the publisher is authorized to do with the book and, conversely, what the author is giving up in exchange for the advance and royalties. Typically specifies the rights granted (hardcover, trade paperback, mass-market, ebook, audiobook, etc.), the territory (worldwide vs. specific markets), and the language(s).
+Usage Context: The most negotiable and consequential clause. Authors should reserve rights not being actively exploited by the publisher and narrow grants to specific markets the publisher is capable of serving. Granting worldwide, all-language, all-format rights without justification is disfavored.
+Source: Authors Guild Model Trade Book Contract Section 2 — https://go.authorsguild.org/contract_sections/2

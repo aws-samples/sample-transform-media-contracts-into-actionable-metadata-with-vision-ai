@@ -1,0 +1,5 @@
+Term: Digital Replica
+Glossary: sag_aftra
+Definition: A replica of a performer's voice and/or likeness that is created using digital technology, such as artificial intelligence. Under the 2023 TV/Theatrical Contracts, there are two categories of principal performer digital replicas (Employment-Based and Independently Created) and one category of background actor digital replica.
+Usage Context: The 2023 MBA requires mandatory, clear and conspicuous consent from the performer for the creation and each use of their digital replica, with a reasonably specific description of the intended use. Consent not obtained before death must be obtained from an authorized representative or the Union.
+Source: SAG-AFTRA Digital Replicas 101 — https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf

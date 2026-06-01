@@ -1,0 +1,4 @@
+Term: Accept Tracking
+Glossary: odrl
+Definition: To accept that the use of the Asset may be tracked.
+Usage Context: The collected information may be tracked by the Assigner, or may link to a Party with the role 'trackingParty' function.

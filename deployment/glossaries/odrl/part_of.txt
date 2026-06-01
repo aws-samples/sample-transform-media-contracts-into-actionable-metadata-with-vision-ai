@@ -1,0 +1,3 @@
+Term: Part Of
+Glossary: odrl
+Definition: Identifies an Asset/PartyCollection that the Asset/Party is a member of.

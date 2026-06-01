@@ -1,0 +1,5 @@
+Term: Infringement of the Work
+Glossary: publishing_literary_rights
+Definition: A clause addressing how the parties will respond to third-party infringement of the copyright in the work — including who has the right to bring suit, who pays legal costs, and how any recovery is shared between author and publisher.
+Usage Context: Typical arrangements give the publisher a first right to enforce, with the author retaining a secondary right if the publisher declines. Costs and recovery are often shared in proportion to each party's financial interest.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

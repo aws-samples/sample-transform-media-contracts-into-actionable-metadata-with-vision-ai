@@ -1,0 +1,5 @@
+Term: foreground
+Glossary: vfx
+Definition: Usually the primary element to be added to a composite and placed over the background. A composite often has several foreground elements.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/foreground/

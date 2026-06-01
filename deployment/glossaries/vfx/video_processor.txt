@@ -1,0 +1,5 @@
+Term: Video processor
+Glossary: vfx
+Definition: Within an LED volume, this device distributes a video signal to the individual panels which comprise the volume’s screens.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/video-processor/

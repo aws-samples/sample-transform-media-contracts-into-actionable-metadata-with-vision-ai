@@ -1,0 +1,5 @@
+Term: Leica camera
+Glossary: vfx
+Definition: One of the finest still cameras made. Known for their quiet shutter and for great lenses that have amazing contrast and sharpness.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/leica-camera/

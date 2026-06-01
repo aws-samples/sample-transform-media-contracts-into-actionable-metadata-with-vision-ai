@@ -1,0 +1,5 @@
+Term: Reversion of Rights
+Glossary: publishing_literary_rights
+Definition: A contractual provision allowing the author to reclaim the publishing rights from the publisher when specified conditions occur — typically when the book goes out of print, the publisher fails to publish within a contracted time frame, or sales drop below a specified threshold. Once rights revert, the author is free to re-license the work to another publisher or to self-publish.
+Usage Context: Critical author protection. Authors Guild advocates for clear, measurable out-of-print standards (e.g., print sales below a defined number per royalty period, with ebook availability not defeating reversion). In the modern era, publishers often argue that perpetual ebook availability prevents reversion, making specific numerical triggers essential.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

@@ -1,0 +1,5 @@
+Term: linear interpolation
+Glossary: vfx
+Definition: A method of interpolation that is based on the average of the two nearest neighbors. See also bicubic interpolation, bilinear interpolation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/linear-interpolation/

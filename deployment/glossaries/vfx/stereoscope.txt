@@ -1,0 +1,5 @@
+Term: stereoscope
+Glossary: vfx
+Definition: (stereo) A device for viewing plano-stereoscopic images. It is usually an optical device with twin viewing systems.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stereoscope/

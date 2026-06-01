@@ -1,0 +1,5 @@
+Term: 3D
+Glossary: vfx
+Definition: Shorthand for three dimensional. Having characteristics in three different dimensions, most often width, height, and depth.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/3d/

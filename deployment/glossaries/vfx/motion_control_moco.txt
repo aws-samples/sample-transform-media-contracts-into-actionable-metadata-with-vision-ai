@@ -1,0 +1,5 @@
+Term: Motion control (Moco)
+Glossary: vfx
+Definition: A special rig which uses mechanical servos and computer control to create precise, repeatable movements for visual effects shots. Can be applied to camera rigs or to physical elements.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-control-moco/

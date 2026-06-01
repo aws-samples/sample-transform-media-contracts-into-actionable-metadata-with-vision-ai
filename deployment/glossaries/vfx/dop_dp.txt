@@ -1,0 +1,5 @@
+Term: DoP, DP
+Glossary: vfx
+Definition: Director of Photography. See also cinematographer. DPI: Abbreviation for dots per inch.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dop-dp/

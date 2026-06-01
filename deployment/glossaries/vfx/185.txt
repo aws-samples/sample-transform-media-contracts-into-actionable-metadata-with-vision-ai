@@ -1,0 +1,5 @@
+Term: 1.85
+Glossary: vfx
+Definition: Common aspect ratio of width to the height of the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/1-85/

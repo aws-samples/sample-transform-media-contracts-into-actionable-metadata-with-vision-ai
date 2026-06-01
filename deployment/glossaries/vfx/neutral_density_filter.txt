@@ -1,0 +1,5 @@
+Term: neutral density filter
+Glossary: vfx
+Definition: An optical filter that is designed to reduce the intensity of the light passing through it without affecting the color of the light.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/neutral-density-filter/

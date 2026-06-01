@@ -1,0 +1,4 @@
+Term: Unique Identifier
+Glossary: odrl
+Definition: An unambiguous identifier
+Usage Context: Used by the Policy, Rule, Asset, Party, Constraint, and Logical Constraint Classes.

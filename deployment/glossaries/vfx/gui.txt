@@ -1,0 +1,5 @@
+Term: GUI
+Glossary: vfx
+Definition: Abbreviation for graphical user interface.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gui/

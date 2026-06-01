@@ -1,0 +1,5 @@
+Term: MPEG
+Glossary: vfx
+Definition: A (typically lossy) compression technique specifically designed to deal with sequences of images or the format of the images produced by this technique. MPEG is an abbreviation for the Moving Picture Experts Group.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/mpeg/

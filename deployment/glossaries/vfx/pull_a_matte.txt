@@ -1,0 +1,5 @@
+Term: pull a matte
+Glossary: vfx
+Definition: The process of creating a matte for an object, usually through keying techniques.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pull-a-matte/

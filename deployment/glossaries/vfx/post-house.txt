@@ -1,0 +1,5 @@
+Term: post-house
+Glossary: vfx
+Definition: A facility where the post-production work takes place.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/post-house/

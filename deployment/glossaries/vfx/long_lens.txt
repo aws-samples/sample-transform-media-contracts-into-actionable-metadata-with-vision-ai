@@ -1,0 +1,5 @@
+Term: long lens
+Glossary: vfx
+Definition: A relative term, in contrast to a short lens. Also known as a telephoto lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/long-lens/

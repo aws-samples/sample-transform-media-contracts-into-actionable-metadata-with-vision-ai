@@ -1,0 +1,5 @@
+Term: 70mm film
+Glossary: vfx
+Definition: The widest gauge film format, featuring twice the width of standard 35mm film. See also IMAX.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/70mm-film/

@@ -1,0 +1,5 @@
+Term: First-Look Deal
+Glossary: media_rights_legal
+Definition: An agreement giving one party the first opportunity to acquire or license a project before it can be offered to competitors. Does not obligate the first-look holder to proceed.
+Usage Context: Development and production deals between studios and producers or talent.
+Source: media_rights_legal

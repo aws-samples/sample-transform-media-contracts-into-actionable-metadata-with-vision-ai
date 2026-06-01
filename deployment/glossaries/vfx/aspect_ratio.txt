@@ -1,0 +1,5 @@
+Term: aspect ratio
+Glossary: vfx
+Definition: A single number that is the result of dividing the width of an image by its height. The units used to measure the width and height are irrelevant, since they will cancel when divided together to give a unitless result. See also pixel aspect ratio.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/aspect-ratio/

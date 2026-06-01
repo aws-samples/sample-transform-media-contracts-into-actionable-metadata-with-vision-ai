@@ -1,0 +1,5 @@
+Term: vaporware
+Glossary: vfx
+Definition: A product that does not yet exist but is nevertheless being promised for delivery.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/vaporware/

@@ -1,0 +1,4 @@
+Term: Obtain Consent
+Glossary: odrl
+Definition: To obtain verifiable consent to perform the requested action in relation to the Asset.
+Usage Context: May be used as a Duty to ensure that the Assigner or a Party is authorized to approve such actions on a case-by-case basis. May link to a Party with the role “consentingParty” function.

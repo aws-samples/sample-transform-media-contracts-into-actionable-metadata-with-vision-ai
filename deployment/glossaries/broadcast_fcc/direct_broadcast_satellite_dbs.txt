@@ -1,0 +1,5 @@
+Term: Direct Broadcast Satellite (DBS)
+Glossary: broadcast_fcc
+Definition: A high-powered satellite that transmits or retransmits signals intended for direct reception by subscribers. The signal is transmitted to a small earth station or dish (typically around 18 inches in diameter) mounted on homes or other buildings.
+Usage Context: DIRECTV and Dish Network are principal U.S. DBS providers. Distribution agreements with DBS providers are distinct from cable and terrestrial broadcast licenses, subject to specific FCC rules.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

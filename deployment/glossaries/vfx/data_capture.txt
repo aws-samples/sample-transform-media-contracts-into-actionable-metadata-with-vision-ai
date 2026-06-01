@@ -1,0 +1,5 @@
+Term: Data capture
+Glossary: vfx
+Definition: The capture of important details during principal photography such as photographic reference, lighting reference, LIDAR scans, camera metadata, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/data-capture/

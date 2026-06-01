@@ -1,0 +1,5 @@
+Term: gray scale image
+Glossary: vfx
+Definition: A completely desaturated image, with no color, only shades of gray.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/gray-scale-image/

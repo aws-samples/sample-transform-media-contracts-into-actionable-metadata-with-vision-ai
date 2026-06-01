@@ -1,0 +1,5 @@
+Term: Simulcam
+Glossary: vfx
+Definition: The live compositing of virtual elements with live-action. Used for previewing virtual characters and environments during live-action cinematography. See also augmented reality.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/simulcam/

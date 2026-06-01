@@ -1,0 +1,5 @@
+Term: Interaxial distance (IA)
+Glossary: vfx
+Definition: (stereo) The distance between camera lenses’ axes. See “T.” Also called interaxial separation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/interaxial-distance-ia/

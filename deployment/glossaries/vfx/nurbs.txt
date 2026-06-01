@@ -1,0 +1,5 @@
+Term: NURBs
+Glossary: vfx
+Definition: Abbreviation for Non-Uniform Rational B-spline.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/nurbs/

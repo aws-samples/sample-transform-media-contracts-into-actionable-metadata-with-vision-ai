@@ -1,0 +1,3 @@
+Term: Attach source
+Glossary: odrl
+Definition: The act of attaching the source of the asset and its derivatives.

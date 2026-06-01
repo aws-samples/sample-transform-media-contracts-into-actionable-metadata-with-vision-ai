@@ -1,0 +1,5 @@
+Term: Techvis
+Glossary: vfx
+Definition: The use of 3D assets to perform technical analysis on scenes: determine camera type, lenses, rigging, portions of sets which need to be physically built vs. virtual, stunts, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/techvis/

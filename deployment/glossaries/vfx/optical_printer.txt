@@ -1,0 +1,5 @@
+Term: optical printer
+Glossary: vfx
+Definition: A device used to combine one or more different film elements and rephotograph them onto a new piece of film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/optical-printer/

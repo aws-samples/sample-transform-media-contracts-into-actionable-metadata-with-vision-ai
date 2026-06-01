@@ -1,0 +1,5 @@
+Term: Virtual art department (VAD)
+Glossary: vfx
+Definition: The department which produces all real-time assets such as characters, props, and environments for traditional previs, and virtual production. VAD artists help design and assess which set builds will be practical and which will be digital.They capture physical sets and locations, virtually scout digital locations, and develop preliminary environments that the DP can pre-light.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-art-department-vad/

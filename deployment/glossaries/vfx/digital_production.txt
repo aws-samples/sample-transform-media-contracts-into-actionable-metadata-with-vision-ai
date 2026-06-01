@@ -1,0 +1,5 @@
+Term: Digital production
+Glossary: vfx
+Definition: The phases of production within a project which involve visual effects development, in which many tasks can occur simultaneously. See also physical production and virtual production.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/digital-production/

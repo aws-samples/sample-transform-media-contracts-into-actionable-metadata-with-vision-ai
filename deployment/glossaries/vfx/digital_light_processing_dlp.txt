@@ -1,0 +1,5 @@
+Term: Digital Light Processing (DLP)
+Glossary: vfx
+Definition: is a set of chipsets based on optical micro-electro-mechanical technology that uses a digital micromirror device. DLP is used in a variety of display applications from traditional static displays to interactive displays and also non-traditional embedded applications including medical, security, and industrial uses. DLP technology is used in DLP front projectors (standalone projection units for classrooms and business primarily), DLP rear projection television sets, and digital signs. It is also used in about 85% of digital cinema projection, and in additive manufacturing as a light source in some printers to cure resins into solid 3D objects.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/digital-light-processing-dlp/

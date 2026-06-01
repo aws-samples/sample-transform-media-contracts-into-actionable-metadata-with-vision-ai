@@ -1,0 +1,5 @@
+Term: analog
+Glossary: vfx
+Definition: Information/data that is continuously variable, without discrete steps or quantization, as opposed to digital.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/analog/

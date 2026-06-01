@@ -1,0 +1,5 @@
+Term: Licensed Media
+Glossary: media_rights_legal
+Definition: The specific distribution platforms and formats authorized under a license (e.g., linear broadcast, SVOD, AVOD, TVOD, theatrical, home video).
+Usage Context: Content licensing: 'The license shall extend to the following Licensed Media: (a) SVOD; (b) AVOD; (c) TVOD.'
+Source: media_rights_legal

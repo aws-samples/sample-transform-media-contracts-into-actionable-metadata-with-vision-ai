@@ -1,0 +1,5 @@
+Term: LED (Light emitting diode)
+Glossary: vfx
+Definition: a semiconductor light source that emits light when current flows through it. The color of the light is determined by the energy required for electrons to cross the band gap of the semiconductor. White light is obtained by using multiple semiconductors or a layer of light-emitting phosphor on the semiconductor device.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/led-light-emitting-diode/

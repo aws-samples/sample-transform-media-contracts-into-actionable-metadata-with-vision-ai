@@ -1,0 +1,5 @@
+Term: FIZ (Focus, Iris, Zoom)
+Glossary: vfx
+Definition: A control system which enables the remote control of focus, iris, and zoom settings on a camera lens simultaneously.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/fiz-focus-iris-zoom/

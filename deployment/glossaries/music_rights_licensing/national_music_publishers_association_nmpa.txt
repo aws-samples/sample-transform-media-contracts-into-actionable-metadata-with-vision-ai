@@ -1,0 +1,5 @@
+Term: National Music Publishers' Association (NMPA)
+Glossary: music_rights_licensing
+Definition: The trade association representing U.S. music publishers. Founded in 1917, the NMPA advocates for the rights of music publishers and songwriters, including copyright protection, fair licensing terms, and royalty collection. The NMPA established the Harry Fox Agency in 1927.
+Usage Context: The NMPA negotiates industry-wide agreements on behalf of music publishers, including licensing agreements with digital service providers, and advocates for legislation such as the Music Modernization Act.
+Source: NMPA Music Publishing 101 — https://www.nmpa.org/people/music-publishing-101/

@@ -1,0 +1,5 @@
+Term: SIGGRAPH
+Glossary: vfx
+Definition: The Special Interest Group for Graphics, a subgroup under the Association for Computing Machinery, and the major organization for graphics professionals. Also, the annual conference sponsored by this group, which features a large number of courses and seminars – and some really big parties.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/siggraph/

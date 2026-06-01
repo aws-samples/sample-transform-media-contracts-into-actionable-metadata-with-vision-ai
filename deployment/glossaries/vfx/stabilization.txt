@@ -1,0 +1,5 @@
+Term: stabilization
+Glossary: vfx
+Definition: The process of removing bounce or jitter from a sequence of images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stabilization/

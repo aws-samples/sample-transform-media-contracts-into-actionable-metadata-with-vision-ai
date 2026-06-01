@@ -1,0 +1,5 @@
+Term: timeline graph
+Glossary: vfx
+Definition: A graph that represents the temporal relationships between objects or data.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/timeline-graph/

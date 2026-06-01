@@ -1,0 +1,5 @@
+Term: Head tracking
+Glossary: vfx
+Definition: The method used by a head-mounted display to project the correct image by tracking a user’s head movements via gyroscopes, sensors, cameras, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/head-tracking/

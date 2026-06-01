@@ -1,0 +1,5 @@
+Term: HMD
+Glossary: vfx
+Definition: Abbreviation for Head Mounted Display.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/hmd/

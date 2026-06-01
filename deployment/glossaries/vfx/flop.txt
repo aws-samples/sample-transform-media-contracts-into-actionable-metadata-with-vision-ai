@@ -1,0 +1,5 @@
+Term: flop
+Glossary: vfx
+Definition: A simple geometric transform in which an image is mirrored about the y-axis.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/flop/

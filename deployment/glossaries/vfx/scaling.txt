@@ -1,0 +1,5 @@
+Term: scaling
+Glossary: vfx
+Definition: A geometric transformation that changes the size of an image, usually without changing its location or orientation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/scaling/

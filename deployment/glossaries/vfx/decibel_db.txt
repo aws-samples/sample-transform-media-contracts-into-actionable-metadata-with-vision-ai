@@ -1,0 +1,5 @@
+Term: decibel (dB)
+Glossary: vfx
+Definition: A unit of measurement that expresses a ratio using logarithmic scales to give results related to human perception.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/decibel-db/

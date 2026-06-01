@@ -1,0 +1,5 @@
+Term: Physical production
+Glossary: vfx
+Definition: The phases of production within a project which involve physical and linear work, as opposed to digital production in which many tasks can occur simultaneously. See also digital production and virtual production.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/physical-production/

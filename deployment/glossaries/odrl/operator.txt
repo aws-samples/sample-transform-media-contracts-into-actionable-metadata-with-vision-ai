@@ -1,0 +1,4 @@
+Term: Operator
+Glossary: odrl
+Definition: Operator for constraint expression.
+Usage Context: Instances of the Operator class representing relational operators.

@@ -1,0 +1,5 @@
+Term: Force Majeure
+Glossary: media_rights_legal
+Definition: A contractual provision excusing performance when prevented by extraordinary events beyond reasonable control: natural disasters, war, pandemic, government action, infrastructure failure.
+Usage Context: General provisions: 'Neither party shall be liable for failure to perform due to causes beyond its reasonable control.'
+Source: media_rights_legal

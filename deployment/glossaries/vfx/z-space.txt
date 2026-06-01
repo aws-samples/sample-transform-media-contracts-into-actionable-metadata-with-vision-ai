@@ -1,0 +1,5 @@
+Term: Z-space
+Glossary: vfx
+Definition: A way of stating where an object is in relation to the camera on one axis – close to near.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/z-space/

@@ -1,0 +1,5 @@
+Term: slate
+Glossary: vfx
+Definition: Information about a particular shot that is placed at the head of the shot, before the actual image begins.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/slate/

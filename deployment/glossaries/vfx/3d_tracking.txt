@@ -1,0 +1,5 @@
+Term: 3D tracking
+Glossary: vfx
+Definition: Unlike 2D tracking, 3D tracking is intended to recreate the full 3D movement of the camera that photographed a particular scene (or, less commonly, the full 3D movement of an object in the scene). See also matchmove.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/3d-tracking/

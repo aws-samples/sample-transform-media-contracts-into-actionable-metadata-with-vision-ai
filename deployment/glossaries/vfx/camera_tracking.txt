@@ -1,0 +1,5 @@
+Term: Camera tracking
+Glossary: vfx
+Definition: The solving of a live action camera’s position and orientation. In a real-time scenario, these coordinates are sent to the engine enabling the equivalent virtual camera to move identically. There are a variety of tracking methods such as mocap markers, a SLAM tracking device on the camera, or encoding the crane/camera platform itself. Another use of this term refers to a similar process of deriving of the camera position from footage. This is often done in post, but can be done during production with the intent of driving an element shoot.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/camera-tracking/

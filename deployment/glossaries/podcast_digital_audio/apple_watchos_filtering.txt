@@ -1,0 +1,5 @@
+Term: Apple watchOS Filtering
+Glossary: podcast_digital_audio
+Definition: IAB-specified filtering guidance requiring that downloads to Apple Watch devices (which appear as duplicative synchronization of iPhone downloads) be filtered out and not counted as unique downloads or listeners. User agents that begin with 'atc/' and include 'watchOS,' or contain '(null)/(null) watchOS*,' should be filtered out altogether.
+Usage Context: As of October 1, 2020, participating IAB Tech Lab member companies agreed that traffic from Apple Podcasts on watchOS devices would no longer be counted toward any totals reported for the podcasting industry. Majority of watchOS downloads are automated, not user-initiated.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

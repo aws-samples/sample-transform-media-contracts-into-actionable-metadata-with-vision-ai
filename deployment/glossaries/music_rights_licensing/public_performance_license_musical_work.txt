@@ -1,0 +1,5 @@
+Term: Public Performance License (Musical Work)
+Glossary: music_rights_licensing
+Definition: A license covering music broadcast on radio (terrestrial and satellite), in live venues, and in other public places. The royalties are collected and paid by public performance societies — in the U.S., ASCAP, BMI, and SESAC.
+Usage Context: Distinct from the public performance right in a sound recording, which in the U.S. exists only for digital audio transmissions and is administered by SoundExchange. Terrestrial radio in the U.S. pays for composition performance but not for sound recording performance.
+Source: NMPA Music Publishing 101 — https://www.nmpa.org/people/music-publishing-101/

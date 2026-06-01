@@ -1,0 +1,5 @@
+Term: traveling matte
+Glossary: vfx
+Definition: Any matte that changes over time, as opposed to a static matte.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/traveling-matte/

@@ -1,0 +1,5 @@
+Term: internegative (IN)
+Glossary: vfx
+Definition: Short for intermediate negative, a copy made from the interpositive through printing and developing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/internegative-in/

@@ -1,0 +1,4 @@
+Term: Conflict Strategy Preference
+Glossary: odrl
+Definition: Used to establish strategies to resolve conflicts that arise from the merging of Policies or conflicts between Permissions and Prohibitions in the same Policy.
+Usage Context: Instances of ConflictTerm describe strategies for resolving conflicts.

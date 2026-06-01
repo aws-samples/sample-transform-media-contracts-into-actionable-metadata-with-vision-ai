@@ -1,0 +1,5 @@
+Term: DCI
+Glossary: vfx
+Definition: Abbreviation for Digital Cinematography Initiative for Digital Projection.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dci/

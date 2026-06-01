@@ -1,0 +1,5 @@
+Term: Version control
+Glossary: vfx
+Definition: A system for tracking and managing changes to digital assets, highly useful for the art development cycle during pre-production.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/version-control/

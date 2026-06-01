@@ -1,0 +1,5 @@
+Term: run takes
+Glossary: vfx
+Definition: In-progress versions of a shot, designated by specific numerical take numbers, to serve as a record of the shot’s progress at a particular point in its production history.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/run-takes/

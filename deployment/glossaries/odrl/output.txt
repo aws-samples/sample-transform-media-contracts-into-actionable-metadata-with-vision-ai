@@ -1,0 +1,3 @@
+Term: Output
+Glossary: odrl
+Definition: The output property specifies the Asset which is created from the output of the Action.

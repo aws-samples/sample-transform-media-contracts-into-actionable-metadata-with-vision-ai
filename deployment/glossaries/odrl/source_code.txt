@@ -1,0 +1,4 @@
+Term: Source Code
+Glossary: odrl
+Definition: Source code (the preferred form for making modifications) must be provided when exercising some rights granted by the license.
+Usage Context: This term is defined by Creative Commons.

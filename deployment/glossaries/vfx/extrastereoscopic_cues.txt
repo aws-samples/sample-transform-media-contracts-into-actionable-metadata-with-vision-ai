@@ -1,0 +1,5 @@
+Term: extrastereoscopic cues
+Glossary: vfx
+Definition: (stereo) Those depth cues appreciated by a person using only one eye. Also called monocular cues. They include interposition, geometric perspective, motion parallax, aerial perspective, relative size, shading, and textural gradient.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/extrastereoscopic-cues/

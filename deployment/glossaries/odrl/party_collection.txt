@@ -1,0 +1,3 @@
+Term: Party Collection
+Glossary: odrl
+Definition: A Party that is a group of individual entities

@@ -1,0 +1,5 @@
+Term: peg registered
+Glossary: vfx
+Definition: Special animation paper with special holes that fit over animation pegs on an animation stand to ensure proper registration of the paper. Also used with animation cels for the same purpose.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/peg-registered/

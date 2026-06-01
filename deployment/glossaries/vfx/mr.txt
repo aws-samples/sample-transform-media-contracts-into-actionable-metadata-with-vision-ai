@@ -1,0 +1,5 @@
+Term: MR
+Glossary: vfx
+Definition: Mixed reality as opposed to AR (augmented reality) or VR (virtual reality)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/mr/

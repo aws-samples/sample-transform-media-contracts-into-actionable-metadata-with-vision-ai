@@ -1,0 +1,4 @@
+Term: Party Scope
+Glossary: odrl
+Definition: Scopes for Party Scope expressions.
+Usage Context: Instances of the PartyScope class represent the terms for the scope property of Parties.

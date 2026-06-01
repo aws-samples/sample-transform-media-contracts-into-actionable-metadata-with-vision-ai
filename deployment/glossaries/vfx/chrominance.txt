@@ -1,0 +1,5 @@
+Term: chrominance
+Glossary: vfx
+Definition: The color portion of a video signal, carrying the hue and saturation values. See also luminance.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/chrominance/

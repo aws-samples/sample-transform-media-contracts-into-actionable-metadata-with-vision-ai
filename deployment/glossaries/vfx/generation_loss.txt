@@ -1,0 +1,5 @@
+Term: generation loss
+Glossary: vfx
+Definition: The loss of quality of an image due to repeated duplication. Generation loss is significantly reduced and in some cases completely eliminated when dealing with digital images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/generation-loss/

@@ -1,0 +1,5 @@
+Term: multiple-pass photography
+Glossary: vfx
+Definition: Any filming in which multiple exposures of the same subject are filmed, generally with different lighting setups. If the camera is moving, then it must be motion controlled to ensure accurate alignment between passes. Typical passes might include a beauty pass, matte pass, reflection pass, and shadow pass.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/multiple-pass-photography/

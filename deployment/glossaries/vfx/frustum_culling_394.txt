@@ -1,0 +1,5 @@
+Term: Frustum culling
+Glossary: vfx
+Definition: The process of removing objects or reducing rendering quality for areas that lie outside the inner frustum since they are not directly visible to the camera.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/frustum-culling/

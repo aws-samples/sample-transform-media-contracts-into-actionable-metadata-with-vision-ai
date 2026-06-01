@@ -1,0 +1,5 @@
+Term: 35mm film
+Glossary: vfx
+Definition: The most common film format used in professional moviemaking. Each frame contains a gauge of 35mm and four perforations (thus its nickname four-perf) and there are 16 frames per foot. The sound information usually runs along the left side of the film between the perforations and the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/35mm-film/

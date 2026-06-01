@@ -1,0 +1,5 @@
+Term: Frustum
+Glossary: vfx
+Definition: The region of the virtual world the camera sees.  This is important because anything outside of this view doesn’t need to be rendered
+Source: vp
+Reference: https://vpglossary.com/vpglossary/frustum/

@@ -1,0 +1,5 @@
+Term: Virtual space
+Glossary: vfx
+Definition: An area which exists within the virtual world and which may correspond either 1:1 or proportionately with a real-world space.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-space/

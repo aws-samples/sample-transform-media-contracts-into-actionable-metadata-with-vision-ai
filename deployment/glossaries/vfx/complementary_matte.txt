@@ -1,0 +1,5 @@
+Term: complementary matte
+Glossary: vfx
+Definition: The matte that results when the primary matte is inverted.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/complementary-matte/

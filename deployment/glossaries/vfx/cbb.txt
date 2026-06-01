@@ -1,0 +1,5 @@
+Term: CBB
+Glossary: vfx
+Definition: Abbreviation for could be better. When a shot has a few minor technical or aesthetic adjustments to be made, but the delivery date is close at hand, this term is used to final a shot with the caveat that it will be improved at a later date if time and budget permit.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cbb/

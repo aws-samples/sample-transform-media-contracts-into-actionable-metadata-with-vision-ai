@@ -1,0 +1,5 @@
+Term: perspective compensation
+Glossary: vfx
+Definition: The use of a 2D geometric transformation to correct a 3D discrepancy.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/perspective-compensation/

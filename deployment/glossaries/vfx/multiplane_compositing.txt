@@ -1,0 +1,5 @@
+Term: multiplane compositing
+Glossary: vfx
+Definition: A technique that simulates a moving camera by automatically translating the different layers in a composite by an amount that is appropriate to their intended distance from this camera. Layers that are intended to appear farther away are moved by a smaller amount than layers that are intended to be nearer, producing a simulated parallax effect.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/multiplane-compositing/

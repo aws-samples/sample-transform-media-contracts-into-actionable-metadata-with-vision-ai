@@ -1,0 +1,5 @@
+Term: decimation
+Glossary: vfx
+Definition: The process of throwing away unnecessary information when reducing the size of an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/decimation/

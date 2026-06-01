@@ -1,0 +1,5 @@
+Term: Generative Artificial Intelligence (GAI)
+Glossary: sag_aftra
+Definition: A class of AI systems capable of generating new content (images, video, audio, text) such as MidJourney, DALL-E, Sora, Veo, and ElevenLabs. Does not include traditional AI technologies used for general production workflow.
+Usage Context: Defined in SAG-AFTRA agreements to scope which AI technologies fall under digital replica and synthetic performer provisions. Training of GAI systems on covered material remains a disputed area that the union has reserved rights to contest.
+Source: SAG-AFTRA IMA Comparison Chart — https://www.sagaftra.org/sites/default/files/2025-03/IMA%20Comparison%20Chart.pdf

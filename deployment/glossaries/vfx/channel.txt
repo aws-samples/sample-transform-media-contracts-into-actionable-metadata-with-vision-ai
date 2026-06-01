@@ -1,0 +1,5 @@
+Term: channel
+Glossary: vfx
+Definition: For a given image, the subimage that is composed only of the values from a single component of each pixel.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/channel/

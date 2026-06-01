@@ -1,0 +1,5 @@
+Term: parallax budget
+Glossary: vfx
+Definition: (stereo) The range of parallax values, from maximum negative to maximum positive, that is within an acceptable range for comfortable viewing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/parallax-budget/

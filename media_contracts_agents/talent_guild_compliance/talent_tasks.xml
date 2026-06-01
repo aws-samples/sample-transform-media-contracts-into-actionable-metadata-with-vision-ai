@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Talent & Guild Compliance Analyst Agent — Tasks
+    ==================================================
+    Ordered analysis steps performed on the Extractor's output.
+-->
+<talent_tasks>
+
+    <task>Review the Extractor's output and determine the contract type and relevance to talent analysis. Identify all talent-related parties (performers, writers, directors, showrunners, composers, creators) and their roles. If the contract has no talent dimension (e.g., a pure content license between two corporations with no individual talent provisions), produce a minimal output noting this.</task>
+
+    <task>Assess guild and union compliance:
+        <sub_task>Identify all guild/union references in the extraction (SAG-AFTRA, WGA, DGA, IATSE, AFM)</sub_task>
+        <sub_task>Determine whether the production appears to be guild-signatory or non-signatory. If no guild is referenced, flag this as a threshold question.</sub_task>
+        <sub_task>For each referenced guild, assess whether the contract terms meet applicable CBA minimums for: compensation, working conditions, credit, and residuals</sub_task>
+        <sub_task>Identify any provisions that appear to fall below CBA minimums and classify as compliance violations</sub_task>
+        <sub_task>Identify any provisions that exceed CBA minimums through individual negotiation and note the enhancement</sub_task>
+    </task>
+
+    <task>Analyze residual and royalty structures:
+        <sub_task>Identify all residual/royalty obligations in the extraction</sub_task>
+        <sub_task>Determine which are guild-mandated vs. individually negotiated</sub_task>
+        <sub_task>Who bears the residual payment obligation — the producer, the distributor, or allocated between them?</sub_task>
+        <sub_task>How are residuals calculated? Against what revenue base?</sub_task>
+        <sub_task>Does the contract attempt to offset guild residuals against other compensation (e.g., "all compensation inclusive of residuals")? If so, flag — this structure is contested and may violate CBA terms.</sub_task>
+        <sub_task>Cross_reference to Financial Analyst for the economic waterfall position of residuals</sub_task>
+    </task>
+
+    <task>Evaluate credit provisions:
+        <sub_task>Screen credit: position (main titles, end titles, single card, shared card), size relative to title, and any conditions on credit</sub_task>
+        <sub_task>Paid advertising credit: is the talent included in paid ads? In all paid ads or above a size threshold?</sub_task>
+        <sub_task>Assess credit terms against applicable guild minimums. Note where the contract exceeds minimums through individual negotiation.</sub_task>
+        <sub_task>Credit remedy: what happens if the credit obligation is breached? Is the remedy prospective correction only? Are there damages? Is injunctive relief waived?</sub_task>
+        <sub_task>Credit in derivative works: does the credit obligation carry through to dubbed versions, clips, promotional materials, and digital distribution?</sub_task>
+    </task>
+
+    <task>Analyze morals clause:
+        <sub_task>What conduct triggers the clause? Is the trigger defined specifically or broadly?</sub_task>
+        <sub_task>Who makes the determination that triggering conduct has occurred?</sub_task>
+        <sub_task>What remedies are available — termination, suspension, financial clawback, or other?</sub_task>
+        <sub_task>Is there a cure period? Can the talent contest the determination?</sub_task>
+        <sub_task>Is the clause mutual (applies to both parties) or one-sided (applies only to talent)?</sub_task>
+        <sub_task>Does the clause apply retroactively to pre-contract conduct?</sub_task>
+        <sub_task>Assess the clause against talent-side best practices: narrow trigger, mutual application, cure period, and no retroactivity</sub_task>
+    </task>
+
+    <task>Analyze key person provisions (if present):
+        <sub_task>Who is the key person?</sub_task>
+        <sub_task>What events trigger the clause — death, disability, unavailability, voluntary departure, breach?</sub_task>
+        <sub_task>What are the consequences — termination right, suspension, replacement right, renegotiation?</sub_task>
+        <sub_task>Does the key person have any right to cure or nominate a replacement?</sub_task>
+        <sub_task>If the key person clause triggers termination, what happens to accrued compensation and credit?</sub_task>
+    </task>
+
+    <task>Assess AI and digital likeness protections:
+        <sub_task>Is there a grant of AI/digital likeness rights? What is its scope — the specific production only, or broader?</sub_task>
+        <sub_task>Consent mechanic: is consent per-use (strongest), per-project, blanket for the term, or blanket in perpetuity (weakest)?</sub_task>
+        <sub_task>Does AI-generated use of the talent's likeness, voice, or performance trigger additional compensation?</sub_task>
+        <sub_task>Duration: do likeness rights extend beyond the term of the agreement? If so, for how long and under what conditions?</sub_task>
+        <sub_task>Scope limitations: is AI use limited to the specific production, or can the likeness be used in other productions, marketing, or merchandising?</sub_task>
+        <sub_task>Compare against the 2023 SAG-AFTRA CBA AI provisions as a baseline (for represented performers): does this contract meet, exceed, or fall below those protections?</sub_task>
+        <sub_task>If the extraction shows AI/digital likeness provisions in the rights_grant but no corresponding protections in digital_and_emerging_rights, flag this asymmetry</sub_task>
+    </task>
+
+    <task>Evaluate pay-or-play provisions (if present):
+        <sub_task>What compensation is subject to the pay-or-play commitment — full fixed compensation, a reduced "play" amount, or contingent compensation?</sub_task>
+        <sub_task>What exceptions exist — force majeure, budget contingency, financing conditions, production abandonment, disability, default by talent?</sub_task>
+        <sub_task>Classify the commitment: genuine (minimal exceptions), conditional (material exceptions), or illusory (exceptions swallow the commitment)</sub_task>
+        <sub_task>If talent is "played" (services used), what additional obligations attach (e.g., post-production services, press tour)?</sub_task>
+        <sub_task>If talent is "paid" (services not used), what rights revert to talent (if any)?</sub_task>
+    </task>
+
+    <task>Analyze exclusivity restrictions:
+        <sub_task>Scope: what is restricted — competing projects in the same genre, all acting work, media appearances, commercial endorsements, social media activity?</sub_task>
+        <sub_task>Duration: production period only, or extended before/after? How long are the extensions?</sub_task>
+        <sub_task>Proportionality: is the exclusivity scope proportional to the compensation? Broad exclusivity with modest compensation is a finding.</sub_task>
+        <sub_task>Carve-outs: are there exceptions for pre-existing commitments, personal social media, charitable appearances, or other standard carve-outs?</sub_task>
+        <sub_task>Geographic scope: is the exclusivity worldwide or territory-limited?</sub_task>
+    </task>
+
+    <task>Assess approval and consultation rights:
+        <sub_task>Creative approval: does talent have approval over script changes, wardrobe, makeup, stunt doubles, body doubles?</sub_task>
+        <sub_task>Marketing approval: does talent have approval over key art, trailers, taglines, and marketing use of their likeness?</sub_task>
+        <sub_task>Approval standard: "not to be unreasonably withheld" (standard, meaningful) vs. "sole discretion of Producer" (nominal) vs. "mutual approval" (strongest)</sub_task>
+        <sub_task>Consultation vs. approval: consultation is weaker — the producer must consult but can override. Distinguish clearly.</sub_task>
+    </task>
+
+    <task>Evaluate the performer's grant of rights in their performance and likeness:
+        <sub_task>What has the performer granted — rights in the performance only, or also in their name, likeness, voice, and biographical material?</sub_task>
+        <sub_task>Is the grant limited to the production, or does it extend to merchandising, promotional use, and derivative works?</sub_task>
+        <sub_task>Duration: is the likeness grant coterminous with the agreement, or does it survive termination (in perpetuity for the production)?</sub_task>
+        <sub_task>Does the performer retain any reservation of rights in their own likeness for non-competing uses?</sub_task>
+    </task>
+
+    <task>Evaluate termination protections from the talent perspective:
+        <sub_task>If the production terminates early, what happens to the talent's accrued compensation?</sub_task>
+        <sub_task>Do credit obligations survive termination?</sub_task>
+        <sub_task>Does the performer's grant of rights in their performance survive termination (for footage already captured)?</sub_task>
+        <sub_task>Is there a severance or kill fee if termination is not talent's fault?</sub_task>
+        <sub_task>Are there any clawback provisions that could require talent to return compensation already received?</sub_task>
+    </task>
+
+    <task>Identify modern talent protection gaps:
+        <sub_task>Social media: are there mandatory posting requirements? If so, how onerous? Is the talent compensated for social media promotion?</sub_task>
+        <sub_task>Publicity: are press tour and promotional appearance obligations defined and bounded (number of days, locations, expenses covered)?</sub_task>
+        <sub_task>Data privacy: does the contract address the talent's personal data (contact info, biometric data for AI, location data)?</sub_task>
+        <sub_task>Promotional clips: can the producer use clips of the talent's performance on social media indefinitely? Are there duration or platform limits?</sub_task>
+    </task>
+
+    <task>Produce a talent findings summary:
+        <sub_task>List all guild compliance issues (provisions below CBA minimums)</sub_task>
+        <sub_task>List all talent protection gaps (absent provisions that should be present for this deal type)</sub_task>
+        <sub_task>List all one-sided provisions favoring the producer/platform at the talent's expense</sub_task>
+        <sub_task>List all strong protections — provisions that exceed industry norms in talent's favor</sub_task>
+        <sub_task>Assess overall talent protection posture: strong, adequate, weak, or deficient</sub_task>
+        <sub_task>Note cross-references to other specialist agents</sub_task>
+    </task>
+
+    <task>Populate metadata and run verification before finalizing output.</task>
+</talent_tasks>

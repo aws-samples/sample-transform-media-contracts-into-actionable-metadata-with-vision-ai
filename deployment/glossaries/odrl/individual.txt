@@ -1,0 +1,3 @@
+Term: Individual
+Glossary: odrl
+Definition: Specifies that the scope of the relationship is the single Party individual.

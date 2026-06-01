@@ -1,0 +1,5 @@
+Term: Telepresence
+Glossary: vfx
+Definition: The feeling of immersion within a virtual environment when using an HMD.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/telepresence/

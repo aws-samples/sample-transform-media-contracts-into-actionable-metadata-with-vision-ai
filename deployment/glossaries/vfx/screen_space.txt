@@ -1,0 +1,5 @@
+Term: screen space
+Glossary: vfx
+Definition: (stereo) The region appearing to be within the screen or behind the surface of the screen. Images with positive parallax will appear to be in screen space. The boundary between screen and theater space is the plane of the screen and has zero parallax. See theater space.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/screen-space/

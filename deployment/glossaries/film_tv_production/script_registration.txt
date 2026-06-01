@@ -1,0 +1,5 @@
+Term: Script Registration
+Glossary: film_tv_production
+Definition: A service run by both WGA West and WGA East to establish the date of creation of literary property. Registration creates a dated record that can be used as evidence of authorship in disputes.
+Usage Context: Commonly used by screenwriters to document authorship before submission of material to production companies, studios, or representatives. Does not confer copyright, but supplements copyright registration with the U.S. Copyright Office.
+Source: Writers Guild of America — https://www.wga.org

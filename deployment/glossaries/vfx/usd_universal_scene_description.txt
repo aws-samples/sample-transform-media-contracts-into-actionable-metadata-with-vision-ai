@@ -1,0 +1,5 @@
+Term: USD (Universal Scene Description)
+Glossary: vfx
+Definition: An open-source 3D scene description and file format for content creation and interchange among different tools.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/usd-universal-scene-description/

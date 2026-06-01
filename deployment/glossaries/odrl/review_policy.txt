@@ -1,0 +1,4 @@
+Term: Review Policy
+Glossary: odrl
+Definition: To review the Policy applicable to the Asset.
+Usage Context: Used when human intervention is required to review the Policy. May link to an Asset which represents the full Policy information.

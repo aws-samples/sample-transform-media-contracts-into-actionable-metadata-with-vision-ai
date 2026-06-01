@@ -1,0 +1,5 @@
+Term: witness points
+Glossary: vfx
+Definition: Specific objects placed into a scene that can later be analyzed to determine the movement and configuration of the camera that photographed the shot using tracking techniques. Also known as tracking markers.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/witness-points/

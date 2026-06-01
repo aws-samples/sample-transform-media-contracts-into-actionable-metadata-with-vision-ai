@@ -1,0 +1,5 @@
+Term: Open Video Systems (OVS)
+Glossary: broadcast_fcc
+Definition: An alternative method to provide cable-like video service to subscribers, established under the Telecommunications Act of 1996 to encourage competition with traditional cable television.
+Usage Context: OVS operators have specific FCC obligations distinct from franchised cable operators. Distribution agreements with OVS operators are less common than with cable MSOs.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

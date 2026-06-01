@@ -1,0 +1,5 @@
+Term: superimpose
+Glossary: vfx
+Definition: To place one image on top of another, usually with some transparency involved.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/superimpose/

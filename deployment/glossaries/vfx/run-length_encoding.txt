@@ -1,0 +1,5 @@
+Term: run-length encoding
+Glossary: vfx
+Definition: A lossless compression scheme that consolidates sequences of identical pixels into a single data representation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/run-length-encoding/

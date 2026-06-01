@@ -1,0 +1,5 @@
+Term: Qualifications List (DGA)
+Glossary: film_tv_production
+Definition: A list of individuals qualified for hire on specific DGA-covered job categories (such as assistant director or unit production manager) based on verified employment history and experience. Established and administered under the DGA Basic Agreement, Article 14.
+Usage Context: Signatory studios must hire from the applicable Qualifications List for covered positions. DGACA administers the application and placement process. The collective bargaining agreement's provisions control in any variance with published guidance.
+Source: DGACA FAQ — https://www.dgaca.org/faq

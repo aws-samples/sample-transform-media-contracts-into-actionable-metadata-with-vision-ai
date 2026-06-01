@@ -1,0 +1,5 @@
+Term: Action design
+Glossary: vfx
+Definition: A form of visualization, typically using live performers. The output is a simulation to plan live-action stunts. Also called stuntvis.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/action-design/

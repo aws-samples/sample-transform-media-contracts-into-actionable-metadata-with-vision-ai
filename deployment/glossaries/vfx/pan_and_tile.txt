@@ -1,0 +1,5 @@
+Term: pan and tile
+Glossary: vfx
+Definition: A technique in which a series of images of a scene are stitched together to create a larger panoramic view of the scene.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pan-and-tile/

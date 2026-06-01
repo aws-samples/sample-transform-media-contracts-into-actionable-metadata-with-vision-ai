@@ -1,0 +1,5 @@
+Term: real time
+Glossary: vfx
+Definition: (1) Displaying a sequence of images at the same speed as they will be viewed in their final form. (2) Computational processing that appears to be nearly instantaneous.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/real-time/

@@ -1,0 +1,5 @@
+Term: superwhite
+Glossary: vfx
+Definition: Any brightness level that rises above the normal representation of white for a given image or device.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/superwhite/

@@ -1,0 +1,5 @@
+Term: edge detection algorithm
+Glossary: vfx
+Definition: An algorithm used to enhance or isolate transition areas, or edges, in an image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/edge-detection-algorithm/

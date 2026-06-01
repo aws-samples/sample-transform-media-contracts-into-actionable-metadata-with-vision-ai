@@ -1,0 +1,5 @@
+Term: wedge
+Glossary: vfx
+Definition: See color wedge, exposure wedge.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/wedge/

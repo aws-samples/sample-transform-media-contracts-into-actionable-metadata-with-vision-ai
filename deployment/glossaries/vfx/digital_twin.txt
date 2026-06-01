@@ -1,0 +1,5 @@
+Term: Digital twin
+Glossary: vfx
+Definition: A real-life physical prop or piece of set dressing converted into a digital asset to provide continuity between live-action and virtual elements.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/digital-twin/

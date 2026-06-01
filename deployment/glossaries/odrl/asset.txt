@@ -1,0 +1,4 @@
+Term: Asset
+Glossary: odrl
+Definition: A resource or a collection of resources that are the subject of a Rule.
+Usage Context: The Asset entity can be any form of identifiable resource, such as data/information, content/media, applications, or services. Furthermore, it can be used to represent other Asset entities that are needed to undertake the Policy expression, such as with the Duty entity. To describe more details about the Asset, it is recommended to use Dublin Core [[dcterms]] elements or other content metadata.

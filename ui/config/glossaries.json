@@ -1,0 +1,67 @@
+{
+    "glossaries": [
+        {
+            "id": "broadcast_fcc",
+            "name": "FCC Broadcast",
+            "termCount": 49,
+            "description": "Telecommunications, broadcast, and FCC regulatory terminology covering access charges, spectrum, retransmission consent, must-carry, closed captioning, LPTV/LPFM, satellite carriage, and Part 79 accessibility compliance.",
+            "source": "FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf"
+        },
+        {
+            "id": "film_tv_production",
+            "name": "Film & TV Production",
+            "termCount": 32,
+            "description": "Writers Guild and Directors Guild terminology covering writing credits (Written By, Story By, Created By, Developed By), separated rights, the WGA MBA, possessory credits, the DGA Basic Agreement, credit arbitration, and guild signatory compliance.",
+            "source": "WGA Credits Manuals — https://www.wga.org/contracts/credits/manuals; WGA Understanding Separated Rights — https://www.wga.org/contracts/know-your-rights/understanding-separated-rights; DGA Basic Agreement / DGACA — https://www.dga.org"
+        },
+        {
+            "id": "media_rights_legal",
+            "name": "Media Rights & Legal",
+            "termCount": 49,
+            "description": "Media rights and legal terminology covering rights clearance, licensing structures, and contract provisions common to entertainment and media agreements.",
+            "source": "Generic"
+        },
+        {
+            "id": "music_rights_licensing",
+            "name": "Music Rights & Licensing",
+            "termCount": 33,
+            "description": "Music licensing terminology covering blanket licenses, mechanical rights, synchronization rights, performing rights organizations (ASCAP/BMI/SESAC), the Music Modernization Act, the Mechanical Licensing Collective, the Harry Fox Agency, and controlled composition provisions.",
+            "source": "ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined; NMPA Music Publishing 101 — https://www.nmpa.org/people/music-publishing-101/; Harry Fox Agency — https://www.harryfox.com; U.S. Copyright Royalty Board — https://www.crb.gov/rate/"
+        },
+        {
+            "id": "odrl",
+            "name": "ODRL Digital Rights",
+            "termCount": 215,
+            "description": "Open Digital Rights Language vocabulary for machine-readable expression of policies, permissions, prohibitions, duties, constraints, parties, and assets for digital rights management and content licensing.",
+            "source": "W3C ODRL Vocabulary & Expression 2.2 — https://www.w3.org/TR/odrl-vocab/; W3C ODRL Information Model 2.2 — https://www.w3.org/TR/odrl-model/"
+        },
+        {
+            "id": "podcast_digital_audio",
+            "name": "Podcast & Digital Audio",
+            "termCount": 21,
+            "description": "Podcast measurement and digital audio advertising terminology covering downloads, listeners, dynamically inserted ads, integrated (baked-in) ads, client-confirmed ad plays, the one-minute threshold rule, GUID-based episode identification, IPv6 truncation, and IAB Tech Lab compliance.",
+            "source": "IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf"
+        },
+        {
+            "id": "publishing_literary_rights",
+            "name": "Publishing & Literary Rights",
+            "termCount": 30,
+            "description": "Trade book publishing contract terminology covering advance against royalties, grant of rights, subsidiary rights, reversion of rights, option clauses, audit clauses, competing works restrictions, representations and warranties, and AI training prohibitions.",
+            "source": "Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/; Authors Guild Contract Reviews — https://authorsguild.org/legal-services/contract-reviews/"
+        },
+        {
+            "id": "sag_aftra",
+            "name": "SAG-AFTRA Guild",
+            "termCount": 55,
+            "description": "SAG-AFTRA performer terminology covering residuals, Pension & Health contributions, digital replicas (Employment-Based, Independently Created, Background Actor), synthetic performers, the 2023 TV/Theatrical MBA, Exhibit A Sideletter (SVOD residuals), Global Rule One, signatory compliance, and low-budget project agreements.",
+            "source": "SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals; SAG-AFTRA Plans Glossary — https://www.sagaftraplans.org/sag-pension/spd/glossary-terms; SAG-AFTRA Digital Replicas 101 — https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf; SAGindie FAQ — https://www.sagindie.org/resources/faq/"
+        },
+        {
+            "id": "vfx",
+            "name": "VFX & Post-Production",
+            "termCount": 1088,
+            "description": "Visual effects, virtual production, and post-production terminology covering compositing, rendering, color management, motion capture, LED volumes, camera tracking, and the full VFX pipeline from acquisition through final delivery.",
+            "source": "The Virtual Production Glossary — https://vpglossary.com/"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+Term: reflection pass
+Glossary: vfx
+Definition: In motion control photography the reflection pass is one pass of a set of passes that could include the beauty pass, the matte pass, and the shadow pass, among others. Its purpose is to capture only the light that is reflected on the subject. In the CGI world, it is a separate render output that retains only the reflections for use in compositing.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/reflection-pass/

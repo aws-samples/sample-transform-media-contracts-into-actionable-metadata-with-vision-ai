@@ -1,0 +1,3 @@
+Term: Assigner
+Glossary: odrl
+Definition: The Party is the issuer of the Rule.

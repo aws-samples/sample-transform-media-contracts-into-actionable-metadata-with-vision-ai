@@ -1,0 +1,5 @@
+Term: Spectrum
+Glossary: broadcast_fcc
+Definition: The range of electromagnetic radio frequencies used in the transmission of radio, data, and video. The FCC allocates and licenses specific spectrum bands for specific uses (e.g., VHF TV, UHF TV, FM radio, mobile wireless).
+Usage Context: Spectrum is a finite resource licensed by the FCC through various mechanisms (auctions, lotteries, application windows). Spectrum licenses are key assets of broadcasters and wireless carriers.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

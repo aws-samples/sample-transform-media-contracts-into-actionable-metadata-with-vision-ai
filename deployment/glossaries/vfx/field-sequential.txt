@@ -1,0 +1,5 @@
+Term: field-sequential
+Glossary: vfx
+Definition: (stereo) In the context of cinema stereoscopy, the rapid alternation of left and right perspective views projected on the screen.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/field-sequential/

@@ -1,0 +1,5 @@
+Term: render queue
+Glossary: vfx
+Definition: The list of tasks waiting to be processed on a render farm.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/render-queue/

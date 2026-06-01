@@ -1,0 +1,5 @@
+Term: IP + User Agent (IP+UA)
+Glossary: podcast_digital_audio
+Definition: The combination of IP Address and User Agent used by IAB methodology to identify unique users and downloads. If the same file is downloaded 10 times by 6 user agents behind one IP address, that counts as 6 users and 6 downloads.
+Usage Context: Core unique-identification method for podcast measurement in the absence of client-side cookies or identifiers. Subject to known limitations on mobile devices (IP addresses change) and in high-density shared IP environments (dorms, corporations).
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

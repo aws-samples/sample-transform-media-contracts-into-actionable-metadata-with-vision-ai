@@ -1,0 +1,5 @@
+Term: special effects (SPX)
+Glossary: vfx
+Definition: Term for on-set mechanical and in-camera optical effects that are created in front of the camera. Also known as practical or mechanical effects. The general public tends to use this term to encompass both practical effects and visual effects.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/special-effects-spx/

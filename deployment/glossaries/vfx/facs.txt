@@ -1,0 +1,5 @@
+Term: FACS
+Glossary: vfx
+Definition: Abbreviation for Facial Action Coding System, a method by which all the possible actions of the human face can be encoded.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/facs/

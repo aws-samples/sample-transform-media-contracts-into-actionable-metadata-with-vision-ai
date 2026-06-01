@@ -1,0 +1,5 @@
+Term: widescreen
+Glossary: vfx
+Definition: A generic term that usually refers to any image with an aspect ratio greater than 1.33: 1
+Source: ves
+Reference: https://vpglossary.com/vesglossary/widescreen/

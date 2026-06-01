@@ -1,0 +1,5 @@
+Term: DI
+Glossary: vfx
+Definition: Abbreviation for digital intermediate.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/di/

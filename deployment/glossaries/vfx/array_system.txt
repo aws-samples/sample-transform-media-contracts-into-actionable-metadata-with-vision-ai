@@ -1,0 +1,5 @@
+Term: Array System
+Glossary: vfx
+Definition: A system where several cameras, with overlapping fields of view, are mounted on a vehicle and used to capture a moving environment. The images are stitched together into one seamless image in order to be able to pan and/or tilt around in that image. Usually used for driving BG plates, train BG plates, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/array-system/

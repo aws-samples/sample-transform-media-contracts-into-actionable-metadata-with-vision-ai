@@ -1,0 +1,5 @@
+Term: working resolution
+Glossary: vfx
+Definition: The resolution of the images that will be produced by any given compositing process.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/working-resolution/

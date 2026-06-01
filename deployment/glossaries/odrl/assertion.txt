@@ -1,0 +1,4 @@
+Term: Assertion
+Glossary: odrl
+Definition: A Policy that asserts a Rule over an Asset from parties.
+Usage Context: For example, a party (an assignee or assigner) can claim what terms they have over an Asset. An Assertion Policy does not grant such permissions/prohibitions but only asserts the parties claims. An Assetion Policy  MUST contain a target Asset, a Party with any functional role, and at least one of a Permission or Prohibition rule.

@@ -1,0 +1,5 @@
+Term: double exposure (DX)
+Glossary: vfx
+Definition: In the optical world, a double exposure is accomplished by exposing two different images onto a single negative. The result is a mixture of the two images. In the digital world, this effect is accomplished by mathematically averaging the two images.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/double-exposure-dx/

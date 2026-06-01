@@ -1,0 +1,5 @@
+Term: encoder
+Glossary: vfx
+Definition: (1) A piece of video equipment that combines a component video signal into a composite video signal. (2) Generalized term used to refer to a number of different data capture devices, usually ones that convert measurements into digital data.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/encoder/

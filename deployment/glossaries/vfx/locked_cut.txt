@@ -1,0 +1,5 @@
+Term: locked cut
+Glossary: vfx
+Definition: Term meaning that no more editing will be done on the shot, scene, or project; the edit is 100% complete.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/locked-cut/

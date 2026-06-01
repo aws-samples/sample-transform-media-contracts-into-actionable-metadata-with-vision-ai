@@ -1,0 +1,5 @@
+Term: greenlit
+Glossary: vfx
+Definition: A project that is approved to proceed into full production with funding.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/greenlit/

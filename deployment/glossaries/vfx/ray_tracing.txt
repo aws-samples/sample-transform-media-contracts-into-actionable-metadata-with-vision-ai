@@ -1,0 +1,5 @@
+Term: Ray tracing
+Glossary: vfx
+Definition: A rendering technique that traces rays from the camera and lights in a scene, simulating how the lights and virtual objects’ materials interact.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/ray-tracing/

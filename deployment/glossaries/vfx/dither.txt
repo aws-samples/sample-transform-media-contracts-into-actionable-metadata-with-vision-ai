@@ -1,0 +1,5 @@
+Term: dither
+Glossary: vfx
+Definition: A method for representing more colors than would normally be available with a given palette. Dithering uses combinations of colored pixels and relies on the fact that the human eye will average them together and interpret the result as a new intermediate color.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/dither/

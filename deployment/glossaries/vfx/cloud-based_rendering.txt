@@ -1,0 +1,5 @@
+Term: cloud-based rendering
+Glossary: vfx
+Definition: Essentially rendering off site. By “cloud-based” it is meant that the render may occur on many machines spread out across the planet or on specific machines at a distant facility. With cloud rendering one can have infinite number of machines working on a render, making them fast and detailed.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cloud-based-rendering/

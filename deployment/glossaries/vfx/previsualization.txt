@@ -1,0 +1,5 @@
+Term: Previsualization
+Glossary: vfx
+Definition: A collaborative process that generates preliminary versions of shots or sequences using a virtual environment. It enables filmmakers to visually explore creative ideas, plan technical solutions, and communicate a shared vision for efficient production. Also known as previs.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/previsualization/

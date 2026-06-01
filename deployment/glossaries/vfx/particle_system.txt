@@ -1,0 +1,5 @@
+Term: particle system
+Glossary: vfx
+Definition: A 3D computer graphics technique that is used to create a large number of objects that obey well-defined behavioral rules. Useful not only for controlling multitudes of discrete objects such as asteroids or flocks of birds but also as a tool for creating natural phenomena such as fire or smoke.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/particle-system/

@@ -1,0 +1,5 @@
+Term: Virtual reality (VR)
+Glossary: vfx
+Definition: An immersive experience using headsets (HMDs) to generate the realistic sounds, stereo images, and other sensations that replicate a real environment or create an imaginary world.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-reality-vr/

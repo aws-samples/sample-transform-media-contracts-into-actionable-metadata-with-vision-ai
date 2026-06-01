@@ -1,0 +1,5 @@
+Term: 2.35 format
+Glossary: vfx
+Definition: Pronounced “two-three-five format,” 2.35 is a widely used aspect ratio for film. It can also be written as 2.35:1, which means that the image is 2.35 times as wide as it is high. Cinemascope and Super 35 are most commonly used as the acquisition format to acquire this widescreen format.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/2-35-format/

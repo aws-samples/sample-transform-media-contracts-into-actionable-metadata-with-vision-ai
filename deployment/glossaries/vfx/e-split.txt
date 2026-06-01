@@ -1,0 +1,5 @@
+Term: E-split
+Glossary: vfx
+Definition: See exposure split.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/e-split/

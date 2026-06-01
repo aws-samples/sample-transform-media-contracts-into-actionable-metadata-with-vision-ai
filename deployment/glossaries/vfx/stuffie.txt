@@ -1,0 +1,5 @@
+Term: stuffie
+Glossary: vfx
+Definition: a stuffed animal representation of the actor, animal or other, that is used for lineup and lighting during production. Stuffies can be as simple or complex, with internal skeleton, specialized fur, eyes, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/stuffie/

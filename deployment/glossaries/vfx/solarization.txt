@@ -1,0 +1,5 @@
+Term: solarization
+Glossary: vfx
+Definition: An effect that is produced when a range of brightness within an image is inverted. Can be used to mimic an optical effect that occurs with extreme overexposure.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/solarization/

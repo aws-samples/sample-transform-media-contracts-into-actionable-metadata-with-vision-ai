@@ -1,0 +1,4 @@
+Term: Notice
+Glossary: odrl
+Definition: Copyright and license notices be kept intact.
+Usage Context: This term is defined by Creative Commons.

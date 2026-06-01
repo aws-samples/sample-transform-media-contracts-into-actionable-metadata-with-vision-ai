@@ -1,0 +1,5 @@
+Term: continuity
+Glossary: vfx
+Definition: The smooth flow of action or events from one shot or scene to the next, without any indication that the different shots/scenes may have been photographed at different times or processed differently.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/continuity/

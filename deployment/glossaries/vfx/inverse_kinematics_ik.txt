@@ -1,0 +1,5 @@
+Term: Inverse Kinematics (IK)
+Glossary: vfx
+Definition: The moving of any part of the skeleton and allowing the software to calculate the joint angles to provide that result. This makes it easier for animators to realistically pose a character, e.g., moving the hand causes the wrist, elbow, and shoulder joints to rotate as necessary to place the hand in that position.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/inverse-kinematics-ik/

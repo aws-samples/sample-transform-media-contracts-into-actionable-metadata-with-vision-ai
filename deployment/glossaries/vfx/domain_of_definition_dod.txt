@@ -1,0 +1,5 @@
+Term: domain of definition (DOD)
+Glossary: vfx
+Definition: A (usually rectangular) region that defines the maximum boundaries of useful information in an image. Generally, everything outside of the DOD will have a value of 0 in all channels of the image. The DOD is usually determined automatically, as opposed to a region of interest.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/domain-of-definition-dod/

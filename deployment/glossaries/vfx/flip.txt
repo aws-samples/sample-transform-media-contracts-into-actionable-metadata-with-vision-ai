@@ -1,0 +1,5 @@
+Term: flip
+Glossary: vfx
+Definition: A simple geometric transform in which an image is mirrored about the X-axis so that it is now upside-down. This process is different from merely rotating the image 180 degrees.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/flip/

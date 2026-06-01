@@ -1,0 +1,5 @@
+Term: Color space
+Glossary: vfx
+Definition: Standards for representing the range of color in an image, based on components such as color bands ( i.e., Red, Green, Blue), spectrum, hue, saturation, lightness, value, and other measurements.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/color-space/

@@ -1,0 +1,5 @@
+Term: Physical simulation
+Glossary: vfx
+Definition: The calculation of real-world accurate physical interactions and collision detection within a real-time engine.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/physical-simulation/

@@ -1,0 +1,5 @@
+Term: lossy compression
+Glossary: vfx
+Definition: A method of compressing and storing a digital image in such a fashion that it is impossible to reconstruct the original image perfectly.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lossy-compression/

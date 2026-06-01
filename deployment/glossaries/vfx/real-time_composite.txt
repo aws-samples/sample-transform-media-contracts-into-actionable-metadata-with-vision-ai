@@ -1,0 +1,5 @@
+Term: Real-time composite
+Glossary: vfx
+Definition: Layering the live camera feed with foreground/background digital elements viewed live through a monitor on-set. The digital elements could consist of pre-rendered/captured 2D media or real-time rendered 3D assets playing back on a display surface (LED / Projection), a live broadcast or live-keyed against Green / Blue screen. The Live Composite provides a dynamic, interactive view on-set to aid with framing digital elements with practical set/talent and can be used in editorial as a temporary or final in-camera composite.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/real-time-composite/

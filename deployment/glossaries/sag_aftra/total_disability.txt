@@ -1,0 +1,5 @@
+Term: Total Disability
+Glossary: sag_aftra
+Definition: A condition in which a participant has been awarded a Social Security Disability Benefit and has an injury or illness preventing engagement in any substantial gainful activity, expected to last for the participant's lifetime or result in death. The Plan's definition is more restrictive than Social Security's.
+Usage Context: Required to qualify for a Disability Pension from the SAG-Producers Pension Plan. Documentation of the Social Security award is required for eligibility determination.
+Source: SAG-AFTRA Plans Glossary — https://www.sagaftraplans.org/sag-pension/spd/glossary-terms

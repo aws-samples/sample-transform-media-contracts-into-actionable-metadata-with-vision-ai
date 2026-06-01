@@ -1,0 +1,5 @@
+Term: Ad Delivered
+Glossary: podcast_digital_audio
+Definition: An ad that was delivered as determined by server logs that show either all bytes of the ad file were sent, or the bytes representing the portion of the podcast file containing the ad file were downloaded. For dynamically inserted ads, 100% of the ad content (all bytes) must be downloaded before the ad may be counted as delivered.
+Usage Context: Principal podcast advertising measurement metric. Sold on CPM basis to buyers. Example: if an ad was included within the first 25% of a podcast and at least 25% of the podcast file was downloaded, the ad can be counted as delivered.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

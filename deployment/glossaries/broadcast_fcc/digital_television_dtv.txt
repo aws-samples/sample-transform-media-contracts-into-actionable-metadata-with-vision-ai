@@ -1,0 +1,5 @@
+Term: Digital Television (DTV)
+Glossary: broadcast_fcc
+Definition: A technology for transmitting and receiving broadcast television signals in digital form. DTV provides clearer resolution and improved sound quality compared to analog television.
+Usage Context: U.S. broadcast television completed the transition from analog to digital in 2009. Distribution agreements and technical delivery specifications now reference digital formats (HD, UHD/4K). FCC-licensed DTV transmissions including HDTV can be passed through cable systems with a 6 MHz channel available.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

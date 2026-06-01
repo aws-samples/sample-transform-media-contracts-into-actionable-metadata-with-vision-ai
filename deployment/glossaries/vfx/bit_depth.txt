@@ -1,0 +1,5 @@
+Term: bit depth
+Glossary: vfx
+Definition: A way of specifying the color resolution in an image by measuring the number of bits devoted to each component of the pixels in the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bit-depth/

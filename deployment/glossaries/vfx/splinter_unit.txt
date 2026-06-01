@@ -1,0 +1,5 @@
+Term: splinter unit
+Glossary: vfx
+Definition: A part of the production crew that is tasked with going off on their own to film or capture specific shots or plates.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/splinter-unit/

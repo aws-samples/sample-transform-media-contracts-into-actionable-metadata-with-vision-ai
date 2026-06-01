@@ -1,0 +1,5 @@
+Term: visible spectrum
+Glossary: vfx
+Definition: The range of colors between ultraviolet and infrared that is visible to the human eye.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/visible-spectrum/

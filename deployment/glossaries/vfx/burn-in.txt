@@ -1,0 +1,5 @@
+Term: burn-in
+Glossary: vfx
+Definition: Photographic double exposure of an element over a previously exposed piece of film.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/burn-in/

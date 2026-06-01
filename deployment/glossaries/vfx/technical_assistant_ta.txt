@@ -1,0 +1,5 @@
+Term: Technical Assistant (TA)
+Glossary: vfx
+Definition: An individual who is responsible for much of the basic data wrangling within a facility; often handles file backups. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/technical-assistant-ta/

@@ -1,0 +1,5 @@
+Term: IMAX
+Glossary: vfx
+Definition: A proprietary film capture/projection process that uses an extremely large-format negative.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/imax/

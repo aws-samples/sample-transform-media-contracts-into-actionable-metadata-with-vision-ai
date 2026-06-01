@@ -1,0 +1,5 @@
+Term: optical flow analysis
+Glossary: vfx
+Definition: A method for procedurally determining the movement of objects in a sequence of images by examining the movement of smaller blocks of pixels within the image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/optical-flow-analysis/

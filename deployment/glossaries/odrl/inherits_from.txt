@@ -1,0 +1,4 @@
+Term: Inherits From
+Glossary: odrl
+Definition: Relates a (child) policy to another (parent) policy from which terms are inherited.
+Usage Context: The child policy will inherit Rules from the parent policy

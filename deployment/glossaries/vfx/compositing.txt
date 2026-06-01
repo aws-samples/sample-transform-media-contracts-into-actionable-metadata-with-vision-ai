@@ -1,0 +1,5 @@
+Term: compositing
+Glossary: vfx
+Definition: The manipulated combination of at least two source images to produce an integrated result.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/compositing/

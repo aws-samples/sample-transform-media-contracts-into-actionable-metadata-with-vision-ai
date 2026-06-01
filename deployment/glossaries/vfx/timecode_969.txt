@@ -1,0 +1,5 @@
+Term: Timecode
+Glossary: vfx
+Definition: A numeric code sequence used in video production, show control, and other applications to provide temporal coordination between different devices. See also PTP.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/timecode/

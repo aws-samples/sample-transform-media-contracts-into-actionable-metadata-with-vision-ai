@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Media Contracts Schema (MCS) v1.0 — Base Schema
+    ================================================
+    This is the foundational schema that all contract analysis agents extend.
+
+    Modular Structure:
+    - Part 1: Envelope (REQUIRED)
+    - Part 2: Core Metadata (REQUIRED)
+    - Part 3: Common Spine (OPTIONAL - document analyzers)
+    - Part 4: Topical Analysis (OPTIONAL)
+    - Part 5: Specialized Section (REQUIRED - analyzer-specific)
+    - Part 6: Findings (REQUIRED - specialist analyzers)
+    - Part 7: Tags (REQUIRED)
+-->
+
+<!-- ============================================================
+     PART 1: ENVELOPE (REQUIRED - All Analyzers)
+     ============================================================ -->
+<response analyzer="{ANALYZER_ID}"
+         schema_version="1.0"
+         job_id="{JOB_ID}"
+         timestamp="{ISO_8601_TIMESTAMP}">
+
+    <!-- ============================================================
+         PART 2: CORE METADATA (REQUIRED - All Analyzers)
+         ============================================================ -->
+    <metadata>
+        <analyzer_name>{ANALYZER_ID}</analyzer_name>
+        <schema_version>1.0</schema_version>
+        <timestamp>{ISO_8601_TIMESTAMP}</timestamp>
+        <source_document>{DOCUMENT_TITLE_OR_REFERENCE}</source_document>
+
+        <!-- Optional fields commonly used -->
+        <page_reference>{PAGE_NUMBER_IF_APPLICABLE}</page_reference>
+        <element_count>{COUNT_OF_PRIMARY_ELEMENTS_OR_FINDINGS}</element_count>
+        <confidence>{high|medium|low}</confidence>
+
+        <!-- Analyzer-specific metadata fields go here -->
+        <!-- Example: <contract_type>, <party_count>, <blank_field_count>, etc. -->
+    </metadata>
+
+    <!-- ============================================================
+         PART 3: COMMON SPINE (OPTIONAL - Document Analyzers Only)
+         ============================================================
+         Used by analyzers that produce text content (extractor,
+         handwriting_analyzer). Provides ordered text elements for
+         document reconstruction and downstream processing.
+
+         CRITICAL: For pages analyzed only by specialized analyzers
+         (e.g., handwriting-only pages), this spine IS the text source
+         for correlation and downstream consumers.
+         ============================================================ -->
+    <common_spine element_count="{NUMBER_OF_TEXT_ELEMENTS}">
+        <!-- Each text region becomes a spine element -->
+        <element id="elem_001" tag="{STRUCTURAL_TAG}" order="1" page="{PAGE_NUMBER}">
+            <text>{TEXT_CONTENT_OF_ELEMENT}</text>
+        </element>
+        <element id="elem_002" tag="{STRUCTURAL_TAG}" order="2" page="{PAGE_NUMBER}">
+            <text>{TEXT_CONTENT_OF_ELEMENT}</text>
+        </element>
+        <!-- Common tags: P (paragraph), H1/H2/H3 (headings), Note, Table, List -->
+        <!-- Include ALL transcribed/extracted text in reading order -->
+    </common_spine>
+
+    <!-- ============================================================
+         PART 4: TOPICAL ANALYSIS (OPTIONAL)
+         ============================================================
+         High-level summary of topics identified in the content.
+         ============================================================ -->
+    <topical_analysis>{TOPICS_IDENTIFIED_IN_CONTENT}</topical_analysis>
+
+    <!-- ============================================================
+         PART 5: SPECIALIZED SECTION (REQUIRED - Analyzer-Specific)
+         ============================================================
+         Each analyzer defines its own structure here. This section
+         contains the domain-specific analysis or extraction.
+
+         The type attribute identifies the analyzer domain.
+         ============================================================ -->
+    <specialized type="{ANALYZER_TYPE}">
+        <!-- Analyzer-specific structure defined in individual format files -->
+
+        <!-- Example structures:
+             - Extractor: <extraction> with parties, terms, rights, etc.
+             - Financial: <compensation_map>, <revenue_base_analysis>, etc.
+             - Rights: <grant_scope_analysis>, <territory_analysis>, etc.
+             - Handwriting: <elements>, <document_assessment>, etc.
+        -->
+    </specialized>
+
+    <!-- ============================================================
+         PART 6: FINDINGS (REQUIRED - Specialist Analyzers Only)
+         ============================================================
+         Standardized structure for risk and gap identification.
+         Used by all specialist analyzers. NOT used by extractor.
+
+         Note: Individual specialist formats may have more specific
+         findings sections (e.g., <financial_findings>, <rights_findings>)
+         that extend this base structure with domain-specific fields.
+         ============================================================ -->
+    <findings>
+        <risks>
+            <risk>
+                <description>{WHAT_THE_RISK_IS}</description>
+                <severity>{HIGH|MEDIUM|LOW}</severity>
+                <category>{RISK_CATEGORY}</category>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+                <rationale>{WHY_THIS_IS_A_RISK}</rationale>
+            </risk>
+            <!-- Repeat, ranked by severity -->
+        </risks>
+
+        <gaps>
+            <gap>
+                <description>{WHAT_IS_MISSING_OR_UNCLEAR}</description>
+                <severity>{HIGH|MEDIUM|LOW}</severity>
+                <category>{GAP_CATEGORY}</category>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+                <impact>{HOW_THIS_GAP_AFFECTS_THE_AGREEMENT}</impact>
+            </gap>
+            <!-- Repeat, ranked by severity -->
+        </gaps>
+
+        <ambiguities>
+            <ambiguity>
+                <description>{WHAT_IS_AMBIGUOUS}</description>
+                <section_reference>{CONTRACT_SECTION}</section_reference>
+                <impact>{WHAT_THIS_AMBIGUITY_MEANS}</impact>
+            </ambiguity>
+            <!-- Repeat -->
+        </ambiguities>
+
+        <cross_references>
+            <cross_reference agent="{AGENT_ID}"
+                            note="{BRIEF_DESCRIPTION_OF_ISSUE_FOR_THAT_AGENT}" />
+            <!-- Repeat as needed -->
+        </cross_references>
+    </findings>
+
+    <!-- ============================================================
+         PART 7: TAGS (REQUIRED - All Analyzers)
+         ============================================================
+         Topical tags for categorization, search, and correlation.
+         ============================================================ -->
+    <tags>
+        <tag>{TOPICAL_TAG}</tag>
+        <!-- Can repeat tags as needed -->
+    </tags>
+
+</response>

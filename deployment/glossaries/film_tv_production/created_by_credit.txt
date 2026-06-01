@@ -1,0 +1,5 @@
+Term: Created By Credit
+Glossary: film_tv_production
+Definition: A television writing credit identifying the writer(s) who created the series and are entitled to the separated rights. In television, 'Created by' is the principal qualifying credit for separated rights.
+Usage Context: Accorded under the WGA Television Credits Manual to the writer or team responsible for the format or original story(ies) from which the series derives. Carries with it residual participation and sequel/spin-off compensation rights.
+Source: WGA Television Credits Manual — https://www.wga.org/contracts/credits/manuals/tv-credits-manual

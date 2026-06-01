@@ -1,0 +1,3 @@
+Term: Greater than or equal to
+Glossary: odrl
+Definition: Indicating that a given value is greater than or equal to the right operand of the Constraint.

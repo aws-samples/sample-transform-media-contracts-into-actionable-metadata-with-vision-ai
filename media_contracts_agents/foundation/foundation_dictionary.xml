@@ -1,0 +1,172 @@
+<!--
+    Foundation Dictionary — Shared by All Sub-Agents
+    ==================================================
+    Defines contract types, provision categories, and domain-specific terminology
+    used across the media rights analysis pipeline. Every agent loads this file
+    for consistent terminology and classification.
+-->
+<foundation_dictionary>
+
+    <contract_types>
+        <type name="content_licensing_agreement">
+            <description>An agreement governing the licensing of audiovisual content (films, series, specials) from a rights holder to a licensee for distribution across specified media, territories, and time periods. The core transaction is a grant of exploitation rights in exchange for license fees, revenue shares, or minimum guarantees.</description>
+        </type>
+        <type name="talent_performance_agreement">
+            <description>An agreement engaging an on-screen performer for a production, covering the performer's services, compensation (fixed and contingent), grant of rights in their performance and likeness, credit obligations, exclusivity, and termination provisions including pay-or-play terms.</description>
+        </type>
+        <type name="music_synchronization_license">
+            <description>A license authorizing the use of a musical composition in timed synchronization with an audiovisual production. Covers the underlying composition only; a separate master use license is required for a specific recording. Defines approved use, duration, territory, media, and sync fee.</description>
+        </type>
+        <type name="distribution_agreement">
+            <description>An agreement appointing a distributor to exploit content across specified channels (broadcast, cable, streaming, digital) within a territory. Covers distribution fees, recoupable expenses, windowing schedules, marketing approval, and reversion of rights upon termination.</description>
+        </type>
+        <type name="digital_rights_ugc_license">
+            <description>An agreement between a digital platform and a content creator governing the upload, hosting, monetization, and distribution of user-generated content. Covers license grants, revenue sharing (ad, subscription, direct), content moderation, DMCA compliance, data portability, and platform amendment rights. Creator retains ownership.</description>
+        </type>
+    </contract_types>
+
+    <provision_categories>
+        <category name="grant_of_rights">
+            <description>The core operative provision transferring or licensing specific intellectual property rights from one party to another. Defines what the recipient can do with the content, where, on what platforms, and for how long.</description>
+        </category>
+        <category name="exclusivity">
+            <description>Provisions restricting one or both parties from engaging with competitors or licensing to competing platforms. Includes holdbacks (restrictions on the licensor) and exclusivity periods (restrictions on the talent or creator).</description>
+        </category>
+        <category name="compensation">
+            <description>All financial terms including fixed fees, variable compensation (revenue shares, royalties, residuals), minimum guarantees, and contingent compensation. The economic heart of the agreement.</description>
+        </category>
+        <category name="term_and_termination">
+            <description>Provisions governing the duration of the agreement, renewal mechanics, grounds for early termination, cure periods, and what happens when the agreement ends (reversion, sell-off, final accounting).</description>
+        </category>
+        <category name="representations_and_warranties">
+            <description>Statements of fact each party makes about their authority, the content, and their capabilities. Breach of a representation typically triggers indemnification obligations.</description>
+        </category>
+        <category name="indemnification">
+            <description>Obligations to defend and hold harmless the other party from claims arising from breach of representations, warranties, or obligations. May be mutual or asymmetric.</description>
+        </category>
+        <category name="ownership_and_chain_of_title">
+            <description>Provisions establishing or warranting who owns the underlying intellectual property, whether the chain of title is clean, and how work-for-hire or assignment documentation supports the grantor's authority to license. Gaps in chain of title are a primary source of third-party claims.</description>
+        </category>
+        <category name="talent_and_third_party_obligations">
+            <description>Obligations arising from guild/union collective bargaining agreements, residual and royalty commitments to talent, music licensing requirements, and clearances for third-party IP embedded in the content. These obligations typically flow with the content regardless of who holds the distribution rights.</description>
+        </category>
+        <category name="digital_and_emerging_rights">
+            <description>Provisions addressing rights and restrictions related to AI training, generative AI, NFTs, metaverse exploitation, social media clips, viewer data ownership, and other digital-native exploitation modes not covered by traditional media license definitions. Often the most contested and least standardized provisions in modern agreements.</description>
+        </category>
+        <category name="regulatory_and_compliance">
+            <description>Obligations relating to content ratings, local content quotas, accessibility (captioning, audio description), export controls, sanctions compliance, and data protection laws. Particularly important for international distribution deals where regulatory regimes vary by territory.</description>
+        </category>
+        <category name="insurance">
+            <description>Requirements for Errors &amp; Omissions (E&amp;O) insurance, general liability, production insurance, and other coverage. Typically a condition precedent to distribution, with specified minimum coverage amounts and the requirement to name the other party as an additional insured.</description>
+        </category>
+    </provision_categories>
+
+    <industry_terms>
+        <term name="SVOD">
+            <definition>Subscription Video-on-Demand. A platform where users pay a recurring subscription fee for access to a content library (e.g., Netflix, Disney+).</definition>
+        </term>
+        <term name="AVOD">
+            <definition>Advertising-based Video-on-Demand. A platform offering free content supported by advertising (e.g., Tubi, Pluto TV).</definition>
+        </term>
+        <term name="TVOD">
+            <definition>Transactional Video-on-Demand. A platform where users pay per-title to rent or purchase content (e.g., iTunes, Google Play).</definition>
+        </term>
+        <term name="FAST">
+            <definition>Free Ad-Supported Streaming TV. Linear-style streaming channels supported by advertising, mimicking traditional broadcast (e.g., Pluto TV channels, Tubi channels).</definition>
+        </term>
+        <term name="holdback">
+            <definition>A contractual restriction preventing the licensor from licensing the same content to specified competing platforms or services within the territory during a defined period.</definition>
+        </term>
+        <term name="windowing">
+            <definition>The practice of releasing content sequentially across different distribution platforms, with each window having an exclusivity period before the next window opens. Typical sequence: theatrical, premium VOD, SVOD, free TV.</definition>
+        </term>
+        <term name="minimum_guarantee">
+            <definition>A guaranteed minimum payment from licensee to licensor, typically recoupable against future revenue share payments. Functions as a floor on compensation or an advance against earnings.</definition>
+        </term>
+        <term name="most_favored_nations">
+            <definition>A provision ensuring one party receives terms no less favorable than those granted to any comparable party in a similar transaction. Common in music sync deals to ensure parity among compositions used in the same production.</definition>
+        </term>
+        <term name="pay_or_play">
+            <definition>A commitment by the producer to pay the performer's full fixed compensation regardless of whether the performer's services are actually utilized. Protects the performer if the production is cancelled or the role is recast.</definition>
+        </term>
+        <term name="residuals">
+            <definition>Ongoing payments to performers, directors, or writers for reuse or continued exploitation of a production beyond its initial exhibition. Often governed by guild collective bargaining agreements (SAG-AFTRA, DGA, WGA).</definition>
+        </term>
+        <term name="synchronization_license">
+            <definition>A license to use a musical composition in timed synchronization with visual images in an audiovisual production. Covers the underlying composition; a separate master use license is needed for a specific sound recording.</definition>
+        </term>
+        <term name="master_use_license">
+            <definition>A license to use a specific sound recording of a musical composition, obtained from the record label or master rights holder. Required in addition to the synchronization license when using an existing recording.</definition>
+        </term>
+        <term name="net_revenue">
+            <definition>Gross revenue less specified deductions (taxes, platform fees, approved expenses). The exact definition varies by contract and is a critical negotiation point — the approved deductions determine the actual economic value.</definition>
+        </term>
+        <term name="gross_receipts">
+            <definition>Total revenue received by the distributor from exploitation of the content, before any deductions. The starting point from which distribution fees and recoupable expenses are subtracted.</definition>
+        </term>
+        <term name="net_profits">
+            <definition>Revenue remaining after deduction of all production costs, distribution fees, overhead charges, and other contractually defined expenses. Historically one of the most contentious defined terms in entertainment agreements.</definition>
+        </term>
+        <term name="reversion">
+            <definition>The return of all licensed rights to the original rights holder upon expiration or termination of the agreement. The licensee/distributor must cease exploitation and the rights holder regains full control.</definition>
+        </term>
+        <term name="sell_off_period">
+            <definition>A limited period following termination during which the distributor may fulfill existing commitments made prior to the termination notice. Prevents abrupt disruption of existing distribution arrangements.</definition>
+        </term>
+        <term name="force_majeure">
+            <definition>A contractual provision excusing performance when prevented by extraordinary events beyond reasonable control, such as natural disasters, war, pandemic, government action, or infrastructure failure.</definition>
+        </term>
+        <term name="morals_clause">
+            <definition>A provision allowing termination or other remedies if a party (typically talent) engages in conduct that brings them into public disrepute or scandal, or that materially and adversely affects the commercial value of the production.</definition>
+        </term>
+        <term name="DMCA">
+            <definition>Digital Millennium Copyright Act. U.S. federal law establishing a framework for copyright protection in digital environments, including safe harbor provisions for platforms that comply with notice-and-takedown procedures.</definition>
+        </term>
+        <term name="pro_rata_share">
+            <definition>In subscription revenue models, a creator's share calculated proportionally based on their content's viewing time relative to total platform viewing time, applied against a defined percentage of the subscription revenue pool.</definition>
+        </term>
+        <term name="chain_of_title">
+            <definition>The sequence of documents evidencing the transfer or licensing of intellectual property rights from the original creator through each subsequent holder to the current rights owner. A clean chain of title means there are no gaps, disputes, or unresolved claims in this sequence. Typically established through copyright registrations, assignment agreements, work-for-hire agreements, and license grants.</definition>
+        </term>
+        <term name="work_for_hire">
+            <definition>Under U.S. copyright law (17 U.S.C. § 101), a work created by an employee within the scope of employment, or a work specially ordered or commissioned that falls within certain enumerated categories and is accompanied by a signed written agreement. The hiring party is deemed the author and initial copyright owner. Proper documentation is essential — without a signed agreement, the creator may retain rights.</definition>
+        </term>
+        <term name="errors_and_omissions_insurance">
+            <definition>Errors and Omissions (E&amp;O) insurance. A specialized liability policy required for media productions covering claims of copyright infringement, defamation, invasion of privacy, and unauthorized use of titles, characters, or formats. Distributors and broadcasters typically require the content owner to maintain E&amp;O coverage as a condition of distribution.</definition>
+        </term>
+        <term name="editorial_control">
+            <definition>The right to make creative decisions about the content, including cuts, edits, re-versioning, dubbing, reformatting, and adaptation. Contracts typically specify whether the licensor retains approval rights over edits or whether the licensee/distributor may freely alter the content for localization, censorship compliance, or time-slot requirements.</definition>
+        </term>
+        <term name="local_content_quota">
+            <definition>Regulatory requirements imposed by national governments or broadcasting authorities mandating that a minimum percentage of programming consist of locally produced content. Common in the EU (European Works requirements under the AVMS Directive), Australia, Canada, and other jurisdictions. Non-compliance can result in fines or license revocation for the broadcaster or platform.</definition>
+        </term>
+        <term name="accessibility_requirements">
+            <definition>Legal obligations to make audiovisual content accessible to persons with disabilities, including closed captioning for the deaf and hard of hearing, audio description for the visually impaired, and subtitle standards. Governed by regulations such as the FCC's closed captioning rules (U.S.), the European Accessibility Act (EU), and the Equality Act 2010 (UK).</definition>
+        </term>
+        <term name="export_controls">
+            <definition>Government restrictions on the distribution of content, technology, or services to certain countries, entities, or individuals. Includes U.S. OFAC sanctions, EU restrictive measures, and export control regulations. Relevant when distributing content to sanctioned territories or when content involves restricted technology (e.g., encryption).</definition>
+        </term>
+        <term name="dubbing_and_subtitle_rights">
+            <definition>The right to create dubbed (voice-replaced) or subtitled versions of audiovisual content in languages other than the original. May be granted as part of the distribution license or reserved by the content owner. Key considerations include who bears the cost, who approves quality, and whether the dubbed/subtitled versions are owned by the licensor or licensee.</definition>
+        </term>
+        <term name="embedded_ip_clearances">
+            <definition>Permissions required for third-party intellectual property that appears within a production, including brand logos, artwork, signage, music, archival footage, photographs, and recognizable locations. Failure to obtain clearances creates infringement risk. Clearance status is typically represented and warranted by the content owner.</definition>
+        </term>
+        <term name="nft_and_metaverse_rights">
+            <definition>Rights to exploit content or associated intellectual property as non-fungible tokens (NFTs), in virtual worlds, or through interactive digital environments. An emerging rights category not covered by traditional media license definitions. If not explicitly addressed, these rights are generally considered reserved by the rights holder.</definition>
+        </term>
+        <term name="ai_training_rights">
+            <definition>The right to use audiovisual content, performances, likenesses, or associated data as training inputs for artificial intelligence or machine learning models. Increasingly contested and subject to evolving regulation. Distinct from AI-generated content rights (the right to create new content using AI). Often explicitly restricted or carved out in modern talent and licensing agreements.</definition>
+        </term>
+        <term name="viewer_data_ownership">
+            <definition>Provisions governing which party owns, controls, and may monetize data about content viewership, audience demographics, and engagement metrics. Increasingly important in streaming distribution deals where data has independent commercial value. Key issues include data sharing obligations, anonymization requirements, and restrictions on use for competitive purposes.</definition>
+        </term>
+        <term name="social_media_clip_rights">
+            <definition>The right to create and distribute short-form clips or excerpts from licensed content on social media platforms for promotional or monetization purposes. Typically defined by maximum duration (e.g., 60 seconds), permitted platforms, and whether the clips may be monetized independently of the underlying license.</definition>
+        </term>
+        <term name="key_person_clause">
+            <definition>A provision making the agreement contingent on the continued involvement of a specific individual (e.g., a showrunner, director, or executive producer). If the key person becomes unavailable, the other party may have rights to terminate, suspend, or renegotiate. Distinct from a morals clause, which addresses conduct rather than availability.</definition>
+        </term>
+    </industry_terms>
+
+</foundation_dictionary>

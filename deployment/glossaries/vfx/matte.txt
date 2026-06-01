@@ -1,0 +1,5 @@
+Term: matte
+Glossary: vfx
+Definition: An image used to define or control the transparency of another image. See also articulate matte, complementary matte, difference matte, edge matte, fixed matte, garbage matte, hold-out matte, rotoscoped matte, static matte, traveling matte.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/matte/

@@ -1,0 +1,5 @@
+Term: animated
+Glossary: vfx
+Definition: Having characteristics that change over time.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/animated/

@@ -1,0 +1,5 @@
+Term: Sound Recording
+Glossary: music_rights_licensing
+Definition: The copyright in a recording of music, words, or other sounds onto a material object such as a CD, digital file, or vinyl record. The copyright encompasses what you hear: the artist singing, the musicians playing, the entire production. The sound recording copyright is owned by the owner of the master recording, typically a record label.
+Usage Context: Distinct from the copyright in the underlying composition (the words and music), which is owned by the songwriter or publisher. Using a recording of a song in an audiovisual work requires both (a) a sync license from the publisher for the composition, and (b) a master use license from the sound recording owner (typically the label).
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

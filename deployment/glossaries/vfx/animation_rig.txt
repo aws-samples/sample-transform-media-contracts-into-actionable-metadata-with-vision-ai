@@ -1,0 +1,5 @@
+Term: animation rig
+Glossary: vfx
+Definition: CG structure built for the CG model and used by an animator as a type of skeleton to pose the animation model.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/animation-rig/

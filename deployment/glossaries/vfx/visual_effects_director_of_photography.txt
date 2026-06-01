@@ -1,0 +1,5 @@
+Term: Visual Effects Director of Photography
+Glossary: vfx
+Definition: The individual responsible for photographing any elements that will be used in visual effects production. (See the list of VES-approved titles in Appendix B.)
+Source: ves
+Reference: https://vpglossary.com/vesglossary/visual-effects-director-of-photography/

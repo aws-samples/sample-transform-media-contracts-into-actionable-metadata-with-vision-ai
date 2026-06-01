@@ -1,0 +1,5 @@
+Term: TGA
+Glossary: vfx
+Definition: See TARGA.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/tga/

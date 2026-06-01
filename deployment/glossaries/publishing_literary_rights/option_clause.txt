@@ -1,0 +1,5 @@
+Term: Option Clause
+Glossary: publishing_literary_rights
+Definition: A contractual provision giving the publisher rights regarding the author's next work — typically either a first right of refusal, a first right to negotiate, or a first right to match competing offers. Option clauses tie the author to the publisher for future works and can limit the author's market leverage.
+Usage Context: Authors Guild advises against signing option clauses that 'tie you to your publisher for your next book.' When an option is accepted, it should be narrowly drawn (specific type of book, time-limited response window, no right to match competing offers).
+Source: Authors Guild Contract Reviews — https://authorsguild.org/legal-services/contract-reviews/

@@ -1,0 +1,5 @@
+Term: Insolvency
+Glossary: publishing_literary_rights
+Definition: A clause addressing what happens if the publisher becomes insolvent, files for bankruptcy, or ceases to do business — typically triggering automatic termination of the agreement and reversion of rights to the author. Enforceability of such clauses varies under bankruptcy law.
+Usage Context: Bankruptcy law may override automatic termination clauses. Authors Guild emphasizes including explicit insolvency language while recognizing it may be superseded in formal bankruptcy proceedings. Prompt assertion of rights in a bankruptcy is essential to preserve reversion.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

@@ -1,0 +1,5 @@
+Term: turnover
+Glossary: vfx
+Definition: The process of handing over a visual effects shot or edited and locked visual effects sequence to a visual effects facility to begin work.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/turnover/

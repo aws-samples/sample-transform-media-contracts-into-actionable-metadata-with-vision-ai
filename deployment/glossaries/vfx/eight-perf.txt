@@ -1,0 +1,5 @@
+Term: eight-perf
+Glossary: vfx
+Definition: A nickname for the VistaVision film format that comes from the fact that each VistaVision frame has eight perforations along each edge.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/eight-perf/

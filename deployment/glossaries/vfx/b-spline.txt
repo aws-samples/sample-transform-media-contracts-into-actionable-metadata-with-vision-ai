@@ -1,0 +1,5 @@
+Term: B-spline
+Glossary: vfx
+Definition: Simply a generalization of a Bézier curve.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/b-spline/

@@ -1,0 +1,5 @@
+Term: locked-off camera
+Glossary: vfx
+Definition: A camera whose position and lens settings do not change over the duration of the shot.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/locked-off-camera/

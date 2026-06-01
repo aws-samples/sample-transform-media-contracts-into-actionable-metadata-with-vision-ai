@@ -1,0 +1,5 @@
+Term: fill light
+Glossary: vfx
+Definition: One or more lights on set used to “fill in” the shadows created by the key light.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/fill-light/

@@ -1,0 +1,5 @@
+Term: keyframing
+Glossary: vfx
+Definition: Another term for keyframe animation.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/keyframing/

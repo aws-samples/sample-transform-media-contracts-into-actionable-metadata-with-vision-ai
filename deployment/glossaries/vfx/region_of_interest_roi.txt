@@ -1,0 +1,5 @@
+Term: region of interest (ROI)
+Glossary: vfx
+Definition: A (usually rectangular) region that is determined by the user in order to limit certain calculations. See also domain of definition.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/region-of-interest-roi/

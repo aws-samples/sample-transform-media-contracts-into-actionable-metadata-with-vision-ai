@@ -1,0 +1,5 @@
+Term: Z-buffer
+Glossary: vfx
+Definition: Another term for a Z-depth image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/z-buffer/

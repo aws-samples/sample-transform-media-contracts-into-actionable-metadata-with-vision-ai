@@ -1,0 +1,5 @@
+Term: Frontend
+Glossary: media_rights_legal
+Definition: Fixed compensation paid regardless of commercial performance (guaranteed fees, salaries). Contrasted with backend (contingent compensation from profits).
+Usage Context: Talent deal structure: 'Performer receives $X frontend plus Y% backend participation.'
+Source: media_rights_legal

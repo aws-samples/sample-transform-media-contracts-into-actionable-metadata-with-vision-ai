@@ -1,0 +1,5 @@
+Term: photogrammetry
+Glossary: vfx
+Definition: A method in which textured 3D geometry is created based on the analysis of multiple 2D images taken from different viewpoints.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/photogrammetry/

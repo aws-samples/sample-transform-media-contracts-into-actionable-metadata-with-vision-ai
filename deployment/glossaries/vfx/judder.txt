@@ -1,0 +1,5 @@
+Term: Judder
+Glossary: vfx
+Definition: Shaking or stuttering between frames. Judder can be experienced inside of a VR headset as well as in video imagery.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/judder/

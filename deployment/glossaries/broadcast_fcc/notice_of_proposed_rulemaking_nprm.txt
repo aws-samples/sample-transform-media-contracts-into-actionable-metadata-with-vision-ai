@@ -1,0 +1,5 @@
+Term: Notice of Proposed Rulemaking (NPRM)
+Glossary: broadcast_fcc
+Definition: A formal FCC document initiating a rulemaking proceeding that proposes specific rule changes or additions, and invites public comment on the proposals. NPRMs typically have a comment and reply-comment period.
+Usage Context: The principal vehicle for FCC rule development. Industry participants file comments and engage in ex parte meetings to influence final rules. Followed by a Report & Order (R&O) adopting final rules.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

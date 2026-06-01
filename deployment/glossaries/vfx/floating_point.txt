@@ -1,0 +1,5 @@
+Term: floating point
+Glossary: vfx
+Definition: A term used to describe a number in which no fixed number of digits must be used before or after a decimal point to describe a number, meaning that the decimal point can float.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/floating-point/

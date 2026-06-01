@@ -1,0 +1,5 @@
+Term: vignetting
+Glossary: vfx
+Definition: A camera or lens artifact characterized by a darkening of the image in the corners of the frame.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/vignetting/

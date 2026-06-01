@@ -1,0 +1,5 @@
+Term: En Banc
+Glossary: broadcast_fcc
+Definition: An informal meeting held by the FCC to hear presentations on specific topics by diverse parties. Commissioners or other officials question presenters and use their comments when considering FCC rules and policies on the subject matter.
+Usage Context: Venue for stakeholder input on emerging policy issues. En banc proceedings are less formal than hearings on the record but provide important public discussion.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

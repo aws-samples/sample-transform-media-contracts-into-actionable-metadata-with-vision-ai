@@ -1,0 +1,4 @@
+Term: Product Context
+Glossary: odrl
+Definition: Category of product or service setting a context for exercising the action of the Rule.
+Usage Context: Example: May only be used in the XYZ Magazine.

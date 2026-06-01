@@ -1,0 +1,5 @@
+Term: filter
+Glossary: vfx
+Definition: (1) A translucent material that is placed in front of a light or camera to modify the color that is transmitted. Certain of these optical filters may also be designed to introduce specific artifacts, such as diffusion, flares, etc. (2) Any of a number of algorithms used within the computer for sampling an image. Different filters can be used when transforming an image and can result in differing amounts of sharpness or artifacts. (3) The process of using either of the aforementioned types of filters.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/filter/

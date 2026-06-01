@@ -1,0 +1,5 @@
+Term: red record
+Glossary: vfx
+Definition: The layer of the film that captures red light.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/red-record/

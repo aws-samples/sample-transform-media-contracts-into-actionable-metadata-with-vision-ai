@@ -1,0 +1,5 @@
+Term: Super Techniscope
+Glossary: vfx
+Definition: Another name for Super 35.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/super-techniscope/

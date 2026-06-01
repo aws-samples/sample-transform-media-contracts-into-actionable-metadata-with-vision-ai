@@ -1,0 +1,5 @@
+Term: resolution independence
+Glossary: vfx
+Definition: The characteristic of a software package that allows the user to easily work with and move between an arbitrary number of different resolutions.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/resolution-independence/

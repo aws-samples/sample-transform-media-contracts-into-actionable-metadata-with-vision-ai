@@ -1,0 +1,5 @@
+Term: resolution
+Glossary: vfx
+Definition: The amount of data that is used to capture an image. The term is typically used to refer specifically to the spatial resolution of a digital image. See also color resolution, temporal resolution.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/resolution/

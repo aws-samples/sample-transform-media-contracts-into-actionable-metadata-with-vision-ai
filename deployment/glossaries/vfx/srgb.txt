@@ -1,0 +1,5 @@
+Term: sRGB
+Glossary: vfx
+Definition: A standard RGB color space created cooperatively by HP and Microsoft in 1996 for use on monitors, printers, and the Internet.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/srgb/

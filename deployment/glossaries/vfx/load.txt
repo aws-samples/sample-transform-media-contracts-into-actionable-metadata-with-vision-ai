@@ -1,0 +1,5 @@
+Term: Load
+Glossary: vfx
+Definition: An assembly file that includes elements such as virtual sets, characters, and performances prepared for shooting with virtual camera, simulcam, in a LED volume, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/load/

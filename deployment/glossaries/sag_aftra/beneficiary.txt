@@ -1,0 +1,5 @@
+Term: Beneficiary
+Glossary: sag_aftra
+Definition: The person or persons designated by a performer to receive that performer's residual earnings after the performer's death.
+Usage Context: Used by the SAG-AFTRA Residuals Estates Department when processing residual payments for deceased members. Performers designate beneficiaries in writing to ensure continued receipt of residual income by heirs.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

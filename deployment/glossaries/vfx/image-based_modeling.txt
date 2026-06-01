@@ -1,0 +1,5 @@
+Term: Image-based modeling
+Glossary: vfx
+Definition: The process of using two-dimensional images to develop three-dimensional content. See also photogrammetry.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/image-based-modeling/

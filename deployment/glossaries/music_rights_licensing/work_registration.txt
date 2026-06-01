@@ -1,0 +1,5 @@
+Term: Work Registration
+Glossary: music_rights_licensing
+Definition: The process by which a songwriter, composer, or music publisher registers a musical composition with a performing rights organization (ASCAP, BMI, SESAC, or GMR) and with the Mechanical Licensing Collective, so that performance and mechanical royalties can be accurately attributed and distributed.
+Usage Context: Work registration is required for royalty distribution. Unregistered works may generate royalties that cannot be properly matched and paid. Registration information includes title, writer splits, publisher splits, and controlling rights information.
+Source: ASCAP Member Access — https://www.ascap.com/member-access#works/online-work-registration

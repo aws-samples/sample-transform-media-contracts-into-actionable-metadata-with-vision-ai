@@ -1,0 +1,5 @@
+Term: desaturation
+Glossary: vfx
+Definition: A term that describes the removal or loss of color in an image. A completely desaturated image would consist only of shades of gray.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/desaturation/

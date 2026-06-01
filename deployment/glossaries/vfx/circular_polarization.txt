@@ -1,0 +1,5 @@
+Term: circular polarization
+Glossary: vfx
+Definition: (stereo) A form of polarized light in which the tip of the electric vector of the light ray moves through a corkscrew in space.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/circular-polarization/

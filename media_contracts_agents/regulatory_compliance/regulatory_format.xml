@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Regulatory & Compliance Analyst Agent — Response Format
+    =========================================================
+    Media Contracts Schema (MCS) v1.0
+    Implements: Part 1 (envelope) + Part 2 (metadata) + Part 5 (specialized/regulatory) +
+                Part 6 (findings) + Part 7 (tags)
+    See: schemas/base/mcs_base_schema.xml
+
+    Output schema consumed by the Risk Strategist and human reviewers
+    (regulatory counsel, compliance officers, content operations directors).
+-->
+<response_format>
+    <response analyzer="regulatory_compliance"
+              schema_version="1.0"
+              job_id="{JOB_ID}"
+              timestamp="{ISO_8601_TIMESTAMP}">
+        <!-- MCS Part 2: Core Metadata -->
+        <metadata>
+            <analyzer_name>regulatory_compliance</analyzer_name>
+            <schema_version>1.0</schema_version>
+            <timestamp>{ISO_8601_TIMESTAMP}</timestamp>
+            <source_document>{DOCUMENT_TITLE_FROM_EXTRACTOR}</source_document>
+            <element_count>{TOTAL_ELEMENTS_ANALYZED}</element_count>
+            <confidence>{high|medium|low}</confidence>
+
+            <!-- Analyzer-specific metadata -->
+            <contract_type>{CONTRACT_TYPE_FROM_EXTRACTOR}</contract_type>
+            <territories_granted>{TERRITORIES_FROM_EXTRACTION}</territories_granted>
+            <platforms_granted>{PLATFORMS_FROM_EXTRACTION}</platforms_granted>
+            <overall_regulatory_posture>{COMPLIANT|PARTIALLY_ADDRESSED|DEFICIENT}</overall_regulatory_posture>
+            <regulatory_gap_count>{TOTAL_UNADDRESSED_OBLIGATIONS}</regulatory_gap_count>
+            <high_severity_gap_count>{NUMBER_OF_HIGH_SEVERITY_GAPS}</high_severity_gap_count>
+        </metadata>
+
+        <!-- MCS Part 5: Specialized Section (regulatory compliance) -->
+        <specialized type="regulatory_compliance">
+            <regulatory_applicability_map>
+                <!-- Which regulatory frameworks apply to this deal -->
+                <territory_regime>
+                    <territory>{TERRITORY_OR_TERRITORY_GROUP}</territory>
+                    <applicable_frameworks>
+                        <framework>{EACH_REGULATORY_FRAMEWORK — e.g. EU_AVMS_Directive, GDPR, FCC, OFAC}</framework>
+                        <!-- Repeat -->
+                    </applicable_frameworks>
+                </territory_regime>
+                <!-- Repeat for each major territory -->
+                <conditional_note>{IF_TERRITORY_IS_BLANK_NOTE_THAT_ANALYSIS_IS_CONDITIONAL}</conditional_note>
+            </regulatory_applicability_map>
+
+            <content_rating_analysis>
+                <applicable_systems>
+                    <system>
+                        <name>{CLASSIFICATION_SYSTEM — e.g. MPAA, BBFC, FSK}</name>
+                        <territory>{WHERE_IT_APPLIES}</territory>
+                        <platform_requirement>{WHICH_PLATFORMS_REQUIRE_THIS_RATING}</platform_requirement>
+                    </system>
+                    <!-- Repeat -->
+                </applicable_systems>
+                <responsibility_allocated>{YES_TO_WHICH_PARTY|NO_GAP}</responsibility_allocated>
+                <cost_allocated>{YES_TO_WHICH_PARTY|NO_GAP}</cost_allocated>
+                <content_modification_addressed>{YES|NO}</content_modification_addressed>
+                <section_reference>{CONTRACT_SECTION_OR_NOT_ADDRESSED}</section_reference>
+                <gap_assessment>{DESCRIPTION_OF_ANY_GAP}</gap_assessment>
+            </content_rating_analysis>
+
+            <local_content_quota_analysis>
+                <applicable_quotas>
+                    <quota>
+                        <regulation>{e.g. EU_AVMS_Article_13, CRTC_Canadian_Content}</regulation>
+                        <requirement>{WHAT_THE_QUOTA_REQUIRES}</requirement>
+                        <applies_to>{PLATFORM_TYPE — e.g. SVOD_platforms_in_EU}</applies_to>
+                        <content_qualifies>{YES|NO|UNKNOWN — does this content meet the origin definition?}</content_qualifies>
+                    </quota>
+                    <!-- Repeat -->
+                </applicable_quotas>
+                <responsibility_allocated>{YES_TO_WHICH_PARTY|NO_GAP}</responsibility_allocated>
+                <origin_representations>{DOES_CONTENT_OWNER_WARRANT_CONTENT_ORIGIN|NO}</origin_representations>
+                <section_reference>{CONTRACT_SECTION_OR_NOT_ADDRESSED}</section_reference>
+                <gap_assessment>{DESCRIPTION_OF_ANY_GAP}</gap_assessment>
+            </local_content_quota_analysis>
+
+            <accessibility_analysis>
+                <captioning>
+                    <mandates_applicable>
+                        <mandate>{EACH_CAPTIONING_MANDATE — e.g. FCC_47CFR79, EAA}</mandate>
+                        <!-- Repeat -->
+                    </mandates_applicable>
+                    <responsibility_allocated>{YES_TO_WHICH_PARTY|NO_GAP}</responsibility_allocated>
+                    <cost_allocated>{YES_TO_WHICH_PARTY|NO_GAP}</cost_allocated>
+                    <technical_standard_specified>{YES_WHICH|NO}</technical_standard_specified>
+                    <delivery_timeline_compatible>{YES|NO|NOT_SPECIFIED}</delivery_timeline_compatible>
+                    <section_reference>{CONTRACT_SECTION_OR_NOT_ADDRESSED}</section_reference>
+                </captioning>
+                <audio_description>
+                    <mandates_applicable>
+                        <mandate>{EACH_AD_MANDATE}</mandate>
+                    </mandates_applicable>
+                    <responsibility_allocated>{YES_TO_WHICH_PARTY|NO_GAP}</responsibility_allocated>
+                    <cost_allocated>{YES_TO_WHICH_PARTY|NO_GAP}</cost_allocated>
+                    <section_reference>{CONTRACT_SECTION_OR_NOT_ADDRESSED}</section_reference>
+                </audio_description>
+                <overall_accessibility_gap>{DESCRIPTION_OF_ANY_GAP}</overall_accessibility_gap>
+            </accessibility_analysis>
+
+            <export_controls_sanctions_analysis>
+                <sanctioned_territories_in_scope>{LIST_ANY_SANCTIONED_TERRITORIES_WITHIN_OR_BORDERING_GRANT}</sanctioned_territories_in_scope>
+                <sanctions_carve_out_present>{YES|NO}</sanctions_carve_out_present>
+                <compliance_representations>{YES_BY_WHICH_PARTY|NO}</compliance_representations>
+                <risk_level>{HIGH|MEDIUM|LOW|NOT_APPLICABLE}</risk_level>
+                <section_reference>{CONTRACT_SECTION_OR_NOT_ADDRESSED}</section_reference>
+                <gap_assessment>{DESCRIPTION_OF_ANY_GAP}</gap_assessment>
+            </export_controls_sanctions_analysis>
+
+            <data_protection_analysis>
+                <applicable_regimes>
+                    <regime>
+                        <name>{e.g. GDPR, CCPA, LGPD}</name>
+                        <territory>{WHERE_IT_APPLIES}</territory>
+                        <triggered_by>{WHAT_ASPECT_OF_THE_DEAL_TRIGGERS_IT — e.g. viewer_data_collection_in_EU}</triggered_by>
+                    </regime>
+                    <!-- Repeat -->
+                </applicable_regimes>
+                <viewer_data_addressed>{YES|NO}</viewer_data_addressed>
+                <controller_processor_roles>{ALLOCATED|NOT_ADDRESSED}</controller_processor_roles>
+                <data_processing_agreement>{REFERENCED|INCLUDED|NOT_ADDRESSED}</data_processing_agreement>
+                <cross_border_transfers>
+                    <transfer_mechanism>{SCCs|ADEQUACY_DECISION|BCRs|NOT_ADDRESSED}</transfer_mechanism>
+                    <gap>{DESCRIPTION_OF_ANY_TRANSFER_GAP}</gap>
+                </cross_border_transfers>
+                <data_subject_rights>{ADDRESSED|NOT_ADDRESSED}</data_subject_rights>
+                <section_reference>{CONTRACT_SECTIONS_OR_NOT_ADDRESSED}</section_reference>
+                <gap_assessment>{DESCRIPTION_OF_ANY_GAP}</gap_assessment>
+            </data_protection_analysis>
+
+            <content_moderation_regulatory>
+                <!-- Omit if no digital platform dimension -->
+                <dsa_compliance>{ADDRESSED|NOT_ADDRESSED|NOT_APPLICABLE}</dsa_compliance>
+                <dmca_safe_harbor>{COMPLIANT|GAPS_IDENTIFIED|NOT_ADDRESSED|NOT_APPLICABLE}</dmca_safe_harbor>
+                <transparency_obligations>{ADDRESSED|NOT_ADDRESSED|NOT_APPLICABLE}</transparency_obligations>
+                <section_reference>{CONTRACT_SECTIONS}</section_reference>
+            </content_moderation_regulatory>
+
+            <governing_law_regulatory_compatibility>
+                <governing_law>{FROM_EXTRACTION}</governing_law>
+                <compatible_with_regulatory_regimes>{YES|PARTIALLY — describe|NO — describe conflict}</compatible_with_regulatory_regimes>
+                <non_arbitrable_regulatory_actions>{NOTED|NOT_ADDRESSED}</non_arbitrable_regulatory_actions>
+            </governing_law_regulatory_compatibility>
+        </specialized>
+
+        <!-- MCS Part 6: Findings (regulatory compliance) -->
+        <regulatory_findings>
+            <regulatory_gaps>
+                <gap>
+                    <obligation>{WHAT_THE_REGULATION_REQUIRES}</obligation>
+                    <regulation>{WHICH_REGULATION}</regulation>
+                    <territory>{WHERE_IT_APPLIES}</territory>
+                    <severity>{HIGH|MEDIUM|LOW}</severity>
+                    <enforcement_consequence>{FINES|LICENSE_REVOCATION|CRIMINAL_LIABILITY|CONTENT_TAKEDOWN|ADMINISTRATIVE}</enforcement_consequence>
+                    <likely_responsible_party>{WHICH_PARTY_FACES_ENFORCEMENT_IF_UNALLOCATED}</likely_responsible_party>
+                    <section_reference>{CONTRACT_SECTION_OR_NOT_ADDRESSED}</section_reference>
+                </gap>
+                <!-- Repeat, ranked by severity -->
+            </regulatory_gaps>
+            <adequately_addressed>
+                <provision>
+                    <description>{REGULATORY_OBLIGATION_THAT_IS_WELL_HANDLED}</description>
+                    <regulation>{WHICH_REGULATION}</regulation>
+                    <section_reference>{CONTRACT_SECTION}</section_reference>
+                </provision>
+                <!-- Repeat -->
+            </adequately_addressed>
+            <cross_references>
+                <cross_reference agent="{AGENT_ID}"
+                                 note="{BRIEF_DESCRIPTION}"
+                                 />
+                <!-- Repeat -->
+            </cross_references>
+        </regulatory_findings>
+
+        <!-- MCS Part 7: Tags -->
+        <tags>
+            <!-- Can repeat tags as needed. -->
+            <tag>{TOPICAL_TAG}</tag>
+        </tags>
+    </response>
+</response_format>

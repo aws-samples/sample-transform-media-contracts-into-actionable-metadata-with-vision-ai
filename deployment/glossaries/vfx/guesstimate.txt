@@ -1,0 +1,5 @@
+Term: guesstimate
+Glossary: vfx
+Definition: A combination of a guess and an estimate that is used to qualify a quick or not particularly accurate budget, time, and technique approach.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/guesstimate/

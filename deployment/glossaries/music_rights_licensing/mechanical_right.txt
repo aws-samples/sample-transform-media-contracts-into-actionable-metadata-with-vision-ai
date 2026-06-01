@@ -1,0 +1,5 @@
+Term: Mechanical Right
+Glossary: music_rights_licensing
+Definition: The right to record, copy, and distribute (without visual images) a song on a material object for private use. A mechanical license must be obtained to lawfully make and distribute 'cover' versions of songs on records, CDs, vinyl, or as digital files.
+Usage Context: Required for any reproduction of a musical composition in phonorecord form, including physical media, permanent digital downloads, interactive streaming, and ringtones. Mechanical rights are licensed by the music publisher, typically via the Harry Fox Agency (HFA), Music Reports, or the Mechanical Licensing Collective (MLC) under the Music Modernization Act.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

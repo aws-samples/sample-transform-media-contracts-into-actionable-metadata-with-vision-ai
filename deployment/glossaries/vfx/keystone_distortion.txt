@@ -1,0 +1,5 @@
+Term: keystone distortion
+Glossary: vfx
+Definition: A geometric distortion resulting when a rectangular plane is projected or photographed at an angle not perpendicular to the axis of the lens. The result is that the rectangle becomes trapezoidal. Also referred to as keystoning.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/keystone-distortion/

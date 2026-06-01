@@ -1,0 +1,5 @@
+Term: D-min
+Glossary: vfx
+Definition: See minimum density.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/d-min/

@@ -1,0 +1,5 @@
+Term: Volumetric capture
+Glossary: vfx
+Definition: A recording of a performance from multiple angles over a period of time. Typically using a synchronized array of cameras, lights, and sensors surrounding the subject. See also 4D capture.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/volumetric-capture/

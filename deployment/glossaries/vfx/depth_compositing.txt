@@ -1,0 +1,5 @@
+Term: Depth compositing
+Glossary: vfx
+Definition: The use of machine vision or other techniques to derive a depth matte which can then be used to accurately occlude cg and live elements for simulcam or other visualization purposes. Can be advantageous when compared to earlier chromakey type compositing techniques.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/depth-compositing/

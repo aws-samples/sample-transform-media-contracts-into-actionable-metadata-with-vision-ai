@@ -1,0 +1,5 @@
+Term: Digital asset manager
+Glossary: vfx
+Definition: 1. A software tool used for the management and tracking of digital assets including stills, footage, sound, etc. 2. The crewmember responsible for the tracking of assets between departments and for organizing the file server’s hierarchy. Different departments may each have their own digital asset manager. See Digital Asset
+Source: vp
+Reference: https://vpglossary.com/vpglossary/digital-asset-manager/

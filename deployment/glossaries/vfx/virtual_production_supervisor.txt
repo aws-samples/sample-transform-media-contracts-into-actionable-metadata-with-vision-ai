@@ -1,0 +1,5 @@
+Term: Virtual production supervisor
+Glossary: vfx
+Definition: The crewmember who oversees the use of Virtual Production techniques to integrate smoothly with production. In the planning phase this includes which techniques to employ, budget, workflow, and team size. During production this person acts as the liaison between the real-time crew, art department, VAD, physical production, visual effects, and post-production.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-production-supervisor/

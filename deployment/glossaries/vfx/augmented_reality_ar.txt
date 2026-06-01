@@ -1,0 +1,5 @@
+Term: Augmented reality (AR)
+Glossary: vfx
+Definition: An interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, AR can be defined as a system that fulfills three basic features: a combination of real and virtual worlds, real-time interaction, and accurate 3D registration of virtual and real objects. In this way, augmented reality alters one’s ongoing perception of a real-world environment, whereas virtual reality completely replaces the user’s real-world environment with a simulated one.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/augmented-reality-ar/

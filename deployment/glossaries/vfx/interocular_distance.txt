@@ -1,0 +1,5 @@
+Term: interocular distance
+Glossary: vfx
+Definition: (stereo) See “T.”
+Source: ves
+Reference: https://vpglossary.com/vesglossary/interocular-distance/

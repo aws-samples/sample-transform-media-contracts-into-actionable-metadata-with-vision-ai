@@ -1,0 +1,5 @@
+Term: bake in
+Glossary: vfx
+Definition: Term used to mean that whatever settings, composite layers, color, animation, and so on that have been used, have been permanently set in the shot. For example, “Do not bake in any bad animation or you will never be able to change it.”
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bake-in/

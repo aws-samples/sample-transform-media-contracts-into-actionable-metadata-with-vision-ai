@@ -1,0 +1,5 @@
+Term: sprite
+Glossary: vfx
+Definition: General term for a (usually small) 2D element that is animated within a larger scene. Often used in conjunction with a particle system.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/sprite/

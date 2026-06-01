@@ -1,0 +1,3 @@
+Term: Logical Constraint
+Glossary: odrl
+Definition: A logical expression that refines the semantics of an Action and Party/Asset Collection or declare the conditions applicable to a Rule.

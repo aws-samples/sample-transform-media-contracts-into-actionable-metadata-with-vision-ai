@@ -1,0 +1,5 @@
+Term: static matte
+Glossary: vfx
+Definition: Another term for a fixed matte.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/static-matte/

@@ -1,0 +1,5 @@
+Term: spatial convolution
+Glossary: vfx
+Definition: See convolve.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/spatial-convolution/

@@ -1,0 +1,9 @@
+{
+    "appName": "BADGERS",
+    "appEmoji": "📄",
+    "appSubtitle": "The system that sees documents the way you do.",
+    "appDescription": "",
+    "appLogo": "/images/logo.png",
+    "appLogoHeight": 32,
+    "theme": "purple"
+}

@@ -1,0 +1,4 @@
+Term: Payment Amount
+Glossary: odrl
+Definition: The amount of a financial payment. Right operand value MUST be an xsd:decimal.
+Usage Context: Can be used for compensation duties with the unit property indicating the currency of the payment.

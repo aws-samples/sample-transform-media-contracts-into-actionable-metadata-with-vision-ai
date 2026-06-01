@@ -1,0 +1,5 @@
+Term: normalized value
+Glossary: vfx
+Definition: A digital value that has been converted to fall within a specific range. With digital compositing, this is usually the range of 0 to 1.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/normalized-value/

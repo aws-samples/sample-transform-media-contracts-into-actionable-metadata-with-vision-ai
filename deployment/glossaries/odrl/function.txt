@@ -1,0 +1,3 @@
+Term: Function
+Glossary: odrl
+Definition: Function is an abstract property whose sub-properties define the functional roles which may be fulfilled by a party in relation to a Rule.

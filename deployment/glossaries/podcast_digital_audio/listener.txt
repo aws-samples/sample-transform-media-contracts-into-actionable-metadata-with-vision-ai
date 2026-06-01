@@ -1,0 +1,5 @@
+Term: Listener
+Glossary: podcast_digital_audio
+Definition: Data that represents a single user who downloads content (for immediate or delayed consumption). Listeners may be represented by a combination of IP address and User Agent. Listeners must be specified within a stated time frame (day, week, month, etc.).
+Usage Context: Audience reach metric for podcast networks, shows, or episodes. Subject to limitations because IP addresses change frequently on mobile devices (potentially double-counting users) and could be recycled (potentially undercounting). Providers using cookies, IFA, or other mechanisms are encouraged to do so if transparent about methodology.
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

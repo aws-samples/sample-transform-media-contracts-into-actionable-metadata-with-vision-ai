@@ -1,0 +1,5 @@
+Term: UI
+Glossary: vfx
+Definition: Abbreviation for User Interface. The UI is what the user uses to interact with the story, game, etc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/ui/

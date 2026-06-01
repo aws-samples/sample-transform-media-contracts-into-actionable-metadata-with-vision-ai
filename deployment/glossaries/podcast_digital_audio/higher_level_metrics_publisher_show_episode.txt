@@ -1,0 +1,5 @@
+Term: Higher Level Metrics (Publisher / Show / Episode)
+Glossary: podcast_digital_audio
+Definition: Content and Ad metrics made available at three aggregation levels: publisher (total across all shows from a given publisher), show (total across all episodes of a given show), and episode (individual episode-level metrics). Core IAB metrics are episode-level; publisher and show levels require additional aggregation.
+Usage Context: Buyers commonly evaluate networks or shows in addition to individual episodes. Two aggregation approaches: (1) sum metrics across episodes (useful for total unique downloads but doesn't reflect audience overlap), or (2) use IP Address + UA to identify and track users across episodes (better reach picture with IP-change limitations).
+Source: IAB Podcast Measurement Technical Guidelines v2.1 — https://iabtechlab.com/wp-content/uploads/2021/03/PodcastMeasurement_v2.1.pdf

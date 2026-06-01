@@ -1,0 +1,3 @@
+Term: Unit
+Glossary: odrl
+Definition: The unit of measurement of the value of the rightOperand or rightOperandReference of a Constraint.

@@ -1,0 +1,5 @@
+Term: Virtual blocking
+Glossary: vfx
+Definition: The use of previs to setup virtual environments for the filmmakers to block action and plan shots.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/virtual-blocking/

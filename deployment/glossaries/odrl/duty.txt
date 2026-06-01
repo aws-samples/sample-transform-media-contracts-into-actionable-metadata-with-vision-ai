@@ -1,0 +1,3 @@
+Term: Duty
+Glossary: odrl
+Definition: The obligation to perform an Action

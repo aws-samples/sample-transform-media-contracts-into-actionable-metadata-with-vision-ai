@@ -1,0 +1,5 @@
+Term: D-Cinema
+Glossary: vfx
+Definition: See Digital Cinema. D-Cinema is the SMPTE nomenclature for Digital Cinema.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/d-cinema/

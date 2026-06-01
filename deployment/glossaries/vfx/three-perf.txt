@@ -1,0 +1,5 @@
+Term: Three-perf
+Glossary: vfx
+Definition: A technique used to maximize the use of raw film stock in 1.85 formats so that almost no film is wasted. Most cameras use a four-perf pulldown that creates a lot of unused film between the captured images, whereas a three-perf pulldown positions the captured images closer together.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/three-perf/

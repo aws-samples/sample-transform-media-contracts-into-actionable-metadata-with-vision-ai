@@ -1,0 +1,5 @@
+Term: convolution filter
+Glossary: vfx
+Definition: A matrix of numbers used to control the weighted averaging performed in a convolve operation. Sometimes also referred to as a convolution mask.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/convolution-filter/

@@ -1,0 +1,5 @@
+Term: lens assembly
+Glossary: vfx
+Definition: Referring to the set of specially matched lenses that are assembled to form a single lens component in a standard camera lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/lens-assembly/

@@ -1,0 +1,5 @@
+Term: Sell-Off Period
+Glossary: media_rights_legal
+Definition: A limited period following termination during which the distributor may fulfill existing commitments made prior to the termination notice. Prevents abrupt disruption of existing arrangements.
+Usage Context: Distribution agreements: 'Distributor shall be permitted a sell-off period of X days for existing commitments made prior to termination notice.'
+Source: media_rights_legal

@@ -1,0 +1,5 @@
+Term: Volume
+Glossary: vfx
+Definition: Term used to describe the motion capture stage. However, unlike stage, it implies a 3D space.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/volume/

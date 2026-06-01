@@ -1,0 +1,5 @@
+Term: shot
+Glossary: vfx
+Definition: An unbroken continuous image sequence.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/shot/

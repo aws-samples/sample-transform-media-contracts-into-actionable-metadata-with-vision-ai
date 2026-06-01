@@ -1,0 +1,5 @@
+Term: disparity
+Glossary: vfx
+Definition: (stereo) The distance between conjugate points on overlaid retinae, sometimes called retinal disparity. The corresponding term for the display screen is parallax.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/disparity/

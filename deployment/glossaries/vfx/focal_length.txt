@@ -1,0 +1,5 @@
+Term: focal length
+Glossary: vfx
+Definition: A measure of the magnification power of a given lens, based on the distance from the center of the lens to the film. Also known as simply the length of a lens. A longer focal length will produce greater magnification than a shorter length.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/focal-length/

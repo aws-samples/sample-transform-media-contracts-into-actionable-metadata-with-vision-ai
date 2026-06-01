@@ -1,0 +1,5 @@
+Term: bleach bypass
+Glossary: vfx
+Definition: A general term used to describe a number of film processing techniques offered by various labs, in which the bleaching function done during normal processing is partially or completely skipped as a means of increasing contrast and reducing saturation. Also called ENR.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bleach-bypass/

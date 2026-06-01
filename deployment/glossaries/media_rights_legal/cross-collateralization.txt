@@ -1,0 +1,5 @@
+Term: Cross-Collateralization
+Glossary: media_rights_legal
+Definition: Offsetting losses from one property against profits from another when calculating participation payments. Allows a distributor to recoup underperformance on one title from revenue of another.
+Usage Context: Distribution and licensing deals. Licensors typically resist cross-collateralization to protect per-title economics.
+Source: media_rights_legal

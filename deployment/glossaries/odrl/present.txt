@@ -1,0 +1,3 @@
+Term: Present
+Glossary: odrl
+Definition: To publicly perform the Asset.

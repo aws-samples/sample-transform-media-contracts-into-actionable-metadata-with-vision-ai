@@ -1,0 +1,4 @@
+Term: Informing Party
+Glossary: odrl
+Definition: The Party who provides the inform use data.
+Usage Context: Maybe specified as part of the inform action.

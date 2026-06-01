@@ -1,0 +1,5 @@
+Term: color bars
+Glossary: vfx
+Definition: Standard test patterns used in video to determine the quality of a video signal. Color bars consist of equal-width bars representing black, white, red, green, blue, yellow, cyan, and magenta. These colors are generally represented at 75% of their pure value.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/color-bars/

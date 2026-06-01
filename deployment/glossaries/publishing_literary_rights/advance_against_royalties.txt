@@ -1,0 +1,5 @@
+Term: Advance Against Royalties
+Glossary: publishing_literary_rights
+Definition: An up-front payment made by the publisher to the author at signing and/or at specified milestones (such as delivery and acceptance of the manuscript, hardcover publication, and paperback publication), to be set against (recouped from) the author's future royalty earnings. The author generally begins receiving royalty payments only after the advance has been 'earned out' — that is, after royalties owed exceed the advance already paid.
+Usage Context: A core commercial term of every trade book contract. The Authors Guild position is that if the publisher fails to publish within the contracted time frame, the author should keep the advance already paid. Authors should strike 'pay-back of advance' clauses that would require return of advance payments if royalties don't earn out through no fault of the author.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

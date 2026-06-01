@@ -1,0 +1,5 @@
+Term: shutter speed
+Glossary: vfx
+Definition: The amount of time that a camera will spend capturing an individual image.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/shutter-speed/

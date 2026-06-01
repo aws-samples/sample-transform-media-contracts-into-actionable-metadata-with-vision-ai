@@ -1,0 +1,5 @@
+Term: field chart
+Glossary: vfx
+Definition: A method of dividing an image into a grid so that certain areas of the frame can be specified by grid coordinates.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/field-chart/

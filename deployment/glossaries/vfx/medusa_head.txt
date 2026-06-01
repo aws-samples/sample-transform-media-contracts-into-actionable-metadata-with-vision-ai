@@ -1,0 +1,5 @@
+Term: Medusa Head
+Glossary: vfx
+Definition: Developed by Jeffrey A. Okun, ves, it is a system for rapidly placing tracking marks on a green or blue screen. It consists of several posable arms, each holding a red or green laser pointer and mounted on a stable, weighted C-Stand. It allows one to place the device near the camera and move the points of light to their optimum positions rapidly.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/medusa-head/

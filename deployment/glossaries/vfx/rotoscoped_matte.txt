@@ -1,0 +1,5 @@
+Term: rotoscoped matte
+Glossary: vfx
+Definition: A matte created via rotoscoping techniques.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/rotoscoped-matte/

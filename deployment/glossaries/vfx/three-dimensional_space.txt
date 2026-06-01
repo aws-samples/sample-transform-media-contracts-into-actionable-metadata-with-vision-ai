@@ -1,0 +1,5 @@
+Term: Three-dimensional space
+Glossary: vfx
+Definition: The geometric parameters describing the position and orientation of an object in 3D space, expressed as X-Y-Z coordinates and pitch-roll-yaw.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/three-dimensional-space/

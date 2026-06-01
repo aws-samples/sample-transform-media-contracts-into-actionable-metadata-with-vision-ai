@@ -1,0 +1,5 @@
+Term: practical effects (floor effects)
+Glossary: vfx
+Definition: Effects that are accomplished live, without any post-production. Practical effects include explosions, artificial rain, and smoke.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/practical-effects-floor-effects/

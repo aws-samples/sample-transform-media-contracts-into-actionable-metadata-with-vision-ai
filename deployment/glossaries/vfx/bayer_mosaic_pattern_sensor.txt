@@ -1,0 +1,5 @@
+Term: Bayer mosaic pattern sensor
+Glossary: vfx
+Definition: A sensor filter pattern that is 50% green, 25% red, and 25% blue, hence is also called RGBG, GRGB, or RGGB. It is named after its inventor, Bryce E. Bayer of Eastman Kodak.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/bayer-mosaic-pattern-sensor/

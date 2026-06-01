@@ -1,0 +1,4 @@
+Term: Media Context
+Glossary: odrl
+Definition: Category of a media asset setting a context for exercising the action of the Rule.
+Usage Context: Example media types: electronic, print, advertising, marketing. Note: The used type should not be an IANA MediaType as they are focused on technical characteristics.

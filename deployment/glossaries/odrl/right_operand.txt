@@ -1,0 +1,4 @@
+Term: Right Operand
+Glossary: odrl
+Definition: Right operand for constraint expression.
+Usage Context: Instances of the RightOperand class are used as the rightOperand of a Constraint.

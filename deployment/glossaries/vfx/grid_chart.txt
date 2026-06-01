@@ -1,0 +1,5 @@
+Term: grid chart
+Glossary: vfx
+Definition: (Usually used for lens-mapping) a large chart comprised of small squares alternating in color – usually black and white – that may have circles superimposed for the purposes of quantifying the distortion of a lens.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/grid-chart/

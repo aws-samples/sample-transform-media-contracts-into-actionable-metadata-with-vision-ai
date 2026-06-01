@@ -1,0 +1,5 @@
+Term: two-perf
+Glossary: vfx
+Definition: Nickname for 16mm film because it carries only two perforations for each frame.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/two-perf/

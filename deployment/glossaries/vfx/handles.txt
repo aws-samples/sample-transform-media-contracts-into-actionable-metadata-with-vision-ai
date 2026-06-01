@@ -1,0 +1,5 @@
+Term: handles
+Glossary: vfx
+Definition: Extra frames at the beginning and end of a shot that are not intended for use in the final shot but are included in the composite in case the shot’s length changes slightly.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/handles/

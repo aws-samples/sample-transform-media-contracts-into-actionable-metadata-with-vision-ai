@@ -1,0 +1,5 @@
+Term: translucent
+Glossary: vfx
+Definition: A term that refers to something that is partially transparent; usually implies some additional image distortion, such as blurring.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/translucent/

@@ -1,0 +1,4 @@
+Term: Consequence
+Glossary: odrl
+Definition: Relates a Duty to another Duty, the latter being a consequence of not fulfilling the former.
+Usage Context: The consequence property is utilised to express the repercussions of not fulfilling an agreed Policy obligation or duty for a Permission. If either of these fails to be fulfilled, then this will result in the consequence Duty also becoming a new requirement, meaning that the original obligation or duty, as well as the consequence Duty must all be fulfilled

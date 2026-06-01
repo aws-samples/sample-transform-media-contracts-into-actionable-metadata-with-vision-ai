@@ -1,0 +1,5 @@
+Term: Optimization
+Glossary: vfx
+Definition: A stage in the process of asset development where assets are optimized for real-time performance while maintaining high visual quality. See also level of detail and performance.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/optimization/

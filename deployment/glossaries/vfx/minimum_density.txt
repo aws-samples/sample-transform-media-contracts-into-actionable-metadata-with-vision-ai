@@ -1,0 +1,5 @@
+Term: minimum density
+Glossary: vfx
+Definition: The point of exposure just below the amount needed (on the negative) to start affecting the resulting image. The definitions of minimum and maximum density would be reversed if you were speaking of print (reversal) film instead of negative. Also known as D-min.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/minimum-density/

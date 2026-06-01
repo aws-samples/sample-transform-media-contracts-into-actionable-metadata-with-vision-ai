@@ -1,0 +1,5 @@
+Term: Principal Performer
+Glossary: sag_aftra
+Definition: A performer hired to deliver lines, interact with other characters, or otherwise perform as an identifiable principal role, as distinguished from background actors. Categories include day players, three-day players, weekly players, and series regulars.
+Usage Context: Principal performers are covered by the main body of the SAG-AFTRA TV/Theatrical or Commercial Contract, receive residuals, and are subject to a 21% P&H contribution rate.
+Source: SAGindie FAQ — https://www.sagindie.org/resources/faq/

@@ -1,0 +1,5 @@
+Term: cropping
+Glossary: vfx
+Definition: The removal (intentionally or otherwise) of part of an image that is outside a specific boundary.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/cropping/

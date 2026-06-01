@@ -1,0 +1,5 @@
+Term: XR
+Glossary: vfx
+Definition: the collective name for VR and AR.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/xr/

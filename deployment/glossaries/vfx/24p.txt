@@ -1,0 +1,5 @@
+Term: 24p
+Glossary: vfx
+Definition: Video that is shot at 24 frames per second.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/24p/

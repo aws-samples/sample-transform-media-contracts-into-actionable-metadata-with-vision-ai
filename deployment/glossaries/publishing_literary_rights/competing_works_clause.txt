@@ -1,0 +1,5 @@
+Term: Competing Works Clause
+Glossary: publishing_literary_rights
+Definition: A contractual restriction on the author's ability to write or publish works that compete with the contracted book, typically during a defined period after the book's publication. Overly broad competing works clauses can severely restrict an author's future writing career.
+Usage Context: Authors Guild advises that contracts should not prevent authors from creating 'competing works' on topics similar to those in the book. Clauses should be narrowed to exact duplicates or direct competition in the same market, not general topic overlap.
+Source: Authors Guild Contract Reviews — https://authorsguild.org/legal-services/contract-reviews/

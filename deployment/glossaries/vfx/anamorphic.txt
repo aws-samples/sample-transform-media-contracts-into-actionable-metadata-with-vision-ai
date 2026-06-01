@@ -1,0 +1,5 @@
+Term: anamorphic
+Glossary: vfx
+Definition: Any distorted image that can be undistorted to restore it to its original format.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/anamorphic/

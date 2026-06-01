@@ -1,0 +1,5 @@
+Term: Motion data
+Glossary: vfx
+Definition: The raw data derived from performance capture for use in visual effects, blocking, visualization, etc.
+Source: vp
+Reference: https://vpglossary.com/vpglossary/motion-data/

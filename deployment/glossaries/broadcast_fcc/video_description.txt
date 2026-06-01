@@ -1,0 +1,5 @@
+Term: Video Description
+Glossary: broadcast_fcc
+Definition: An audio narration for television viewers who are blind or visually disabled, consisting of verbal descriptions of key visual elements in a television program, such as settings and actions not reflected in the dialog. Narrations are inserted into the program's natural pauses, typically provided through the Secondary Audio Programming (SAP) channel.
+Usage Context: Required by FCC rules for certain programming on broadcast and cable networks. Distribution agreements increasingly include obligations to deliver described audio tracks for accessibility compliance.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

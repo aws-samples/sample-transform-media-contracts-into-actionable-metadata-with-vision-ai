@@ -1,0 +1,5 @@
+Term: pipeline
+Glossary: vfx
+Definition: A well-defined set of processes for achieving a certain result.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/pipeline/

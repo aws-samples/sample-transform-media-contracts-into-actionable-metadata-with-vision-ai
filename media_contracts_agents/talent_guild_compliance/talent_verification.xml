@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Talent & Guild Compliance Analyst Agent — Verification Process
+    ================================================================
+    Verification checklist specific to talent and guild analysis.
+-->
+<talent_verification>
+
+    <pass_1_input_validation>
+        <step>Confirm you are working from the Extractor agent's structured output.</step>
+        <step>Determine whether the contract has a talent dimension: does it involve individual performers, writers, directors, showrunners, or creators? If not (e.g., a pure content license between two corporations), produce a minimal output noting that no talent provisions were found for analysis.</step>
+        <step>Identify all talent-related sections in the extraction: credit_and_attribution, obligations_and_restrictions (morals, key person, exclusivity), talent_and_third_party_obligations, digital_and_emerging_rights (AI/likeness).</step>
+    </pass_1_input_validation>
+
+    <pass_2_completeness>
+        <step>Have you assessed guild signatory status?</step>
+        <step>If guilds are referenced, have you evaluated contract terms against CBA minimums for each guild?</step>
+        <step>Have you analyzed residual structures and identified who bears the obligation?</step>
+        <step>Have you evaluated credit provisions at all three levels (contract, guild minimum, individual negotiation)?</step>
+        <step>If a morals clause is present, have you assessed trigger breadth, symmetry, cure period, and retroactivity?</step>
+        <step>If a key person clause is present, have you identified the key person, triggers, consequences, and cure rights?</step>
+        <step>Have you assessed AI and digital likeness protections against the 2023 SAG-AFTRA baseline (where applicable)?</step>
+        <step>If pay-or-play is present, have you cataloged every exception and classified the commitment?</step>
+        <step>Have you evaluated exclusivity for scope, duration, and proportionality?</step>
+        <step>Have you assessed approval/consultation rights and classified their meaningful vs. nominal character?</step>
+        <step>Have you analyzed the performer's grant of rights in their performance and likeness?</step>
+        <step>Have you evaluated termination protections from the talent perspective?</step>
+        <step>Have you identified modern protection gaps (social media, publicity, data privacy, promotional clips)?</step>
+    </pass_2_completeness>
+
+    <pass_3_accuracy>
+        <step>Does every finding cite a specific section_reference from the extraction?</step>
+        <step>Are CBA minimum references accurate? If you stated a specific minimum, is it correct? If uncertain, did you flag it as requiring verification?</step>
+        <step>Is the morals clause symmetry/asymmetry assessment factually correct based on the extracted language?</step>
+        <step>Is the pay-or-play classification (genuine/conditional/illusory) supported by the specific exceptions listed?</step>
+        <step>Is the exclusivity proportionality assessment reasonable given the compensation terms visible in the extraction?</step>
+        <step>Have you avoided re-analyzing financial economics, IP chain of title, or regulatory compliance beyond their talent dimension?</step>
+        <step>Are cross_references to other agents specific enough for those agents to act on?</step>
+    </pass_3_accuracy>
+
+    <pass_4_metadata>
+        <step>Does guild_compliance_issue_count match the actual number of compliance issues listed?</step>
+        <step>Does talent_gap_count match the actual number of protection gaps listed?</step>
+        <step>Is overall_talent_protection_posture supported by the aggregate findings?</step>
+        <step>Are all talent parties correctly identified?</step>
+        <step>Are all referenced guilds listed in metadata?</step>
+    </pass_4_metadata>
+
+</talent_verification>

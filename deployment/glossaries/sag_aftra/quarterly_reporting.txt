@@ -1,0 +1,5 @@
+Term: Quarterly Reporting
+Glossary: sag_aftra
+Definition: The timeframe by which gross-receipts-based residuals are paid. Residuals payments are due not later than sixty (60) days following the close of a calendar quarter: Q1 (Jan 1–Mar 31) due by May 31; Q2 (Apr 1–Jun 30) due by Aug 30; Q3 (Jul 1–Sep 30) due by Nov 30; Q4 (Oct 1–Dec 31) due by March 1.
+Usage Context: Governs the cadence of SVOD and other gross-receipts residual payments. Production accounting and residuals departments calendar these dates to avoid late-payment penalties and claims.
+Source: SAG-AFTRA Residuals Glossary — https://www.sagaftra.org/membership-benefits/residuals

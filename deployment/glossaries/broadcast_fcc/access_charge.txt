@@ -1,0 +1,5 @@
+Term: Access Charge
+Glossary: broadcast_fcc
+Definition: A fee charged to subscribers or other telephone companies by a local exchange carrier for the use of its local exchange networks.
+Usage Context: Appears in carrier interconnection agreements and regulatory filings. Commonly referenced in telecommunications distribution arrangements and tariffs.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

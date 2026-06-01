@@ -1,0 +1,5 @@
+Term: parallax
+Glossary: vfx
+Definition: (stereo) The distance between conjugate points. It may be measured with a ruler or, given the distance of an observer from the screen, in terms of angular measure. In the latter case the parallax angle directly provides information about disparity.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/parallax/

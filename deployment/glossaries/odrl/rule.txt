@@ -1,0 +1,4 @@
+Term: Rule
+Glossary: odrl
+Definition: An abstract concept that represents the common characteristics of Permissions, Prohibitions, and Duties.
+Usage Context: Rule is an abstract concept.

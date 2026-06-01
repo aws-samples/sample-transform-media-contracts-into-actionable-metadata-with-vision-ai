@@ -1,0 +1,5 @@
+Term: Above-the-Line
+Glossary: media_rights_legal
+Definition: Creative talent whose compensation is negotiated individually rather than governed by union scale, typically including producers, directors, writers, and principal cast.
+Usage Context: Budget classification affecting how talent compensation is structured in production and distribution agreements.
+Source: media_rights_legal

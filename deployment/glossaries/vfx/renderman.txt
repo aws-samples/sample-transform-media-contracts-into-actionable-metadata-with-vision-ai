@@ -1,0 +1,5 @@
+Term: RenderMan
+Glossary: vfx
+Definition: Specialized rendering software offered by Pixar, Inc.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/renderman/

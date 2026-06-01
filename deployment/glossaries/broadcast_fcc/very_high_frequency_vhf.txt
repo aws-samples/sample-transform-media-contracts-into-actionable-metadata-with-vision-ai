@@ -1,0 +1,5 @@
+Term: Very High Frequency (VHF)
+Glossary: broadcast_fcc
+Definition: The part of the radio spectrum from 30 to 300 megahertz, which includes TV channels 2-13, the FM broadcast band, and some marine, aviation, and land mobile services.
+Usage Context: VHF television broadcasts benefit from larger propagation range but suffer more from interference in urban environments than UHF. FM radio broadcasting occupies 88-108 MHz within the VHF band.
+Source: FCC Telecommunications Glossary — https://docs.fcc.gov/public/attachments/DOC-247863A2.pdf

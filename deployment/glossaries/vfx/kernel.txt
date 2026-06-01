@@ -1,0 +1,5 @@
+Term: kernel
+Glossary: vfx
+Definition: The group of pixels that will be considered when performing some kind of spatial filtering. See also convolution kernel.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/kernel/

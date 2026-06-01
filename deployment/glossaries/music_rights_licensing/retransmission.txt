@@ -1,0 +1,5 @@
+Term: Retransmission
+Glossary: music_rights_licensing
+Definition: A further transmission of a previously transmitted performance to yet another place. An example is when a cable system retransmits the signal that it receives from a local television station.
+Usage Context: Triggers additional licensing and royalty considerations under both copyright law and FCC regulations. Retransmission consent is a key element of the Must-Carry framework for cable television carriage of broadcast signals.
+Source: ASCAP Common Licensing Terms Defined — https://www.ascap.com/help/ascap-licensing/licensing-terms-defined

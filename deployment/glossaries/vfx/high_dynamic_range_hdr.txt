@@ -1,0 +1,5 @@
+Term: high dynamic range (HDR)
+Glossary: vfx
+Definition: Related to imagery or devices that can deal with a larger than normal dynamic range.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/high-dynamic-range-hdr/

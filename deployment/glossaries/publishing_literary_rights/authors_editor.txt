@@ -1,0 +1,5 @@
+Term: Author's Editor
+Glossary: publishing_literary_rights
+Definition: A clause addressing the specific editor assigned to work with the author, and what happens if that editor leaves the publisher or is no longer available. A 'key editor' clause may allow the author to terminate if a specific named editor is no longer working on the book.
+Usage Context: Authors working with a specific sought-after editor often negotiate for termination rights if that editor leaves before the book is acquired by the publisher. Such clauses are more common for well-represented authors.
+Source: Authors Guild Model Trade Book Contract — https://authorsguild.org/resource/model-trade-book-contract/

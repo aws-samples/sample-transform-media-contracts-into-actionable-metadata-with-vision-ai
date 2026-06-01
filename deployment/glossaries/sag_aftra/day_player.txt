@@ -1,0 +1,5 @@
+Term: Day Player
+Glossary: sag_aftra
+Definition: A performer engaged on a day-to-day basis under the SAG-AFTRA TV/Theatrical Agreement, as opposed to weekly players or series regulars. Day player minimum scale is set by CBA Schedule A.
+Usage Context: Used for guest cast, co-stars, and short engagements. A 3-day player is guaranteed three days of compensation regardless of actual usage. Day player rates escalate annually under the MBA.
+Source: SAG-AFTRA 2023 TV/Theatrical Contracts — https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts

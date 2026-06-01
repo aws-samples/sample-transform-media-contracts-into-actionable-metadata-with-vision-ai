@@ -1,0 +1,5 @@
+Term: temporal
+Glossary: vfx
+Definition: Relating to time or something that changes over time.
+Source: ves
+Reference: https://vpglossary.com/vesglossary/temporal/
