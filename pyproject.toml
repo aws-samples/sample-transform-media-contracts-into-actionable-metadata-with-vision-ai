@@ -63,7 +63,7 @@ dependencies = [
     "pandas>=2.3.3",
     "python-multipart>=0.0.26",
     "python-dotenv>=1.2.2",
-    "cryptography>=47.0.0",
+    "cryptography>=48.0.1",
     "pytomlcleaner>=1.0.0",
     "weasyprint>=68.1",
 ]
